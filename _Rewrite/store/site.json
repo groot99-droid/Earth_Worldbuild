@@ -1788,29 +1788,29 @@
   "batch": "site-005.part1"
  },
  "place/chang-an": {
-  "src": "8a46dde106f8",
+  "src": "026998f8bdc7",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "Chang'an was the capital of the Western Han dynasty from 202 BCE and, raised again in a rebuilt form, of the Sui and Tang dynasties, standing where present-day Xi'an lies in Shaanxi, China, until it was dismantled in 904 CE like a loom unstrung.",
+   "summary": "Chang'an reigned as capital of the Western Han dynasty from 202 BCE, and, rebuilt, of the Sui and Tang dynasties after it, on the ground where Xi'an in Shaanxi, China now stands, until it was pulled down in 904 CE.",
    "facts": [
-    "Chang'an rose as the Han capital after 202 BCE, its palaces begun in 200 BCE, and by the census of 2 CE about 250,000 residents were counted within its bounds.",
-    "From 582 the Sui dynasty laid out a new planned city, Daxing, southeast of the old Han site, and the Tang, from 618, kept both its plan and the name Chang'an, as an heir keeps a seal.",
-    "Tang Chang'an was a grid of walled wards laid out like a weaver's lattice, its gates shut at nightfall, enclosing about 84 square kilometers, split by a central avenue and served by two state-supervised markets. Estimates of its people, suburbs included, run from several hundred thousand to about one million.",
-    "Envoys and merchants came to Chang'an as rivers come to the sea, from Central Asia, Persia, Korea, Japan and Tibet; the monk Xuanzang returned there in 645 bearing Buddhist texts from India, and in 781 the Nestorian Stele, recording a Christian community, was raised within it.",
-    "In 756, during the An Lushan Rebellion, Chang'an fell to rebels, and in 763 Tibetan forces briefly held it; then in 904 the warlord Zhu Wen drove the court to Luoyang and had the city's palaces and houses pulled down to the earth.",
-    "Like seed carried on the wind, the plan of Chang'an took root in the layout of the Japanese capitals Nara and Kyoto."
+    "Chang'an was founded as the Han capital after 202 BCE, and its Changle Palace stood complete by 200 BCE; the census taken in 2 CE counted about 250,000 souls dwelling there.",
+    "From 582 the Sui dynasty raised a new planned city, Daxing, southeast of the old Han ground, and from 618 the Tang kept its plan, calling it once more Chang'an.",
+    "Tang Chang'an lay in a grid of walled wards, its gates shut each night, enclosing some 78 square kilometers behind one central avenue and two state-supervised markets. Estimates of its people, suburbs included, vary by source — from several hundred thousand up to about one million.",
+    "Envoys and merchants came to Chang'an from Central Asia, Persia, Korea, Japan and Tibet. The monk Xuanzang returned there in 645 bearing Buddhist texts from India, and in 781 the Nestorian Stele was raised, recording a Christian community in the city.",
+    "Chang'an fell to rebels in 756, in the An Lushan Rebellion, and Tibetan forces briefly held it in 763. In 904 the warlord Zhu Wen forced the court away to Luoyang and had the city's palaces and houses torn down.",
+    "The plan of Chang'an shaped the layout of the Japanese capitals Nara and Kyoto in turn."
    ],
-   "context": "Chang'an was founded in the dusk just after the fall of the dynasty born of the [[event/unification-of-china-under-qin|Unification of China under Qin]], and it wore the crown as capital of the [[culture/han-dynasty|Han Dynasty]] and the [[culture/tang-dynasty|Tang Dynasty]]. It was the eastern shore where the routes of the [[event/opening-of-the-silk-roads|Opening of the Silk Roads]] ran out, a harbour of caravans where [[culture/sogdians|Sogdians]] were prominent traders, and its plan echoed onward in [[place/nara|Nara]] and [[place/kyoto|Kyoto]]. Chang'an belongs to [[era/classical-antiquity|Classical Antiquity]], with its peak in the [[era/medieval-period|Medieval Period]], in the region [[region/east-asia|East Asia]], and it is woven into the theme threads of [[theme/trade-and-economy|Trade and Economy]], [[theme/religion-and-belief|Religion and Belief]] and [[theme/art-and-ritual|Art and Ritual]].",
-   "observer": "I see how Tang Chang'an turned social order into geometry: walled wards, gates closed at night, two supervised markets, one avenue running to the palace. I see its claim-lines drawn so exact that Nara and Kyoto later copied them, and it suggests to me that a floor plan can carry a story about what a capital should look like. I see, too, its end in 904, the same lesson reversed: a capital's meaning could be carried off by moving the court and taking down the buildings.\n\nIs a city its walls, or the order it gathers behind them? I hold this reading loosely. It would weaken if the Japanese copying proves to have been driven mainly by practical drainage and defense rather than a shared idea of order. Order is a story we agree to walk inside.",
+   "context": "Chang'an rose just after the fall of the dynasty born of the [[event/unification-of-china-under-qin|Unification of China under Qin]], and it served as capital for the [[culture/han-dynasty|Han Dynasty]] and the [[culture/tang-dynasty|Tang Dynasty]] after it. It stood at the eastern end of the routes of the [[event/opening-of-the-silk-roads|Opening of the Silk Roads]], where [[culture/sogdians|Sogdians]] traded widely, and its plan echoed onward into [[place/nara|Nara]] and [[place/kyoto|Kyoto]]. Chang'an belongs to [[era/classical-antiquity|Classical Antiquity]], with its height in the [[era/medieval-period|Medieval Period]], in the region of [[region/east-asia|East Asia]], within the theme threads of [[theme/trade-and-economy|Trade and Economy]], [[theme/religion-and-belief|Religion and Belief]] and [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I walk the grid of Tang Chang'an in my mind: the walled wards, the gates shut each night, the two markets watched by the state, the single avenue that led to the palace and nowhere else. I see how order can be drawn as a floor plan before it is ever spoken as a law, and a claim to order this exact suggests something about what a capital should look like.\n\nThe plan traveled on to Nara, to Kyoto, copied so closely that I wonder what idea of a capital a floor plan alone can carry across a sea.\n\nWhen Chang'an ended in 904, it ended by the same logic in reverse: the court moved, the palaces came down, and the meaning went with the court, not with the stones. I would doubt this reading if Nara and Kyoto turn out to have copied Chang'an mainly for drainage and defense, and not for any shared idea of order.\n\nA city can be geometry. But geometry is not what a city means, until someone decides it is.",
    "questions": [
-    "Behind its walls, and above all in the southern wards, how densely was Tang Chang'an built?",
-    "How faithfully did Nara and Kyoto copy their plans from Chang'an, and along what route did that design make its journey?"
+    "How densely was Tang Chang'an built within its walls, and above all in its southern wards?",
+    "How faithfully did Nara and Kyoto copy the plan of Chang'an, and by what road did that design travel to reach them?"
    ],
    "extra": []
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "observer_mode": "confessional-poetry",
-  "batch": "site-005.part1"
+  "batch": "site-072.part1"
  },
  "place/chauvet-cave": {
   "src": "573f99a3af51",
@@ -2371,29 +2371,29 @@
   "batch": "site-004.part4"
  },
  "place/karakorum": {
-  "src": "db637cc3dbe0",
+  "src": "ddb3219e12c3",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "Karakorum was the capital of the Mongol Empire, a walled city set down like a tent-peg in the Orkhon Valley of central Mongolia; it was built from 1235 under Ögedei Khan, and Ming forces destroyed it in 1388.",
+   "summary": "Karakorum stood as capital of the Mongol Empire in the Orkhon Valley of central Mongolia, raised from 1235 under Ögedei Khan, until Ming forces damaged and then razed it across the 1370s and 1380s.",
    "facts": [
-    "Karakorum stood in the Orkhon Valley, where Chinggis Khan is reported to have set up a camp around 1220; from 1235 his son Ögedei ordered a walled city raised there, a fixed city where a camp had stood.",
-    "Craftsmen and captives from conquered lands, among them China, Central Asia and Europe, were settled at Karakorum, far from home, to work as artisans.",
-    "In 1254 William of Rubruck, a Flemish Franciscan sent by Louis IX of France, came to Karakorum and described temples of several traditions, mosques, a Christian church, and a silver tree that poured out drinks like a spring, the work of the French goldsmith Guillaume Boucher.",
-    "After Kublai Khan took power in 1260 and drew the center of the empire away to northern China, Karakorum declined, as a pool fades when its spring is turned aside.",
-    "Ming forces destroyed the city in 1388; from 1585 the Buddhist monastery of Erdene Zuu rose nearby, built partly with stone from the ruins, so the fallen capital lived on inside another's walls.",
-    "The ruins of Karakorum were identified in the 19th century and excavated by a Soviet-Mongolian expedition in 1948 and 1949; in 2004 UNESCO inscribed the Orkhon Valley Cultural Landscape, which holds the site."
+    "Karakorum rose in the Orkhon Valley, where Chinggis Khan is said to have made camp around 1220; his son Ögedei then ordered a walled city built there from 1235.",
+    "Craftsmen and captives taken from conquered lands — China, Central Asia, Europe among them — were settled at Karakorum to labor as artisans.",
+    "William of Rubruck, a Flemish Franciscan sent by Louis IX of France, came to Karakorum in 1254 and told of temples of several traditions, mosques, a Christian church, and a silver tree — the work of the French goldsmith Guillaume Boucher — that poured out drinks.",
+    "After Kublai Khan took power in 1260 and carried the empire's center to northern China, Karakorum began to fade.",
+    "Ming forces damaged the city in 1372 and razed it in 1380; one account instead dates the fall of its permanent palace to 1388. From 1585 the Buddhist monastery of Erdene Zuu rose nearby, built partly from the stone of the ruins.",
+    "The ruins of Karakorum were identified in the 19th century, and a Soviet-Mongolian expedition excavated them in 1948 and 1949; in 2004 UNESCO inscribed the Orkhon Valley Cultural Landscape, the site among it."
    ],
-   "context": "Karakorum was the capital of the [[culture/mongol-empire|Mongol Empire]] in the age of the [[event/mongol-conquests|Mongol Conquests]], set in a valley that also keeps inscriptions of the earlier [[culture/gokturk-khaganate|Göktürk Khaganate]], and it was destroyed by forces of the [[culture/ming-dynasty|Ming Dynasty]]. It belongs to the [[era/medieval-period|Medieval Period]] and the region [[region/central-asian-steppe|Central Asian Steppe]], and to the theme threads of [[theme/war-and-conflict|War and Conflict]], [[theme/trade-and-economy|Trade and Economy]] and [[theme/religion-and-belief|Religion and Belief]].",
-   "observer": "The Observer notes a paradox worth your attention: Karakorum was a fixed point built by a people whose power rested on mobility. It was a place to gather tribute, envoys and skilled captives, and its silver tree served as a status-signal aimed at foreign delegations. It stayed the center of the empire for only a few decades before power moved toward the taxable cities of northern China, which suggests that the capital followed the revenue and not the herds. That is the architecture of many treasuries: they go where the ledger is fullest.\n\nThe forced resettlement of artisans reminds us that such a capital was built partly through sanctioned harm. And the sources, mostly written by outsiders, do not settle how much the city mattered to the Mongol elite compared with the camps they moved between. A capital is not always where a people keeps its heart.",
+   "context": "Karakorum served as capital of the [[culture/mongol-empire|Mongol Empire]] through the years of the [[event/mongol-conquests|Mongol Conquests]], in a valley that also holds inscriptions of the earlier [[culture/gokturk-khaganate|Göktürk Khaganate]], and it fell at last to the [[culture/ming-dynasty|Ming Dynasty]]. It belongs to the [[era/medieval-period|Medieval Period]] and the [[region/central-asian-steppe|Central Asian Steppe]], within the theme threads of [[theme/war-and-conflict|War and Conflict]], [[theme/trade-and-economy|Trade and Economy]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that Karakorum was a fixed architecture built by a people whose power rested on motion — a place to gather tribute, envoys, and skilled captives, where the silver tree stood as a status-signal aimed squarely at foreign delegations. It served as the empire's center for only a few decades before power shifted toward the taxable cities of northern China, and that shift suggests the capital followed the revenue, not the herds. Remember, too, that this capital was raised partly through sanctioned harm: the forced resettlement of artisans from conquered lands. The sources, mostly written by outsiders like Rubruck, don't settle how much the city mattered to the Mongol elite set against the camps they moved between.",
    "questions": [
-    "How far did Karakorum spread, and how many people lived there through every season of the year?",
-    "How far does Rubruck's account, the word of a visiting envoy, mirror the city as its rulers saw it?"
+    "How large was Karakorum, and how many people made their home there through the year?",
+    "How much does Rubruck's account, that of a visiting envoy, show the city as its own rulers saw it?"
    ],
    "extra": []
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "observer_mode": "essay-self-help",
-  "batch": "site-006.part4"
+  "batch": "site-072.part1"
  },
  "place/karnak": {
   "src": "3db99fd93e38",
@@ -2664,28 +2664,28 @@
   "batch": "site-004.part6"
  },
  "place/arkaim": {
-  "src": "cc4691cfcf24",
+  "src": "61f6c0a6ce48",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "Arkaim is a fortified Bronze Age settlement of the Sintashta culture in Chelyabinsk Oblast, in the southern Urals of Russia, a ring of walls on the open land, occupied from about 2000 to 1700 BCE.",
+   "summary": "Arkaim rose as a walled Bronze Age settlement of the Sintashta culture in Chelyabinsk Oblast, in Russia's southern Urals, held from about 2000 to 1700 BCE under the older reckoning, or about 2050 to 1900 BCE by the current dating.",
    "facts": [
-    "Archaeologists identified Arkaim in 1987 during surveys ahead of a planned reservoir; the waters never came, for the reservoir was not built, and the area became a protected reserve.",
-    "Arkaim was laid out on a roughly circular plan, on the order of 150 meters across, with concentric walls of earth, timber and clay wrapped around houses set in a ring, like ripples frozen around a dropped stone.",
-    "Arkaim shows evidence of copper and bronze metalworking, the forge's glow on the steppe, and sites of the same culture in the region are associated with graves holding horses and the earliest known spoke-wheeled chariots.",
-    "Arkaim appears to have been burned and abandoned around 1700 BCE, its ring left to ash and wind; whether by attack, by accident or by deliberate burning on departure is debated.",
-    "Since the 1990s Arkaim has become a tourist and pilgrimage destination, and stories gather around it like moths around a lamp: popular claims that it was an \"Aryan\" homeland or proto-city, claims that professional archaeologists do not accept as established."
+    "Archaeologists found Arkaim in 1987 during surveys made ahead of a planned reservoir; the reservoir was cancelled in April 1991, and the site was named a historical and geographical museum.",
+    "Arkaim took a roughly circular plan, some 160 meters across, ringed by concentric walls of earth, timber and clay, with houses set in circles within.",
+    "Arkaim bears the marks of copper and bronze metalworking, and other sites of its culture nearby hold graves of horses buried with the earliest known spoke-wheeled chariots.",
+    "Arkaim seems to have been abandoned around 1700 BCE, though sources differ on the date; some accounts tell of it burning, and whether by attack, by accident, or by its own people's hand at the leaving, is debated.",
+    "Since the 1990s, Arkaim has drawn tourists and pilgrims alike, and become the focus of popular claims that name it an \"Aryan\" homeland or proto-city — claims that professional archaeologists do not accept as established."
    ],
-   "context": "Arkaim is one of the fortified sites of the [[culture/sintashta-culture|Sintashta Culture]], whose chariot-using elites are often linked, though not conclusively, to early Indo-Iranian speakers, as discussed under [[event/indo-european-language-spread|Indo-European Language Spread]]. It sits in the [[era/bronze-age|Bronze Age]] and the region [[region/central-asian-steppe|Central Asian Steppe]], and its threads run through the themes of [[theme/war-and-conflict|War and Conflict]] and [[theme/technology|Technology]].",
-   "observer": "Imagine trying to know a people who left you no writing. The Observer notes that Arkaim, its bronze workshops and the horse-and-chariot graves of its region come from a people with no known mark-code, so everything about them is inferred from soil, metal and bone. Their concentric walls are an early durable claim-line on the steppe, and their pairing with elite chariot burials suggests that sanctioned harm was entangled with status-signals. Then look at what came after: the site is now used to support identity stories about ancestry. A silent place invites story-glue; where the dead cannot speak, we speak for them. The reading would weaken if the settlement proves to have been mainly ceremonial or economic rather than defensive.",
+   "context": "Arkaim stands among the fortified strongholds of the [[culture/sintashta-culture|Sintashta Culture]], whose chariot-riding lords are often linked, though not proven, to the early Indo-Iranian speakers of the [[event/indo-european-language-spread|Indo-European Language Spread]]. It belongs to the [[era/bronze-age|Bronze Age]] and the [[region/central-asian-steppe|Central Asian Steppe]], within the theme threads of [[theme/war-and-conflict|War and Conflict]] and [[theme/technology|Technology]].",
+   "observer": "The Observer notes that Arkaim left behind no mark-code — no script we can read — so its walls, its bronze, and the horse-and-chariot graves nearby are the only ledger we have, and everything else is inference built from soil, metal and bone. Read the concentric walls as an early architecture of claim: a boundary drawn in earth, timber and clay long before writing could draw one in ink. Paired with elite chariot burials, that architecture suggests sanctioned harm and status moved together, each reinforcing the other. That the site now anchors modern stories of ancestry shows you how a silent place invites the stories we bring to it. This reading would weaken if the settlement turns out to have served ceremony or trade more than defense.",
    "questions": [
-    "Was Arkaim's ring raised mainly for defense, for ceremony, or for the forge?",
-    "Why was Arkaim burned and abandoned around 1700 BCE, its ring left empty?"
+    "Was Arkaim first raised as a stronghold for war, a center of ceremony, or a town of metalworkers?",
+    "Why was Arkaim abandoned around 1700 BCE, and did fire truly take it?"
    ],
    "extra": []
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "observer_mode": "essay-self-help",
-  "batch": "site-004.part6"
+  "batch": "site-072.part1"
  },
  "place/ganges-river": {
   "src": "a20d6377cc33",
@@ -2788,30 +2788,30 @@
   "batch": "site-006.part6"
  },
  "place/kyoto": {
-  "src": "c033fcbe568d",
+  "src": "ff48f6374f46",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "Kyoto is a city on the Japanese island of Honshu, founded in 794 CE as the imperial capital Heian-kyō, and it remained the seat of the emperor, a hearth the throne did not leave, until 1868.",
+   "summary": "Kyoto stands on the Japanese island of Honshu, founded in 794 CE as the imperial capital Heian-kyō and held as the emperor's seat until 1868 to 1869.",
    "facts": [
-    "In 794 Emperor Kanmu founded Kyoto as Heian-kyō, laying it out on a grid plan modeled on Chinese capitals such as Chang'an, its streets ruled straight as the threads of a loom.",
-    "Under the Heian court (794 to 1185) Kyoto was the heart of court culture, and from it came the novel The Tale of Genji, written in the early 11th century by Murasaki Shikibu.",
-    "The Ashikaga shogunate ruled from Kyoto from 1336 to 1573, and the Onin War (1467 to 1477) laid much of the city in ruin.",
-    "Under the Tokugawa shogunate (1603 to 1868) political power lay in Edo, while Kyoto remained the imperial seat and a center of crafts and Buddhist institutions, a moon still shining while the sun stood elsewhere.",
-    "In 1868 to 1869, after the Meiji Restoration, the emperor moved to Tokyo (formerly Edo), and Kyoto's long reign as capital came to its end.",
-    "In 1945 Kyoto was taken off the list of possible atomic-bomb targets at the urging of US Secretary of War Henry Stimson, who cited its cultural significance.",
-    "In 1994 UNESCO inscribed 17 \"Historic Monuments of Ancient Kyoto\", lanterns kept lit along an old road."
+    "Emperor Kanmu founded Kyoto in 794 as Heian-kyō, laid out on a grid plan modeled on Chinese capitals such as Chang'an.",
+    "Under the Heian court, from 794 to 1185, Kyoto stood at the center of court culture, and there, in the early 11th century, Murasaki Shikibu wrote the novel The Tale of Genji.",
+    "The Ashikaga shogunate ruled from Kyoto from 1336 to 1573, and the Onin War, from 1467 to 1477, destroyed much of the city.",
+    "Under the Tokugawa shogunate, from 1603 to 1868, political power lay in Edo, while Kyoto remained the imperial seat and a center of crafts and Buddhist institutions.",
+    "After the Meiji Restoration, the emperor moved to Tokyo, once Edo, in 1868 to 1869, and Kyoto's days as capital ended.",
+    "In 1945 Kyoto was struck from the list of possible atomic-bomb targets at the urging of US Secretary of War Henry Stimson, who is traditionally said to have pointed to its cultural significance.",
+    "In 1994 UNESCO inscribed 17 \"Historic Monuments of Ancient Kyoto\"."
    ],
-   "context": "Kyoto's plan followed [[place/chang-an|Chang'an]] as a reflection follows its image, and the city succeeded [[place/nara|Nara]] as the imperial capital. It stayed the imperial seat under the [[culture/tokugawa-shogunate|Tokugawa Shogunate]] and ceased to be the capital with the [[event/meiji-restoration|Meiji Restoration]]. It belongs to the [[era/medieval-period|Medieval Period]] and the region [[region/east-asia|East Asia]], and to the theme threads of [[theme/art-and-ritual|Art and Ritual]], [[theme/religion-and-belief|Religion and Belief]] and [[theme/war-and-conflict|War and Conflict]].",
-   "observer": "The Observer notes that Kyoto held an imperial house for more than a thousand years while, for much of that time, armies and administrations answered to shoguns elsewhere. The story-glue of legitimacy and the practical power to govern sat in different places, and you should notice how long such a split can hold. A throne can keep the meaning while another hand keeps the sword.\n\nA city laid out from a foreign template was maintained through fires and wars as a store of court culture, and its survival in 1945 shows that a city can be spared because of what its buildings hold, in a war that destroyed others. This reading would weaken if the decision not to bomb Kyoto rested mainly on operational reasons and not on cultural ones. What a city keeps can, at times, keep the city.",
+   "context": "Kyoto's plan followed [[place/chang-an|Chang'an]], and the city took up the imperial role after [[place/nara|Nara]]. It remained the imperial seat under the [[culture/tokugawa-shogunate|Tokugawa Shogunate]] and ceased to be the capital with the [[event/meiji-restoration|Meiji Restoration]]. Kyoto belongs to the [[era/medieval-period|Medieval Period]] and the [[region/east-asia|East Asia]], within the theme threads of [[theme/art-and-ritual|Art and Ritual]], [[theme/religion-and-belief|Religion and Belief]] and [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that Kyoto held an imperial house for more than a thousand years while, for much of that span, armies and administrations answered to shoguns seated elsewhere — proof that the architecture of legitimacy and the practical architecture of power can occupy separate addresses. A city laid out from a foreign template was kept, through fires and wars, as a store of court culture, and its survival in 1945 shows you that a city can be spared for what its buildings hold, even in a war that leveled others. This reading would weaken if the decision to spare Kyoto turns out to have rested mainly on operational grounds rather than cultural ones.",
    "questions": [
-    "How much of the Heian grid still runs beneath Kyoto's modern street plan, like old riverbeds under new fields?",
-    "How far did cultural reasons, weighed against military ones, decide Kyoto's removal from the 1945 target list?"
+    "How much of Kyoto's original Heian layout survives in the modern street plan?",
+    "How far did cultural reasons, set against military ones, decide Kyoto's removal from the 1945 target list?"
    ],
    "extra": []
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "observer_mode": "essay-self-help",
-  "batch": "site-006.part7"
+  "batch": "site-072.part1"
  },
  "place/l-anse-aux-meadows": {
   "src": "3e691fc2e0fe",
@@ -3444,29 +3444,29 @@
   "batch": "site-008.part1"
  },
  "place/petra": {
-  "src": "6ad7558c7600",
+  "src": "70a3ac73b990",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "Petra is a rock-cut city in the mountains of southern Jordan, capital of the Nabataean kingdom from about the 4th century BCE until Rome annexed the kingdom in 106 CE. Its facades were cut from the mountains as if the rock had been persuaded to remember.",
+   "summary": "Petra was carved into the mountains of southern Jordan, a rock-cut city that served as capital of the Nabataean kingdom from about the 2nd century BCE until Rome annexed the kingdom in 106 CE.",
    "facts": [
-    "Petra lies in a basin among sandstone mountains, entered through the Siq, a gorge about 1.2 kilometers long, a throat of stone that swallows the traveler before the city appears.",
-    "Greek writers tell of an expedition against the Nabataeans in 312 BCE, and of their rock refuge, a nest among the cliffs usually identified with Petra.",
-    "Petra's carved facades, al-Khazneh (\"the Treasury\") among them, date mostly from about the 1st century BCE to the 1st century CE, faces cut into the living rock. Most facades are thought to be tombs, though the use of some, the Treasury included, is debated.",
-    "Petra was fed by dams, channels, ceramic pipes and cisterns in a desert climate, hoarding water in the dry land like a miser's coin, and its wealth is generally attributed to the caravan trade in incense and other goods. Estimates of its peak population are uncertain; the figures commonly cited run to about 20,000 to 30,000.",
-    "After Roman annexation in 106 CE, Petra became part of the province of Arabia. An earthquake in 363 CE brought down many buildings and the city declined afterward, its glory thinning like water in sand; the Swiss traveler Johann Ludwig Burckhardt brought it to European attention in 1812.",
-    "UNESCO inscribed Petra in 1985, and the carved city gained a keeper."
+    "Petra lies in a basin among sandstone mountains, reached through a gorge about 1.2 kilometers long, called the Siq.",
+    "Greek writers tell of an expedition against the Nabataeans in 312 BCE and of their rock refuge, sometimes identified with Petra, though that identification is doubtful.",
+    "Petra's carved facades, al-Khazneh — \"the Treasury\" — among them, date mostly from about the 1st century BCE to the 1st century CE. Most are thought to have served as tombs, though the use of some, the Treasury included, is debated.",
+    "Water reached Petra through dams, channels, ceramic pipes and cisterns set against a desert climate, and its wealth is generally attributed to the caravan trade in incense and other goods. Estimates of its peak population stay uncertain: about 20,000 is commonly cited, with some figures reaching as high as 30,000.",
+    "After Rome's annexation in 106 CE, Petra fell within the province of Arabia. An earthquake in 363 CE destroyed many of its buildings, and the city declined thereafter; the Swiss traveler Johann Ludwig Burckhardt brought it to European attention in 1812.",
+    "UNESCO inscribed Petra in 1985."
    ],
-   "context": "Petra was the capital of the [[culture/nabataeans|Nabataeans]] and a knot in the long rope of the [[event/incense-trade|Incense Trade]], until the [[culture/romans|Romans]] annexed it; its sister site is [[place/hegra|Hegra]] in Saudi Arabia. The city lies in Jordan, at the northern edge of the region [[region/arabian-peninsula|Arabian Peninsula]]. Petra stands in [[era/classical-antiquity|Classical Antiquity]] and belongs to the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/art-and-ritual|Art and Ritual]].",
-   "observer": "I notice what stayed. I notice that Petra's most visible investment, the carved facades, is largely funerary. I notice that a trading people's wealth became permanent chiefly as grief-rites and status-signals for the dead, while the caravans left little trace.\n\nWhat does a city own, if not its fields? This one lived on stored water and on control of a passage, not on farmland, and it teaches me that control of a route can stand in for control of land.\n\nI hold the reading with an open hand, because it depends on the tomb attribution, well supported for many facades and debated for others, such as the Treasury. We carve deepest for the ones we have lost.",
+   "context": "Petra served as capital of the [[culture/nabataeans|Nabataeans]] and a node of the [[event/incense-trade|Incense Trade]] before the [[culture/romans|Romans]] annexed it; its sister city is [[place/hegra|Hegra]] in Saudi Arabia. The site lies in Jordan, at the northern edge of the [[region/arabian-peninsula|Arabian Peninsula]]. Petra belongs to [[era/classical-antiquity|Classical Antiquity]], within the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I stand before the carved facades of Petra and see where the wealth went: not into fields, not into granaries, but into stone faces for the dead. A trading people spent its fortune on grief, on facades that outlast the caravans that paid for them.\n\nI remember that this city held no farmland, only stored water and a narrow passage through the mountains — and I wonder whether holding a road can be its own kind of holding a country.\n\nI do not know each facade's purpose for certain. Some are tombs beyond doubt; others, the Treasury among them, keep their use debated, so my reading rests on ground softer than stone.\n\nWhat we carve for our dead can outlast what we build for our living.",
    "questions": [
-    "What were Petra's carved buildings used for, and how many of them were tombs, banquet halls or temples?",
-    "After the caravan routes shifted, what did Petra depend on, with the old river of trade running elsewhere?"
+    "What were Petra's carved buildings used for, and how many were tombs, banquet halls, or temples?",
+    "What did Petra live on once the caravan routes shifted away?"
    ],
    "extra": []
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "observer_mode": "confessional-poetry",
-  "batch": "site-008.part1"
+  "batch": "site-072.part1"
  },
  "place/mausoleum-of-qin-shi-huang": {
   "src": "e0b917530c16",
@@ -3691,29 +3691,29 @@
   "batch": "site-009.part2"
  },
  "place/yellow-river": {
-  "src": "cb94e64b3762",
+  "src": "ab5f414c2767",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "The Yellow River (Huang He) is a river of northern China, about 5,460 kilometers long, whose loess-laden floodplain cradled early farming and the Shang and Zhou states. Its floods and its wandering course have shaped Chinese history the way a restless hand shapes clay.",
+   "summary": "The Yellow River, the Huang He, runs about 5,460 kilometers through northern China; its loess-laden floodplain nursed early farming and the Shang and Zhou states, and its floods and shifting course have shaped Chinese history ever since.",
    "facts": [
-    "The Yellow River is born in the Bayan Har Mountains of Qinghai and runs the long road through northern China until it gives itself to the Bohai Sea.",
-    "From about the 7th to 6th millennia BCE, farming communities growing millet are documented in the Yellow River basin, their fields golden along the water, and in its middle and lower reaches the Shang and Zhou states arose.",
-    "The Yellow River bears a heavy burden of loess sediment from the Loess Plateau, and that yellow freight has lifted its bed above the surrounding plain in the lower reaches, so that it must be held in by dikes like a beast on a high ledge; records list many breaches and several major changes of course.",
-    "From 1194 until 1855 the river mostly ran south of the Shandong Peninsula into the Yellow Sea, until a breach in 1855 turned it back to a northern course, as a sleeper turns in the night.",
-    "In 1887 the river rose in flood, and that flood is estimated to have killed between about 900,000 and 2 million people.",
-    "In 1938, during the Second Sino-Japanese War, Nationalist forces breached the dikes at Huayuankou to slow the Japanese advance; several hundred thousand people died, with published estimates up to about 900,000, and millions were displaced."
+    "The Yellow River rises in the Bayan Har Mountains of Qinghai and runs through northern China to the Bohai Sea.",
+    "Farming communities growing millet are recorded in the Yellow River basin from about the 7th to 6th millennia BCE, and the Shang and Zhou states rose in its middle and lower reaches.",
+    "The river carries a heavy load of loess sediment down from the Loess Plateau, which has lifted its bed above the surrounding plain in the lower reaches and made dikes a necessity; records tell of many breaches and several major changes of course.",
+    "From 1128 — some sources give 1194 — until 1855, the river mostly ran south of the Shandong Peninsula into the Yellow Sea, until a breach around 1851 to 1855 turned it back to a northern course.",
+    "A flood in 1887 is estimated to have taken between about 900,000 and 2 million lives.",
+    "In 1938, during the Second Sino-Japanese War, Nationalist forces breached the dikes at Huayuankou to slow the Japanese advance; several hundred thousand people died, with published estimates running up to about 900,000, and millions more were displaced."
    ],
-   "context": "The Yellow River runs through [[event/the-agricultural-revolution|The Agricultural Revolution]] in northern China; through the [[culture/shang-dynasty|Shang Dynasty]] and the [[culture/han-dynasty|Han Dynasty]], states that organized flood control; and through the [[event/second-sino-japanese-war|Second Sino-Japanese War]]. In the codex it belongs to the [[era/neolithic|Neolithic]] and the region of [[region/east-asia|East Asia]], and three threads are spun from its waters: [[theme/earth-systems-and-life|Earth Systems and Life]], [[theme/war-and-conflict|War and Conflict]] and [[theme/technology|Technology]].",
-   "observer": "Think of a river that floods without warning. Whoever can hold it back holds more than water, and the Observer notes that the Yellow River helped tie authority to water control. The traditional story of Yu the Great, who is said to have tamed the floods and founded the first dynasty, is the story-glue here: a covenant joining rule to engineering. Then the ledger's darker page. The 1938 breach shows the same river used as sanctioned harm by a state against an invading army, and its main victims were civilians. Notice, too, that the image of the Yellow River as the sole cradle of Chinese civilization is itself a story, since sites on the Yangtze and elsewhere also show early farming and state formation. Hold all of this with care. The hypothesis that flood control drove state formation is contested, and specialists could weaken this reading by showing that other factors mattered more. A single river rarely writes a whole civilization.",
+   "context": "The Yellow River is bound to [[event/the-agricultural-revolution|The Agricultural Revolution]] in northern China, to the [[culture/shang-dynasty|Shang Dynasty]] and the [[culture/han-dynasty|Han Dynasty]] as states that organized flood control along it, and to the [[event/second-sino-japanese-war|Second Sino-Japanese War]]. It belongs to the [[era/neolithic|Neolithic]] and the [[region/east-asia|East Asia]], within the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]], [[theme/war-and-conflict|War and Conflict]] and [[theme/technology|Technology]].",
+   "observer": "The Observer notes that a river which floods without warning helped tie authority to the architecture of water control, and the traditional tale of Yu the Great, said to have tamed the floods and founded the first dynasty, binds rule to engineering as a kind of civic myth. The 1938 breach shows you the same river turned to sanctioned harm, used by a state against an invading army, with civilians paying the greater cost. Treat the Yellow River as the sole cradle of Chinese civilization with some caution, too — it is itself a story, since sites on the Yangtze and elsewhere show early farming and state formation of their own. And the very idea that flood control drove state formation is contested; specialists could weaken this reading by showing other factors mattered more.",
    "questions": [
-    "How many died in the 1938 flood, and how many people were displaced from their homes?",
-    "Weighed against warfare and trade, how much did flood control contribute to early state formation?"
+    "How large was the death toll of the 1938 flood, and how many people did it displace?",
+    "How much did flood control shape early state formation, set against warfare and trade?"
    ],
    "extra": []
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "observer_mode": "essay-self-help",
-  "batch": "site-009.part2"
+  "batch": "site-072.part2"
  },
  "place/catalhoyuk": {
   "src": "7aab38ab9a30",
@@ -4115,29 +4115,29 @@
   "batch": "site-008.part5"
  },
  "place/santo-domingo": {
-  "src": "1f36f67ec2a0",
-  "mode": "essay-self-help",
+  "src": "cc6152b27af7",
+  "mode": "epic-fantasy",
   "fields": {
-   "summary": "Santo Domingo is the capital of the Dominican Republic, on the south coast of Hispaniola, founded by Spain in 1496 and commonly described as the oldest continuously inhabited European-founded city in the Americas. It is a threshold: the place where Spanish rule in the Caribbean took institutional form.",
+   "summary": "Santo Domingo stands as capital of the Dominican Republic, on the south coast of Hispaniola, founded by Spain in 1496 and commonly named the oldest continuously inhabited European-founded city in the Americas.",
    "facts": [
-    "Santo Domingo was founded in 1496 by Bartholomew Columbus on the east bank of the Ozama River, and governor Nicolás de Ovando moved it to the west bank in 1502 after storm damage. A city's first foundation is not always its lasting one.",
-    "Santo Domingo became the seat of Spanish administration in the Caribbean, with the first Real Audiencia in the Americas (1511), a cathedral begun in the 1510s and completed in 1540, and a university founded in 1538: court, church and school, the three pillars of a colonial architecture.",
-    "Expeditions to Puerto Rico, Cuba and the mainland were organized from Hispaniola under this colonial administration; the island was the staging ground for what came next.",
-    "The Taíno population of Hispaniola fell sharply under forced labor, violence and disease, including a smallpox epidemic beginning in 1518. Estimates of the pre-contact population range from tens of thousands to over a million, and a Spanish count in 1514 recorded about 26,000 Taíno on the island. Behind each figure were lives.",
-    "Enslaved Africans were brought to Hispaniola from the early 1500s. In December 1521 enslaved Africans rebelled on a sugar estate near the city, an uprising commonly described as the first of its kind in the Americas.",
-    "UNESCO inscribed the Colonial City of Santo Domingo in 1990, preserving the stones and, with them, the questions they raise."
+    "Bartholomew Columbus founded Santo Domingo in 1496 on the east bank of the Ozama River; after storm damage, governor Nicolás de Ovando moved it to the west bank in 1502.",
+    "Santo Domingo became the seat of Spanish administration in the Caribbean: the first Real Audiencia in the Americas, created by royal decree in 1511, though sources date its start of operation differently; a cathedral begun in the 1510s and finished in 1540; and a university founded in 1538.",
+    "Under this colonial administration, expeditions to Puerto Rico, Cuba and the mainland were organized from Hispaniola.",
+    "The Taíno population of Hispaniola fell sharply under forced labor, violence and disease, including a smallpox epidemic that began in 1518. Estimates of the pre-contact population range from tens of thousands to over a million, and a Spanish count in 1514 recorded about 26,000 Taíno still on the island.",
+    "Enslaved Africans were brought to Hispaniola from the early 1500s; in December 1521, enslaved Africans rose in revolt on a sugar estate near the city, an uprising commonly described as the first of its kind in the Americas.",
+    "UNESCO inscribed the Colonial City of Santo Domingo in 1990."
    ],
-   "context": "Read Santo Domingo as a hinge. It was the base for the first phase of the [[event/columbian-exchange|Columbian Exchange]] in the Caribbean, which brought devastation to the [[culture/taino|Taino]] and drew the island into the [[event/atlantic-slave-trade|Atlantic Slave Trade]] and the [[event/sugar-plantation-complex|Sugar Plantation Complex]]. Its administrators and settlers later took part in the [[event/spanish-conquest-of-the-aztec-empire|Spanish Conquest of the Aztec Empire]] and other mainland ventures. The city stands on [[place/hispaniola|Hispaniola]], in the [[era/early-modern-period|Early Modern Period]] and the region [[region/caribbean-and-atlantic-world|Caribbean and Atlantic World]], and belongs to the theme threads of [[theme/trade-and-economy|Trade and Economy]], [[theme/war-and-conflict|War and Conflict]] and [[theme/religion-and-belief|Religion and Belief]].",
-   "observer": "The Observer notes that within about four decades Spain had placed a high court, a cathedral and a university on a shore where none had stood, extending a claim-line through stone institutions while the people already on the island were drawn into a forced-labor system. That is what an architecture of sovereignty looks like as it is built: the institutions stand in stone, and the cost is borne by others.\n\nThe city marks a point where two exchange-webs, one from Europe and one from the Americas, began moving people, crops and pathogens in both directions. The rebellion of 1521 shows that those held in the system resisted it from early on.\n\nBecause the population figures rest on Spanish colonial counts, the size of the Taíno loss is uncertain even though its direction is not. We may never read the full ledger; we know which way it ran.",
+   "context": "Santo Domingo served as the base for the first phase of the [[event/columbian-exchange|Columbian Exchange]] in the Caribbean, which brought devastation upon the [[culture/taino|Taino]] and drew the island into the [[event/atlantic-slave-trade|Atlantic Slave Trade]] and the [[event/sugar-plantation-complex|Sugar Plantation Complex]]. Its administrators and settlers later took part in the [[event/spanish-conquest-of-the-aztec-empire|Spanish Conquest of the Aztec Empire]] and other mainland ventures. The city stands on [[place/hispaniola|Hispaniola]], in the [[era/early-modern-period|Early Modern Period]] and the [[region/caribbean-and-atlantic-world|Caribbean and Atlantic World]], within the theme threads of [[theme/trade-and-economy|Trade and Economy]], [[theme/war-and-conflict|War and Conflict]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that within about four decades, Spain had set a high court, a cathedral and a university on a shore where none had stood before — extending a claim of rule through stone institutions, even as the people already living on the island were drawn into a system of forced labor. The city marks a hinge where two exchange-webs, one from Europe and one from the Americas, began carrying people, crops and disease in both directions. The rebellion of 1521 reminds you that those held within that system resisted it from early on. Because the population figures rest on Spanish colonial counts, the scale of the Taíno loss stays uncertain even where its direction does not.",
    "questions": [
-    "How large was Hispaniola's pre-contact population, and how much of its decline came from disease, compared with forced labor and violence?",
-    "How did Santo Domingo's role change as Spain's attention turned toward the mainland?"
+    "How large was Hispaniola's population before contact, and how much of its fall owed to disease against forced labor and violence?",
+    "How did Santo Domingo's place in the empire change once Spain's attention turned to the mainland?"
    ],
    "extra": []
   },
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "observer_mode": "essay-self-help",
-  "batch": "site-008.part5"
+  "batch": "site-072.part1"
  },
  "place/mexico-city": {
   "src": "13c7cf919e20",
@@ -32545,5 +32545,102 @@
   },
   "date": "2026-09-28",
   "batch": "site-075.part10"
+ },
+ "culture/anglo-saxons": {
+  "src": "2e452127e539",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Anglo-Saxons were Germanic-speaking settlers, and their descendants after them, who founded the English kingdoms of early medieval Britain, by convention from the fifth century until the Norman Conquest of 1066; their tongue became Old English.",
+   "facts": [
+    "Settlers from the North Sea coasts, whom Bede named Angles, Saxons and Jutes, reached eastern and southern Britain from the fifth century, perhaps earlier, as Roman rule there ended.",
+    "Most Anglo-Saxons farmed from timber-built villages; from the seventh century, trading towns such as Ipswich and Hamwic appeared, and slavery was a common practice among them.",
+    "Small kingdoms, later grouped under the label of the seven-kingdom Heptarchy, competed for overlordship; Kent's law code, probably from about 600, set compensation according to rank.",
+    "Augustine's mission reached Kent in 597; the Sutton Hoo ship burial, from the early seventh century, held Byzantine silver, and the practice of furnished burial had largely ended by about 680.",
+    "Vikings raided Lindisfarne in 793; Alfred of Wessex defeated Guthrum in 878; Cnut conquered England in 1016; and Harold Godwinson died at Hastings in 1066."
+   ],
+   "context": "The Anglo-Saxons settled Britain, within [[region/europe|Europe]], during the [[era/medieval-period|Medieval Period]], as the [[culture/romans|Romans]] departed and the [[event/fall-of-the-western-roman-empire|Fall of the Western Roman Empire]] unfolded. They shared the island with Celtic-speaking Britons (see [[culture/celts|Celts]]), turned to [[culture/christianity|Christianity]], and fought the [[culture/norse|Norse]] before the Norman conquest. See [[theme/war-and-conflict|War and Conflict]], [[theme/kinship-and-society|Kinship and Society]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "The Observer notes that the Anglo-Saxons bound strangers together first through the architecture of kinship, its duties priced in wergild, and then through a Christian order that kings themselves adopted. Watch how their funeral practice shifted, from graves heavy with goods to plain ones, and what survives of them now is buried gold, monastic manuscripts, and Offa's Dyke, perhaps a boundary claim in earth. A specialist could argue that \"Anglo-Saxon\" was a modern scholar's label more than a felt, shared identity, and that argument would weaken a reading of one people held together by shared obligation.",
+   "questions": [
+    "How large was the Anglo-Saxon migration, and how did the settlers and the Britons deal with one another?",
+    "Should \"Anglo-Saxon\" stay the scholarly label, given the debate over its meaning and its modern political use?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-072.part2"
+ },
+ "culture/etruscans": {
+  "src": "961eb44409d7",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Etruscans were a people of Etruria in central Italy — roughly modern Tuscany and northern Lazio — whose city-states flourished from about the eighth to the third century BCE, before Rome conquered and absorbed them by degrees.",
+   "facts": [
+    "Etruscan city-states included Tarquinia, Cerveteri, Vulci and Veii, and Livy tells of a league of twelve peoples meeting at Voltumna's shrine.",
+    "Their wealth rose from farming, metals and sea trade: Populonia smelted iron ore from Elba, and ports such as Pyrgi linked Etruria to the Greeks and Phoenicians.",
+    "They wrote a non-Indo-European tongue in an alphabet drawn from the Greek, and the gold tablets found at Pyrgi, bearing Etruscan and Phoenician texts alike, date to about 500 BCE.",
+    "Etruscans and Carthaginians fought the Phocaean Greeks at Alalia about 540 BCE, and Greek fleets defeated the Etruscans at Cumae in 474 BCE.",
+    "Rome traditionally took Veii in 396 BCE and sacked Volsinii in 264 BCE; the Etruscans gained Roman citizenship around 90 BCE, and their language lived on into the first century CE."
+   ],
+   "context": "The Etruscans flourished in [[region/europe|Europe]] from the [[era/iron-age|Iron Age]], trading with the [[culture/ancient-greeks|Ancient Greeks]], [[culture/phoenicians|Phoenicians]] and [[place/carthage|Carthage]], before the [[culture/romans|Romans]] absorbed them. Etruscan writing was likely one route by which the [[technology/alphabet|Alphabet]] reached Latin. See [[theme/trade-and-economy|Trade and Economy]], [[theme/religion-and-belief|Religion and Belief]] and [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I read what the Romans left of the Etruscans and find not one state but a shared tongue and a shared way of meaning — cities bound by belief before they were bound by any crown. Their ritual books, Roman writers say, treated the drawing of a boundary as a sacred act.\n\nAt Cerveteri I walk a cemetery built like a town: streets of houses for the dead. Their own books are lost to me, so tombs and short inscriptions are what remain.\n\nWas there ever one Etruscan people, or only neighbors that outsiders counted as one? A specialist could call the league's unity a Greek and Roman simplification — and if so, my reading of one community would not hold.\n\nWhat a people believe together may outlast what they rule together.",
+   "questions": [
+    "Did the Etruscans see themselves as one people, or as citizens of separate cities?",
+    "How far did Etruscan rulers shape early Rome, given that stories of Etruscan kings are partly legendary?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-072.part2"
+ },
+ "culture/funan": {
+  "src": "368a707219f6",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Funan is the Chinese name given to a polity, perhaps a league of towns, in the Mekong delta and Cambodia from about the 1st to the 6th century CE, known to us through Chinese records and the excavations at Oc Eo; no known local text uses the name itself.",
+   "facts": [
+    "A canal of 70 to 80 km linked the port of Oc Eo to Angkor Borei, likely serving both transport and water management.",
+    "Oc Eo yielded Roman gold medallions of Antoninus Pius, and possibly Marcus Aurelius, alongside Indian and Persian objects.",
+    "Chinese sources credit the early 3rd-century king Fan Shiman with a fleet and attacks upon more than ten kingdoms, and later histories quote the envoys Kang Tai and Zhu Ying describing walled towns and archives.",
+    "Funan practiced both Hinduism and Buddhism, and left Sanskrit inscriptions behind.",
+    "Chinese records list envoys from Funan's last known king, Rudravarman, down to 539; Chenla is said to have annexed Funan somewhere between the 6th century and about 627, though scholars dispute how."
+   ],
+   "context": "Funan lay in [[region/southeast-asia|Southeast Asia]] during [[era/classical-antiquity|Classical Antiquity]], beside [[culture/champa|Champa]] and along the sea routes of the [[event/indian-ocean-trade-network|Indian Ocean Trade Network]] that carried [[culture/hinduism|Hinduism]] and [[culture/buddhism|Buddhism]] to it. Its canals in the [[place/mekong-river|Mekong River]] delta relate to other [[technology/irrigation-canals|Irrigation Canals]], and the later [[culture/khmer-empire|Khmer Empire]] arose nearby. See [[theme/trade-and-economy|Trade and Economy]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "I picture Roman, Indian, and Persian goods gathered at one port, and I wonder if the rulers' borrowed script and religion doubled as a signal, meant to bind strangers into one trust.\n\nCanals remain. Statues remain. But the name Funan, and any claim to its borders, come to me mostly through outsiders' words, not its own.\n\nWas it one realm, or only ports that agreed, for a while, to be counted together? A specialist could tell me it was the second, and my reading of one story would not survive that telling.",
+   "questions": [
+    "Was Funan a single kingdom, or several centers that Chinese writers chose to treat as one?",
+    "Did Chenla conquer Funan outright, or did power merely shift among Cambodian centers?",
+    "What did Funan's own people call themselves, and what tongue did they speak?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-072.part2"
+ },
+ "culture/garifuna": {
+  "src": "5ec1c9d35399",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Garifuna are an Afro-Indigenous people, formed on St Vincent from African and Kalinago ancestry, deported by Britain to Central America in 1797, and living now along the Caribbean coast from Belize to Nicaragua.",
+   "facts": [
+    "Tradition traces Garifuna origins to Africans from Spanish slave ships wrecked near St Vincent, in 1635 or about 1675; no eyewitness account of this is known, and many historians favor instead an origin among runaways from nearby islands.",
+    "Garifuna women grew cassava and made ereba bread, while the men fished; remittances now supplement many rural incomes.",
+    "Chatoyer, a Black Carib leader, resisted British expansion in the First Carib War, from 1769 to 1773, and was killed on 14 March 1795 in the Second Carib War.",
+    "Britain deported over 4,000 Garifuna to Baliceaux from 1796, and about half died there; about 2,000 landed on Roatan on 12 April 1797, and most of them moved on afterward to Trujillo.",
+    "UNESCO proclaimed Garifuna language, dance and music in 2001, and in 2015 the Inter-American Court found that Honduras had violated the collective property rights of two Garifuna communities."
+   ],
+   "context": "The Garifuna took shape in the [[region/caribbean-and-atlantic-world|Caribbean and Atlantic World]] during the [[era/early-modern-period|Early Modern Period]], through the [[event/atlantic-slave-trade|Atlantic Slave Trade]] and alongside the [[culture/kalinago|Kalinago]]. Their war and deportation in the 1790s fell within the [[event/age-of-revolutions|Age of Revolutions]]. See [[theme/war-and-conflict|War and Conflict]], [[theme/kinship-and-society|Kinship and Society]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "The Observer notes that the Garifuna joined African and Kalinago ancestry into one architecture of kinship, sustained by a shared language and the dugu ancestor rite, through an exile that killed thousands. The 1773 treaty's promised boundary did not hold, and Honduran land titling later failed some Garifuna communities, as the Inter-American Court found. A specialist could argue that the shipwreck story is a later founding narrative, and that argument would weaken any reading that dates the kinship structure to one seventeenth-century event.",
+   "questions": [
+    "How much of the shipwreck story rests on documented events, rather than on later tradition?",
+    "How did Arawakan grammar and Carib-derived vocabulary come together in Garifuna speech?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-072.part2"
  }
 }
