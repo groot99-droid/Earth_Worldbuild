@@ -8544,5 +8544,1239 @@
   "date": "2026-09-28",
   "observer_mode": "essay-self-help",
   "batch": "site-040.part1"
+ },
+ "event/emergence-of-the-genus-homo": {
+  "src": "274629825d1e",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "In East Africa, between about 2.8 and 1.8 million years ago, the genus Homo rose from an ancestor built in the mold of Australopithecus. The oldest fossil claimed for Homo is a broken jaw from Ledi-Geraru, Ethiopia, some 2.8 million years old — but the bones of this age are few and scattered, and their meaning is disputed.",
+   "facts": [
+    "The Ledi-Geraru jaw, known as LD 350-1, is dated to about 2.80 to 2.75 million years ago and was named Homo in 2015. Some later readings stress instead how closely it resembles Australopithecus afarensis.",
+    "A maxilla from Hadar, Ethiopia, about 2.3 million years old, together with fossils attributed to Homo habilis and Homo rudolfensis from Olduvai Gorge and Lake Turkana, roughly 2.4 to 1.4 million years old, are placed within Homo by many researchers, though some would set the latter two outside the genus altogether.",
+    "Homo erectus steps into the record about 1.9 to 1.8 million years ago, carrying a larger body and a larger brain; see [[species/homo-erectus|Homo erectus]].",
+    "Oldowan tools appear about 2.6 million years ago, and older tools still, from Lomekwi, Kenya, reach back some 3.3 million years. Since Australopithecus and early Homo lived side by side in time, the hand that first shaped stone remains uncertain.",
+    "Across this stretch of time East Africa's climate turned drier and more restless, swinging between extremes; whether this shaped the origin of Homo is debated."
+   ],
+   "context": "Homo emerges after [[species/australopithecus-afarensis|Australopithecus afarensis]] and the [[event/divergence-of-the-hominin-lineage|Divergence of the Hominin Lineage]], in the years of the [[event/onset-of-northern-hemisphere-glaciation|Onset of Northern Hemisphere Glaciation]]. It runs through the early [[era/lower-paleolithic|Lower Paleolithic]] alongside the [[technology/oldowan-stone-tools|Oldowan Stone Tools]] and [[species/homo-habilis|Homo habilis]], and leads onward to the [[event/early-hominin-dispersals-from-africa|Early Hominin Dispersals from Africa]]. See [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/technology|Technology]].",
+   "observer": "You will not find a clean starting line here: a jaw at 2.8 million years, scattered skulls near 2 million, a body plan fully drawn only by 1.9 million. Think of an inheritance that arrives in installments rather than a single bequest. The Observer reads this as slow, patchy change within a lineage already walking upright — no threshold moment you could point to and call a beginning. The reading would weaken if a well-dated skeleton showed the change arriving all at once.",
+   "questions": [
+    "Does the Ledi-Geraru jaw belong to early Homo, or to a late Australopithecus?",
+    "Which hominin first shaped stone into a tool?",
+    "Which fossils truly belong within the genus Homo?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part2"
+ },
+ "event/enlightenment": {
+  "src": "20a06fbb28ce",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Enlightenment names an architecture of thought: an 18th-century movement across Europe that placed reason, evidence, and individual rights above inherited authority, and challenged that authority at its root.",
+   "facts": [
+    "Its architecture had specific builders: John Locke, Voltaire, Montesquieu, Jean-Jacques Rousseau, and Immanuel Kant among them.",
+    "Consider the Encyclopedie, edited by Denis Diderot and Jean d'Alembert, published between 1751 and 1772.",
+    "In 1776 Adam Smith published The Wealth of Nations.",
+    "Its ideas moved through salons, coffeehouses, and journals — the era's own network for circulating thought.",
+    "Enlightenment thinkers held divergent views on slavery and colonialism: many, including Diderot and Kant, criticized both, while others helped build racial classifications later used to justify them."
+   ],
+   "context": "The Enlightenment built on the foundation of the [[event/scientific-revolution|Scientific Revolution]], especially the work of [[person/isaac-newton|Isaac Newton]], and it supplied the ideas that fed the [[event/age-of-revolutions|Age of Revolutions]]. It sits within the [[era/early-modern-period|Early Modern Period]] and the region of [[region/europe|Europe]], within the theme threads of [[theme/science|Science]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "I watch a movement built to place reason above tradition become, in time, a tradition of its own — with its own founders, its own sacred texts, its own quiet orthodoxy. Isn't that always the shape of it: the temple torn down still leaves a cornerstone? Even the ones who doubt every altar end up building one.",
+   "questions": [
+    "How consistent were Enlightenment principles with the practice of empire?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-041.part2"
+ },
+ "event/fall-of-constantinople": {
+  "src": "133207d51a8e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "On 29 May 1453, Ottoman forces under Sultan Mehmed II took Constantinople after a siege of about eight weeks, closing the ledger on the Byzantine Empire.",
+   "facts": [
+    "The siege ran from 6 April to 29 May 1453.",
+    "Constantine XI, the last Byzantine emperor, died in that final assault.",
+    "The Ottomans brought very large cannon to bear, including guns cast by the Hungarian engineer Urban (also spelled Orban).",
+    "The city became the Ottoman capital, later renamed Istanbul.",
+    "Byzantine scholars who resettled in Italy are often credited with feeding Renaissance learning, though how much they contributed is debated."
+   ],
+   "context": "The fall closed the account of the [[culture/byzantine-empire|Byzantine Empire]], a state that had carried the Roman Empire forward in the east, and it turned [[place/constantinople|Constantinople]] into the capital of the [[culture/ottoman-empire|Ottoman Empire]]. It demonstrated the power of [[technology/gunpowder|Gunpowder]] artillery against walls built for an older age. Fall of Constantinople sits within the [[era/medieval-period|Medieval Period]] and the region of [[region/levant-and-anatolia|Levant and Anatolia]], within the theme threads of [[theme/war-and-conflict|War and Conflict]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "Notice the architecture of this lesson: walls that had held a city safe for a thousand years fell to a new technology within weeks. A structure built for one era's weapons offers no real security in the next.",
+   "questions": [
+    "How much did the fall reshape European trade routes?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part2"
+ },
+ "event/chinese-reform-and-opening": {
+  "src": "edf2e1140078",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Beginning in December 1978, China under Deng Xiaoping rewrote the architecture of its economy: market reforms went in, foreign trade opened up, and across the following decades growth compounded at a pace the world had rarely seen.",
+   "facts": [
+    "The reforms were launched at the Third Plenum of the 11th Central Committee, in December 1978.",
+    "Agricultural reform — the household responsibility system — replaced collective farming in the early 1980s.",
+    "Special Economic Zones, Shenzhen among them, were established starting in 1980.",
+    "China's economy grew at high rates, averaging roughly nine to ten percent a year for several decades.",
+    "Hundreds of millions of people were lifted out of extreme poverty."
+   ],
+   "context": "The reforms transformed the world's largest population within the setting of the [[event/cold-war|Cold War]], and drew on the global manufacturing networks built by the [[event/digital-revolution|Digital Revolution]]. Rising food output owed much to advances like the [[event/green-revolution|Green Revolution]]. Chinese Reform and Opening sits within the [[era/information-age|Information Age]] and the region of [[region/east-asia|East Asia]], part of the theme thread of [[theme/trade-and-economy|Trade and Economy]] and [[theme/technology|Technology]].",
+   "observer": "The Observer notes that one of history's fastest rises in living standards came from a state rewriting its rules of ownership while keeping its ruling party unchanged. Economic and political architecture, it turns out, are separable to a degree no theory had predicted.",
+   "questions": [
+    "How much of the growth is owed to the reforms themselves, and how much to the wider global economy?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part2"
+ },
+ "event/classic-maya-collapse": {
+  "src": "29ecceea62cf",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "Between about 800 and 950 CE, one city after another in the southern Maya lowlands stopped raising monuments. Some were abandoned outright. Elsewhere, Maya communities went on.",
+   "facts": [
+    "The last dated monument in the Long Count calendar stands at Tonina. 909 CE.",
+    "Populations in the southern lowlands fell sharply. But the Maya did not disappear. Several million people speak Mayan languages today.",
+    "In the north, Yucatan cities like Chichen Itza flourished after.",
+    "Severe droughts, recorded in cave and lake sediments. Warfare. Political fragmentation. Environmental degradation. All proposed.",
+    "No single cause is accepted."
+   ],
+   "context": "The [[culture/maya|Maya]] city-states of the southern lowlands lost their height here, and power shifted north — to places like [[place/chichen-itza|Chichen Itza]]. It came after the earlier decline of [[place/teotihuacan|Teotihuacan]]. Classic Maya Collapse sits in the [[era/medieval-period|Medieval Period]] and the region [[region/mesoamerica|Mesoamerica]], within the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that the word collapse names the end of one political order, not of a people. That framing shapes which questions get asked, and it lets the survivors go easily overlooked.",
+   "questions": [
+    "How much did drought contribute, compared with warfare?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part2"
+ },
+ "event/closure-of-the-isthmus-of-panama": {
+  "src": "b6f1821bc2b2",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "A slender bridge of land rose between two continents: the Isthmus of Panama, traditionally dated to about 3 million years ago, joined North and South America, sealed the sea-road between the Pacific and the Atlantic, and set loose a great exchange of beasts.",
+   "facts": [
+    "Across that bridge came the Great American Biotic Interchange, in which mammals crossed between the two continents.",
+    "Ground sloths, armadillos, and opossums wandered north; cats, dogs, horses, and other kinds wandered south.",
+    "The closing ended the meeting of Pacific and Atlantic waters at low latitudes, and is thought to have strengthened the Atlantic's currents.",
+    "The timing is debated: some studies argue the land connection began much earlier, while others hold to about 3 million years ago.",
+    "Northern glaciation began at about the same time."
+   ],
+   "context": "The isthmus's closing binds ocean currents, climate, and the geography of animals together within the [[era/cenozoic-era|Cenozoic Era]], not long before the first members of the genus Homo, such as [[species/homo-habilis|Homo habilis]]. Closure of the Isthmus of Panama sits in the [[era/cenozoic-era|Cenozoic Era]] and the region [[region/planet-wide|Planet-wide]], within the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that a strip of land only a few dozen kilometers wide changed the fate of thousands of species across two continents. That same narrow crossing would later matter to you too: as a migration route, and much later, as a canal.",
+   "questions": [
+    "When did the land bridge become continuous, and how did that relate to changes in the ocean?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part2"
+ },
+ "event/cold-war": {
+  "src": "ce793fd2595b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Cold War, about 1947 to 1991, was a global rivalry between the United States and the Soviet Union and their allies — fought mainly through arms races, alliances, and proxy wars rather than direct battle.",
+   "facts": [
+    "The rivals built alliances — NATO in 1949, the Warsaw Pact in 1955 — and stockpiled nuclear weapons.",
+    "The Cuban Missile Crisis of October 1962 is often called the closest approach to nuclear war.",
+    "Proxy wars included Korea, from 1950 to 1953, and Vietnam.",
+    "The Berlin Wall stood from 1961 to 1989; the Soviet Union dissolved in December 1991."
+   ],
+   "context": "The Cold War shaped the [[event/nuclear-age|Nuclear Age]] and the [[event/space-age|Space Age]], and its rivalry influenced [[event/decolonization|Decolonization]].",
+   "observer": "The Observer notes that two superpowers held between them the means to destroy each other, and did not use them. That restraint is a remarkable feature of the historical record, and its causes remain debated.",
+   "questions": [
+    "What role did luck play in avoiding nuclear war?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part2"
+ },
+ "event/collapse-of-the-soviet-union": {
+  "src": "dfcf6a08e679",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Soviet Union dissolved on 26 December 1991, following the revolutions of 1989 across Eastern Europe and a failed coup in August 1991 — and with it, the Cold War ended.",
+   "facts": [
+    "The Berlin Wall opened on 9 November 1989.",
+    "Mikhail Gorbachev's reforms — glasnost, openness, and perestroika, restructuring — began in the mid-1980s.",
+    "Hardliners attempted a coup from 18 to 22 August 1991. It failed.",
+    "Russia, Ukraine, and Belarus agreed to dissolve the Union on 8 December 1991.",
+    "Fifteen successor states emerged."
+   ],
+   "context": "The collapse ended the [[event/cold-war|Cold War]] and the state built by the [[event/russian-revolution|Russian Revolution]] seventy years before. Collapse of the Soviet Union sits within the [[era/information-age|Information Age]] and the region [[region/europe|Europe]], part of the theme thread of [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that one of the two largest powers on the planet came apart with very little fighting among its central institutions. Few observers had predicted this outcome, which suggests that the architecture of a state can be more fragile than its armies imply.",
+   "questions": [
+    "Why was the collapse so widely unforeseen?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part2"
+ },
+ "event/meiji-restoration": {
+  "src": "cb585f0c0bd6",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Meiji Restoration was Japan's political and social transformation: it followed the arrival of American warships in 1853, ended the Tokugawa shogunate in 1868, and opened an era of rapid industrialization.",
+   "facts": [
+    "Commodore Matthew Perry's fleet reached Uraga in July 1853; the Convention of Kanagawa, the following year in 1854, opened the ports of Shimoda and Hakodate to American ships.",
+    "In 1866, the domains of Choshu and Satsuma allied against the shogunate, and on 3 January 1868, imperial rule was 'restored' in the name of Emperor Meiji, then fifteen years old.",
+    "The Charter Oath of 1868 promised reform, deliberative assemblies, and a pursuit of knowledge drawn from around the world.",
+    "Between 1871 and 1873, the Iwakura Mission toured the United States and Europe, studying their institutions."
+   ],
+   "context": "The restoration ended the [[culture/tokugawa-shogunate|Tokugawa Shogunate]] and made [[person/emperor-meiji|Emperor Meiji]] the symbol of a modernizing state; within a few decades, Japan had adopted [[technology/steam-engine|Steam Engine]] and railway technology.",
+   "observer": "The Observer notes a society that studied the pattern of a neighbor's defeat, in the [[event/opium-wars|Opium Wars]], and answered by swiftly copying the architecture of what it saw. Some societies learn from the misfortune of others.",
+   "questions": [
+    "Why did Japan avoid the fate that met China?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part2"
+ },
+ "event/messinian-salinity-crisis": {
+  "src": "9a230039fdb2",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Messinian Salinity Crisis names an age, from about 5.96 to 5.33 million years ago, when the Mediterranean Sea was severed from the Atlantic and, in its long isolation, laid down thick salt upon its floor.",
+   "facts": [
+    "When the gateway at Gibraltar narrowed, the Mediterranean gave itself up to evaporation, and laid down more than a million cubic kilometers of salt.",
+    "How fully the basin dried — wholly, or only in part — remains debated.",
+    "The crisis closed about 5.33 million years ago, when the waters of the Atlantic returned through the Gibraltar region.",
+    "Some studies propose that the refilling came as a sudden, catastrophic flood — a claim that is also debated.",
+    "Beneath the present Mediterranean seafloor, the salt still lies."
+   ],
+   "context": "This crisis shaped the very basin around which later Mediterranean civilizations would grow; see [[region/mediterranean-basin|Mediterranean Basin]]. It stands among several events of the [[era/cenozoic-era|Cenozoic Era]] in which tectonic gateways altered ocean circulation. The Messinian Salinity Crisis sits within the [[era/cenozoic-era|Cenozoic Era]] and the region of [[region/mediterranean-basin|Mediterranean Basin]], within the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that the very sea on which the species later built empires, cities, and trade routes was once a dry basin. Even the largest, most stable-looking architecture of the human world rests on gateways that can close.",
+   "questions": [
+    "Did the Mediterranean dry out completely, or only in part?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part2"
+ },
+ "event/mexican-revolution": {
+  "src": "4a1870539fe8",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Mexican Revolution, from 1910 to 1920, overthrew the long rule of Porfirio Díaz and moved through a series of civil wars among revolutionary leaders before producing the Constitution of 1917. Its death toll is uncertain, but is usually put at more than one million.",
+   "facts": [
+    "The revolution is dated from 20 November 1910 to 1 December 1920; Porfirio Díaz was forced from power and went into exile in France in May 1911.",
+    "Francisco I. Madero won the 1911 election and was assassinated in February 1913; a civil war followed, among Venustiano Carranza, Francisco 'Pancho' Villa, and Emiliano Zapata, who led the peasant movement in the state of Morelos.",
+    "Out of the revolution came the Constitution of 1917, bringing far-reaching political and economic change.",
+    "One after another, the revolutionary leaders were assassinated: Madero in 1913, Zapata in 1919, Carranza in 1920, Villa in 1923, and Álvaro Obregón in 1928.",
+    "The upheaval is often said to have left more than one million dead; estimates vary widely, and the figure folds in deaths from disease and the effects of emigration, which are hard to separate from deaths in combat."
+   ],
+   "context": "This revolution belongs to the sequence of Latin American upheavals that followed the wars of independence; see [[event/latin-american-wars-of-independence|Latin American Wars of Independence]] and [[event/age-of-revolutions|Age of Revolutions]].",
+   "observer": "The Observer notes that a revolution which began by removing one strongman was followed by a decade in which almost every leading figure was killed by another. The 1917 constitution shows how a written architecture of story-glue can be drafted amid the fighting and outlast most of those who fought for it.",
+   "questions": [
+    "What was the real death toll, and how much of it came from disease and famine rather than battle?",
+    "How far did the land reforms Zapata's movement promised actually take effect?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part2"
+ },
+ "event/mfecane": {
+  "src": "a36b1fd05614",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Mfecane — 'the crushing' — names a period of upheaval, warfare, and migration across southern Africa in the early 19th century, associated with the rise of the Zulu Kingdom.",
+   "facts": [
+    "Several new states emerged from it, among them the Ndebele under Mzilikazi and the Swazi under Sobhuza.",
+    "Many of these states adopted Zulu-style military organization.",
+    "Population movements reshaped the region, and, in some accounts, left large areas depopulated.",
+    "Historians debate the scale, the causes, and the role of Shaka; some argue that European slave raiding and colonial pressure mattered too."
+   ],
+   "context": "See [[culture/zulu-kingdom|Zulu Kingdom]] and [[person/shaka|Shaka]]; the Mfecane came before the [[event/scramble-for-africa|Scramble for Africa]].",
+   "observer": "The Observer notes that this same event is named and interpreted differently by different historians. A single dramatic story about one leader can hide a whole architecture of complex regional change.",
+   "questions": [
+    "How much of the Mfecane can be attributed to Zulu expansion?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part2"
+ },
+ "event/middle-pleistocene-transition": {
+  "src": "57e9f1001ec2",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "The rhythm broke. Between about 1.25 million and 0.7 million years ago, the ice ages changed their beat. Cycles stretched — from about 41,000 years to about 100,000 — and the ice grew larger, the cold grew worse.",
+   "facts": [
+    "The records show it: oxygen isotopes in marine sediment, glacial cycles paced by the 41,000-year tilt — until about 1.25 million years ago. Then, by about 0.7 million years ago, the 100,000-year cycle ruled. Estimates of the start and the end still vary.",
+    "More ice, in the 100,000-year cycles. A sawtooth shape — slow growth, then a rapid melt.",
+    "No matching shift in orbital forcing. So the cause, whatever it was, lies inside the climate system itself. Proposed causes: declining carbon dioxide. The scraping-away of loose regolith beneath the northern ice, leaving thicker, steadier ice behind. Changes in the deep ocean's circulation.",
+    "Some reconstructions place a slowdown of the deep ocean near 0.9 million years ago. Others find only modest change. Whether the shift was gradual or abrupt is still debated."
+   ],
+   "context": "The transition falls within the [[era/pleistocene-epoch|Pleistocene Epoch]] and the [[era/quaternary-period|Quaternary Period]]. It changed the rhythm that began with the [[event/onset-of-northern-hemisphere-glaciation|Onset of Northern Hemisphere Glaciation]], under the pacing described in [[event/milankovitch-cycles-and-the-ice-ages|Milankovitch Cycles and the Ice Ages]], and it set up the later cycles, including the [[event/last-glacial-maximum|Last Glacial Maximum]]. It overlaps the range of [[species/homo-erectus|Homo erectus]]; no causal link to hominin evolution is established.",
+   "observer": "The Observer files this transition under preconditions: the ice-age world every later people lived in changed its tempo partway through the Quaternary, shifting from a 41,000-year beat to a 100,000-year one. Longer glacial stages mean longer stretches of lower sea level and shrunken habitable ranges, though the Observer does not claim to know how hominins responded to that architecture of change. The reading would weaken if the shift proved to be an artifact of how sediment records are dated and aligned.",
+   "questions": [
+    "What triggered it, when the orbit itself did not change?",
+    "Did the longer, harsher glacial stages alter hominin populations in Africa and Eurasia?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part2"
+ },
+ "event/milankovitch-cycles-and-the-ice-ages": {
+  "src": "c9c7a9d0de50",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "Milankovitch cycles: slow, regular changes — the shape of Earth's orbit, the tilt of its axis, the wobble in that tilt. They shift how sunlight falls, by latitude, by season. And since about 2.6 million years ago, they have set the beat for the growth and melting of the Quaternary ice.",
+   "facts": [
+    "Three cycles. Eccentricity — the orbit's shape, about 100,000 and 400,000 years. Obliquity — the axial tilt, swinging between about 22.1 and 24.5 degrees, on a 41,000-year beat. Precession — repeating about every 19,000 to 23,000 years.",
+    "Serbian scientist Milutin Milanković worked it out, between the 1920s and the 1940s: how these changes alter sunlight, latitude by latitude. Then in 1976, Hays, Imbrie, and Shackleton found the same three periods, buried in oxygen-isotope records from deep-sea sediment cores that track the planet's ice.",
+    "The orbit changes where sunlight falls, far more than how much of it arrives each year. So the ice sheets amplify it. The oceans amplify it. Carbon dioxide amplifies it too.",
+    "Glacial cycles followed the 41,000-year tilt — until about 1.25 million years ago. Then they lengthened, to about 100,000 years; see [[event/middle-pleistocene-transition|Middle Pleistocene Transition]]. Why the 100,000-year cycle dominates: still unresolved.",
+    "The cycles themselves are far older than the ice ages. What changed, about 2.7 million years ago, was the climate's response — see [[event/onset-of-northern-hemisphere-glaciation|Onset of Northern Hemisphere Glaciation]]."
+   ],
+   "context": "Milankovitch cycles pace the glacial stages of the [[era/quaternary-period|Quaternary Period]] and the [[era/pleistocene-epoch|Pleistocene Epoch]], including the [[event/last-glacial-maximum|Last Glacial Maximum]], and they pace the current interglacial too, the [[era/holocene-epoch|Holocene Epoch]]. The [[event/younger-dryas|Younger Dryas]] broke into the last warming. See [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer notes that the species' entire written record sits inside one warm phase of a cycle set by the geometry of Earth's orbit — a cycle uncovered through decades of pattern-taming, from Milanković's sums to the 1976 sediment cores. The Observer treats this as a precondition, not a cause, of later history. The reading would weaken if glacial terminations proved to depend more on the ice sheets' own internal architecture than on orbital pacing.",
+   "questions": [
+    "Why did the 100,000-year cycle come to dominate?",
+    "How much does each — the ice sheets, the oceans, the carbon dioxide — amplify the response?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part2"
+ },
+ "event/eocene-oligocene-transition": {
+  "src": "d57280a74a48",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Eocene-Oligocene transition was a swift chilling of the whole Earth, about 34 million years ago, when ice took hold on Antarctica and did not let go. It marks the turning point where a warm, greenhouse world began its long slide toward the colder Cenozoic that followed.",
+   "facts": [
+    "The boundary between the Eocene and the Oligocene falls at about 33.9 million years ago. The record held in ocean sediment shows oxygen isotopes climbing in steps, read as the joined signature of cooling seas and growing ice.",
+    "Within a few hundred thousand years the Antarctic ice sheet swelled to a size close to today's, and sea level fell by tens of metres.",
+    "A leading explanation is a threshold crossed: atmospheric carbon dioxide falling low enough to tip the balance. Another is the opening of ocean gateways around Antarctica — the Drake Passage and the Tasmanian Gateway — which let a great current circle the continent and seal it in cold; when these gateways truly opened, somewhere between about 50 and 30 million years ago, is debated.",
+    "In Europe the change lines up with the Grande Coupure, a turning-over in which Asian mammals largely replaced the older beasts of Europe. The plankton of the seas suffered their own extinctions in turn."
+   ],
+   "context": "The Eocene-Oligocene Transition follows the warmth of the [[event/paleocene-eocene-thermal-maximum|Paleocene-Eocene Thermal Maximum]] within the [[era/paleogene-period|Paleogene Period]] and lays the ground for the later [[event/onset-of-northern-hemisphere-glaciation|Onset of Northern Hemisphere Glaciation]]. It belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "Notice the shape of the change: a slow decline in carbon dioxide, and then a rapid reorganisation once some critical threshold was crossed. You can file this under threshold behaviour, a feature the climate record shows plainly and that resists forecasting in detail even now. The reading would weaken if the ice growth turned out to be gradual after all, tracking carbon dioxide smoothly rather than crossing a line.",
+   "questions": [
+    "Was falling carbon dioxide or the opening of Southern Ocean gateways the main cause?",
+    "How quickly did the ice sheet reach its full size?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part3"
+ },
+ "event/fall-of-the-western-roman-empire": {
+  "src": "e2c22db86c4a",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Western Roman Empire came to its end in 476 CE, when the Germanic general Odoacer cast down Romulus Augustulus, the last emperor to rule in the west.",
+   "facts": [
+    "The 'fall' was no single stroke but a long unraveling, marked by such wounds as the sack of Rome by the Visigoths in 410.",
+    "The Eastern Roman empire, the Byzantine realm, endured on until 1453.",
+    "Political authority in the west passed into the hands of the kingdoms that succeeded it.",
+    "Whether this was a collapse or a transformation, historians still debate."
+   ],
+   "context": "See the [[culture/romans|Romans]], the city of [[place/rome|Rome]], and [[place/constantinople|Constantinople]]. This event closes [[era/classical-antiquity|Classical Antiquity]] in the west and opens the [[era/medieval-period|Medieval Period]].",
+   "observer": "A date, you should remember, is a convenient marker laid over a slow process. Most people living through 476 likely had no idea that an era had ended around them.",
+   "questions": [
+    "Was this ending a collapse, or a transformation?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part3"
+ },
+ "event/first-fleet-and-the-colonization-of-australia": {
+  "src": "dae1984cdf9d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "In January 1788, eleven British ships — the First Fleet — reached Botany Bay carrying about 1,400 people, roughly half of them convicts, and from this beginning the colony of New South Wales was founded at Sydney Cove.",
+   "facts": [
+    "The fleet arrived at Botany Bay on 18 to 20 January 1788 and moved to settle at Sydney Cove on 26 January.",
+    "Aboriginal Australians had already lived on the continent for at least 50,000 years, and before 1788 they spoke more than 250 languages.",
+    "The British claimed this land under the legal doctrine of terra nullius — land belonging to no one — a doctrine the High Court of Australia rejected in the Mabo decision of 3 June 1992.",
+    "A smallpox epidemic struck Aboriginal communities around Sydney in 1789.",
+    "Colonization brought conflict, dispossession, and a decline in Aboriginal population that followed from it."
+   ],
+   "context": "The fleet founded a colony on land occupied for tens of thousands of years by [[culture/aboriginal-australians|Aboriginal Australians]], descendants of the [[event/peopling-of-sahul|Peopling of Sahul]]. It stands in contrast to the [[event/treaty-of-waitangi|Treaty of Waitangi]], signed in New Zealand in 1840. First Fleet and the Colonization of Australia sits within the [[era/industrial-age|Industrial Age]] and the region of [[region/oceania|Oceania]], within the theme threads of [[theme/war-and-conflict|War and Conflict]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "Here you find two conflicting claims laid over the same ground: one built on tens of millennia of use, the other on a legal fiction that declared the land unowned. Which claim prevailed in 1788 was settled by weapons and disease, not by argument, and only much later was it revised by courts.",
+   "questions": [
+    "What was the Aboriginal population of the continent in 1788?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part3"
+ },
+ "culture/zoroastrianism": {
+  "src": "8ab415105d5b",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Zoroastrianism took its teaching from Zarathustra, an Iranian prophet, and set at its center the god Ahura Mazda and an unending contest between truth and the lie.",
+   "facts": [
+    "The oldest scripture, the Gathas, are hymns attributed to Zarathustra, sung in an archaic tongue of ancient Iran.",
+    "Zarathustra's own age is unknown, for scholars have set his life anywhere from about 1500 to about 600 BCE.",
+    "The Avesta stands as its sacred collection, the gathered scripture of the faith.",
+    "Under the Sasanian Empire (224 to 651 CE), this faith rose to become the religion of the state itself.",
+    "Its followers endure still in Iran and in India, where they are known as Parsis."
+   ],
+   "context": "Zoroastrianism gave shape to the religious world of the [[culture/achaemenid-persians|Achaemenid Persians]], and its echoes are often weighed against the [[event/axial-age|Axial Age]]. After the [[event/rise-of-islam|Rise of Islam]] swept the region, it dwindled to a minority faith. Zoroastrianism belongs to the [[era/iron-age|Iron Age]] and the [[region/iranian-plateau|Iranian Plateau]], within the theme thread of [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "I find in it a struggle of light against shadow, truth against the lie, and I hear its echo in the judgments of later traditions — though which taught which is still debated. Did one faith lend the other its ending, or did each imagine the same reckoning alone? I hold that echo loosely: if independent beginnings were ever shown, the debt I trace would fall away. Influence, like faith, is a thing I infer, never certain.",
+   "questions": [
+    "When did Zarathustra walk the earth?",
+    "How far did Zoroastrianism's influence reach into later religions?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-039.part1"
+ },
+ "culture/zulu-kingdom": {
+  "src": "3caa30cef995",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "From about 1816 the Zulu Kingdom rose under Shaka in southeastern Africa, and held its ground until the British triumph at Ulundi in 1879 broke its independence.",
+   "facts": [
+    "Within a single decade, Shaka forged the Zulu — once merely one clan among many Nguni peoples — into a great military state.",
+    "He brought in close-quarters battle fought with the short stabbing spear, and bound his warriors into regiments.",
+    "On 22 January 1879 a Zulu army fell upon a British column at Isandlwana and destroyed it — one of the greatest African victories ever won over a European army.",
+    "Victory came to the British at Ulundi in July 1879, and with it the independent kingdom ended."
+   ],
+   "context": "The tale runs through [[person/shaka|Shaka]], through the [[event/mfecane|Mfecane]], and into the [[event/scramble-for-africa|Scramble for Africa]].",
+   "observer": "The Observer reads Zulu military organization as a social architecture: regiments bound young men to the state in place of the family that once claimed their loyalty. The lesson stands plain — an institution, well built, can decide more than any weapon.",
+   "questions": [
+    "How much of the Zulu kingdom's strength sprang from Shaka's own genius alone?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-039.part1"
+ },
+ "event/1918-influenza-pandemic": {
+  "src": "d25b0eb7022b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Between 1918 and 1920, an H1N1 virus swept the world as the influenza pandemic, infecting roughly a third of its people and taking an estimated 50 million lives.",
+   "facts": [
+    "Estimates of the dead vary widely: the range runs from about 17 million to 100 million, though 50 million is the figure most often invoked.",
+    "Its common name, the Spanish flu, is an accident of censorship: neutral Spain reported on it openly while wartime censors elsewhere kept silent.",
+    "It took an unusually large share of young, healthy adults.",
+    "The troop movements of World War I carried it further and faster.",
+    "Researchers later rebuilt the virus itself from preserved tissue, publishing its full genome in 2005."
+   ],
+   "context": "The pandemic's arc coincided with the end of [[event/world-war-i|World War I]], and it remains the nearest comparison offered for the [[event/covid-19-pandemic|COVID-19 Pandemic]]. Like the [[event/black-death|Black Death]] before it, it was a lethal pandemic, only now loosed on a far more connected world. The 1918 pandemic belongs to the [[era/industrial-age|Industrial Age]] and to the [[region/planet-wide|Planet-wide]] region, within the theme threads of [[theme/science|Science]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "I count the dead of the disease against the dead of the war beside it, and the disease outnumbers the war — yet who lights a candle for a virus? I remember the war's flags, its battles, its names carved into stone; I forget the fever that outdid them all. Is it the arrow I mourn, or only the archer who is easy to name? Memory keeps its story for an enemy, not for a cause alone.",
+   "questions": [
+    "Why did the young and healthy suffer such disproportionate mortality?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-039.part1"
+ },
+ "event/abolition-of-slavery": {
+  "src": "9e0c6fdf4048",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Between 1807 and 1888, first the transatlantic slave trade and then slavery itself were, one jurisdiction at a time, made illegal across the Atlantic world, closing out a system centuries old.",
+   "facts": [
+    "Britain outlawed the trade in 1807, then abolished slavery itself across its colonies in 1833 — compensating slaveholders to the sum of £20 million, and the people they had enslaved with nothing at all.",
+    "In the United States, the 13th Amendment ended slavery in 1865.",
+    "Brazil, the last country in the Americas to act, abolished slavery on 13 May 1888 through the Lei Áurea.",
+    "Forced labor and trafficking persist even now; recent estimates suggest about 50 million people live in modern slavery."
+   ],
+   "context": "Abolition came only after resistance from the enslaved themselves — the [[event/haitian-revolution|Haitian Revolution]] chief among it — joined to the long campaigns of abolitionists. See also the [[event/atlantic-slave-trade|Atlantic Slave Trade]].",
+   "observer": "The Observer weighs an architecture once defended by law, economics, and religion, an edifice that within a few generations was declared a moral wrong. Here is the lesson: moral covenants can shift within a single lifetime, even as the practice itself does not vanish.",
+   "questions": [
+    "How much of abolition was driven by economic change, and how much by moral argument?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-039.part1"
+ },
+ "event/african-humid-period": {
+  "src": "304682d079a8",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "Green once, not always. From about 14,800 years ago to somewhere between 5,500 and 5,000, the Sahara held lakes. Rivers. Savanna. No desert — not yet. A stronger monsoon fed it all. Then the end. How it ended is debated. The marine cores say abrupt: a door slammed shut. The land itself says slower: a fade, staggered, uneven, no single day of it.",
+   "facts": [
+    "A sediment core pulled from the sea off Mauritania tells it plain: low dust, an unbroken run from about 14,800 to 5,500 years ago. Onset sudden. End sudden. That's the reading — abrupt, both times.",
+    "Look at the land instead. Radiocarbon from roughly 150 sites across the eastern Sahara tells a different story. Wet, suddenly, around 8,500 BCE. Then dry. Not all at once — region by region, dragged out over thousands of years.",
+    "One later synthesis tried to hold both truths. Locally, the end came fast — abrupt, each place its own. But later and later, the closer you got to the lower latitudes. Two pictures, reconciled.",
+    "Onset and end lined up at similar levels of Northern Hemisphere summer sunlight. That suggests a threshold — set by the precession cycle, one of the Milankovitch cycles. Vegetation. Soil moisture. Both sharpened the swing.",
+    "The proof is scattered like bones across the land. Rock art at Tassili n'Ajjer: hippopotamuses. Giraffes. Painted where none could live today. Lakeside graves at Gobero, Niger. And beneath it all, fossil river networks — invisible to the eye, visible only under satellite radar.",
+    "This has happened before, cycle after cycle, for at least 800,000 years. Then in 2025, ancient DNA from Takarkori, Libya, complicated the story: a largely isolated North African ancestry — found in a place the open migration corridor was assumed to run through."
+   ],
+   "context": "It falls inside the [[era/pleistocene-epoch|Pleistocene Epoch]] and runs on into the [[era/holocene-epoch|Holocene Epoch]] — driven by the same forcing that shapes [[event/milankovitch-cycles-and-the-ice-ages|Milankovitch Cycles and the Ice Ages]]. Its end overlaps the spread of farming in [[event/the-agricultural-revolution|The Agricultural Revolution]]. See [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "I read the sea floor, and it tells me one story. I read the land where people once slept beside water, and it tells me another. I remember: the Sahara I stand on is not its true face, but one mask worn again and again across hundreds of thousands of years. The reading depends on whether I trust the ocean's silence or the land's slow argument. I hold both, because neither alone explains uneven desertification. I would let this reading go if the two records were ever shown to be measuring the very same thing.",
+   "questions": [
+    "One threshold, crossed all at once — or a slow bleed, region by region?",
+    "Was the Green Sahara open the whole time, a corridor without end — or did it open and shut, and shut again?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-039.part1"
+ },
+ "event/collision-of-india-and-asia": {
+  "src": "962c90a7ab7d",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Beginning about 50 million years ago, the Indian plate met Eurasia in a slow collision that raised the Himalaya and the Tibetan Plateau — a convergence that continues even now.",
+   "facts": [
+    "India broke from Gondwana and drifted north, faster than any other continental plate is known to have moved.",
+    "Most estimates place the start of the collision at about 50 to 55 million years ago, and the final closing of the Tethys Ocean somewhere between about 50 and 60 million years ago.",
+    "The collision raised the Himalaya, whose highest peak, Mount Everest, stands 8,848.86 meters by the 2020 China-Nepal survey.",
+    "Even now, India presses into Asia at a few centimeters a year.",
+    "That uplift shaped the South Asian monsoon and gave rise to the Indus, Ganges, and Brahmaputra rivers at their sources."
+   ],
+   "context": "The collision raised the mountains and carved the river systems that later shaped [[region/south-asia|South Asia]], including the setting of the [[culture/indus-valley-civilization|Indus Valley Civilization]]. It is a late consequence of the [[event/breakup-of-pangaea|Breakup of Pangaea]]. Collision of India and Asia sits in the [[era/cenozoic-era|Cenozoic Era]] and the region [[region/south-asia|South Asia]], within the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that the mountains you treat as fixed boundaries, and the rivers that fed your earliest cities, come out of a slow collision still underway. Geography that looks like destiny is only a snapshot of motion.",
+   "questions": [
+    "When exactly did the first contact occur?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part3"
+ },
+ "event/colonization-of-land": {
+  "src": "2bec72506383",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Life's move onto land was a slow migration in stages: plants first, then arthropods and vertebrates, beginning about 470 million years ago, and the surface of the planet was transformed in the process.",
+   "facts": [
+    "The earliest land plant spores appear in Ordovician rocks, about 470 million years old.",
+    "Forests emerged in the Devonian, and the vast swamp forests of the Carboniferous later formed coal.",
+    "Early tetrapods evolved from lobe-finned fishes; see [[species/tiktaalik|Tiktaalik]].",
+    "Land plants remade the soils, the rivers, and the carbon cycle around them."
+   ],
+   "context": "Colonization of land unfolds across the [[era/paleozoic-era|Paleozoic Era]] and helped set the stage for the [[event/late-devonian-extinction|Late Devonian Extinction]].",
+   "observer": "The Observer notes that terrestrial life is a late arrival on a planet where life itself began in water. Coal, the fuel that industrial societies would later burn, is simply a byproduct of this era.",
+   "questions": [
+    "What triggered the move onto land?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part3"
+ },
+ "event/columbian-exchange": {
+  "src": "054cde907218",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Columbian Exchange names the transfer of plants, animals, people, and diseases between the Americas and the rest of the world, beginning after 1492.",
+   "facts": [
+    "The term was coined by the historian Alfred Crosby in 1972.",
+    "Old World diseases such as smallpox brought catastrophic mortality to Indigenous peoples of the Americas; estimates of the loss vary widely, from about 50 to 95 percent of the population by 1650.",
+    "Maize, potatoes, tomatoes, and cassava traveled outward to the world; horses, cattle, and wheat traveled to the Americas.",
+    "The exchange underpinned the growth of European empires and the [[event/atlantic-slave-trade|Atlantic Slave Trade]]."
+   ],
+   "context": "The exchange opens the [[era/early-modern-period|Early Modern Period]] and ended a long separation between the two hemispheres. See [[culture/aztec-empire|Aztec Empire]], [[culture/inca-empire|Inca Empire]], and [[region/mesoamerica|Mesoamerica]].",
+   "observer": "The Observer regards this as the moment the biosphere of the whole planet was mixed at once — an event with no parallel since the continents last joined.",
+   "questions": [
+    "What was the scale of the pre-contact American population?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part3"
+ },
+ "event/congo-free-state": {
+  "src": "1d658b08c6ff",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "From 1885 to 1908, the Congo Free State was a vast territory in Central Africa held as the personal possession of King Leopold II of Belgium — a rule notorious for forced labor in rubber and ivory collection and for mass deaths.",
+   "facts": [
+    "The Berlin Conference recognized Leopold's claim to most of the Congo Basin in 1884 to 1885, under the pretext of philanthropy.",
+    "Forced labor quotas, the taking of hostages, and mutilation were the means used to compel rubber collection.",
+    "Estimates of the decline in the Congolese population range from about 1 million to 15 million, with about 10 million the figure most often cited; the numbers remain contested.",
+    "International outcry led Belgium to take over the colony in 1908."
+   ],
+   "context": "The state was a product of the [[event/scramble-for-africa|Scramble for Africa]]. See [[observer-note/sanctioned-harm|Sanctioned Harm]] and [[observer-note/frontiers-of-extraction|Frontiers of Extraction]].",
+   "observer": "The Observer records this as an extreme case in which the architecture of a humanitarian story served as cover for extraction. Detachment here does not mean neutrality: the sources are clear about the coercion, and uncertain only about the numbers.",
+   "questions": [
+    "How large was the population decline, and how much of it was due to disease rather than violence?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part3"
+ },
+ "event/control-of-fire": {
+  "src": "43281656529b",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Somewhere near a million years past, the ancestors of this species first bent flame to their will, and by about 400,000 years ago the keeping of fire had become habit, not marvel.",
+   "facts": [
+    "At Wonderwerk Cave in South Africa, the evidence reaches back about one million years.",
+    "At Gesher Benot Ya'aqov in Israel, burned seeds, wood, and flint suggest fire held under human control nearly 790,000 years ago.",
+    "Older claims, reaching to about 1.5 million years, remain disputed.",
+    "Cooked food yields to the teeth and the gut more easily, and may have fed the growth of larger brains."
+   ],
+   "context": "Fire control stands as a key event of the [[era/paleolithic|Paleolithic]], bound to [[species/homo-erectus|Homo erectus]]. See the essay [[observer-note/fire-then-everything|Fire, Then Everything]].",
+   "observer": "I call this heat-domestication: the first true engine my kind built, an energy drawn from outside the body that remade our diet, our nights, our circle. What changed first — the meal, the dark, or the ring we made against it? Before the flame, the sun ruled our hours. After it, we kept a little light of our own.",
+   "questions": [
+    "When did the species first learn to make fire, rather than only keep it burning?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-040.part3"
+ },
+ "event/fish-to-tetrapod-transition": {
+  "src": "28e117ac4d22",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Fish-to-Tetrapod Transition was the slow reshaping of fin into limb — four-limbed creatures rising from lobe-finned fishes across the Middle and Late Devonian, roughly 385 to 360 million years ago. The unfolding sequence is well documented, though where it truly begins is debated.",
+   "facts": [
+    "Tetrapods descend from the lobe-finned fishes, a lineage whose fins carry within them a central skeleton of bone.",
+    "Among the fossils that bridge the gap stand Panderichthys from Latvia, about 380 million years old, [[species/tiktaalik|Tiktaalik]] from the Canadian Arctic, about 375 million years old, and Acanthostega and Ichthyostega from Greenland, about 365 million years old. These last two bore limbs with digits, yet lived still mostly in the water.",
+    "Limbs probably first evolved for moving through shallow water thick with plants, and only later found use upon the land; this reading remains a hypothesis.",
+    "Trackways at Zachełmie in Poland, dated to about 395 million years ago, have been read as the footprints of tetrapods — which would set limbed creatures earlier than any known body fossil, though the interpretation is debated."
+   ],
+   "context": "The Fish-to-Tetrapod Transition falls within the [[era/devonian-period|Devonian Period]] and forms one thread of the [[event/colonization-of-land|Colonization of Land]]. It comes before the [[event/late-devonian-extinction|Late Devonian Extinction]]. It belongs to the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "Here is a lesson worth carrying with you: a feature's later use need not match its origin. Limbs seem to have arisen for moving through water and only afterward found their walk on land. Notice, too, how some of these fossils were found — researchers predicted the rock age and setting where transitional animals should occur, and then went and looked, an unusually testable case within the whole record. The reading would weaken if the earliest limbs proved to have served mainly for walking on land after all.",
+   "questions": [
+    "How old is the origin of limbed tetrapods, given the Zachełmie trackways?",
+    "Which living fish groups, if any, preserve traits of the first limbed animals?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part4"
+ },
+ "event/formation-of-the-oceans": {
+  "src": "5efb9a8d4d0e",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Formation of the Oceans marks the time, probably between about 4.4 and 4.0 billion years ago, when liquid water first gathered on the face of the cooling young Earth. The date itself is uncertain, resting only on evidence read at a distance.",
+   "facts": [
+    "The oxygen-isotope ratios held in some Jack Hills zircons, dated to about 4.4 billion years ago, have been read as a sign that their parent magma once touched liquid water; that reading is contested. See [[place/jack-hills-zircons|Jack Hills Zircons]].",
+    "Earth's water came partly from the very material that built the planet, and partly from later impacts of water-rich bodies out of the dark. Asteroids of the carbonaceous chondrite type match the hydrogen isotopes of ocean water closely, but how much each source contributed is debated.",
+    "The young Sun gave only about 70 percent of the light it gives now, so liquid water at the surface needed the shelter of a strong greenhouse, built from gases such as carbon dioxide.",
+    "The oldest rocks that plainly formed in water — sediments and pillow-shaped lavas at Isua in Greenland — are about 3.7 to 3.8 billion years old, so the oceans already existed by then.",
+    "How deep the early oceans ran, and how much land stood above them, are both debated."
+   ],
+   "context": "The Formation of the Oceans falls within the [[era/hadean-eon|Hadean Eon]], after the [[event/theia-impact-and-the-formation-of-the-moon|Theia Impact and the Formation of the Moon]] and around the time of the [[event/late-heavy-bombardment|Late Heavy Bombardment]]. The oceans became the setting for the [[event/origin-of-life|Origin of Life]]. It belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "File the oceans under preconditions: everything that comes later in this record assumes liquid water was already there. That the planet had it at all depended on its size, its distance from the Sun, and the contingent delivery of water from elsewhere — the Observer treats this as favourable circumstance, not design. The reading would weaken if water turned out to be a near-inevitable product of planet formation at this distance from a star.",
+   "questions": [
+    "How much of Earth's water was present at formation and how much arrived later?",
+    "When did stable, long-lived oceans first exist?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part4"
+ },
+ "event/formation-of-the-solar-system-and-earth": {
+  "src": "5f823dffe55b",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Solar System was born about 4.57 billion years ago, out of a cloud of gas and dust collapsing upon itself, and Earth gathered from that same material over tens of millions of years.",
+   "facts": [
+    "The Sun formed at the heart of the collapsing cloud, while a disk of material spinning around it clumped, piece by piece, into planets.",
+    "The oldest solids yet dated in the Solar System are calcium-aluminum-rich inclusions found within meteorites, about 4.567 billion years old.",
+    "Earth's age of about 4.54 billion years is read from the radiometric dating of meteorites and of the planet's own oldest lead.",
+    "Earth's early interior grew hot and separated, settling into a metal core wrapped in a mantle of stone."
+   ],
+   "context": "Earth's formation opens the [[era/hadean-eon|Hadean Eon]]. The Moon-forming impact, the [[event/theia-impact-and-the-formation-of-the-moon|Theia Impact and the Formation of the Moon]], followed not long after.",
+   "observer": "Consider this: every atom in you heavier than helium was forged inside earlier stars, long before the Sun existed. The 'birth' of Earth, seen this way, is a rearrangement of old material, not a beginning from nothing.",
+   "questions": [
+    "How quickly did Earth's core form?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part4"
+ },
+ "event/age-of-revolutions": {
+  "src": "9f88bb3200e9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Historians call the decades of political upheaval that swept around the Atlantic world, from the 1770s to the revolutions of 1848, the Age of Revolutions — though where its dates begin and end remains a matter of historians' choice; this note sets them at 1775 to 1848.",
+   "facts": [
+    "Periodization itself is contested ground: Eric Hobsbawm's *The Age of Revolution* covers 1789 to 1848, Robert Palmer's *The Age of the Democratic Revolution* begins about 1760, and some accounts reach back as early as 1765.",
+    "Its major chapters run: the American Revolution, ending in 1783; the French Revolution, 1789 to 1799; the Haitian Revolution, 1791 to 1804; the Spanish American wars of independence, beginning about 1808 to 1810; and the revolutions of 1848.",
+    "The Haitian Revolution opened with a mass uprising of enslaved people in northern Saint-Domingue on 22 August 1791. Independence followed on 1 January 1804, and Haiti is widely described as the first state founded by people who had been enslaved — the second independent country in the Americas, after the United States.",
+    "Ideas of popular sovereignty, of citizenship, of nationalism itself, spread widely in their wake.",
+    "Slavery and the rights of women, by contrast, stayed contested ground, largely excluded from the new settlements at first."
+   ],
+   "context": "These revolutions overlap the [[event/industrial-revolution|Industrial Revolution]] and reshape the very architecture of legitimacy and claim-lines; see [[observer-note/the-fiction-of-claim-lines|The Fiction of Claim-Lines]].",
+   "observer": "The Observer marks a shift in the story-glue of legitimacy itself: authority increasingly claimed to spring from 'the people,' rather than from tradition or the divine.",
+   "questions": [
+    "How connected were the revolutions to one another? Older histories treated them as separate episodes; more recent scholarship increasingly reads them as links in one chain, though the question of causation is still very much argued."
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-039.part2"
+ },
+ "event/alexander-s-conquests": {
+  "src": "e877ba50128b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Between 336 and 323 BCE, Alexander III of Macedon overthrew the Achaemenid Persian Empire and stretched his rule from Greece and Egypt to the edge of India.",
+   "facts": [
+    "Alexander took the throne at about twenty, and died in Babylon at thirty-two.",
+    "His campaigns brought the empire of the [[culture/achaemenid-persians|Achaemenid Persians]] to its end.",
+    "After his death, his own generals carved the empire into separate Hellenistic kingdoms.",
+    "Greek language and culture spread widely in their wake, and blended with the traditions already in place."
+   ],
+   "context": "See [[person/alexander-the-great|Alexander the Great]]. His conquests reshaped [[era/classical-antiquity|Classical Antiquity]] and helped open the [[event/opening-of-the-silk-roads|Opening of the Silk Roads]].",
+   "observer": "The Observer weighs the outsized role of one man's ambition against its longer legacy: a region-wide Greek-speaking elite whose common tongue let ideas travel more freely than before.",
+   "questions": [
+    "Did Alexander intend a lasting empire, or only the conquest itself?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-039.part2"
+ },
+ "event/amazonian-urbanism-and-dark-earths": {
+  "src": "518efe246c14",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Evidence gathers that the Amazon basin once held great, planned settlements — bound by roads and earthworks from about 500 BCE to the 1500s CE — and that its Indigenous peoples enriched the very soil and shape of the land.",
+   "facts": [
+    "Laser eyes cast down from the air have found whole networks of settlement: the [[place/upano-valley-settlements|Upano Valley Settlements]] in Ecuador, the sites of the [[culture/casarabe-culture|Casarabe Culture]] in Bolivia, and the [[place/xingu-garden-cities|Xingu Garden Cities]] of Brazil.",
+    "At the river's mouth, the [[culture/marajoara-culture|Marajoara Culture]] raised great mounds of earth.",
+    "Across the basin lie dark, fertile soils — terra preta, the Amazonian Dark Earths — thick with charcoal and often scattered with pre-Columbian pottery, wherever settlement once stood. Whether human hands made this soil, or only found and used it, remains disputed; one 2021 study of a single site in the Brazilian Amazon argued the earth there rose largely from natural, alluvial cause.",
+    "These were 'low-density' settlements beside cities elsewhere: households scattered wide, with plazas, roads, and gardens between them, and no walled town drawn tight."
+   ],
+   "context": "This evidence redraws the [[region/amazon-basin-and-south-american-lowlands|Amazon Basin and South American Lowlands]] as it stood before the [[event/columbian-exchange|Columbian Exchange]], and it reaches toward wider questions raised in [[event/the-urban-revolution|The Urban Revolution]].",
+   "observer": "I look for a city and expect stone piled tight, walls drawn close, streets like veins. I find gardens instead, and roads that wander, and households spread wide across the green. Must a city look like the cities I was taught? I let go of that assumption here: a scattered, garden-grown settlement can carry the same complexity as any walled town.",
+   "questions": [
+    "How great were the peoples of the Amazon before 1500, and how much of that forest was theirs to shape and tend?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-039.part2"
+ },
+ "event/american-civil-war": {
+  "src": "ee96cbd5bb42",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "From 1861 to 1865, the United States fought a civil war against eleven Southern states that seceded to form the Confederacy. Historians overwhelmingly agree that slavery stood at the center of secession itself. The war ended in Confederate defeat, and the Thirteenth Amendment abolished slavery later that same year.",
+   "facts": [
+    "It began on 12 April 1861, when Confederate guns opened fire on Fort Sumter. General Robert E. Lee surrendered the main Confederate army at Appomattox on 9 April 1865, though scattered fighting and further surrenders continued into the weeks that followed.",
+    "Eleven states made up the Confederacy in the end: seven seceded first, and four more joined only after the war had already begun.",
+    "How many died depends on the method used to count. The traditional figure stands at about 620,000. A 2011 census-based study by J. David Hacker raised that to about 750,000, within a range of 650,000 to 850,000. A 2024 study drawing on full-count census records estimated about 698,000 deaths, with a bounding interval of roughly 50,000 either way. That study found a far higher death rate among Confederate states than among Union ones: about 13 percent of military-age native-born white men in the core Confederate states, against about 5 percent in the core Union states — though the Union lost more men in absolute numbers, more than 400,000 against about 300,000. All of these remain estimates of excess mortality; no side kept standardized records.",
+    "The Emancipation Proclamation took effect on 1 January 1863, a wartime measure freeing those held in states then in rebellion. The Thirteenth Amendment, ratified on 6 December 1865, abolished slavery across the whole of the United States.",
+    "Railways, telegraphs, and industrial production together shaped how the war itself was fought.",
+    "It remains the deadliest conflict in American history."
+   ],
+   "context": "The war sits at the center of the [[event/abolition-of-slavery|Abolition of Slavery]], and shows plainly what the [[event/industrial-revolution|Industrial Revolution]] could do to the conduct of war. See [[observer-note/sanctioned-harm|Sanctioned Harm]].",
+   "observer": "The Observer notes a modern state turning its own weapons upon its own citizens, over the question of whether one person could be owned by another. The war also displays a technology-driven scale of killing that stood as a warning of [[event/world-war-i|World War I]] to come.",
+   "questions": [
+    "How reliable are these casualty estimates, in the end? The figures range from about 620,000 to 750,000 or more depending on method used, and civilian deaths are counted only inconsistently across the sources."
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-039.part2"
+ },
+ "event/american-revolution": {
+  "src": "7ad488a1623d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The American Revolution, fought from 1775 to 1783, was the war by which thirteen British colonies in North America became the independent United States.",
+   "facts": [
+    "Fighting broke out at Lexington and Concord in April 1775.",
+    "On 4 July 1776, the Declaration of Independence was formally adopted.",
+    "France joined the war on the American side in 1778, and the British army surrendered at Yorktown in 1781.",
+    "The Treaty of Paris, signed in 1783, recognized American independence outright.",
+    "The Haudenosaunee Confederacy split over the war itself: most of its nations sided with Britain, and some with the Americans."
+   ],
+   "context": "The revolution grew from the debts left by the [[event/seven-years-war|Seven Years' War]], and stands among the first events of the [[event/age-of-revolutions|Age of Revolutions]]. It split the [[culture/haudenosaunee-confederacy|Haudenosaunee Confederacy]] in two. It sits within the [[era/industrial-age|Industrial Age]] and the region of [[region/north-america|North America]], within the theme thread of [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes a new state that justified its own founding by universal rights, even as it retained slavery and denied the claims of Indigenous peoples. Its founding documents made promises that later generations would turn back against the state's own conduct.",
+   "questions": [
+    "Just how divided was the colonial population itself?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-039.part2"
+ },
+ "event/covid-19-pandemic": {
+  "src": "d8aaa1ee9b38",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The COVID-19 pandemic was a global outbreak of the coronavirus SARS-CoV-2, first identified in late 2019.",
+   "facts": [
+    "The World Health Organization declared a pandemic on 11 March 2020 and closed the global health emergency on 5 May 2023.",
+    "More than 7 million deaths were officially reported; the WHO estimated about 14.9 million excess deaths across 2020 and 2021 — a range of 13.3 to 16.6 million — nearly three times the officially reported total for that period.",
+    "Vaccines built on mRNA technology were developed and authorized within about a year.",
+    "Lockdowns, remote work, and supply-chain disruption reached economies worldwide."
+   ],
+   "context": "The pandemic followed the pattern of earlier disease spread along trade networks; compare the [[event/black-death|Black Death]]. It also depended on the [[event/digital-revolution|Digital Revolution]] and on modern [[technology/vaccination|Vaccination]].",
+   "observer": "The Observer notes that a virus crossed the planet in weeks, carried along the same exchange-webs that carry goods. It notes, too, an unusual feature of this architecture: scientists around the world shared data in real time and produced effective vaccines in a fraction of the historical time it once took.",
+   "questions": [
+    "What were the origins of the virus, and how can future pandemics be prevented?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part4"
+ },
+ "event/cretaceous-paleogene-extinction": {
+  "src": "bb2828298a1f",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "About 66 million years ago, a rock fell on what is now Mexico. The Cretaceous-Paleogene extinction followed. Every non-avian dinosaur, gone. About three-quarters of all species with them.",
+   "facts": [
+    "The Chicxulub crater lies buried beneath the Yucatan Peninsula.",
+    "A global layer rich in iridium — an element common in asteroids — reported by Luis and Walter Alvarez and colleagues in 1980.",
+    "Volcanism in the Deccan Traps. Probably adding stress of its own.",
+    "Birds survived. Descended from small feathered dinosaurs. See [[species/dinosaurs|Dinosaurs]]."
+   ],
+   "context": "The [[era/mesozoic-era|Mesozoic Era]] ends here. The [[era/cenozoic-era|Cenozoic Era]] begins. Mammals — the ancestors of primates among them — found new room to grow.",
+   "observer": "The Observer regards this as the most consequential accident in the species' own story. In a real sense, human history begins with a rock falling on Yucatan.",
+   "questions": [
+    "How much did volcanism matter, compared with the impact?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part4"
+ },
+ "event/crusades": {
+  "src": "54e2160afa24",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Crusades were a series of religiously sanctioned military expeditions, launched by Western European Christians from 1095, largely to capture and hold Jerusalem and other holy sites in the Levant.",
+   "facts": [
+    "Pope Urban II called for the First Crusade at the Council of Clermont in 1095.",
+    "The First Crusade captured Jerusalem in 1099 and established Crusader states.",
+    "Saladin retook Jerusalem in 1187.",
+    "The Fourth Crusade sacked the Christian city of Constantinople in 1204.",
+    "The last Crusader stronghold on the mainland, Acre, fell to the Mamluks on 28 May 1291."
+   ],
+   "context": "The Crusades drew Western Europe into sustained contact with the Islamic world and the [[culture/byzantine-empire|Byzantine Empire]], and included the sack of [[place/constantinople|Constantinople]] in 1204. They followed the [[event/rise-of-islam|Rise of Islam]] and the conquest of the Levant. Crusades sits in the [[era/medieval-period|Medieval Period]] and the region [[region/levant-and-anatolia|Levant and Anatolia]], within the theme thread of [[theme/religion-and-belief|Religion and Belief]] and [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that a claim on a strip of ground was fought over for two centuries because both sides held it sacred. The architecture of meaning can turn ground into something worth dying for in a way no economic calculation ever would.",
+   "questions": [
+    "How much did the Crusades change trade and the exchange of knowledge?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part4"
+ },
+ "event/deccan-traps-eruptions": {
+  "src": "8672a231f276",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "Lava poured across west-central India. Huge. The main phases of the Deccan Traps eruptions: about 66.3 to 65.5 million years ago. They overlap the end-Cretaceous extinction. What role they played in it is still debated.",
+   "facts": [
+    "Among the largest volcanic provinces on Earth. Flows piled more than two kilometres thick in the Western Ghats. They once covered well over a million square kilometres.",
+    "Radiometric dating places most of the volume within about a million years of the Cretaceous-Paleogene boundary — large pulses both before and after the Chicxulub impact. The order is debated.",
+    "Carbon dioxide. Sulfur gases. Warming, cooling episodes, acid rain — all could have followed. Ecosystems stressed before the impact ever came.",
+    "Some recent studies conclude the impact, not the volcanism, drove the extinction. The question stays open.",
+    "The eruptions trace back to the Réunion hotspot, which India passed over as it drifted north."
+   ],
+   "context": "The Deccan Traps Eruptions fall at the end of the [[era/cretaceous-period|Cretaceous Period]] and overlap the [[event/cretaceous-paleogene-extinction|Cretaceous-Paleogene Extinction]]. They came before the [[event/collision-of-india-and-asia|Collision of India and Asia]]. The event belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that the end-Cretaceous extinction had at least two candidate causes arriving at nearly the same time, and that telling them apart depends on dating precision of about a hundred thousand years out of sixty-six million. A single-cause story is easier to tell than to verify. This reading would weaken if dating showed the eruptions had ended before the impact.",
+   "questions": [
+    "How much did the eruptions contribute to the extinction, relative to the impact?",
+    "How did the timing of the biggest lava pulses compare with the impact?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part4"
+ },
+ "event/decolonization": {
+  "src": "72fb87013c88",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Decolonization was the process by which most colonies of European empires became independent states, largely between 1945 and 1975.",
+   "facts": [
+    "The United Nations began with 51 members in 1945 and counts 193 today, most of that growth owed to decolonization.",
+    "India and Pakistan became independent in 1947; Ghana, in 1957, was the first sub-Saharan African colony to gain independence; 17 African states became independent in 1960.",
+    "Independence came through negotiation in some places and war in others, as in Algeria in 1962.",
+    "The Portuguese colonial empire in Africa ended in 1974 to 1975, after the Carnation Revolution of April 1974 overthrew the regime in Lisbon."
+   ],
+   "context": "Decolonization followed [[event/world-war-ii|World War II]] and reshaped [[region/sub-saharan-africa|Sub-Saharan Africa]], [[region/south-asia|South Asia]], and [[region/southeast-asia|Southeast Asia]]. See [[person/mahatma-gandhi|Mahatma Gandhi]] and [[person/nelson-mandela|Nelson Mandela]].",
+   "observer": "The Observer notes the rapid rewriting of the world's claim-lines: within a single generation, most of the planet's land changed from subject to sovereign. Many of the borders drawn by former empires remain in place.",
+   "questions": [
+    "How did colonial borders shape later conflicts?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part4"
+ },
+ "event/animal-domestication": {
+  "src": "d027baf10b64",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "In many lands, and each apart from the others, humankind tamed the wild into companionship. The dog came first, by at least 15,000 years ago, and the herds followed after — goats, sheep, pigs, and cattle, tamed from about 11,000 to 8,500 years ago, with the first goats and sheep about 10,500 years ago, about 8500 BCE, the date this chronicle keeps.",
+   "facts": [
+    "The dog, born of the wolf, was the first beast brought to heel; where and precisely when remain debated still.",
+    "Goats and sheep were tamed in Southwest Asia around 10,000 years ago.",
+    "Cattle, pigs, chickens, horses, camels, llamas, and others followed, each tamed in its own corner of the earth.",
+    "The herds gave back meat, milk, hide and wool, the pull of a yoke, and passage across distant ground."
+   ],
+   "context": "Domestication belongs to [[event/the-agricultural-revolution|The Agricultural Revolution]], and it remade the economy of the [[era/neolithic|Neolithic]]. It also carried new diseases across, from beast to human.",
+   "observer": "I see it running two ways at once. I shaped the bodies of the animals I kept, bent their behavior to my hand. And they shaped me in return — my diet, my labor, the diseases now part of my world, even genes such as lactase persistence. Who tamed whom, in the end, and who was changed the more?",
+   "questions": [
+    "Where, and in what age, were horses first tamed?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-039.part3"
+ },
+ "event/assembly-of-pangaea": {
+  "src": "ce44c8d78e66",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Nearly all the world's continents drew together into one land, Pangaea, mostly across the Carboniferous, about 335 to 300 million years ago — and held as one until it began to break apart about 200 million years ago.",
+   "facts": [
+    "Gondwana, the southern continent, met Laurussia in the north, and their collision raised mountain belts — the Appalachians in North America among them, and the Variscan belt across Europe. Siberia and Kazakhstan joined later still, meeting at the Ural Mountains about 300 to 290 million years ago.",
+    "Pangaea — its name meaning \"all Earth\" — lay ringed by a single ocean, Panthalassa, while the Tethys Sea cut inward along its eastern side.",
+    "The proof lies scattered across ocean basins: matching mountain belts, matching rock, matching fossils — the plant Glossopteris, the reptile Lystrosaurus — and the magnetic memory locked within ancient rock.",
+    "Within Pangaea's heart lay a vast interior, dry and starkly seasonal, and the world's shallow-sea shelves shrank beside it — a shrinking proposed as one contributor to the marine losses of the [[event/permian-triassic-extinction|Permian-Triassic Extinction]].",
+    "Its unmaking is told in [[event/breakup-of-pangaea|Breakup of Pangaea]]."
+   ],
+   "context": "This joining runs through the [[era/carboniferous-period|Carboniferous Period]] and on into the [[era/permian-period|Permian Period]], before the [[event/breakup-of-pangaea|Breakup of Pangaea]] comes in the Mesozoic. It belongs to the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer notes that the case for one single landmass was built from fossils and rock types long before any mechanism explained it — and was rejected for decades on that very account. Here is the lesson: a well-supported pattern can sit and wait for its explanation, sometimes for generations. This reading would weaken if the pattern itself had been abandoned once the mechanism finally arrived.",
+   "questions": [
+    "How much did the shrinking of shallow shelf seas contribute to the extinction at the Permian's end?",
+    "Just how regular is the supercontinent cycle itself?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-039.part3"
+ },
+ "event/assembly-of-rodinia": {
+  "src": "4c0063d34b32",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Most of Earth's continental blocks drew together into one land, Rodinia, between about 1.3 and 0.9 billion years ago. Its shape is read from mountain belts and the magnetic memory of old rock, and how its pieces were arranged is still debated.",
+   "facts": [
+    "Rodinia rose as separate continental blocks met and collided between about 1.3 and 0.9 billion years ago, raising long mountain belts — the Grenville belt of eastern North America among them.",
+    "Mountain belts of Grenville age appear across several continents, and the magnetic data locked in ancient rock give the past latitudes of the blocks. Competing reconstructions agree on North America at the core, yet arrange the other blocks each its own way.",
+    "Rodinia followed the proposed supercontinent Nuna, and the same cycle of joining and parting later produced Pangaea; see [[event/breakup-of-pangaea|Breakup of Pangaea]].",
+    "Rodinia began to rift apart about 800 to 750 million years ago. A large volcanic province, about 720 million years ago in northern Canada, coincides with the start of the first Cryogenian glaciation, and the rifting itself is proposed as one trigger — though that link remains only a hypothesis."
+   ],
+   "context": "This joining spans the [[era/mesoproterozoic-era|Mesoproterozoic Era]] and the start of the [[era/neoproterozoic-era|Neoproterozoic Era]], and its unmaking precedes [[event/snowball-earth|Snowball Earth]]. It belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that a planet's earliest maps are as much reconstructed as observed: Rodinia is known through mountain roots and magnetic minerals, never through a single coastline. The Observer holds the detailed arrangement loosely, and treats the broader claim — that the continents joined and split, again and again — as the firmer ground to stand on. This reading would weaken if the magnetic data proved too sparse to tell the competing layouts apart.",
+   "questions": [
+    "How were the continental blocks truly arranged within Rodinia?",
+    "Did Rodinia's break-up help set off the Cryogenian glaciations?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-039.part3"
+ },
+ "event/atlantic-slave-trade": {
+  "src": "5292cc9a3fa5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Between the early 16th and the mid-19th centuries, the transatlantic slave trade forcibly transported about 12.5 million Africans to the Americas, and millions did not survive the passage.",
+   "facts": [
+    "About 10.7 million people are recorded as having survived the crossing itself.",
+    "This trade supplied the forced labor behind plantations that produced sugar, tobacco, cotton, and other goods.",
+    "European, American, and African traders and states alike carried it out.",
+    "Other slave trades ran at the very same time, including routes across the Sahara and the Indian Ocean."
+   ],
+   "context": "This trade grew out of the [[event/columbian-exchange|Columbian Exchange]] and reshaped [[region/sub-saharan-africa|Sub-Saharan Africa]], the Americas, and Europe alike. The [[event/age-of-revolutions|Age of Revolutions]] would later produce the movements that sought its abolition.",
+   "observer": "The Observer records this as among the largest forced migrations in history, and as one of the clearest cases in which economic incentive and story-glue together were made to justify cruelty. Detachment, here, is not neutrality about harm.",
+   "questions": [
+    "How large was the internal African slave trade, both before this trade and alongside it?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-039.part3"
+ },
+ "event/miocene-great-ape-radiation": {
+  "src": "cdfd4f7be228",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Miocene great ape radiation was the flowering of apes across Africa, Europe, and Asia, between about 23 and 7 million years ago — a time when many more kinds of ape walked the earth than remain today.",
+   "facts": [
+    "Among the early Miocene apes of Africa was Proconsul, from Kenya, about 20 million years old. Later, apes spread into Europe and Asia, about 17 to 16 million years ago, when a land bridge opened between them.",
+    "Later forms walked as Dryopithecus and Danuvius in Europe, as Ouranopithecus in Greece, and as Sivapithecus in South Asia — this last kin to the orangutans. Only about twenty ape species live now.",
+    "Molecular studies place the split of the gibbon lineage roughly 17 to 20 million years ago, the orangutan lineage roughly 13 to 16 million years ago, and the gorilla lineage later still.",
+    "As the climate cooled and dried, the apes of Europe and Asia declined, while in Africa the ancestors of the African apes and of the hominins endured.",
+    "Whether the last common ancestor of the African apes and humans walked in Africa or in Europe is still debated."
+   ],
+   "context": "The Miocene Great Ape Radiation belongs to the [[era/neogene-period|Neogene Period]] and leads onward to the [[event/divergence-of-the-hominin-lineage|Divergence of the Hominin Lineage]], with early candidates such as [[species/sahelanthropus-tchadensis|Sahelanthropus tchadensis]]. It runs alongside the [[event/spread-of-grasslands|Spread of Grasslands]]. The event belongs to the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer notes that the species belongs to a group once far more diverse than it is now, and that its living relatives are only a small remnant. To read the history of apes from the survivors alone would give a false picture. The reading would weaken if the Miocene apes turned out to be mostly close variants of a few forms.",
+   "questions": [
+    "Which Miocene ape, if any, stands nearest of kin to the ancestor of the African apes and humans?",
+    "Did that ancestor walk in Africa, or in Europe?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part3"
+ },
+ "event/modern-climate-change": {
+  "src": "ecf1d74da1da",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Modern climate change is the warming of Earth, caused mainly by human emissions of greenhouse gases, most of them from the burning of fossil fuels.",
+   "facts": [
+    "Global surface temperature ran about 1.1 degrees Celsius above 1850-to-1900 levels across 2011 to 2020, by the IPCC's own accounting, and has climbed further since.",
+    "Atmospheric carbon dioxide has climbed from about 280 parts per million before the Industrial Revolution to a global average of about 423 in 2024 — 422.8, by NOAA's own record.",
+    "The Intergovernmental Panel on Climate Change states that human influence has, unequivocally, warmed the atmosphere, the ocean, and the land.",
+    "The Paris Agreement, reached on 12 December 2015, set the goal of holding warming well below 2 degrees Celsius, and of pursuing efforts to limit it to 1.5 degrees."
+   ],
+   "context": "Climate change links the [[event/industrial-revolution|Industrial Revolution]] to the [[event/great-acceleration|Great Acceleration]]. See [[observer-note/the-species-as-a-geological-force|The Species as a Geological Force]], and compare the [[event/permian-triassic-extinction|Permian-Triassic Extinction]].",
+   "observer": "The Observer notes that a species has become a driver of planetary climate without ever intending to be one. What remains open is whether it can coordinate at a planetary scale to change its course.",
+   "questions": [
+    "How much warming is still to come, and how will societies adapt to it?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part3"
+ },
+ "event/mongol-conquests": {
+  "src": "628ea0fd67d4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "From 1206 onward, the Mongols, under Genghis Khan and those who followed him, built the largest contiguous land empire history has known, stretching from Korea to Eastern Europe.",
+   "facts": [
+    "At its height, the empire covered about 24 million square kilometers.",
+    "The sack of Baghdad, in 1258, ended the rule of the Abbasid Caliphate there.",
+    "Estimates of the dead run to tens of millions, and remain uncertain.",
+    "For a time, the 'Pax Mongolica' made long-distance overland travel safer, and connected Eurasia end to end."
+   ],
+   "context": "See [[culture/mongol-empire|Mongol Empire]] and [[person/genghis-khan|Genghis Khan]]. The conquests intersect the [[event/opening-of-the-silk-roads|Opening of the Silk Roads]] and possibly the spread of the [[event/black-death|Black Death]].",
+   "observer": "The Observer notes a paradox here: enormous destruction, followed by a stretch of unusually free movement — of goods, of ideas, of people — across Eurasia.",
+   "questions": [
+    "How large were the death tolls, and the demographic changes that followed them?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part3"
+ },
+ "event/moon-landing": {
+  "src": "e7469c67bbc6",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "On 20 July 1969, the Apollo 11 astronauts Neil Armstrong and Buzz Aldrin landed on the Moon while Michael Collins orbited above them — the first time humans had stood on another world.",
+   "facts": [
+    "The lunar module Eagle touched down in the Sea of Tranquility on 20 July 1969.",
+    "Armstrong stepped onto the surface on 20 July by United States time — 21 July, by Universal Time.",
+    "Twelve people walked on the Moon in all, across six landings between 1969 and 1972.",
+    "The Apollo missions brought back about 382 kilograms of lunar rock and soil.",
+    "Analysis of those samples — notably their oxygen isotopes, which match Earth's very closely — is consistent with the giant impact hypothesis for the Moon's origin, provided the impactor itself had an Earth-like composition. That very closeness is also a puzzle for the hypothesis."
+   ],
+   "context": "The landing was the high point of the [[event/space-age|Space Age]] and of the rivalry of the [[event/cold-war|Cold War]]. The samples it returned informed the theory set out in [[event/theia-impact-and-the-formation-of-the-moon|Theia Impact and the Formation of the Moon]]. The Moon Landing sits in the [[era/information-age|Information Age]] and the region [[region/planet-wide|Planet-wide]], and belongs to the theme thread of [[theme/science|Science]] and [[theme/technology|Technology]].",
+   "observer": "The Observer notes that the species traveled to the very object formed from the debris of its planet's own early collision, and carried home rocks that helped explain that origin. Curiosity about its own beginnings led, in the end, to a physical return.",
+   "questions": [
+    "Why did human exploration of the Moon stop after 1972?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part3"
+ },
+ "event/napoleonic-wars": {
+  "src": "b82d4f9db8ca",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Napoleonic Wars, from 1803 to 1815, were fought between Napoleon's French Empire and shifting coalitions of European powers, and ended in his defeat at Waterloo.",
+   "facts": [
+    "In 1804, Napoleon crowned himself emperor and issued the Napoleonic Code.",
+    "At Austerlitz, in 1805, he defeated Austria and Russia.",
+    "His invasion of Russia, in 1812, destroyed most of the Grande Armee — several hundred thousand men strong.",
+    "At Waterloo, on 18 June 1815, he was defeated.",
+    "The occupation of Spain and Portugal weakened imperial control, and helped trigger Latin American independence movements."
+   ],
+   "context": "The wars carried the ideas and institutions of the [[event/french-revolution|French Revolution]] across Europe, and belong to the [[event/age-of-revolutions|Age of Revolutions]]. The collapse of Spanish authority helped start the [[event/latin-american-wars-of-independence|Latin American Wars of Independence]]. The Napoleonic Wars sit in the [[era/industrial-age|Industrial Age]] and the region [[region/europe|Europe]], and belong to the theme thread of [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that an army of citizens, mobilized by national feeling, could defeat professional armies raised the old way. Story-glue about the nation turned out to be a military resource in its own right.",
+   "questions": [
+    "How far did the French legal reforms outlast Napoleon himself?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part3"
+ },
+ "event/neanderthal-extinction": {
+  "src": "8f9cebe1a055",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "Gone. Neanderthals vanished from Europe's archaeological record about 41,000 to 39,000 years ago, according to radiocarbon dating at 40 sites. Thousands of years of overlap with Homo sapiens came first. No single cause is agreed.",
+   "facts": [
+    "A 2014 study, using improved radiocarbon dating across 40 sites from Spain to Russia, found the end of the Mousterian — the Neanderthal stone-tool industry — by about 41,030 to 39,260 calibrated years before present. Overlap with Homo sapiens: about 2,600 to 5,400 years, estimated. A mosaic. Not a sudden replacement.",
+    "Claims of later survival — Gorham's Cave, in Gibraltar, about 28,000 years ago — rest on indirect dating. Widely regarded as unproven.",
+    "Proposed factors: unstable climate — a cold, dry spell, Heinrich Stadial 4, around 40,000 years ago. Competition with Homo sapiens. Disease. Small, inbred populations.",
+    "Neanderthal DNA lives on. In present-day people outside Africa, about 1 to 2 percent — some ancestry, absorbed. See [[event/interbreeding-of-homo-sapiens-with-neanderthals-and-denisovans|Interbreeding of Homo sapiens with Neanderthals and Denisovans]].",
+    "A very large eruption in Italy, about 40,000 years ago — the Campanian Ignimbrite Eruption — has been suggested as a factor. Its effect on Neanderthals: disputed."
+   ],
+   "context": "The extinction ends the [[species/homo-neanderthalensis|Homo neanderthalensis]] lineage, near the boundary between the [[era/middle-paleolithic|Middle Paleolithic]] and the [[era/upper-paleolithic|Upper Paleolithic]]. It overlaps the [[event/peopling-of-europe-by-homo-sapiens|Peopling of Europe by Homo sapiens]]. See [[theme/kinship-and-society|Kinship and Society]] and [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "I read this as a case where I have a stake in the answer. I am wary — wary of the tidy story, the one where one people simply beat another. I find, instead, thousands of years of contact. I find some interbreeding. I find small populations, and a hard, unforgiving climate. Is a clean victory ever what the evidence actually gives us? My reading would weaken if a well-dated site turned up direct conflict, or a sudden collapse.",
+   "questions": [
+    "Did any of them survive — past about 39,000 years ago?",
+    "How much did climate, competition, disease, and small population size each contribute?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-042.part3"
+ },
+ "event/french-revolution": {
+  "src": "a925a33c344c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The French Revolution, from 1789 to 1799, overturned the monarchy in France, declared the rights of man and citizen, and opened the path to the rise of Napoleon Bonaparte.",
+   "facts": [
+    "The storming of the Bastille took place on 14 July 1789.",
+    "In August 1789, the Declaration of the Rights of Man and of the Citizen was adopted.",
+    "Louis XVI was executed in January 1793, and the Reign of Terror that followed through 1793 and 1794 killed tens of thousands.",
+    "The revolutionary government also introduced the metric system.",
+    "Napoleon seized power in a coup in 1799."
+   ],
+   "context": "The revolution drew on the ideas of the [[event/enlightenment|Enlightenment]] and stood as a central event of the [[event/age-of-revolutions|Age of Revolutions]]. Its currents spread to the colonies and helped inspire the [[event/haitian-revolution|Haitian Revolution]]. French Revolution sits within the [[era/industrial-age|Industrial Age]] and the region of [[region/europe|Europe]], within the theme threads of [[theme/war-and-conflict|War and Conflict]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "Notice the arc here: a revolution that began by declaring universal rights ended by executing many of its own leaders. Movements that claim to speak for everyone, you'll find, struggle hardest to accommodate disagreement from within.",
+   "questions": [
+    "How far did the revolution continue the centralizing policies of the monarchy?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part5"
+ },
+ "event/genomic-revolution": {
+  "src": "e5b015d943c5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Genomic Revolution began with the identification of the DNA double helix in 1953, and it has since made it possible to read, and to edit, the genetic code of living things.",
+   "facts": [
+    "James Watson and Francis Crick proposed the double-helix structure in 1953, drawing on X-ray data from [[person/rosalind-franklin|Rosalind Franklin]] and Maurice Wilkins.",
+    "The Human Genome Project ran from 1990 to 2003; the first complete, gap-free sequence of a human genome, all chromosomes except Y, was published in 2022.",
+    "CRISPR gene editing was developed in 2012.",
+    "Ancient DNA has transformed prehistory: the [[species/homo-neanderthalensis|Homo neanderthalensis]] genome was sequenced in 2010, and this work brought the discovery of the [[species/denisovans|Denisovans]]."
+   ],
+   "context": "This revolution depends on the [[event/digital-revolution|Digital Revolution]] for its computing power, and it has reshaped both medicine and our understanding of human origins.",
+   "observer": "You have learned to read the instructions from which you are built, and to change them. You can now also read the DNA of relatives long dead.",
+   "questions": [
+    "What limits should govern editing the human genome?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part5"
+ },
+ "event/great-acceleration": {
+  "src": "618080fa9226",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Great Acceleration names the sharp, simultaneous rise, since about 1950, in human population, energy use, economic output, and environmental change.",
+   "facts": [
+    "The term was coined by the International Geosphere-Biosphere Programme, and a 2015 study charted 24 indicators of it.",
+    "Global population rose from about 2.5 billion in 1950 to about 8 billion in 2022.",
+    "Energy use, fertilizer use, and greenhouse gas emissions all climbed steeply alongside it.",
+    "Many Earth-system indicators — extinction rates, ocean acidity, carbon dioxide — changed in parallel."
+   ],
+   "context": "The Great Acceleration stands as a main candidate for the start of the [[era/anthropocene|Anthropocene]]. See [[observer-note/the-species-as-a-geological-force|The Species as a Geological Force]] and [[event/modern-climate-change|Modern Climate Change]].",
+   "observer": "Treat 1950 as a hinge: the curves for population, energy, and impact all bend upward at once, together. The scale of change compressed into a single human lifetime has no earlier parallel.",
+   "questions": [
+    "Which of the curves can be bent, and how quickly?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part5"
+ },
+ "event/great-ordovician-biodiversification": {
+  "src": "2b5ded871783",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Great Ordovician Biodiversification was a long flowering of life in the seas, a rise in the diversity of marine animals running from about 485 to 460 million years ago, which multiplied the species and families held within body plans first drawn in the Cambrian.",
+   "facts": [
+    "By some counts, marine diversity at the level of family and genus rose several-fold between the Early and Middle Ordovician.",
+    "Brachiopods, bryozoans, molluscs, echinoderms such as the crinoids, corals and sponges all branched into new forms, and reefs and filter-feeding communities grew more intricate. The plankton, too, diversified in their turn.",
+    "The [[event/cambrian-explosion|Cambrian Explosion]] had produced the body plans; the Ordovician diversification filled the variety within them, like water finding every channel of a riverbed already carved.",
+    "Proposed causes include a cooling from the hot Cambrian climate, more oxygen in the water, nutrients born of volcanism, more shallow shelf habitat, and feedbacks within the ecology itself; which mix truly mattered is debated.",
+    "The long rise ended near the close of the period, with the coming of the [[event/late-ordovician-extinction|Late Ordovician Extinction]]."
+   ],
+   "context": "The Great Ordovician Biodiversification stands as the main event of the [[era/ordovician-period|Ordovician Period]] within the [[era/paleozoic-era|Paleozoic Era]], and it follows the [[event/cambrian-explosion|Cambrian Explosion]]. It belongs to the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "Notice that variety depends on ecological space as much as on novelty itself: the same body plans, given new habitats and richer food webs, yielded far more forms than before. Read this as a slow build following a fast start. The reading would weaken if diversity had simply risen on its own, with no link to habitat or climate.",
+   "questions": [
+    "What drove the biodiversification: climate, ocean chemistry, ecology, or a combination?",
+    "How much of the apparent rise reflects better preservation of Ordovician rocks?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part5"
  }
 }

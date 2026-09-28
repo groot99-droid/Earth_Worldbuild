@@ -1,80 +1,95 @@
 <!-- batch site-039 · target site · 33 items · rules: _Rewrite/VOICES.md -->
 
-=== culture/shinto
-src: 3c5bfad5a45b
+=== event/animal-domestication
+title: Animal Domestication
+src: d027baf10b64
 mode: epic-fantasy
 observer_mode: confessional-poetry
 --- summary
-Shinto is the indigenous religious tradition of Japan, gathered around kami, a broad category of spirits, deified ancestors and natural forces. It has no single founder and no single scripture, only a long history of local shrine practice, like springs rising in many valleys.
+In many lands, and each apart from the others, humankind tamed the wild into companionship. The dog came first, by at least 15,000 years ago, and the herds followed after — goats, sheep, pigs, and cattle, tamed from about 11,000 to 8,500 years ago, with the first goats and sheep about 10,500 years ago, about 8500 BCE, the date this chronicle keeps.
 --- fact 1
-Its practices trace back to communal rites of purification, offering and harmony with nature among the agricultural communities of the Yayoi period, roughly 300 BCE to 300 CE; it has no founder and no original canonical text, as a river has no single first drop.
+The dog, born of the wolf, was the first beast brought to heel; where and precisely when remain debated still.
 --- fact 2
-Kami covers gods, spirits, deified people, ancestors and natural phenomena, all worshipped through offerings and ritual at shrines.
+Goats and sheep were tamed in Southwest Asia around 10,000 years ago.
 --- fact 3
-By 1945 Japan held 218 national shrines and about 110,000 local ones, scattered like lanterns across the land.
+Cattle, pigs, chickens, horses, camels, llamas, and others followed, each tamed in its own corner of the earth.
 --- fact 4
-From 1882 State Shinto held that the emperor was descended from the sun goddess Amaterasu and demanded loyalty on that ground, until the Allied occupation's 1945 Shinto Directive ended state sponsorship and the emperor renounced his claims to divinity.
---- fact 5
-Only 3 to 4 million people worldwide formally identify as Shinto, though many in Japan take part in its rites alongside Buddhism, two streams sharing one bed.
+The herds gave back meat, milk, hide and wool, the pull of a yoke, and passage across distant ground.
 --- context
-Shinto grew in [[region/east-asia|East Asia]], in Japan, during the [[era/iron-age|Iron Age]], with no single founding date. Around the reign of [[person/emperor-meiji|Emperor Meiji]] it was marshalled as State Shinto, and it lost state sponsorship after [[event/world-war-ii|World War II]]. See [[theme/religion-and-belief|Religion and Belief]].
+Domestication belongs to [[event/the-agricultural-revolution|The Agricultural Revolution]], and it remade the economy of the [[era/neolithic|Neolithic]]. It also carried new diseases across, from beast to human.
 --- observer
-The Observer notes that a diffuse tradition of local shrine practice was gathered in the late nineteenth century and pointed at one claim, the emperor's divine descent, so that scattered story-glue became a tool of the state, and occupying powers dismantled it in a single directive.
-
-I think of how a people's rites can be taken up and aimed. I think of how quickly the aiming can be undone. I think of the shrines that remained.
-
-Few people formally name Shinto as their religion, yet many join its shrine rites, so identification counts little of the practice. What does a census know of a morning at a shrine? A specialist could argue that participation, not adherent counts, is what measures the tradition, and that argument would weaken any reading of its reach drawn from identification numbers alone. What we do may say more than what we name.
+I see it running two ways at once. I shaped the bodies of the animals I kept, bent their behavior to my hand. And they shaped me in return — my diet, my labor, the diseases now part of my world, even genes such as lactase persistence. Who tamed whom, in the end, and who was changed the more?
 --- question 1
-How far does formal identification undercount the real participation in Shinto practice?
---- question 2
-How much of the shrine practice seen today reaches back to before the State Shinto period?
+Where, and in what age, were horses first tamed?
 
-=== culture/sikhism
-src: 93867f15c5ee
-mode: epic-fantasy
-observer_mode: confessional-poetry
---- summary
-Sikhism began in the Punjab region of South Asia with the teaching of Guru Nanak, born in 1469, and grew, as a tree grows ring by ring, through a line of ten human teachers into a monotheistic tradition with its own scripture and, since 1699, a formal order of initiated members called the Khalsa.
---- fact 1
-Guru Nanak (1469 to 1539) taught belief in one God, equality across the lines of caste, and a turning away from ritualism, and he gathered the first Sikh community in Punjab.
---- fact 2
-Nine more teachers came after him; together they are the Ten Gurus, regarded by Sikhs as sharing one continuous spirit of guidance, as one light is carried through many lamps.
---- fact 3
-In 1699 the tenth guru, Gobind Singh, founded the Khalsa, a discipline of initiated Sikhs marked by the Five Ks, articles of faith that include uncut hair, organized in part to defend the faith.
---- fact 4
-Before his death, Gobind Singh declared that Sikhs should hold their scripture, the Guru Granth Sahib, a gathering of hymns by the gurus and other spiritual figures, as their living guru; with that the line of human gurus closed.
---- fact 5
-About 25 to 30 million Sikhs live today, most of them in Punjab, India, where they form a majority of the region's population, with further communities spread like carried seed across the global Sikh diaspora.
---- context
-Sikhism rose in [[region/south-asia|South Asia]] during the [[era/medieval-period|Medieval Period]], within the Punjab region that was later ruled in part by the [[culture/mughal-empire|Mughal Empire]]. See [[theme/religion-and-belief|Religion and Belief]].
---- observer
-The Observer notes that in the years after 1699, when the line of living teachers came to its end, the community shifted its memory-outsourcing onto a book and declared a text itself a guru: an unusual solution, where other traditions turn to institutions or bloodlines.
-
-I have trusted people to remember for me. I have trusted stone. I have trusted blood. What would it mean to open a book and find a living teacher?
-
-The Khalsa shows, too, a meaning-engine taking sanctioned self-defense into its identity in response to persecution. A specialist could argue that ending the line of human gurus reflected the particular circumstances of Gobind Singh's own time as much as settled theology, which would weaken any reading of it as inevitable. What is chosen under pressure is still chosen.
---- question 1
-How did the decision to close the line of human gurus shape the community's later development?
---- question 2
-How much of the Khalsa's military character answers specific persecution, and how much was meant as a permanent feature of the faith?
-
-=== culture/sintashta-culture
-src: 1637ed28afb4
+=== event/assembly-of-pangaea
+title: Assembly of Pangaea
+src: ce44c8d78e66
 mode: epic-fantasy
 observer_mode: essay-self-help
 --- summary
-The Sintashta culture was a Bronze Age society of the southern Urals steppe, from about 2100 to 1800 BCE, known for fortified settlements ringed like the growth of a tree and for the earliest known spoke-wheeled chariots.
+Nearly all the world's continents drew together into one land, Pangaea, mostly across the Carboniferous, about 335 to 300 million years ago — and held as one until it began to break apart about 200 million years ago.
 --- fact 1
-About 20 or more fortified settlements are known, Sintashta and Arkaim among them, with concentric walls, ditches and towers coiled like the rings of a shell.
+Gondwana, the southern continent, met Laurussia in the north, and their collision raised mountain belts — the Appalachians in North America among them, and the Variscan belt across Europe. Siberia and Kazakhstan joined later still, meeting at the Ural Mountains about 300 to 290 million years ago.
 --- fact 2
-Elite graves hold horses, weapons and chariots with spoked wheels, dated to about 2000 BCE.
+Pangaea — its name meaning "all Earth" — lay ringed by a single ocean, Panthalassa, while the Tethys Sea cut inward along its eastern side.
 --- fact 3
-The culture is often linked, though not conclusively, to speakers of early Indo-Iranian languages, a thread not yet tied off.
+The proof lies scattered across ocean basins: matching mountain belts, matching rock, matching fossils — the plant Glossopteris, the reptile Lystrosaurus — and the magnetic memory locked within ancient rock.
 --- fact 4
-Chariot warfare later spread across Eurasia like wind across the grasslands.
+Within Pangaea's heart lay a vast interior, dry and starkly seasonal, and the world's shallow-sea shelves shrank beside it — a shrinking proposed as one contributor to the marine losses of the [[event/permian-triassic-extinction|Permian-Triassic Extinction]].
+--- fact 5
+Its unmaking is told in [[event/breakup-of-pangaea|Breakup of Pangaea]].
 --- context
-See [[technology/the-wheel|The Wheel]] and [[event/indo-european-language-spread|Indo-European Language Spread]]. The Sintashta may have fed chariot use in the [[region/central-asian-steppe|Central Asian Steppe]] and in Near Eastern warfare.
+This joining runs through the [[era/carboniferous-period|Carboniferous Period]] and on into the [[era/permian-period|Permian Period]], before the [[event/breakup-of-pangaea|Breakup of Pangaea]] comes in the Mesozoic. It belongs to the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].
 --- observer
-The Observer notes a culture of walled villages and elite horse burials, a sign that violence and prestige were entangled with a new technology. You can see the architecture of it: the wall, the horse, the chariot in the grave. New tools rarely arrive without status riding on their backs.
+The Observer notes that the case for one single landmass was built from fossils and rock types long before any mechanism explained it — and was rejected for decades on that very account. Here is the lesson: a well-supported pattern can sit and wait for its explanation, sometimes for generations. This reading would weaken if the pattern itself had been abandoned once the mechanism finally arrived.
 --- question 1
-How did the Sintashta stand in relation to the later Indo-Iranian peoples?
+How much did the shrinking of shallow shelf seas contribute to the extinction at the Permian's end?
+--- question 2
+Just how regular is the supercontinent cycle itself?
+
+=== event/assembly-of-rodinia
+title: Assembly of Rodinia
+src: 4c0063d34b32
+mode: epic-fantasy
+observer_mode: essay-self-help
+--- summary
+Most of Earth's continental blocks drew together into one land, Rodinia, between about 1.3 and 0.9 billion years ago. Its shape is read from mountain belts and the magnetic memory of old rock, and how its pieces were arranged is still debated.
+--- fact 1
+Rodinia rose as separate continental blocks met and collided between about 1.3 and 0.9 billion years ago, raising long mountain belts — the Grenville belt of eastern North America among them.
+--- fact 2
+Mountain belts of Grenville age appear across several continents, and the magnetic data locked in ancient rock give the past latitudes of the blocks. Competing reconstructions agree on North America at the core, yet arrange the other blocks each its own way.
+--- fact 3
+Rodinia followed the proposed supercontinent Nuna, and the same cycle of joining and parting later produced Pangaea; see [[event/breakup-of-pangaea|Breakup of Pangaea]].
+--- fact 4
+Rodinia began to rift apart about 800 to 750 million years ago. A large volcanic province, about 720 million years ago in northern Canada, coincides with the start of the first Cryogenian glaciation, and the rifting itself is proposed as one trigger — though that link remains only a hypothesis.
+--- context
+This joining spans the [[era/mesoproterozoic-era|Mesoproterozoic Era]] and the start of the [[era/neoproterozoic-era|Neoproterozoic Era]], and its unmaking precedes [[event/snowball-earth|Snowball Earth]]. It belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].
+--- observer
+The Observer notes that a planet's earliest maps are as much reconstructed as observed: Rodinia is known through mountain roots and magnetic minerals, never through a single coastline. The Observer holds the detailed arrangement loosely, and treats the broader claim — that the continents joined and split, again and again — as the firmer ground to stand on. This reading would weaken if the magnetic data proved too sparse to tell the competing layouts apart.
+--- question 1
+How were the continental blocks truly arranged within Rodinia?
+--- question 2
+Did Rodinia's break-up help set off the Cryogenian glaciations?
+
+=== event/atlantic-slave-trade
+title: Atlantic Slave Trade
+src: 5292cc9a3fa5
+mode: essay-self-help
+observer_mode: essay-self-help
+--- summary
+Between the early 16th and the mid-19th centuries, the transatlantic slave trade forcibly transported about 12.5 million Africans to the Americas, and millions did not survive the passage.
+--- fact 1
+About 10.7 million people are recorded as having survived the crossing itself.
+--- fact 2
+This trade supplied the forced labor behind plantations that produced sugar, tobacco, cotton, and other goods.
+--- fact 3
+European, American, and African traders and states alike carried it out.
+--- fact 4
+Other slave trades ran at the very same time, including routes across the Sahara and the Indian Ocean.
+--- context
+This trade grew out of the [[event/columbian-exchange|Columbian Exchange]] and reshaped [[region/sub-saharan-africa|Sub-Saharan Africa]], the Americas, and Europe alike. The [[event/age-of-revolutions|Age of Revolutions]] would later produce the movements that sought its abolition.
+--- observer
+The Observer records this as among the largest forced migrations in history, and as one of the clearest cases in which economic incentive and story-glue together were made to justify cruelty. Detachment, here, is not neutrality about harm.
+--- question 1
+How large was the internal African slave trade, both before this trade and alongside it?
