@@ -214,6 +214,7 @@ test('load', async (c) => {
 
 test('hub_walk_and_walls', async (c) => {
   await c.load('test');
+  await c.ev(async () => { await window.museumDebug.scenes.world().whenLoaded(); }); // benches and pedestals (colliders) arrive with the models
   let s = await c.at(0, 2.2, 0, 0);   // beside the centre line: the benches stand on it
   s = await c.walk('forward', 8);
   assert(s.blender[0] > 25 && s.geoRoom === 'hub', `walked east along the hall: ${fmt(s.blender)} in ${s.geoRoom}`);

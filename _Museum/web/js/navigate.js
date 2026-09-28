@@ -142,6 +142,7 @@ export function createNavigate({ manifest, manifestIndex, camera, controls, inte
   function open() {
     isOpen = true;
     panel.classList.add('open');
+    if (document.pointerLockElement && document.exitPointerLock) document.exitPointerLock(); // the panel is clicked with a free cursor
     // focus once the slide-in has started; never grab it if the panel was closed meanwhile
     // (a focused hidden input would swallow every hotkey)
     setTimeout(() => { if (isOpen) input.focus({ preventScroll: true }); }, 50);

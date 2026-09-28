@@ -271,7 +271,13 @@ export function createHud({ camera, rooms, roomsById, manifest, artMeshes, contr
     return h && h.kind === 'room' ? h.room : null;
   }
 
-  function openMap() { mapOpen = true; large.classList.add('open'); drawLarge(); }
+  function openMap() {
+    mapOpen = true;
+    large.classList.add('open');
+    drawLarge();
+    // the map is clicked with a free cursor: release a captured mouse (pointer-locked clicks never reach it)
+    if (document.pointerLockElement && document.exitPointerLock) document.exitPointerLock();
+  }
   function closeMap() { mapOpen = false; large.classList.remove('open'); }
   function toggleMap() { if (mapOpen) closeMap(); else openMap(); }
   function isMapOpen() { return mapOpen; }
