@@ -255,10 +255,10 @@
   "batch": "site-001"
  },
  "source/english-wikipedia": {
-  "src": "bb31d7e97d3b",
+  "src": "34e82c615a52",
   "mode": "essay-self-help",
   "fields": {
-   "summary": "A secondary cross-check for details such as the Bakhshali dating revision and Hatshepsut's regnal chronology: a place to confirm, not a place to rest.",
+   "summary": "This entry stands in for English Wikipedia as a whole, whenever a note cites it without naming a specific article. No article was read under this title, so a check resting only on this note is not confirmed by any text actually read; wherever a Tier 4 fetch of the specific article succeeded, the check now cites that article's own source note instead (see the source notes titled Wikipedia on ...).",
    "facts": [],
    "context": "",
    "observer": "",
@@ -266,12 +266,12 @@
    "extra": [
     {
      "title": "Caveats",
-     "text": "Treat it as tertiary and editable, a threshold rather than a foundation: use it only to find your way to primary and scholarly sources. Consulted 2026-09-20."
+     "text": "The home page (https://en.wikipedia.org/) is not itself an article, and the MediaWiki API cannot fetch it (attempted 2026-09-27, no text returned). Most checks that lean on this note also cite another source not yet read — Encyclopaedia Britannica, World History Encyclopedia, UNESCO, a named person's page — or a specific Wikipedia article outside the 37 fetched in Tier 4; both kinds remain for Tiers 5-6. This is a tertiary, editable source: for anything that matters, check primary or scholarly sources instead."
     }
    ]
   },
-  "date": "2026-09-27",
-  "batch": "site-001"
+  "date": "2026-09-28",
+  "batch": "site-062.part1"
  },
  "era/anthropocene": {
   "src": "2008986742a5",
@@ -19454,5 +19454,3292 @@
   "date": "2026-09-28",
   "observer_mode": "essay-self-help",
   "batch": "site-059.part3"
+ },
+ "source/muhammad-ali-of-egypt-search-summaries": {
+  "src": "3b8e8f844863",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The record traces Muhammad Ali's origins, his appointment in 1805, the 1811 massacre of the Mamluks, and the economic and military overhaul on which his dynasty was founded.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This dossier rests only on web search result summaries gathered on 2026-09-20 — EBSCO Research Starters, History Today, World History Edu, a Wikipedia page on Ali Pasha, and assorted travel-site biographies — and none of the pages themselves was opened. The total of about 3,000 Mamluks killed carries the summary's own 'perhaps', so treat it as approximate rather than a settled figure. The travel sites among these results are of lower reliability and were not relied on for specifics. Neither his death date nor the end of his rule appears in the summaries, which is why the note can offer only a start date."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part1"
+ },
+ "source/museums-of-history-nsw-on-the-first-fleet": {
+  "src": "e859e9dbec54",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The record follows eleven ships into Botany Bay in January 1788, the fleet's move on to Sydney Cove, the smallpox epidemic of 1789, and the High Court's Mabo decision of 3 June 1992, which rejected terra nullius.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This entry rests on web search result summaries from 2026-09-20 rather than a full reading of the page, so treat it as provisional and re-verify before citing it in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part1"
+ },
+ "source/mylopotamitaki-et-al-2024-ranis": {
+  "src": "81c3f8d247a2",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The bone fragments here are Homo sapiens, directly dated to about 45,000 years old, recovered from Ranis, Germany, alongside associated stone points.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This citation comes from memory rather than a consulted source, and it should be read with that limit in mind: the bone fragments were identified by protein and DNA methods, not by their shape."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part1"
+ },
+ "source/nasa-on-apollo-11": {
+  "src": "5227e8fa28a4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The landing came on 20 July 1969, in the Sea of Tranquility, carried by a crew of Armstrong, Aldrin and Collins.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The source here is only a set of web search result summaries gathered on 2026-09-20 — the page itself was not read in full — so the claim should be re-verified before it is cited in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part1"
+ },
+ "source/nasa-on-the-dawn-of-the-space-age": {
+  "src": "e09c34907e60",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The chronicle runs from Sputnik 1 on 4 October 1957, to Gagarin on 12 April 1961, and on to continuous ISS occupation since 2 November 2000.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Gathered on 2026-09-20 from web search result summaries alone, without a full reading of the page, this note calls for re-verification before anyone cites it in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part1"
+ },
+ "source/nash-et-al-2020-origins-of-the-sarsen-megaliths-at-stonehenge": {
+  "src": "fb47bc7afdce",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The sarsens trace to West Woods, Wiltshire, about 25 km north of Stonehenge.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26, drawn from the Europe PMC full-text XML of the open-access copy — PMC7439454, 33,545 characters."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part1"
+ },
+ "source/science-news-on-the-single-exodus-from-africa": {
+  "src": "d23183eec9c1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The architecture here is genetic: studies placing the single major dispersal that produced present-day non-Africans at roughly 50,000 to 72,000 years ago, alongside evidence of an earlier, smaller exodus about 120,000 years ago that left about 2 percent of Papuan genomes.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Fetched on 2026-09-20 with WebFetch, a tool that hands back a model-generated summary rather than the raw text — read it as such. The article itself concedes that genetic dating is imperfect (mutation rates, sampling, method), and it reports a climate study that favored 80,000 to 100,000 years ago as more plausible. The vault's 70,000 to 50,000 year range therefore stands as an approximation, and the older window remains a live alternative."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part1"
+ },
+ "source/sciencedaily-on-the-gilboa-fossil-forest": {
+  "src": "2997a3f47b7f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "A record of a Devonian forest at Gilboa, New York, standing about 385 Ma.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part1"
+ },
+ "source/scientific-american-on-xingu-garden-cities": {
+  "src": "723d7bd51e6f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "A network of Xingu settlements, with roads, plazas and an estimated population, forms this source's ledger.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print, since the population figures are estimates and remain debated."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part1"
+ },
+ "source/second-italo-ethiopian-war-search-summaries": {
+  "src": "295c5a2ccb42",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source anchors the start and end of the war, the fall of Addis Ababa, Haile Selassie's exile, Italian use of mustard gas, the League of Nations' failure to act, and the 1941 liberation.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20 (results listed Wikipedia, BlackPast, the New World Encyclopedia, SIPRI and Study.com); none of the pages was opened. The summaries offered no casualty figures for the war or for the gas attacks, so this record holds none."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part1"
+ },
+ "source/second-sino-japanese-war-search-summaries": {
+  "src": "aa23cb87189d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source dates the war's start to 7 July 1937, names the Second United Front, and carries the range of estimates for the Nanjing Massacre.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20 (results listed Britannica, Wikipedia, History Today and a University of Massachusetts Boston paper); none of the pages was opened. The Nanjing figures stay contested, and the quoted scholarly range rests on one source's assessment, so no single number is recorded as established. The date of the fall of Nanjing, 13 December 1937, comes from the summary. Total war deaths went uncovered."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part1"
+ },
+ "source/serc-on-the-jack-hills-zircons": {
+  "src": "da6e871fcbec",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The oldest zircon age (4.404 Ga, Wilde et al. 2001) anchors this source, alongside its locality in the Narryer Terrane and the oxygen-isotope interpretation drawn from it.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part1"
+ },
+ "source/sipri-yearbook-2025-fas-nuclear-estimates": {
+  "src": "a6913813b75c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "A tally of about 12,241 nuclear warheads counted in January 2025.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part2"
+ },
+ "source/slave-voyages-database": {
+  "src": "a6b612eef044",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This database holds the estimates: about 12.5 million people embarked, and 10.7 million disembarked, as captives of the slave trade.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part2"
+ },
+ "source/slavery-abolition-in-britain-and-brazil-search-summaries": {
+  "src": "78247e31c401",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This record holds Britain's 1807 ban on the slave trade, the 1833 abolition of slavery across its colonies with £20 million paid in compensation to slaveholders and none to the enslaved, and Brazil's Lei Aurea of 13 May 1888, the last abolition enacted in the Americas.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-25 (results listed Wikipedia, the History of Parliament, the Library of Congress, EBSCO Research Starters and Duke University Press); none of the pages was opened. The summaries describe the £20 million as about 40 percent of government spending in 1833, a comparison this record leaves aside. Actual freedom under the 1833 act arrived only through a staged apprenticeship, which this note does not cover."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part2"
+ },
+ "source/slimak-et-al-2022-mandrin-cave": {
+  "src": "e851f951e5de",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The claim at its center: that Homo sapiens briefly occupied the Rhône valley about 54,000 years ago.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Cited from memory, not consulted directly. The attribution of the tooth and stone points to Homo sapiens stays contested."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part2"
+ },
+ "source/slon-et-al-2018-neanderthal-denisovan-offspring": {
+  "src": "2442cc9ccada",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "At its center is the Denisova 11 bone fragment: a first-generation hybrid born of a Neanderthal mother and a Denisovan father.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Cited from memory, not consulted directly. The individual's age stands as an estimate of about 90,000 years."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part2"
+ },
+ "source/smith-and-caron-2015-hallucigenia-head": {
+  "src": "a0fc0d19b644",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source identifies Hallucigenia's true head: eyes, a mouth ringed by plates, and a toothed throat.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Cited from memory, not consulted directly. Its placement among the panarthropods stays disputed in later analyses."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part2"
+ },
+ "source/national-army-museum-on-the-boxer-rebellion": {
+  "src": "5128539f5d05",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This record names the Boxers as the 'Righteous and Harmonious Fists', follows the siege of the Beijing legations in June 1900, and closes with the Eight-Nation Alliance and the Boxer Protocol of 7 September 1901.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "What stands behind this note is a web search result summary from 2026-09-20, not a full reading of the page; re-verify before citing it in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part2"
+ },
+ "source/national-army-museum-on-the-indian-rebellion": {
+  "src": "12902f01ecf2",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This note follows how the 1857 rebellion unfolded.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note draws on web search results from 2026-09-20, not necessarily a full reading of the page, so re-verify before citing it in print. Since the institution behind it is British, remember that the rebellion is interpreted differently within Indian historiography."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part2"
+ },
+ "source/national-army-museum-on-the-seven-years-war": {
+  "src": "ec773a205c63",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The war of 1756-1763 spanned five continents, closed with the 1763 Treaty of Paris, which ceded New France, and reached back to Plassey on 23 June 1757.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This claim was drawn from web search result summaries on 2026-09-20 rather than the page in full, and it awaits re-verification before it can be cited in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part2"
+ },
+ "source/national-geographic-on-everest-and-plate-tectonics": {
+  "src": "620df386e1a9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The India-Asia collision is dated to about 50-55 Ma.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Only web search result summaries from 2026-09-20 stand behind this entry — the page was not read start to finish — so re-verify it before citing it in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part2"
+ },
+ "source/national-geographic-on-the-mauryan-empire": {
+  "src": "f765e50ad3a2",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Maurya Empire ran 322-185 BCE from its capital at Pataliputra, spanned Ashoka's reign (c. 268-232 BCE), and carries the attribution of the Arthashastra to Kautilya.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note leans on web search result summaries collected on 2026-09-20 instead of a full reading of the page itself, so treat it as unverified until it is checked again before print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part2"
+ },
+ "source/national-park-service-timeline-of-the-american-revolution": {
+  "src": "4c6f6bb85905",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The timeline moves from Lexington and Concord (19 April 1775) through the Declaration (4 July 1776), the French alliance (6 February 1778), Yorktown (1781), and the Treaty of Paris (3 September 1783), with the Six Nations left divided by the war.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This entry rests on web search result summaries from 2026-09-20 rather than a full reading of the page, so treat it as provisional and re-verify before citing it in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part2"
+ },
+ "source/smithsonian-human-origins-program": {
+  "src": "68ba0966ddbd",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "A ledger of ages, discoveries and anatomy across the fossil hominin species.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part3"
+ },
+ "source/smithsonian-magazine-on-cooper-s-ferry": {
+  "src": "270d4a31700c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source frames Cooper's Ferry, Idaho, as a pre-Clovis site dated to roughly 16,000 years ago, carrying a stone tool industry unlike Clovis.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the article itself went unopened. The radiocarbon range in the summary (about 16,560 to 15,280 calibrated years before present) is the site's reported range, not a single date. Verify it against the excavators' paper before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part3"
+ },
+ "source/smithsonian-magazine-on-the-taino": {
+  "src": "ade26361b996",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the Greater Antilles chiefdoms under their caciques, their zemis, the English words derived from Taino, a population loss of 70-85 percent, and the mitochondrial ancestry that survives in Puerto Rico.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part3"
+ },
+ "source/smithsonian-on-the-sogdian-language": {
+  "src": "99c929fb4adb",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source frames Sogdian as the Silk Road's lingua franca.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part3"
+ },
+ "source/smithsonian-on-the-upano-valley-rostain-et-al-2024": {
+  "src": "8024eff2791f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source's ledger of the Upano Valley settlement network: dates, size and a population estimate.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print. This is a news summary of a Science paper, so cite the paper itself."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part3"
+ },
+ "source/stanford-encyclopedia-of-philosophy-on-colonialism": {
+  "src": "957adc4e8bf7",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source holds the divergent Enlightenment attitudes to slavery and empire: critics such as Diderot and Kant standing alongside racial classification.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part3"
+ },
+ "source/natural-history-museum-on-the-dresser-formation": {
+  "src": "d629cfc25694",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Dresser Formation stromatolites are dated to about 3.48 Ga and located in the Pilbara, Western Australia.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one leans on web search result summaries from 2026-09-20 alone; the page was never read in full, so re-verify before citing it in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part3"
+ },
+ "source/nature-communications-2020-on-the-origin-of-amazonian-dark-earths": {
+  "src": "00674ae0bd67",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The evidence here comes from one well-studied site in the Brazilian Amazon: Amazonian Dark Earths — those unusually fertile soils, rich in microscopic charcoal and frequently found with pre-Columbian artefacts — may owe their phosphorus and calcium to alluvial deposition and other natural processes that began several thousand years before the earliest evidence of soil management, so that Indigenous peoples used the soils without having created them.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26 from the Europe PMC full-text XML of the open-access copy — PMC7782733, 49,561 characters. The paper itself argues against, not for, the usual description of these soils as anthropic; an earlier check that cited it for 'anthropogenic soil with oldest layers about 5,000 years old' was not supported and has been replaced. Since the study concerns one site, the authors say the hypothesis must be corroborated elsewhere. The source note's title says 2020 because of the DOI, though the article itself appears in volume 12 (2021)."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part3"
+ },
+ "source/nature-communications-2023-megafauna-declines-and-homo-sapiens-expansion": {
+  "src": "400e44de9bb3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Megafauna declines across 32-76 ka are tied here to the expansion of Homo sapiens.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26, drawn from the Europe PMC full-text XML of the open-access copy — PMC10667484, 53,241 characters."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part3"
+ },
+ "source/nature-communications-2025-angiosperm-crown-age": {
+  "src": "e538d230028f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Molecular-clock estimates place the origin of angiosperms earlier than the fossil record shows, the so-called 'Jurassic gap'.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26, drawn from the Europe PMC full-text XML of the open-access copy — PMC11889176, 58,588 characters."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part3"
+ },
+ "source/nature-communications-2025-petm-vegetation-study": {
+  "src": "da7e146f6530",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "PETM timing is placed at about 56 Ma, with warming of about 5-6 degrees C, a duration near 200,000 years, and a carbon-isotope excursion greater than 2 per mil.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26 from the Europe PMC full-text XML of the open-access copy — PMC12728184, 68,694 characters. The text itself gives about 56 Ma, a 5 to 6 degree C warming, a duration of about 200 kyr, and a 70 to 100 kyr lagged recovery of carbon stocks; it does not state a carbon-isotope excursion of more than 2 per mil, a detail that was removed from the check."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part3"
+ },
+ "source/nature-on-the-oldest-fossil-thylakoids": {
+  "src": "aaa25a453eca",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Thylakoid membranes in 1.78-1.73 Ga microfossils from Australia stand here as direct fossil evidence of oxygenic photosynthesis.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read on 2026-09-26 from nature.com, fetched directly — 27,597 characters. Only the abstract on the Nature page was readable, since the article body needs a subscription, and an abstract-only source never moves a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part3"
+ },
+ "source/end-of-the-soviet-union-dates-search-summaries": {
+  "src": "092e4234b5b5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This ledger of dates tracks the Soviet Union's unwinding: the Berlin border crossings opening on 9 November 1989, Gorbachev's perestroika running from 1986 and glasnost as a policy from 1985 to 1988, the hardliners' failed coup of 18 to 22 August 1991, and the Soviet Union's formal dissolution on 26 December 1991.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This entry rests only on web search result summaries gathered on 2026-09-25 (the results named HISTORY, EBSCO Research Starters, Wikipedia, Britannica, the National Security Archive and university course texts); no page itself was opened. Where the sources part ways on when glasnost began — a strategy from 1985, or broadly introduced by 1988 — the note keeps the wider span and calls it 'mid-1980s'."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part1"
+ },
+ "source/engelman-2023-dunkleosteus-body-length": {
+  "src": "313f374574ee",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This paper's revised length estimate puts typical adults at about 3.4 m and the largest individuals at about 4.1 m, replacing the older figures of 6 to 10 m.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is cited from memory, not consulted directly. Its revision leans mostly on one author's method and carries no independent replication yet."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part1"
+ },
+ "source/facing-history-on-raphael-lemkin": {
+  "src": "bd0cf6b4b4cb",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Lemkin coined the word 'genocide' in 1944; the UN Genocide Convention won approval on 9 December 1948.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This drew only on web search result summaries, gathered on 2026-09-20; the page itself went unread in full. Treat it as unverified until checked again before it appears in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part1"
+ },
+ "source/first-fleet-mabo-and-aboriginal-languages-search-summaries": {
+  "src": "62bf3b6d588d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This gathers the High Court's Mabo (No 2) decision of 3 June 1992, which rejected terra nullius; the arrival of the First Fleet (its last ships reaching Botany Bay on 20 January 1788, with settlement at Sydney Cove on 26 January 1788); and more than 250 Aboriginal languages spoken before 1788.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This rests only on web search result summaries gathered on 2026-09-25 (the results named AIATSIS, Wikipedia, the Museums of History NSW, the National Museum of Australia and EBSCO Research Starters); no page itself was opened. The language count — more than 250, with hundreds of dialects besides — is a commonly cited estimate, and linguists count it differently."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part1"
+ },
+ "source/freidline-et-al-2023-tam-pa-ling": {
+  "src": "da87ff8e1eaa",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Fossil evidence and Bayesian-modeled dating push the record of Homo sapiens in mainland Southeast Asia back to about 86,000-68,000 years ago.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Cited from memory; not consulted directly."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part1"
+ },
+ "source/stitzer-and-ross-ibarra-2018-maize-domestication": {
+  "src": "dbb0e992c171",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "A review tracing maize domestication from Balsas teosinte, with later gene flow arriving from highland teosinte.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Only the abstract was read (the PubMed record, fetched on 2026-09-26). The full text resisted every route tried for automated access: europepmc-fulltext, openalex-oa-pdf, publisher-direct, and wayback (nph.onlinelibrary.wiley.com, onlinelibrary.wiley.com, web.archive.org answered HTTP 403 to automated requests) — no CAPTCHA, cookie wall or paywall was bypassed. This source therefore confirms only what its abstract states: that maize (Zea mays subsp. mays) was transformed from the teosinte Z. mays subsp. parviglumis, that five major morphological differences separate them, and that regions throughout the genome contributed. It gives no domestication date, no site or microfossil age, and no figure for highland teosinte ancestry, so those details in the Domestication of Maize note were removed. An earlier caveat had said they were confirmed only in search summaries of related sources. An abstract-only source never moves a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part4"
+ },
+ "source/sutikna-et-al-2016-homo-floresiensis-chronology": {
+  "src": "1703ce077852",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source revises the dates for H. floresiensis remains (about 100,000 to 60,000 years ago) and for the stone tools found alongside them.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read on 2026-09-26, fetched directly from nature.com (39,059 characters). Only the abstract on the Nature page could be read; the article body sits behind a subscription. An abstract-only source never moves a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part4"
+ },
+ "source/taj-mahal-official-site-and-history-sources": {
+  "src": "92147b3a82f0",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries Mumtaz Mahal's death in 1631, construction running from 1632 to 1653, more than 20,000 workers, Ahmad Lahori as the probable architect, and the UNESCO listing of 1983.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part4"
+ },
+ "source/tanzimat-reforms-search-summaries": {
+  "src": "608d3e586485",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source spans the Tanzimat era, the Gülhane Edict of 1839, the Reform Edict of 1856, and the 1876 constitution along with its reversal.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20 (results listed Wikipedia, Britannica, EBSCO Research Starters, Encyclopedia.com and the Ottoman Encounters newsletter); none of the pages was opened. Whether the constitution was 'suspended' or 'reversed' in 1878 gets described differently across sources. The note's statement about European pressure stands as general context and was not itself in the summaries."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part4"
+ },
+ "source/te-ara-on-maori-arrival-and-settlement": {
+  "src": "a30a6b9c0323",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source dates settlement to about 1250-1300 CE (Wilmshurst et al. 2008: about 1280), records the moa going extinct in under 150 years, and carries the Maori Language Act of 1987.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part4"
+ },
+ "source/the-conversation-on-stone-tools-and-the-toba-eruption": {
+  "src": "f9a4a153827b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the Jwalapuram stone tools found above and below the Toba ash, along with the eruption's magnitude, about 3,000 km3.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part4"
+ },
+ "source/noaa-global-monitoring-laboratory-co2-trends": {
+  "src": "a73f2b816cb3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The annual mean CO2 at Mauna Loa reached about 424.5 ppm in 2024, measured against a pre-industrial baseline of about 280 ppm.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note draws on web search results from 2026-09-20, not necessarily a full reading of the page, so re-verify before citing it in print; the 2024 figure itself was read from a secondary aggregator, co2.earth, inside the search summary."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part4"
+ },
+ "source/nobelprize-org": {
+  "src": "a0d809c4441d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The record holds the prize years and citations for Curie, Einstein, Fleming/Florey/Chain, Hahn, and Watson/Crick/Wilkins.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This claim was drawn from web search results on 2026-09-20 rather than a full reading of the page, so re-verify before citing it in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part4"
+ },
+ "source/nurk-et-al-2022-complete-sequence-of-a-human-genome": {
+  "src": "3c40029362ca",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This is the first gapless human genome assembly, T2T-CHM13, covering all chromosomes except Y.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26, drawn from the Europe PMC full-text XML of the open-access copy — PMC9186530, 43,655 characters."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part4"
+ },
+ "source/nutman-et-al-2016-isua-stromatolite-dispute": {
+  "src": "f903b346d973",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The 2016 report describes stromatolites about 3.7 billion years old in the Isua Supracrustal Belt, West Greenland, and it carries with it the dispute over whether they are biological, along with the later assessments' mixed verdict.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note stands only on web search result summaries from 2026-09-20; the pages themselves were never opened. Within about two years, a paper in the same journal disputed the observations, and more recent papers — 2020 and 2024 reviews — turned up in the search results without their conclusions being read in full. The claim is treated here as contested."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part4"
+ },
+ "source/nzhistory-on-the-treaty-of-waitangi": {
+  "src": "f289ee262b10",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The first signing took place on 6 February 1840, between the Crown and about 540 rangatira.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Only web search result summaries from 2026-09-20 stand behind this claim, not a full reading of the page, so re-verify it before citing it in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part4"
+ },
+ "source/nzhistory-world-suffrage-timeline": {
+  "src": "188a5850f988",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The timeline gathers dates of women's suffrage worldwide, including New Zealand in 1893.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "When fetched directly, the page returned an access error, so the claim was confirmed only through search result summaries on 2026-09-20."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part4"
+ },
+ "source/fu-et-al-2025-harbin-denisovan-studies": {
+  "src": "d1c3c9317395",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This paper identifies the Harbin cranium as Denisovan.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The record here reaches only as far as the abstract (the PubMed entry, fetched on 2026-09-26). No route that works for automated requests could reach the full text: europepmc-fulltext, openalex-oa-pdf, publisher-direct and wayback (hdl.handle.net, web.archive.org, www.cell.com answered HTTP 403 to automated requests) were all tried without success, and no CAPTCHA, cookie wall or paywall was got past. So this source confirms only what its abstract states, and an abstract-only source never carries a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part2"
+ },
+ "source/garcia-castellanos-et-al-2009-mediterranean-megaflood": {
+  "src": "c561928625ce",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "About 5.33 Ma, a catastrophic flood through Gibraltar refilled the Mediterranean.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The record here reaches only as far as the abstract (the PubMed entry, fetched on 2026-09-26). No route that works for automated requests could reach the full text: europepmc-fulltext, openalex-oa-pdf, publisher-direct, openalex-abstract and wayback were all tried without success, and no CAPTCHA, cookie wall or paywall was got past. So this source confirms only what its abstract states. That abstract puts the desiccation at about 5.6 Ma and the Zanclean flood at 5.33 Ma; the crisis's start date in the notes instead comes from Wikipedia on the Messinian Salinity Crisis. An abstract-only source never carries a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part2"
+ },
+ "source/gaunitz-et-al-2018-botai-horses": {
+  "src": "0d312ed4ebb5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Botai horses turn out to be ancestors of Przewalski's horses, not of modern domestic horses.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The record here reaches only as far as the abstract (the PubMed entry, fetched on 2026-09-26). No route that works for automated requests could reach the full text: europepmc-fulltext, openalex-oa-pdf, publisher-direct and wayback (web.archive.org answered HTTP 403 to automated requests) were all tried without success, and no CAPTCHA, cookie wall or paywall was got past. So this source confirms only what its abstract states: the Botai evidence for horse husbandry about 5,500 years ago, the descent of Przewalski's horses from horses herded at Botai, and the 2.7 percent of Botai-related ancestry in domestic horses from about 4,000 years ago. It says nothing of mare's milk, which is checked instead against Outram et al. 2009 Earliest Horse Harnessing and Milking. An abstract-only source never carries a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part2"
+ },
+ "source/ghana-empire-search-summaries": {
+  "src": "8c172d378a4d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This covers the empire's location, its origins, the gold-salt trade, its capital, al-Bakri's description of it, the Almoravid sack of about 1076, and the decline that ended in absorption into Mali.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This rests only on web search result summaries gathered on 2026-09-20 (the results named World History Encyclopedia, Wikipedia, Britannica, EBSCO Research Starters and several university course texts); no page itself was opened. The summaries hedge the Almoravid role ('perhaps'), and the 1240 destruction by Sundiata is traditional, by report rather than record; both are treated here as contested, and the dates in this note stay approximate."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part2"
+ },
+ "source/giaccio-et-al-2017-dating-the-campanian-ignimbrite": {
+  "src": "09696b8a9167",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This fixes a precise age for the Campanian Ignimbrite eruption, 39.85 ± 0.14 ka, synchronized against varve and ice-core chronologies.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Cited from memory; not consulted directly."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part2"
+ },
+ "source/global-nonviolent-action-database-on-the-brazilian-rubber-tappers-campaign": {
+  "src": "1e6268b52e3d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This supports that the Xapuri Rural Workers' Union was founded in 1977, with Chico Mendes playing a crucial organizing role alongside Marina Silva.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a secondary academic case-study database, not a primary archival source; other tertiary sources corroborate it (e.g. libcom.org), but it has not been cross-checked against Brazilian union records."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part2"
+ },
+ "source/britannica-on-the-chola-dynasty": {
+  "src": "0a85480c06dd",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Chola line begins with Vijayalaya, who reigned about 850 to 870 and opened the conquest of Pallava territory, continues through Rajaraja I, who reigned 985 to 1014 and raised the Brihadishvara Temple at Tanjore (Thanjavur), and ends with the dynasty's close in 1279.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-08-06 of britannica.com; the snapshot may differ from the current page (13,145 characters). The page does not say that Vijayalaya captured Thanjavur, that the temple was completed in 1010, or anything about UNESCO's Great Living Chola Temples; those details in the notes are not confirmed here. The earlier citation also named Wikipedia, 'Rajaraja I' and 'Great Living Chola Temples'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part1"
+ },
+ "source/britannica-on-the-cold-war": {
+  "src": "0c7fd95bd22b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry moves through NATO's formation and the first Soviet atomic test, both in 1949, the Warsaw Pact of 1955, a Berlin crisis in 1961, the 1962 installation of Soviet missiles in Cuba, and the Soviet Union's collapse in 1991.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-22 of britannica.com; the snapshot may differ from the current page (13,672 characters). It was added in Tier 3 to replace the generic Encyclopaedia Britannica citation on the Cold War note. The page does not give the months of NATO's founding (April) or of the Soviet collapse (December), the day of the Warsaw Pact (14 May 1955), or the building of the Berlin Wall in August 1961 (it names only a Berlin crisis of 1961), and it dates the Cuban Missile Crisis only by a photograph caption of 25 October 1962."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part1"
+ },
+ "source/britannica-on-the-columbian-exchange": {
+  "src": "7bbf4ebf313f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers Crosby's 1972 book, which divided the exchange into diseases, animals and plants, the fall of the population of the Americas by 50 to 95 percent by 1650, and the crops and animals it carried both ways: maize, potatoes, cassava, wheat, rice, horses, cattle.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-08-28 of britannica.com; the snapshot may differ from the current page (24,692 characters). The page gives 50 to 95 percent, not 80 to 95 percent, and while it says Crosby's 1972 book divided the exchange into three categories, it does not say that he coined the term. The earlier citation also named Smithsonian Magazine, 'Alfred W. Crosby on the Columbian Exchange'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part1"
+ },
+ "source/britannica-on-the-coronation-of-charlemagne": {
+  "src": "7775b11a4152",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry marks Pope Leo III's crowning of Charlemagne as emperor on 25 December 800, two days after Leo had cleared himself of the charges against him.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-08-01 of britannica.com; the snapshot may differ from the current page (10,878 characters). It does not mention Charlemagne's sole rule of the Franks from 771."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part1"
+ },
+ "source/britannica-on-the-dutch-east-india-company": {
+  "src": "8aeaeca3e624",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry traces the company's foundation in the Dutch Republic in 1602, its trade monopoly between the Cape of Good Hope and the Straits of Magellan, the renaming of Jacatra as Batavia in 1619, and the state's takeover of its debts and possessions once its charter was revoked in 1799.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-08-28 of britannica.com; the snapshot may differ from the current page (5,769 characters). It does not give the charter date of 20 March 1602, the trading of shares in Amsterdam, or Coen's 1621 invasion of the Banda Islands. The earlier citation also named World History Encyclopedia and Wikipedia, 'Dutch conquest of the Banda Islands'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part1"
+ },
+ "source/britannica-on-the-ediacaran-period": {
+  "src": "075a1eb4348f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry names the Ediacara fauna, itself named after the Ediacara Hills of South Australia, and records an assemblage in the Avalon Zone of Newfoundland dated to 565 million years.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-08-27 of britannica.com; the snapshot may differ from the current page (14,443 characters). It does not name Mistaken Point, give a 575 Ma age, or mention Namibia or the White Sea, and it gives the period as about 635 to 541 million years ago (the vault's note uses the current ICS end of 538.8). The earlier citation also named the Britannica 'Ediacara fauna' entry; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part1"
+ },
+ "source/the-dawn-of-everything-graeber-and-wengrow": {
+  "src": "5da6a0baeb5b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source challenges linear models of social evolution, and it presses the case for the variety of early social experiments.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Its arguments carry influence but stay disputed by many specialists — treat this as one perspective, not as the consensus."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part5"
+ },
+ "source/the-human-career-klein": {
+  "src": "7b7527c50fd6",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "A standard reference for human evolution and Paleolithic archaeology.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Published in 2009, so discoveries since then — including new Denisovan and Homo naledi finds — go uncovered."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part5"
+ },
+ "source/the-transformation-of-the-world-osterhammel": {
+  "src": "7c1215076513",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "A global framework built around the 19th century: industrialization, empire and connection.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Its focus sits on the 19th century, so earlier and later periods call for other sources."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part5"
+ },
+ "source/thera-eruption-dating-debate-search-summaries": {
+  "src": "fcddfd5c0343",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source sets the radiocarbon dates on material buried by the eruption, clustering around 1650 to 1600 BCE, against the archaeological arguments from Egyptian synchronisms for a date around 1500 BCE.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; none of the papers was opened. The summary puts the discrepancy at about a century, and calls it unresolved still."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part5"
+ },
+ "source/thirteenth-amendment-ratification-dates-search-summaries": {
+  "src": "e2fd0530b9ca",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source holds that the Thirteenth Amendment banned slavery in the United States and was ratified on 6 December 1865. It also holds that the Emancipation Proclamation of 1 January 1863 was a wartime measure that freed people held in states in rebellion, and did not abolish slavery everywhere.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; none of the listed pages was opened. Sources give different dates because ratification (6 December 1865) and the Secretary of State's proclamation that it was adopted (18 December 1865) name separate events. Replace this with a direct read of the National Archives page before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part5"
+ },
+ "source/thisisfinland-on-women-s-suffrage": {
+  "src": "730c4af7198f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries Finland's 1906 suffrage reform and the 19 women elected in 1907.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print. This is a national-promotion site, so its claims of 'first' arrive framed nationally."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part5"
+ },
+ "source/o-dea-et-al-2016-formation-of-the-isthmus-of-panama": {
+  "src": "1232b55dd97d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The evidence here favors closure of the isthmus around 2.8 Ma, against a competing claim of 13-15 Ma.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26, drawn from the Europe PMC full-text XML of the open-access copy — PMC4988774, 35,338 characters."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part5"
+ },
+ "source/office-of-the-historian-on-the-haitian-revolution": {
+  "src": "0443c38b27af",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The uprising of enslaved people in northern Saint-Domingue began on 22 August 1791, and it made Haiti the second independent country in the Americas after the United States.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Fetched on 2026-09-20 with WebFetch, which returns a model-generated summary of the page rather than the raw text, this note found that the page itself never uses the phrases \"first Black republic\" or \"founded by formerly enslaved people\", so those framings rest on the BlackPast source instead."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part5"
+ },
+ "source/oktaviana-et-al-2024-sulawesi-narrative-cave-art": {
+  "src": "49eaf4dd877c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This one dates the narrative rock art of Sulawesi.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26, drawn from the Europe PMC full-text XML of the open-access copy — PMC11269172, 45,028 characters."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part5"
+ },
+ "source/oracc-on-assyrian-mass-deportation": {
+  "src": "0a6633de7f7e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This record covers Assyrian resettlement policy and Oded's estimate that about 4.4 million people were moved.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This entry leans on web search result summaries from 2026-09-20 rather than a full reading of the page, so treat it as provisional and re-verify before citing it in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part5"
+ },
+ "source/orias-on-ancient-marajo": {
+  "src": "184c7f917e68",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers Marajoara mound building, ceramics, and chronology.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note draws on web search results from 2026-09-20, not necessarily a full reading of the page, so re-verify before citing it in print; as an educational summary, its population figures for large mound sites remain estimates."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part5"
+ },
+ "source/our-world-in-data-mass-extinctions": {
+  "src": "32252a85466b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This record gives the estimated share of species lost in each of the Big Five mass extinctions.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note leans on web search results from 2026-09-20, not necessarily a full reading of the page, so re-verify before citing it in print; its percentages remain estimates that differ by source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part5"
+ },
+ "source/toussaint-louverture-search-summaries": {
+  "src": "d8e1f5762d2e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries his birth about 1743 and his freedom in the 1770s, his start as a lieutenant in the 1791 uprising, his alliance with Spain and then his switch to France in 1794, the 1798 treaty with General Maitland, the constitution of 7 July 1801 that made him governor-general for life, and Dessalines's declaration of independence on 1 January 1804.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-25 (results listed Wikipedia, Britannica, Gresham College, the Library of Congress and history sites); none of the pages was opened. Sources give his freedom as 1776 or 1777, and his birth as 20 May 1743 or 'around 1743' — this note states the ranges."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part6"
+ },
+ "source/turkish-war-of-independence-search-summaries": {
+  "src": "e3f5f6986c55",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the occupation and invasions after World War I, Mustafa Kemal's organization of a nationalist movement, the abolition of the sultanate, the Treaty of Lausanne, and the founding of the republic.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20 (results listed Wikipedia, EBSCO Research Starters, Cambridge University Press, World History Edu and a university course text); none of the pages was opened. The summaries gave no casualty figures and no number for the people moved in the population exchange, so this record holds none."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part6"
+ },
+ "source/ucmp-on-the-carboniferous": {
+  "src": "2ddab91f358b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Carboniferous swamp forests (about 360-300 Ma) that gave rise to coal form this source's core.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part6"
+ },
+ "source/uk-national-archives-on-hong-kong-and-the-opium-wars": {
+  "src": "5b73c07cac9d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the terms of the Treaty of Nanking and the Convention of Beijing.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part6"
+ },
+ "source/un-world-population-milestones": {
+  "src": "bd9bd5c8c445",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the symbolic date of 8 billion and the one-billion milestone around 1804.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print. The 8 billion date stands as a projection-based marker."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part6"
+ },
+ "source/unesco-on-hattusha": {
+  "src": "a62dc475f975",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source frames Hattusa as the Hittite capital, near Bogazkale, standing from the late 17th to early 12th century BCE.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part6"
+ },
+ "source/global-slavery-index-2023-walk-free": {
+  "src": "689ad54f60d4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This estimates about 50 million people living in modern slavery in 2021 (49.6 million).",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This drew on web search results gathered on 2026-09-20; the page was not necessarily read in full. Treat it as unverified until checked again before it appears in print — these estimates are contested and depend on methodology."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part3"
+ },
+ "source/goren-inbar-et-al-2004-fire-at-gesher-benot-ya-aqov": {
+  "src": "9636ef6a458e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Burned seeds, wood and flint at Gesher Benot Ya'aqov date to about 790,000 years ago.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The record here reaches only as far as the abstract (the PubMed entry, fetched on 2026-09-26). No route that works for automated requests could reach the full text: europepmc-fulltext, openalex-oa-pdf, publisher-direct and wayback (web.archive.org answered HTTP 403 to automated requests) were all tried without success, and no CAPTCHA, cookie wall or paywall was got past. So this source confirms only what its abstract states, and that abstract says nearly 790,000 years ago, not the 780,000 that the Control of Fire note once used; that note has since been reworded. An abstract-only source never carries a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part3"
+ },
+ "source/green-et-al-2010-neandertal-genome": {
+  "src": "77ded7163aec",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This is the first Neanderthal genome, with evidence of gene flow into non-Africans of up to about 2 percent.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read on 2026-09-26 as raw text from a Wayback Machine snapshot of science.org dated 2026-06-07; that snapshot may differ from the current page (43,812 characters), and only the abstract-level text on it could be read. Only the journal summary and abstract on the Science page were readable, since Science's free-access copy asks you to create an account, which was not done. That summary dates the Neandertals' disappearance to about 30,000 years ago (the vault instead uses about 40,000, the more recent estimate) and gives no percentage for Neandertal ancestry, so the 1 to 2 percent figure is checked instead against Sankararaman et al. 2016. An abstract-only source never carries a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part3"
+ },
+ "source/gross-and-zhao-2014-origins-of-domesticated-rice": {
+  "src": "fd1ee4d0946e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Japonica rice was domesticated in the Yangtze basin about 7,000 years ago; indica arose later through hybridization, from the wild ancestor Oryza rufipogon.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot of pnas.org dated 2025-06-10; that snapshot may differ from the current page (67,991 characters). The text supports japonica rice under cultivation in the Yangtze valley by about 8,000 BP from wild Oryza rufipogon, with the non-shattering trait fixed 1,000 years or more later, and indica arising through introgression from japonica; it does not give '7,000 years ago' as a domestication date, the claim an earlier check had made."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part3"
+ },
+ "source/hacker-2011-civil-war-death-toll": {
+  "src": "36ab67672ca1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The traditional estimate holds about 620,000 Civil War dead; Hacker's census-based revision raises that to about 750,000, within a range of 650,000 to 850,000.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This rests only on web search result summaries of press coverage (ScienceDaily, Binghamton University, NPR, Civil War Monitor listings), gathered on 2026-09-20; the journal article itself was not read. Those summaries describe the 620,000 figure as flawed, since neither side kept standardized records, and call the Confederate figure of 258,000 a rough estimate."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part3"
+ },
+ "source/hays-et-al-1976-pacemaker-of-the-ice-ages": {
+  "src": "fbe6d5b16f3c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Deep-sea sediment evidence shows ice-age cycles following the orbital periods of eccentricity, tilt and precession.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Cited from memory, not consulted directly. Later work has refined both the chronology and the 100,000-year problem."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part3"
+ },
+ "source/britannica-on-the-epic-of-gilgamesh": {
+  "src": "41652b82beaf",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry names the standard 12-tablet Gilgamesh, found by Hormuzd Rassam in Ashurbanipal's library at Nineveh.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-13 of britannica.com (web.archive.org answered HTTP 403 to automated requests); the snapshot may differ from the current page (12,508 characters)."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part2"
+ },
+ "source/britannica-on-the-fall-of-constantinople": {
+  "src": "452aa86508c4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the 55-day siege ending on 29 May 1453 under Mehmed II, the artillery barrage that opened on 6 April, the cannon of the Hungarian gunsmith Urban, and Constantine XI's death in battle.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-17 of britannica.com; the snapshot may differ from the current page (20,968 characters). The page spells the gunsmith Urban, while the Fall of Constantinople note uses the variant Orban. The earlier citation also named World History Encyclopedia, '1453: The Fall of Constantinople'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part2"
+ },
+ "source/britannica-on-the-green-revolution": {
+  "src": "ababe00a89a9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers Norman Borlaug's wheat program in the Mexican Agricultural Program, running from 1943, the development of the IR8 rice strain at the International Rice Research Institute in the Philippines, India's 1966 import of Mexican wheat seeds, and the later spread to countries such as Brazil, China, Pakistan and the Philippines.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-06 of britannica.com; the snapshot may differ from the current page (9,754 characters). The page does not call Borlaug's wheat semi-dwarf and gives no release year for IR8, so those details in the Green Revolution note stay unconfirmed here. The earlier citation also named IRRI Rice Today, 'Changing the world with seeds: The breeding history of IR8'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part2"
+ },
+ "source/britannica-on-the-haitian-revolution": {
+  "src": "10bd5527e38e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the revolution of 1791 to 1804, independence declared on 1 January 1804, and France's 1825 recognition of Haiti in return for an indemnity of nearly 100 million francs, payable annually until 1887.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-07-03 of britannica.com; the snapshot may differ from the current page (14,574 characters). The page gives the indemnity as nearly 100 million francs, not 150 million (it does not state the sum first demanded in 1825), and it dates the revolution 1791-1804 but does not give an August 1791 uprising. The earlier citation also named Wikipedia, 'France-Haiti relations'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part2"
+ },
+ "source/britannica-on-the-maya": {
+  "src": "9d13a4cea34c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the Classic Period, about 250 to 900 CE, the cities of Tikal and Calakmul, hieroglyphic writing, the Long Count calendar with its zero date in 3113 BCE, positional notation and the use of zero, and more than five million speakers of some 30 Mayan languages in the early 21st century.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-08-25 of britannica.com; the snapshot may differ from the current page (15,837 characters). The page does not give 357 CE for the earliest Maya zero, does not call the script logosyllabic, and says more than five million speakers, not about six million. The earlier citation also named Maya Archaeologist and Mayan.org pages on Maya writing, zero and living languages; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part2"
+ },
+ "source/britannica-on-the-meiji-restoration": {
+  "src": "94dcec4f2b73",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers Perry's arrival in Edo Bay in 1853, the coup d'etat at Kyoto on 3 January 1868, the Charter Oath of April 1868, and the replacement of the domains by prefectures in 1871.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-17 of britannica.com; the snapshot may differ from the current page (13,290 characters). It was added in Tier 3 to replace the generic Encyclopaedia Britannica citation on the Meiji Restoration note, and it does not mention the Convention of Kanagawa (1854) or the Iwakura Mission (1871-73)."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part2"
+ },
+ "source/outram-et-al-2009-earliest-horse-harnessing-and-milking": {
+  "src": "331e78a9d6cc",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Three lines of evidence support horse domestication in the Eneolithic Botai Culture of Kazakhstan, dated to about 3500 BCE: the Botai horse metacarpals resemble those of Bronze Age domestic horses, some horses show signs of bridling, and organic residues in ceramics show the processing of mare's milk and carcass products.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Only the abstract was read here, the PubMed record fetched on 2026-09-26, since science.org returns HTTP 403 to automated requests and no open-access copy turned up. It confirms only what the abstract states, and it predates the 2018 genomic study, Gaunitz et al. 2018 Botai Horses, which shows Botai horses were ancestors of Przewalski's horses rather than of modern domestic horses. An abstract-only source never moves a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part6"
+ },
+ "source/oxford-radiocarbon-dating-of-the-bakhshali-manuscript": {
+  "src": "a55561040589",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the radiocarbon ranges for the Bakhshali folios and their later revision.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The 2024 revision figures were read from a secondary summary, English Wikipedia, on 2026-09-20, and the 2017 dating itself drew criticism from some historians of Indian mathematics."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part6"
+ },
+ "source/oxford-research-encyclopedia-on-animal-domestication-in-southwest-asia": {
+  "src": "4d9e5e47409a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The timeline places sheep and goats about 10,500 BP, cattle about 11,000-10,000 BP, pigs about 8,500-8,000 BP, and dogs 14,000 to 29,000 years ago in Eurasia.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This claim rests on web search result summaries from 2026-09-20 rather than a full reading of the page, so re-verify it before citing it in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part6"
+ },
+ "source/oxygen-isotopes-and-the-giant-impact-search-summaries": {
+  "src": "e1226a377e9c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The oxygen isotope ratios in the Apollo samples match Earth's very closely, a fit that is consistent with the giant impact hypothesis only if the impactor, Theia, had an Earth-like composition.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note stands only on web search result summaries from 2026-09-25 — Science, PNAS, PubMed, astronomy.com and arXiv among the results — and none of the pages themselves was opened. Those summaries describe the near-identical isotopes both as support for the hypothesis and as a challenge to it, and a 2024 paper reports a small difference, 12 parts per million. So the note states it as consistent with the hypothesis and, at the same time, a puzzle."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part6"
+ },
+ "source/pagan-kingdom-search-summaries": {
+  "src": "c341db0e3ef4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The record follows Anawrahta's reign, the adoption of Theravada Buddhism, the temple count, and the Mongol invasions that brought it to an end in 1287.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note stands only on web search result summaries from 2026-09-20 — Wikipedia, Britannica, GlobalSecurity and the New World Encyclopedia among the results — and none of the pages was opened. Chronicle-based dates for the earliest Pagan rulers remain approximate, and the temple counts are commonly quoted figures that vary by source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part6"
+ },
+ "source/paleoproterozoic-fossil-record-review-earth-science-reviews-2017": {
+  "src": "d781dd01fd3e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The oldest unambiguous eukaryote microfossils are placed at about 1.65 Ga, with older candidates left in disputed status.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26 from the open-access PDF at www.vliz.be, the publishedVersion version, 146,220 characters, so wording, figures or pagination may differ slightly from the published version. The review itself calls large organic-walled vesicles — Valeria lophostriata, from the more than 1.65 Ga Mallapunyah Formation, Australia — the oldest unambiguous eukaryotic microfossils, and it says younger coiled filaments called Grypania, about 1.45 Ga, India, are more convincingly eukaryotic than Grypania spiralis from the 1.87 Ga Negaunee Iron Formation."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part6"
+ },
+ "source/unesco-on-kuk-early-agricultural-site": {
+  "src": "d9863b29c3fe",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the 2008 inscription, 7,000 (possibly 10,000) years of wetland cultivation, taro and yam, and banana cultivation about 4,000 years ago.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part7"
+ },
+ "source/unesco-on-rapa-nui-national-park": {
+  "src": "5f6e0c2f7171",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the inscription of Rapa Nui National Park in 1995.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part7"
+ },
+ "source/unesco-on-the-land-of-frankincense": {
+  "src": "fa3f64f142d0",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the inscription in 2000 of the Dhofar frankincense sites (Shisr, Khor Rori, Al-Baleed, Wadi Dawkah).",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part7"
+ },
+ "source/unesco-world-heritage-centre": {
+  "src": "a16b36446541",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries inscription dates and site descriptions.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part7"
+ },
+ "source/united-nations-membership": {
+  "src": "4ad777a5bea5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries 51 founding members in 1945 and 193 members today.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part7"
+ },
+ "source/university-of-toronto-on-fire-at-wonderwerk-cave": {
+  "src": "2a42f91d750c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries wood ash and burned bone at Wonderwerk Cave, South Africa, dated to about one million years ago.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part7"
+ },
+ "source/unsw-on-the-dresser-formation-stromatolites": {
+  "src": "dcd7c37ab07d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the stromatolites in the Dresser Formation, Pilbara region, Western Australia, about 3.48 billion years old, described as the oldest convincing evidence of life.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries (UNSW, Phys.org, PMC and Sci.News listings) on 2026-09-20; the pages went unopened. The press release itself concerns hot-spring deposits and the earliest evidence of life on land — the vault draws on it only for the age of the stromatolites."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part8"
+ },
+ "source/uppsala-university-on-the-mal-ta-genome": {
+  "src": "119e7f00dea6",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the Mal'ta genome and its relation to Native American ancestry.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print. Ancestry percentages themselves vary by study and method."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part8"
+ },
+ "source/us-epa-history": {
+  "src": "6cc6e86a2c8d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the EPA's establishment on 2 December 1970.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part8"
+ },
+ "source/ushmm-holocaust-encyclopedia-on-the-wannsee-conference": {
+  "src": "a8fe5714f7a9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the Wannsee Conference (20 January 1942), the Nuremberg Laws (1935), the six million Jewish victims, and the other victim groups.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part8"
+ },
+ "source/vidal-et-al-2022-omo-kibish-age": {
+  "src": "dd998922d4f1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source redates the Omo Kibish fossils to at least 233,000 years ago.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-09-26, from the Europe PMC full-text XML of the open-access copy (PMC8791829; 30,204 characters)."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part8"
+ },
+ "source/villmoare-et-al-2015-early-homo-at-ledi-geraru": {
+  "src": "8e3e6a1b8193",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the Ledi-Geraru jaw LD 350-1, dated to about 2.80 to 2.75 million years ago, as the oldest fossil assigned to Homo.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Cited from memory, not consulted directly. The genus assignment of this single partial jaw has been challenged."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part8"
+ },
+ "source/heggarty-et-al-2023-indo-european-language-trees": {
+  "src": "ab430ecd7abe",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This proposes a hybrid model: the Indo-European homeland lay south of the Caucasus, with a later branch moving north onto the steppe, feeding the Yamnaya and Corded Ware expansions into Europe.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This rests only on web search result summaries (ScienceDaily, Wikipedia and Academia listings), gathered on 2026-09-20; the paper itself was not opened."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part4"
+ },
+ "source/henshilwood-et-al-2009-blombos-engraved-ochres": {
+  "src": "d594451b3d7f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The engraved ochre dates to about 75,000 to 100,000 years old.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read on 2026-09-26 as raw text from a Wayback Machine snapshot of sciencedirect.com dated 2026-04-07 (www.sciencedirect.com answered HTTP 403 to automated requests); that snapshot may differ from the current page (18,593 characters), and only the abstract-level text on it was available. ScienceDirect shows only the abstract and short section snippets; the full text needs institutional access. An abstract-only source never carries a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part4"
+ },
+ "source/hershkovitz-et-al-2018-misliya-maxilla": {
+  "src": "4fb260b4fe12",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "A fossil upper jaw from Misliya Cave, Mount Carmel, Israel, dates to about 177,000 to 194,000 years ago, older than the previous oldest non-African fossils at Skhul and Qafzeh (about 90,000 to 120,000 years ago).",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The record here reaches only as far as the abstract (the PubMed entry, fetched on 2026-09-26). No route that works for automated requests could reach the full text: europepmc-fulltext, openalex-oa-pdf, publisher-direct and wayback (web.archive.org answered HTTP 403 to automated requests) were all tried without success, and no CAPTCHA, cookie wall or paywall was got past. So this source confirms only what its abstract states: the 177,000 to 194,000 year age, and the 90,000 to 120,000 year age of Skhul and Qafzeh. A published comment in Science that argues for a much younger minimum age, roughly 60,000 to 70,000 years, is not in the text read and stays unverified. An abstract-only source never carries a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part4"
+ },
+ "source/higham-et-al-2014-neanderthal-disappearance": {
+  "src": "23fd66a10fce",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Radiocarbon dating across 40 sites places the end of the Mousterian at about 41,030 to 39,260 calibrated years before present, with an overlap with modern humans of about 2,600 to 5,400 years.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Cited from memory, not consulted directly. Radiocarbon dates near the method's limit stay sensitive to contamination and calibration."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part4"
+ },
+ "source/history-com-on-the-indian-removal-act": {
+  "src": "8b3e0db44450",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Act was signed on 28 May 1830; it names the five southeastern nations, the case Worcester v. Georgia (1832), and about 4,000 deaths among about 16,000 Cherokee in 1838.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This drew only on web search result summaries, gathered on 2026-09-20; the page itself went unread in full. Treat it as unverified until checked again before it appears in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part4"
+ },
+ "source/hublin-et-al-2017-jebel-irhoud": {
+  "src": "70c3c4ff493e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This describes and interprets the Jebel Irhoud fossils: a mosaic of facial, mandibular and dental features aligned with early or recent modern humans, alongside a more primitive braincase. It gives the site's age as 300 to 350 thousand years, a figure taken from the companion dating paper, Richter et al. 2017 Jebel Irhoud Age.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 from the open-access PDF at kar.kent.ac.uk (acceptedVersion version, 76,367 characters), so its wording, figures or pagination may differ slightly from the published version. This is the author's accepted manuscript from the University of Kent repository, not the version of record. The specific date of 315 plus or minus 34 thousand years, which the notes once cited here, is not in this paper; it comes instead from Richter et al. 2017 Jebel Irhoud Age."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part4"
+ },
+ "source/partition-of-india-search-summaries": {
+  "src": "cb3cbb8bab5f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "British India was divided into India and Pakistan in 1947, along a line that Cyril Radcliffe's Boundary Commission drew in a matter of weeks using out-of-date maps and census data; death estimates run from 1 to 2 million, up to 3 million in some sources, with about 15 million displaced, and Gandhi was assassinated on 30 January 1948.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note stands only on web search result summaries from 2026-09-25 — EBSCO Research Starters, The Conversation, The Quint, Wikipedia and Facts and Details among the results — and none of the pages was opened. Death estimates remain contested, and no reliable count exists; the vault's earlier lower bound of about 200,000 was not supported by these summaries and has been removed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part7"
+ },
+ "source/paterson-et-al-2011-anomalocaris-eyes": {
+  "src": "324b267f58fc",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The compound eyes here come from the Emu Bay Shale, South Australia, about 515 million years old, and they preserve at least 16,000 lenses.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one is cited from memory rather than consulted directly, and the species assignment of the eyes has since been revised."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part7"
+ },
+ "source/patterson-et-al-2006-complex-speciation-of-humans-and-chimpanzees": {
+  "src": "599b91bceb8c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The genetic split here comes no more than about 6.3 Ma, and probably later, with a proposed period of hybridization along the way.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read on 2026-09-26 from nature.com, fetched directly — 17,955 characters. Only the abstract on the Nature page was readable, since the article body needs a subscription, and an abstract-only source never moves a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part7"
+ },
+ "source/penn-museum-on-herodotus-and-the-scythians": {
+  "src": "bc36c38129c2",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers Scythian identity, Herodotus's account, and the burial evidence.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note draws on web search results from 2026-09-20, not necessarily a full reading of the page, so re-verify before citing it in print; remember that 'Scythian' is a generic label for diverse steppe peoples."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part7"
+ },
+ "source/phys-org-on-ancient-dna-and-the-south-pacific": {
+  "src": "12ad8a648e2b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The record traces the Austronesian expansion from Taiwan about 5,500 years ago, the Lapita spread of 1500-1000 BCE, more than 1,200 languages, Madagascar's settlement in the first millennium CE, and Lapita-era DNA from Vanuatu (3,000-2,800 BP).",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This claim rests on web search result summaries from 2026-09-20 instead of a full reading of the page, so re-verify it before citing it in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part7"
+ },
+ "source/pigati-et-al-2023-white-sands-footprints": {
+  "src": "38cac7cf1b02",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The age of the White Sands footprints — reportedly about 21,000 to 23,000 years ago, from earlier radiocarbon dating of Ruppia seeds — rests here on two new checks named in the abstract: calibrated radiocarbon ages of terrestrial pollen from the same stratigraphic horizons, and optically stimulated luminescence ages of sediments from the footprint-bearing sequence. The authors conclude that the original chronology is robust, and that humans were present in North America during the Last Glacial Maximum.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Only the abstract was read here — the PubMed record, fetched on 2026-09-25 through NCBI E-utilities — since science.org returns HTTP 403 and the PubMed web page shows a cookie wall, neither of which was bypassed, and no open-access copy of the full paper turned up. So this source confirms only what the abstract itself says: it calls the dated material 'terrestrial pollen' and the luminescence dating 'of sediments', which means the wording 'conifer pollen', 'quartz' and the year of the first seed dates, 2021, that the Peopling of the Americas note used to carry are not confirmed here and were removed from that note until the full paper can be read; sample counts, error ranges and methods remain unread as well. The abstract says the earlier seed ages were controversial because of possible old-carbon reservoir effects. Whether the age is universally accepted is not something the abstract can show, so the vault treats it as well supported but contested, following Wikipedia on the Settlement of the Americas."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part7"
+ },
+ "source/britannica-on-the-mongol-empire": {
+  "src": "c438a1889cd1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the founding of the Mongol empire in 1206, when Temujin was elected Genghis Khan, and its greatest extent of some 9 million square miles (about 23 million km2), which made it the largest contiguous land empire in history.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-20 of britannica.com; the snapshot may differ from the current page (17,242 characters). The page gives the extent in square miles; the earlier figure of about 23 to 24 million km2 is a conversion. The earlier citation also named Guinness World Records, 'Largest contiguous empire'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part3"
+ },
+ "source/britannica-on-the-napoleonic-wars": {
+  "src": "f3c917a8ba37",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry frames the Napoleonic Wars as a series of wars between Napoleonic France and other European powers that, together with the French Revolutionary wars, made up a 23-year period of recurrent conflict ending with the Battle of Waterloo on 18 June 1815.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-19 of britannica.com; the snapshot may differ from the current page (12,061 characters). The URL of this note once pointed to the Battle of Austerlitz article, so the earlier text and cache were of that page; the URL now points to the Napoleonic Wars article. The article does not give the proclamation of the Empire on 18 May 1804, the 1812 Russian campaign figures of about 612,000 and about 112,000, or the Napoleonic Code. The earlier citation also named World History Encyclopedia, 'Napoleon's Invasion of Russia' and 'Napoleonic Code' (the Battle of Austerlitz page is now the separate source note Britannica on the Battle of Austerlitz); those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part3"
+ },
+ "source/britannica-on-the-parsis": {
+  "src": "5b42d5f6e594",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry presents the Parsis as descendants of Persian Zoroastrians who emigrated to India to escape persecution by Muslims, arriving in the 8th century (the migration may have been as late as the 10th), and settling first at Diu before moving into Gujarat.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-07-25 of britannica.com (web.archive.org answered HTTP 403 to automated requests); the snapshot may differ from the current page (4,958 characters). The page gives the 8th century, possibly as late as the 10th, not a date of about 936."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part3"
+ },
+ "source/britannica-on-the-qing-dynasty": {
+  "src": "547e60cc0fee",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers Qing rule from 1644 to 1911/12, the empire's extension to include Outer Mongolia, Tibet, Dzungaria, Turkistan and Nepal, and the growth of the population from some 150 million to 450 million.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-24 of britannica.com; the snapshot may differ from the current page (13,018 characters). The page does not use the name Xinjiang and gives no population figures for 1762 or 1830; it says only that the population grew from some 150 million to 450 million. The earlier citation also named the Britannica 'China: The Qing empire' entry; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part3"
+ },
+ "source/britannica-on-the-rigveda": {
+  "src": "a290010619ad",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry presents the Rigveda as the oldest of the sacred books of Hinduism, composed in an ancient form of Sanskrit about 1500 BCE in the Punjab region and preserved orally until it was written down about 300 BCE.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-08 of britannica.com; the snapshot may differ from the current page (3,271 characters). The page gives no end date of 1000 BCE, does not name the language Vedic Sanskrit, and does not describe the fidelity of the oral transmission. The earlier citation also named Wikipedia, 'Rigveda' and 'Vedas'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part3"
+ },
+ "source/britannica-on-the-russian-revolution": {
+  "src": "d77f2bb771a5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the two revolutions of 1917 (February, March New Style, and October, November), Nicholas II's abdication on 15 March 1917, and the Bolshevik seizure of power that led to the creation of the Soviet Union.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-24 of britannica.com; the snapshot may differ from the current page (10,510 characters). The page has a section heading on the Treaty of Brest-Litovsk but gives no 3 March 1918 date, and no 30 December 1922 date for the formation of the USSR. The earlier citation also named World History Encyclopedia, 'Treaty of Brest-Litovsk', and Wikipedia, 'Declaration of the Creation of the USSR'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part3"
+ },
+ "source/waitangi-tribunal-on-the-maori-and-english-texts": {
+  "src": "5f74d31ec946",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source sets kawanatanga against sovereignty, and tino rangatiratanga against possession, alongside the Tribunal's establishment in 1975 and the New Zealand Wars of 1845-1872.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search result summaries on 2026-09-20; the page itself went unread. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part9"
+ },
+ "source/walker-et-al-2020-the-storegga-tsunami-and-the-end-of-doggerland": {
+  "src": "bf34543cd1d2",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the Storegga slide, about 8,150 years ago (about 6200 BCE), and the evidence that Doggerland persisted as islands for centuries afterward.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-09-26, from the open-access PDF at www.cambridge.org (publishedVersion version, 48,406 characters) — so its wording, figures or pagination may differ slightly from the published version."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part9"
+ },
+ "source/web-origins-sources-icann-cern": {
+  "src": "d98b59f66a78",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the ARPANET's first message (29 October 1969), Berners-Lee's proposal of March 1989, and public web access opening on 6 August 1991.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part9"
+ },
+ "source/who-covid-19-mortality-data": {
+  "src": "296dd9dc0764",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the excess-death estimate for 2020 to 2021 and the cumulative reported deaths, about 7.1 million as of mid-2026.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part9"
+ },
+ "source/who-smallpox-eradication": {
+  "src": "3f7edf69459c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source carries the eradication declared on 8 May 1980, and about 300 million deaths across the 20th century.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Consulted only through web search results on 2026-09-20; the page may not have been read in full. Verify it directly before it enters print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part9"
+ },
+ "source/wikipedia-on-aisha": {
+  "src": "908e2e8423c9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source supports Aisha's birth (about 614) and death (17 Ramadan 58 AH, July 678) dates, her parentage, the marriage timeline and its disputed ages, her hadith count, and the outcome of the Battle of the Camel.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is tertiary encyclopedia text, read through a summarizing fetch, and its marriage-age and dating claims rest on later hadith and biographical sources that modern scholars debate."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part9"
+ },
+ "source/hublin-et-al-2020-bacho-kiro-cave": {
+  "src": "01151f1fbc11",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Homo sapiens fossils here date to about 46,000 to 44,000 years ago, among the earliest securely dated in Europe.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Cited from memory, not consulted directly. The dates come from radiocarbon dating and are given as ranges."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part5"
+ },
+ "source/iasi-et-al-2024-neanderthal-ancestry-through-time": {
+  "src": "01ca3030155b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This times most Neanderthal gene flow into modern humans to about 50,500 to 43,500 years ago, lasting about 7,000 years.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Cited from memory, not consulted directly. It is a model-based estimate drawn from a limited set of ancient genomes."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part5"
+ },
+ "source/ics-international-chronostratigraphic-chart": {
+  "src": "d92eec234af6",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This gives authoritative boundaries and names for geological eons, eras, periods and epochs.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This reads its boundary ages directly from the text layer of the ICS chart PDF (ChronostratChart2023-06) on %s: Cambrian base 538.8 +/- 0.2 Ma, Triassic base 251.902 +/- 0.024 Ma, Jurassic base 201.4 +/- 0.2 Ma, Paleogene base 66.0 Ma, Pleistocene base 2.58 Ma, Holocene base 0.0117 Ma, Devonian/Carboniferous 358.9 Ma, Frasnian/Famennian 372.2 Ma, Archean/Proterozoic 2500 Ma, and the base of the Eon-level charts at 4000 and 4567 Ma. These dates are revised periodically, so check the current version — and informal terms such as Hadean and Anthropocene are not official units."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part5"
+ },
+ "source/internet-encyclopedia-of-philosophy-on-confucius": {
+  "src": "0f47f3ff4591",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This covers Confucius (551-479 BCE): the Analects, ren, li and xiao, his lack of political success in his own life, the Han-era orthodoxy set under Emperor Wu, and the examination system.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This drew only on web search result summaries, gathered on 2026-09-20; the page itself went unread in full. Treat it as unverified until checked again before it appears in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part5"
+ },
+ "source/ipcc-ar6-and-the-paris-agreement-search-summaries": {
+  "src": "d33bc146d94c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This covers the AR6 Working Group I conclusion, from August 2021, that it is unequivocal that human influence has warmed the atmosphere, ocean and land, and the Paris Agreement of 12 December 2015, with its goals of holding warming well below 2 degrees Celsius while pursuing 1.5 degrees.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This rests only on web search result summaries gathered on 2026-09-25 (the results named the IPCC, Carbon Brief, the UNFCCC, the United Nations and EBSCO Research Starters); no page itself was opened. The IPCC quotation comes from a search result summary and is worded as in the report's Summary for Policymakers."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part5"
+ },
+ "source/ipcc-ar6-synthesis-report-2023": {
+  "src": "da11a311f023",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This reports warming of about 1.1 degrees Celsius across 2011 to 2020, relative to 1850 to 1900.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This drew on web search results gathered on 2026-09-20; the page was not necessarily read in full. Treat it as unverified until checked again before it appears in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part5"
+ },
+ "source/pizarro-and-the-fall-of-the-inca-state-search-summaries": {
+  "src": "26e2d0e88012",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Pizarro's force of about 168 men reached Cajamarca in November 1532; the ransom offer followed, then Atahualpa's execution on 29 August 1533, Spanish entry into Cusco in November 1533, and finally the end of the Vilcabamba state in June 1572.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note stands only on web search result summaries from 2026-09-25 — Britannica, Wikipedia, HISTORY, Study.com and several tourism and history sites among the results — and none of the pages was opened. The figure of 168 is described as the number 'by most careful estimates', so treat it as approximate; exact days also differ slightly between accounts."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part8"
+ },
+ "source/pmc-on-tidally-driven-remelting-and-the-moon-s-age": {
+  "src": "f369b25aec9b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Current estimates place the Moon's age at about 4.52 to 4.35 Ga, roughly 50 to 220 Myr after Solar System formation.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26, drawn from the Europe PMC full-text XML of the open-access copy — PMC11655352, 39,759 characters."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part8"
+ },
+ "source/pnas-2016-on-early-farmers-descended-from-neolithic-aegeans": {
+  "src": "f43dda8c0132",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Farming spread into Europe from Anatolia by migration, beginning about 9,000 years ago, reaching central Europe by the mid-6th millennium BCE and northwestern Europe by the mid-4th.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2025-07-27 of pnas.org, 59,535 characters, and the snapshot may differ from the current page. The text supports farming reaching Europe from Anatolia by migration — an unbroken chain of ancestry running from central and southwestern Europe back to Greece and northwestern Anatolia — and it dates Anatolian farming communities to about 6,600 to 6,500 cal BCE, but it does not state that farming reached central Europe in the mid-6th millennium BCE, a claim an earlier check had made."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part8"
+ },
+ "source/pnas-2022-on-stature-and-health-of-early-european-farmers": {
+  "src": "5d85e7e0ebac",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The evidence here, drawn from 167 prehistoric Europeans, shows Neolithic individuals falling shorter than their genetic scores predicted, by an average of 3.82 cm relative to the Upper Paleolithic and Mesolithic and 2.21 cm relative to post-Neolithic groups, read as a sign of poorer health with the adoption of agriculture.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26, drawn from the Europe PMC full-text XML of the open-access copy — PMC9169634, 57,163 characters. The claim of shorter stature and worse health 'in 19 of 21 societies', which an earlier check had cited here, is not in this paper and has been removed. The paper itself uses stature as a proxy for health; the results are modest in statistical terms, P = 0.040 and 0.068, and they were attenuated once genome-wide ancestry was also accounted for."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part8"
+ },
+ "source/pnas-2024-civil-war-mortality-estimates": {
+  "src": "2a290d47b7d9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "A national estimate of about 698,000 Civil War deaths comes from full-count census records, with a bounding interval of roughly 50,000 either way, 647,439 to 748,561, set against the conventional count of 618,222 and the roughly 750,000 — 751,562, bounds 632,115 to 871,009 — that Hacker's 1 percent census sample gives when recomputed by the authors. It also finds that about 13 percent of military-age native-born white men in the core Confederate states died, against about 5 percent in the core Union states.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-25 from the Europe PMC full-text XML of the open-access copy — PMC11621511 — since pnas.org returns HTTP 403 to automated requests and the PMC web page shows a CAPTCHA, neither of which was bypassed. This is a Brief Report. The earlier citation gave 25 September 2024, which is the acceptance date; Europe PMC instead gives first publication as 18 November 2024. The claim that the toll was 'much greater in the Confederate states' concerns rates: about 13 percent of military-age native-born white men in the core Confederate states, against about 5 percent in the core Union states. In absolute numbers, though, the Union lost more men — about 400,000 or more, against roughly 300,000 for the Confederacy, on the paper's own tally. The estimate measures excess mortality, which includes deaths of veterans after the war and some civilian deaths, and it rests on standard assumptions for foreign-born and Black soldier deaths, figures the census method itself cannot estimate."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part8"
+ },
+ "source/poverty-point-monumental-earthworks-sources": {
+  "src": "93d2942d8623",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The site was occupied 3,700-3,100 BP by hunter-fisher-gatherers, who raised five mounds and six ridges, with Mound A reaching about 22 m, and it was inscribed on 22 June 2014.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This entry leans on web search result summaries from 2026-09-20 rather than a full reading of the page, so re-verify it before citing it in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part8"
+ },
+ "source/britannica-on-the-scramble-for-africa": {
+  "src": "48d91eb75e5a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the extent of European control of Africa (10 percent in the 1870s, about 90 percent by 1914, every present-day country except Ethiopia and Liberia) and the Berlin Conference, held 15 November 1884 to 26 February 1885.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-21 of britannica.com; the snapshot may differ from the current page (18,375 characters). It was added in Tier 3 to replace the generic Encyclopaedia Britannica citation on the Scramble for Africa note, and it says the 1870s, not 1870."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part4"
+ },
+ "source/britannica-on-the-song-dynasty": {
+  "src": "11721b131877",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the Song dynasty (960-1279): the Northern Song, founded by Zhao Kuangyin with its capital at Kaifeng, and the Southern Song, with its capital at Lin'an (Hangzhou).",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-07-12 of britannica.com; the snapshot may differ from the current page (18,457 characters). It was added in Tier 3 to replace the generic Encyclopaedia Britannica citation on the Song Dynasty note."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part4"
+ },
+ "source/britannica-on-the-stockton-and-darlington-railway": {
+  "src": "085051761a14",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the opening run of the Stockton and Darlington Railway on 27 September 1825 (Darlington to Stockton at about 15 miles per hour), described as the first railway in the world to operate freight and passenger service with steam traction.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-22 of britannica.com; the snapshot may differ from the current page (3,265 characters). The page does not mention the Rainhill Trials, Promontory Summit, London railway time in 1840, or North American standard time in 1883. The earlier citation also named Wikipedia, 'Rainhill trials' and 'Railway time', and the Library of Congress, 'May 10, 1869. Promontory Summit'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part4"
+ },
+ "source/britannica-on-the-sugar-revolution": {
+  "src": "6caa87ca2cfe",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry states that the Sugar Revolution in Barbados had momentous social, economic and political consequences, as the island's elite turned to large sugarcane plantations cultivated by oppressed labourers.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2025-08-06 of britannica.com; the snapshot may differ from the current page (2,686 characters). The page is a short stub, a search-result style excerpt from the Barbados article; it gives no date and says nothing about Madeira, Sao Tome, Brazil or Saint-Domingue. The earlier citation also named Cambridge Antiquity on early sugar plantations in Sao Tome, and Wikipedia, 'Brazilian sugar cycle'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part4"
+ },
+ "source/britannica-on-the-taiping-rebellion": {
+  "src": "4fc4dd6e4597",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the Taiping Rebellion of 1850 to 1864, which ravaged 17 provinces and took an estimated 20 million lives, the capture of Nanjing in 1853 (renamed Tianjing), and Hong Xiuquan's suicide in June.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-01 of britannica.com; the snapshot may differ from the current page (14,639 characters). It was added in Tier 3 to replace the generic Encyclopaedia Britannica citation on the Taiping Rebellion note. The page gives an estimate of 20 million deaths, not the range of 20 to 30 million in the note, and it gives the month of Hong's death but not the day (1 June)."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part4"
+ },
+ "source/britannica-on-the-thirty-years-war": {
+  "src": "afc78351f3eb",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the war of 1618 to 1648, conventionally dated from the revolt of the Protestant nobles of Bohemia and Austria against Ferdinand II in 1618, and its end with the Treaty of Westphalia, negotiated from 1644 at Munster and Osnabruck: the Spanish-Dutch treaty signed on 30 January 1648 and the treaty of 24 October 1648.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-18 of britannica.com; the snapshot may differ from the current page (10,425 characters). The page gives no death toll, does not describe the Defenestration of Prague in its article text (only in a link title), and does not say that Spain recognized the Dutch Republic. The earlier citation also named Wikipedia, 'Peace of Westphalia'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part4"
+ },
+ "source/wikipedia-on-ajuricaba-chief": {
+  "src": "7bfa207690c3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source supports his identity as a Manaos leader, his unclear origins, his death c. 1728, the Dutch alliance, the 1723 campaign under Governor João da Maia da Gama, the possible betrayal by allies, and his leap into the river.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a short general-audience article that relies on Portuguese colonial chroniclers and a thin bibliography, and it gives c. 1728 for his death where the Portuguese edition gives September 1727."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part10"
+ },
+ "source/wikipedia-on-ajuricaba-indigena": {
+  "src": "c235abc4547e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source supports the September 1727 death, the 1723 just war, Governor Maia da Gama organizing the force that captured him, and the account of him fighting his guards in chains before throwing himself into the water on the way to Belém.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The Portuguese edition itself says the Dutch alliance comes mainly from Portuguese sources and may stand as a partial colonial view, and it cites Sweet 1974 and Guzmán 1997 without inline footnotes in the extract."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part10"
+ },
+ "source/wikipedia-on-al-biruni": {
+  "src": "a529fafd67ed",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source supports his birth in Kath in 973, the hedged death date (9 December 1048 in the infobox, around 1050 in the lead), the July 1017 Ghaznavid conquest of Khwarazm, the Chronology (about 1000) and Kitab al-Hind (about 1030) dates, his fluency in Sanskrit, and the Nandana Earth-radius method.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a tertiary source; the article stays internally inconsistent on the death date, and it gives the radius in miles with noted cubit-conversion uncertainty, so precise figures should stay hedged."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part10"
+ },
+ "source/wikipedia-on-alberto-ruz-lhuillier": {
+  "src": "9d5361ee4156",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source supports that Ruz Lhuillier discovered the tomb entrance beneath the Temple of the Inscriptions in 1948 and, after four excavation seasons concluding in 1952, reached Pakal's sarcophagus and remains.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It does not itself mention the jade mask; that detail is corroborated by the Wikipedia article on Pakal."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part10"
+ },
+ "source/wikipedia-on-albrecht-durer": {
+  "src": "9a84dab192af",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source supports Dürer's birth and death dates, Nuremberg and his Hungarian-born goldsmith father, the Wolgemut apprenticeship, Maximilian I's patronage from 1512, the 1520 to 1521 Netherlands journey, the treatise dates, and the dated key works.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read through a summarising fetch tool rather than the raw page; it dates the second Venice trip to early 1506 to spring 1507, gives sixteen Apocalypse designs, and mentions neither the Aztec diary remark, the AD monogram dispute, Bellini's regard for him, nor Raphael's drawing exchange."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part10"
+ },
+ "source/wikipedia-on-alphonse-mucha": {
+  "src": "8819e6a2ea62",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source supports Mucha's birth and death dates, the 1887 move to Paris, the Gismonda commission and its six-year contract, the Slav Epic dates and donation, and the 1939 arrest and death.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Wikipedia stands as a general tertiary reference, read through a summarising fetch, and it states no explicit causal link between the 1939 arrest and his death."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-064.part10"
+ },
+ "source/iugs-anthropocene-decision-2024": {
+  "src": "77c83b755624",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This confirms the March 2024 vote against formalizing the Anthropocene epoch, and the IUGS ratification that followed.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read on 2026-09-26 from nature.com, fetched directly (4,974 characters); only the first paragraph of this Nature news item could be read. It confirms that the IUGS announced on 20 March 2024 that it upheld the decision of a group of geoscientists who had voted on 4 March to reject the proposal to make the Anthropocene a formal epoch. The vote count — 12 against, 4 for and 3 abstentions — was not in the text read. An abstract-only source never carries a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part6"
+ },
+ "source/jinek-et-al-2012-crispr-cas9": {
+  "src": "d5eee7ce5d00",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This paper publishes programmable CRISPR-Cas9 editing, in 2012.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This drew on web search results gathered on 2026-09-20; the page was not necessarily read in full. Treat it as unverified until checked again before it appears in print — it was accessed via a university profile of the author."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part6"
+ },
+ "source/jomon-prehistoric-sites-in-northern-japan-official-website": {
+  "src": "11b182fa79c1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This covers Jomon pottery from about 16,000 years ago, the site of Sannai-Maruyama (3900-2200 BCE), dogu figurines, the UNESCO listing on 27 July 2021, and the start of the Yayoi transition about 900 BCE.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This drew only on web search result summaries, gathered on 2026-09-20; the page itself went unread in full. Treat it as unverified until checked again before it appears in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part6"
+ },
+ "source/journal-of-archaeological-research-on-iron-in-the-near-east": {
+  "src": "5544f82fd9c3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Extractive iron metallurgy ran on a limited scale in Anatolia in the early 2nd millennium BCE, followed by the first major expansion of iron across Anatolia and the wider Near East in the late 2nd and early 1st millennium BCE.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 from the open-access PDF at link.springer.com (publishedVersion version, 187,491 characters), so its wording, figures or pagination may differ slightly from the published version. The text confirms the two dating claims used in the Iron Age and Iron Smelting notes: extractive iron metallurgy began on a limited scale in Anatolia sometime in the early 2nd millennium BC, and expanded around the turn of the first millennium BC. The earlier caveat, that their wording came from a search summary, no longer applies."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part6"
+ },
+ "source/kanem-bornu-empire-search-summaries": {
+  "src": "2fd524abe812",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This covers the move from Kanem to Bornu about 1396, the origin of the Kanuri, Idris Alooma's reign and his reforms, and the 1808 conquest, the 1846 end of the dynasty, and the 1893 fall.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This rests only on web search result summaries gathered on 2026-09-20 (the results named university course texts on the Bornu Empire, the New World Encyclopedia and Wikipedia); no page itself was opened. The summaries gave no founding date for Kanem, so the note's start date of about 900 stands as an approximation from general knowledge, not something these sources support."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part6"
+ },
+ "source/khipu-database-unesco-memory-of-the-world": {
+  "src": "140277759f83",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This gives the number of surviving inventoried quipus: 923.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This drew on web search results gathered on 2026-09-20; the page was not necessarily read in full. Treat it as unverified until checked again before it appears in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part6"
+ },
+ "source/prumers-et-al-2022-casarabe-lidar": {
+  "src": "54b28260bb5d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers Casarabe culture settlements, their dates, about 500 to 1400 CE, and their architecture.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26, drawn from the Europe PMC full-text XML of the open-access copy — PMC9177426, 24,129 characters."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part9"
+ },
+ "source/quesada-expedition-and-the-muisca-conquest-search-summaries": {
+  "src": "e8fe2eac0905",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The expedition left Santa Marta in April 1536 with roughly 800 to 900 Spaniards, plus native carriers and enslaved Africans; nearly three-quarters of the Spaniards were lost along the way, 179 survivors in one scholarly account, before the conquest of Muisca territory from 1537 and the founding of Bogota.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note stands only on web search result summaries from 2026-09-25 — Penn State University Press, the University of South Florida digital commons, Encyclopedia.com and Wikipedia among the results — and none of the pages was opened. Sources differ on the size of the force, about 800 in Francis's account, more than 900 elsewhere, and on survivors, 179 in one, about 166 in others, so the note gives a range and says 'nearly three-quarters'. The summaries did not confirm the Muisca ruler titles or the 1540 end date of the conquest."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part9"
+ },
+ "source/rano-raraku-moai-counts-search-summaries": {
+  "src": "cbffa014408b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "About 397 moai stand in the Rano Raraku quarry, and about 95 percent of moai were carved from its volcanic tuff.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note stands only on web search result summaries from 2026-09-25 — Wikipedia, Google Arts and Culture, Imagina Easter Island, travel sites and one social media post among the results — and none of the pages was opened. The sources conflict: most gave 397 moai in the quarry, while one social media post gave 887 in the quarry, likely a confusion with an island-wide count. So the vault says about 400 in the quarry and treats total counts as uncertain. The 95 percent figure appears in the same low-grade pages and should be checked against an archaeological source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part9"
+ },
+ "source/rapa-nui-ecocide-debate-and-the-1862-slave-raids-search-summaries": {
+  "src": "5783e23065d1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This note lays out the challenge to the ecocide story — a peak population nearer 3,000, a large role for introduced rats in deforestation — alongside the Peruvian slave raids of December 1862 to 1864 and the smallpox epidemic that followed.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This note stands only on web search result summaries from 2026-09-25 — American Scientist, The Conversation, Scientific American, HISTORY, EBSCO Research Starters and several popular pages among the results — and none of the pages was opened. Figures such as about 1,000 captured in December 1862, more than 1,400 taken in 1862 to 1864, about a thousand smallpox deaths and a fall to about 100 people come from popular summaries and differ between accounts, so the note states them as reported. The maximum population of about 3,000 rests on a revised chronology and is itself debated."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part9"
+ },
+ "source/rapa-nui-history-sources-rano-raraku-slave-raids-ecocide-debate": {
+  "src": "c0b14f6bef8c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "At the Rano Raraku quarry, 887 moai remain, the source of stone for about 95 percent of the island's known monolithic statues.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-27 as raw wikitext from the MediaWiki API, revision 1339992618, 6,094 characters converted from wikitext markup. Since Wikipedia is not authoritative, this revision may since have been edited. The Rano Raraku Wikipedia article itself is about the quarry; it says nothing about the 1862-63 Peruvian slave raids, the 1877 population, or the ecocide debate. Those claims were never actually read here — the note's other checks, citing Rano Raraku Moai Counts (Search Summaries) and Rapa Nui Ecocide Debate and the 1862 Slave Raids (Search Summaries), already give more precise figures for the slave raids from a Tier 6 source. The earlier citation also named EBSCO Research Starters, 'Slave Traders and Easter Island'; Hunt and Lipo, 'Revisiting Rapa Nui (Easter Island) Ecocide'; and Science/AAAS, 'No, the people of Rapa Nui didn't commit ecocide' — none of these were fetched, and only the Wikipedia URL in this note was read. So nothing taken from those pages is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part9"
+ },
+ "source/rasmussen-et-al-2008-first-appearance-of-eukaryotes-and-cyanobacteria": {
+  "src": "415d42bab795",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This one shows the 2.7 Ga biomarkers to be younger contamination, and places the earliest unambiguous cyanobacteria fossils at about 2.15 Ga.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read on 2026-09-26 from nature.com, fetched directly — 19,726 characters. Only the abstract on the Nature page was readable, since the article body needs a subscription. It gives the oldest fossil evidence for eukaryotes as 1.78 to 1.68 Gyr ago, a slightly older range than the 1.65 Ga in the Origin of Eukaryotes note, which follows the 2017 Paleoproterozoic review. An abstract-only source never moves a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part9"
  }
 }
