@@ -49,6 +49,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 9500 BCE to 3000 BCE | [[The Agricultural Revolution]] | event | [[Neolithic]] |
 | 9000 BCE | [[Jericho]] | place | [[Neolithic]] |
 | 8500 BCE | [[Animal Domestication]] | event | [[Neolithic]] |
+| 8000 BCE | [[Khoisan Peoples]] | culture | [[Neolithic]] |
 | 8000 BCE | [[Uluru]] | place | [[Holocene Epoch]] |
 | 7100 BCE to 5700 BCE | [[Çatalhöyük]] | place | [[Neolithic]] |
 | 7000 BCE | [[Brewing and Fermentation]] | technology | [[Neolithic]] |
@@ -278,6 +279,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 500 CE | [[Mecca]] | place | [[Medieval Period]] |
 | 500 CE | [[Venice]] | place | [[Medieval Period]] |
 | 550 CE to 1300 CE | [[Mesa Verde]] | place | [[Medieval Period]] |
+| 550 CE to 1000 CE | [[Tiwanaku]] | culture | [[Medieval Period]] |
 | 552 CE to 744 CE | [[Göktürk Khaganate]] | culture | [[Medieval Period]] |
 | 555 CE to 619 CE | [[Khadija bint Khuwaylid]] | person | [[Medieval Period]] |
 | 570 CE to 632 CE | [[Muhammad]] | person | [[Medieval Period]] |
@@ -328,6 +330,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 850 CE to 1279 CE | [[Chola Dynasty]] | culture | [[Medieval Period]] |
 | 850 CE | [[Gunpowder]] | technology | [[Medieval Period]] |
 | 882 CE to 1240 CE | [[Kievan Rus]] | culture | [[Medieval Period]] |
+| 900 CE to 1470 CE | [[Chimú]] | culture | [[Medieval Period]] |
 | 900 CE to 1893 CE | [[Kanem-Bornu Empire]] | culture | [[Medieval Period]] |
 | 900 CE to 1100 CE | [[Kupe]] | person | [[Medieval Period]] |
 | 900 CE to 1628 CE | [[Nan Madol]] | place | [[Medieval Period]] |
@@ -423,10 +426,12 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1370 CE to 1507 CE | [[Timurid Empire]] | culture | [[Medieval Period]] |
 | 1371 CE to 1433 CE | [[Zheng He]] | person | [[Medieval Period]] |
 | 1373 CE to 1399 CE | [[Jadwiga]] | person | [[Medieval Period]] |
+| 1375 CE to 1894 CE | [[Buganda]] | culture | [[Medieval Period]] |
 | 1390 CE to 1441 CE | [[Jan van Eyck]] | person | [[Medieval Period]] |
 | 1392 CE to 1897 CE | [[Joseon Dynasty]] | culture | [[Medieval Period]] |
 | 1394 CE to 1449 CE | [[Ulugh Beg]] | person | [[Medieval Period]] |
 | 1400 CE to 1468 CE | [[Johannes Gutenberg]] | person | [[Medieval Period]] |
+| 1400 CE to 1889 CE | [[Luba Empire]] | culture | [[Medieval Period]] |
 | 1400 CE to 1511 CE | [[Malacca Sultanate]] | culture | [[Medieval Period]] |
 | 1400 CE to 1836 CE | [[Oyo Empire]] | culture | [[Medieval Period]] |
 | 1400 CE to 1600 CE | [[Renaissance]] | event | [[Medieval Period]] |
@@ -502,6 +507,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1589 CE | [[Hiroshima]] | place | [[Early Modern Period]] |
 | 1593 CE to 1654 CE | [[Artemisia Gentileschi]] | person | [[Early Modern Period]] |
 | 1599 CE to 1660 CE | [[Diego Velázquez]] | person | [[Early Modern Period]] |
+| 1600 CE to 1894 CE | [[Kingdom of Dahomey]] | culture | [[Early Modern Period]] |
 | 1602 CE to 1799 CE | [[Dutch East India Company]] | event | [[Early Modern Period]] |
 | 1603 CE to 1868 CE | [[Tokugawa Shogunate]] | culture | [[Early Modern Period]] |
 | 1606 CE to 1669 CE | [[Rembrandt van Rijn]] | person | [[Early Modern Period]] |

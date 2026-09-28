@@ -200,6 +200,7 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 **Peoples and cultures**
 - [[Aboriginal Australians]] (50 ka)
 - [[Mal'ta and the Ancient North Eurasians]] (22 ka)
+- [[Khoisan Peoples]] (8000 BCE)
 - [[Chinchorro Culture]] (5450 BCE)
 - [[Botai Culture]] (3700 BCE)
 - [[Yamnaya Culture]] (3300 BCE)
@@ -231,6 +232,7 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 - [[Habsburg Monarchy]] (1282 CE)
 - [[Nenets]] (1300 CE)
 - [[Yakut (Sakha)]] (1300 CE)
+- [[Buganda]] (1375 CE)
 - [[Joseon Dynasty]] (1392 CE)
 - [[Inca Empire]] (1438 CE)
 - [[Haudenosaunee Confederacy]] (1450 CE)
@@ -238,6 +240,7 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 - [[Cherokee]] (1540 CE)
 - [[Mapuche]] (1546 CE)
 - [[Polish-Lithuanian Commonwealth]] (1569 CE)
+- [[Kingdom of Dahomey]] (1600 CE)
 - [[Garifuna]] (1635 CE)
 - [[Qing Dynasty]] (1644 CE)
 - [[Maroon Communities]] (1650 CE)

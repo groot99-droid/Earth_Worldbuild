@@ -191,6 +191,7 @@ The Observer treats art and ritual as behavior with no obvious direct survival f
 - [[Igbo-Ukwu Culture]] (800 CE)
 - [[Khmer Empire]] (802 CE)
 - [[Chola Dynasty]] (850 CE)
+- [[Chimú]] (900 CE)
 - [[Tapajós Culture]] (900 CE)
 - [[Mississippian Culture]] (1000 CE)
 - [[Muisca]] (1000 CE)

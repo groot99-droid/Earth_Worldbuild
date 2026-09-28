@@ -126,6 +126,7 @@ The Observer calls these the sound-code and the mark-code. It notes that languag
 - [[Knud Rasmussen]] (1879 CE)
 
 **Peoples and cultures**
+- [[Khoisan Peoples]] (8000 BCE)
 - [[Sumerians]] (4500 BCE)
 - [[Yamnaya Culture]] (3300 BCE)
 - [[Elamites]] (3200 BCE)

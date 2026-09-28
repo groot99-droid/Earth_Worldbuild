@@ -42,6 +42,7 @@ The Observer sees the Neolithic as a bargain with consequences: more food, more 
 
 **Peoples and cultures**
 - [[Jomon Culture]] (14 ka)
+- [[Khoisan Peoples]] (8000 BCE)
 - [[Chinchorro Culture]] (5450 BCE)
 - [[Botai Culture]] (3700 BCE)
 - [[Evenki]] (3000 BCE)

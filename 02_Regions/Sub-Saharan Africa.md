@@ -60,6 +60,7 @@ The Observer notes that the species' longest history happened here. Every non-Af
 - [[Wangari Maathai]] (1940 CE)
 
 **Peoples and cultures**
+- [[Khoisan Peoples]] (8000 BCE)
 - [[Nok Culture]] (900 BCE)
 - [[Kingdom of Aksum]] (100 CE)
 - [[Ghana Empire]] (800 CE)
@@ -70,9 +71,12 @@ The Observer notes that the species' longest history happened here. Every non-Af
 - [[Zagwe Dynasty]] (1137 CE)
 - [[Kingdom of Benin]] (1200 CE)
 - [[Mali Empire]] (1235 CE)
+- [[Buganda]] (1375 CE)
+- [[Luba Empire]] (1400 CE)
 - [[Oyo Empire]] (1400 CE)
 - [[Songhai Empire]] (1464 CE)
 - [[Kingdom of Kongo]] (1483 CE)
+- [[Kingdom of Dahomey]] (1600 CE)
 - [[Asante Empire]] (1670 CE)
 - [[Sokoto Caliphate]] (1804 CE)
 - [[Zulu Kingdom]] (1816 CE)

@@ -100,6 +100,7 @@ The Observer notes that for the first time, every inhabited continent was in con
 - [[Mapuche]] (1546 CE)
 - [[Polish-Lithuanian Commonwealth]] (1569 CE)
 - [[Dutch Republic]] (1581 CE)
+- [[Kingdom of Dahomey]] (1600 CE)
 - [[Tokugawa Shogunate]] (1603 CE)
 - [[Garifuna]] (1635 CE)
 - [[Qing Dynasty]] (1644 CE)
