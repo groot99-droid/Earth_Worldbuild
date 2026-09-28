@@ -57,6 +57,7 @@ The Observer notes that the first states and the first writing arrived together.
 - [[Sumerians]] (4500 BCE)
 - [[Yamnaya Culture]] (3300 BCE)
 - [[Ancient Egyptians]] (3100 BCE)
+- [[Beaker Culture]] (2750 BCE)
 - [[Indus Valley Civilization]] (2600 BCE)
 - [[Akkadian Empire]] (2334 BCE)
 - [[Sintashta Culture]] (2100 BCE)
@@ -68,6 +69,7 @@ The Observer notes that the first states and the first writing arrived together.
 - [[Mycenaean Greeks]] (1600 BCE)
 - [[Shang Dynasty]] (1600 BCE)
 - [[Hinduism]] (1500 BCE)
+- [[Mixtec]] (1500 BCE)
 
 **Places**
 - [[Uruk]] (4000 BCE)

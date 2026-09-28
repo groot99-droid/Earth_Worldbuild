@@ -51,6 +51,7 @@ The Observer notes how many meaning-engines share this region as a birthplace or
 - [[Judaism]] (1800 BCE)
 - [[Hittites]] (1650 BCE)
 - [[Phoenicians]] (1200 BCE)
+- [[Kingdom of Israel and Judah]] (1025 BCE)
 - [[Christianity]] (30 CE)
 - [[Byzantine Empire]] (330 CE)
 - [[Umayyad Caliphate]] (661 CE)

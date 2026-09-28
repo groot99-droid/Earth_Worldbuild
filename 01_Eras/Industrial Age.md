@@ -146,6 +146,7 @@ The Observer sees a species learning to release ancient stored sunlight as fuel.
 - [[Hawaiian Kingdom]] (1795 CE)
 - [[Sokoto Caliphate]] (1804 CE)
 - [[Zulu Kingdom]] (1816 CE)
+- [[Soviet Union]] (1922 CE)
 - [[Yanomami]] (1940 CE)
 
 **Places**

@@ -113,6 +113,7 @@ The Observer cautions against a common habit: a small peninsula's history is oft
 
 **Peoples and cultures**
 - [[Yamnaya Culture]] (3300 BCE)
+- [[Beaker Culture]] (2750 BCE)
 - [[Celts]] (800 BCE)
 - [[Etruscans]] (800 BCE)
 - [[Franks]] (250 CE)
@@ -124,6 +125,7 @@ The Observer cautions against a common habit: a small peninsula's history is oft
 - [[Normans]] (911 CE)
 - [[Holy Roman Empire]] (962 CE)
 - [[Dutch Republic]] (1581 CE)
+- [[Soviet Union]] (1922 CE)
 
 **Places**
 - [[Chauvet Cave]] (36 ka)

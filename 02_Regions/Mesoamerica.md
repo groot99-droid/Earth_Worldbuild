@@ -46,6 +46,7 @@ The Observer regards Mesoamerica as a natural experiment: a second, independent 
 - [[Frida Kahlo]] (1907 CE)
 
 **Peoples and cultures**
+- [[Mixtec]] (1500 BCE)
 - [[Olmecs]] (1200 BCE)
 - [[Zapotec Civilization]] (500 BCE)
 - [[Maya]] (250 CE)

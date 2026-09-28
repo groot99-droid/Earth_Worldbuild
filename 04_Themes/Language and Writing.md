@@ -133,6 +133,7 @@ The Observer calls these the sound-code and the mark-code. It notes that languag
 - [[Hittites]] (1650 BCE)
 - [[Mycenaean Greeks]] (1600 BCE)
 - [[Shang Dynasty]] (1600 BCE)
+- [[Mixtec]] (1500 BCE)
 - [[Phoenicians]] (1200 BCE)
 - [[Kingdom of Saba]] (1000 BCE)
 - [[Neo-Assyrian Empire]] (911 BCE)

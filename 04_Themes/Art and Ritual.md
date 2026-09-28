@@ -168,6 +168,7 @@ The Observer treats art and ritual as behavior with no obvious direct survival f
 - [[Indus Valley Civilization]] (2600 BCE)
 - [[Minoans]] (2000 BCE)
 - [[Lapita Culture]] (1600 BCE)
+- [[Mixtec]] (1500 BCE)
 - [[Olmecs]] (1200 BCE)
 - [[Chavín Culture]] (900 BCE)
 - [[Nok Culture]] (900 BCE)

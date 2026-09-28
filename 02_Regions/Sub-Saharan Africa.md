@@ -69,6 +69,7 @@ The Observer notes that the species' longest history happened here. Every non-Af
 - [[Zagwe Dynasty]] (1137 CE)
 - [[Kingdom of Benin]] (1200 CE)
 - [[Mali Empire]] (1235 CE)
+- [[Oyo Empire]] (1400 CE)
 - [[Songhai Empire]] (1464 CE)
 - [[Kingdom of Kongo]] (1483 CE)
 - [[Sokoto Caliphate]] (1804 CE)

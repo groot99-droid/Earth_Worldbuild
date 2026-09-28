@@ -56,6 +56,7 @@ The Observer sees the Iron Age as a democratization of tools and, therefore, of 
 - [[Olmecs]] (1200 BCE)
 - [[Phoenicians]] (1200 BCE)
 - [[Kingdom of Kush]] (1070 BCE)
+- [[Kingdom of Israel and Judah]] (1025 BCE)
 - [[Kingdom of Saba]] (1000 BCE)
 - [[Zoroastrianism]] (1000 BCE)
 - [[Neo-Assyrian Empire]] (911 BCE)

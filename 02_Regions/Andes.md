@@ -44,6 +44,7 @@ The Observer notes that the Andes show a state coordinating millions of people u
 - [[Chinchorro Culture]] (5450 BCE)
 - [[Chavín Culture]] (900 BCE)
 - [[Moche Culture]] (100 CE)
+- [[Wari Empire]] (600 CE)
 - [[Muisca]] (1000 CE)
 - [[Inca Empire]] (1438 CE)
 - [[Mapuche]] (1546 CE)

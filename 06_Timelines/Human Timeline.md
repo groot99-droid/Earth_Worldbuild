@@ -84,6 +84,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 3000 BCE | [[Tupi-Guarani]] | culture | [[Neolithic]] |
 | 2900 BCE | [[Papyrus]] | technology | [[Bronze Age]] |
 | 2800 BCE to 2500 BCE | [[Gilgamesh]] | person | [[Bronze Age]] |
+| 2750 BCE to 1800 BCE | [[Beaker Culture]] | culture | [[Bronze Age]] |
 | 2700 BCE | [[Calendars]] | technology | [[Bronze Age]] |
 | 2700 BCE | [[Sericulture]] | technology | [[Bronze Age]] |
 | 2600 BCE to 2000 BCE | [[Caral]] | place | [[Bronze Age]] |
@@ -115,6 +116,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1500 BCE | [[Ganges River]] | place | [[Bronze Age]] |
 | 1500 BCE | [[Hinduism]] | culture | [[Bronze Age]] |
 | 1500 BCE | [[Lake Titicaca]] | place | [[Bronze Age]] |
+| 1500 BCE to 1523 CE | [[Mixtec]] | culture | [[Bronze Age]] |
 | 1500 BCE to 1070 BCE | [[Valley of the Kings]] | place | [[Bronze Age]] |
 | 1500 BCE to 500 BCE | [[Vedic Period]] | event | [[Bronze Age]] |
 | 1400 BCE | [[Water Clock]] | technology | [[Bronze Age]] |
@@ -129,6 +131,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1200 BCE to 400 BCE | [[Olmecs]] | culture | [[Iron Age]] |
 | 1200 BCE to 300 BCE | [[Phoenicians]] | culture | [[Iron Age]] |
 | 1070 BCE to 350 CE | [[Kingdom of Kush]] | culture | [[Iron Age]] |
+| 1025 BCE to 586 BCE | [[Kingdom of Israel and Judah]] | culture | [[Iron Age]] |
 | 1000 BCE | [[Amazon River]] | place | [[Bronze Age]] |
 | 1000 BCE to 300 CE | [[Incense Trade]] | event | [[Iron Age]] |
 | 1000 BCE to 275 CE | [[Kingdom of Saba]] | culture | [[Iron Age]] |
@@ -265,6 +268,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 555 CE to 619 CE | [[Khadija bint Khuwaylid]] | person | [[Medieval Period]] |
 | 570 CE to 632 CE | [[Muhammad]] | person | [[Medieval Period]] |
 | 600 CE | [[Porcelain]] | technology | [[Medieval Period]] |
+| 600 CE to 1050 CE | [[Wari Empire]] | culture | [[Medieval Period]] |
 | 602 CE to 664 CE | [[Xuanzang]] | person | [[Medieval Period]] |
 | 603 CE to 683 CE | [[Pakal the Great]] | person | [[Medieval Period]] |
 | 610 CE | [[Islam]] | culture | [[Medieval Period]] |
@@ -273,6 +277,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 618 CE to 907 CE | [[Tang Dynasty]] | culture | [[Medieval Period]] |
 | 622 CE | [[Medina]] | place | [[Medieval Period]] |
 | 624 CE to 705 CE | [[Wu Zetian]] | person | [[Medieval Period]] |
+| 632 CE to 661 CE | [[Rashidun Caliphate]] | culture | [[Medieval Period]] |
 | 632 CE to 647 CE | [[Seondeok]] | person | [[Medieval Period]] |
 | 650 CE to 1377 CE | [[Srivijaya]] | culture | [[Medieval Period]] |
 | 661 CE to 750 CE | [[Umayyad Caliphate]] | culture | [[Medieval Period]] |
@@ -391,6 +396,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1394 CE to 1449 CE | [[Ulugh Beg]] | person | [[Medieval Period]] |
 | 1400 CE to 1468 CE | [[Johannes Gutenberg]] | person | [[Medieval Period]] |
 | 1400 CE to 1511 CE | [[Malacca Sultanate]] | culture | [[Medieval Period]] |
+| 1400 CE to 1836 CE | [[Oyo Empire]] | culture | [[Medieval Period]] |
 | 1400 CE to 1600 CE | [[Renaissance]] | event | [[Medieval Period]] |
 | 1402 CE to 1472 CE | [[Nezahualcoyotl]] | person | [[Medieval Period]] |
 | 1406 CE to 1924 CE | [[Forbidden City]] | place | [[Medieval Period]] |
@@ -425,6 +431,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1498 CE to 1546 CE | [[Mirabai]] | person | [[Early Modern Period]] |
 | 1498 CE | [[Portuguese Sea Route to India]] | event | [[Early Modern Period]] |
 | 1500 CE to 1529 CE | [[Malinche]] | person | [[Early Modern Period]] |
+| 1500 CE | [[Moriori]] | culture | [[Medieval Period]] |
 | 1500 CE | [[Sugar Plantation Complex]] | event | [[Early Modern Period]] |
 | 1501 CE to 1866 CE | [[Atlantic Slave Trade]] | event | [[Early Modern Period]] |
 | 1501 CE to 1736 CE | [[Safavid Empire]] | culture | [[Early Modern Period]] |
@@ -623,6 +630,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1919 CE to 1923 CE | [[Turkish War of Independence]] | event | [[Industrial Age]] |
 | 1920 CE to 1958 CE | [[Rosalind Franklin]] | person | [[Information Age]] |
 | 1921 CE | [[Insulin]] | technology | [[Industrial Age]] |
+| 1922 CE to 1991 CE | [[Soviet Union]] | culture | [[Industrial Age]] |
 | 1926 CE | [[Liquid-Fueled Rocket]] | technology | [[Industrial Age]] |
 | 1928 CE | [[Antibiotics]] | technology | [[Industrial Age]] |
 | 1932 CE to 1957 CE | [[Kolyma]] | place | [[Industrial Age]] |

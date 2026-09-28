@@ -204,6 +204,7 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 - [[Botai Culture]] (3700 BCE)
 - [[Yamnaya Culture]] (3300 BCE)
 - [[Tupi-Guarani]] (3000 BCE)
+- [[Beaker Culture]] (2750 BCE)
 - [[Sintashta Culture]] (2100 BCE)
 - [[Polynesians]] (1300 BCE)
 - [[Confucianism]] (551 BCE)
@@ -221,6 +222,7 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 - [[Yakut (Sakha)]] (1300 CE)
 - [[Inca Empire]] (1438 CE)
 - [[Haudenosaunee Confederacy]] (1450 CE)
+- [[Moriori]] (1500 CE)
 - [[Cherokee]] (1540 CE)
 - [[Mapuche]] (1546 CE)
 - [[Garifuna]] (1635 CE)
@@ -229,6 +231,7 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 - [[Lakota]] (1760 CE)
 - [[Hawaiian Kingdom]] (1795 CE)
 - [[Zulu Kingdom]] (1816 CE)
+- [[Soviet Union]] (1922 CE)
 - [[Yanomami]] (1940 CE)
 
 **Places**

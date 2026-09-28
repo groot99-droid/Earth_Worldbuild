@@ -51,6 +51,7 @@ The Observer regards Oceania as home to the species' most spectacular feats of n
 - [[Polynesians]] (1300 BCE)
 - [[Tui Tonga Empire]] (950 CE)
 - [[Maori]] (1250 CE)
+- [[Moriori]] (1500 CE)
 - [[Hawaiian Kingdom]] (1795 CE)
 
 **Places**
