@@ -1,0 +1,82 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stage site
+        run: |
+          set -e
+          STAGE="$RUNNER_TEMP/pages"
+          mkdir -p "$STAGE"
+
+          # Copy the repo, leaving out dev-only / infra content that no
+          # deployed page reads at runtime (Python backends, editor config,
+          # and the raw Obsidian vault notes that _Site/_Museum are built from).
+          rsync -a \
+            --exclude='.git' \
+            --exclude='.github' \
+            --exclude='.obsidian' \
+            --exclude='.claude' \
+            --exclude='.mcp.json' \
+            --exclude='.gitignore' \
+            --exclude='_RAG' \
+            --exclude='_Rewrite' \
+            --exclude='00_Meta' \
+            --exclude='01_Eras' \
+            --exclude='02_Regions' \
+            --exclude='03_Entities' \
+            --exclude='04_Themes' \
+            --exclude='05_Observer_Notes' \
+            --exclude='06_Timelines' \
+            --exclude='07_Sources' \
+            --exclude='08_Canvas_Maps' \
+            --exclude='_Templates' \
+            ./ "$STAGE"/
+
+          # _Museum/blender/ is ~49MB of Blender source (.blend files,
+          # review screenshots); the museum page only reads
+          # scripts/framings.json out of it.
+          find "$STAGE/_Museum/blender" -mindepth 1 -maxdepth 1 ! -name scripts -exec rm -rf {} +
+          find "$STAGE/_Museum/blender/scripts" -mindepth 1 ! -name framings.json -exec rm -rf {} +
+
+          # Actions-based Pages deploys don't run Jekyll by default, but
+          # make it explicit given how many folders here start with "_".
+          touch "$STAGE/.nojekyll"
+
+          echo "STAGE=$STAGE" >> "$GITHUB_ENV"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ env.STAGE }}
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
