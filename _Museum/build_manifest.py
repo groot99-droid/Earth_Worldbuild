@@ -87,10 +87,17 @@ ROOMS = [
      "connects_to": ["gallery-c", "mezzanine"],
      "position": [70.0, -9.0, 0.05],
      "doors": {"gallery-c": [70.0, -3.0, 0.05], "mezzanine": [70.0, -3.0, 0.05]}},
+    # `spawn` is where a teleport lands (the mezzanine's centre is the stairwell void);
+    # `through` lists the walkable route between two neighbours when a straight line
+    # through the room centre is not one (here: up the stairs, around the balcony ring
+    # that the viewer adds procedurally, and out west along the upper spine).
     {"id": "mezzanine", "name": "Grand Staircase & Mezzanine", "kind": "level",
      "connects_to": ["gallery-d", "gallery-e"],
      "position": [91.0, 0.0, 7.05],
-     "doors": {"gallery-d": [84.0, 0.0, 0.05], "gallery-e": [64.0, 3.0, 7.05]}},
+     "spawn": [97.0, 0.0, 7.05],
+     "doors": {"gallery-d": [84.0, 0.0, 0.05], "gallery-e": [64.0, 3.0, 7.05]},
+     "through": {"gallery-d>gallery-e": [[84.0, 0.0, 0.05], [86.0, 0.0, 0.05], [97.0, 0.0, 7.05],
+                                        [97.0, 4.0, 7.05], [85.0, 4.0, 7.05], [83.0, 0.8, 7.05]]}},
     {"id": "gallery-e", "name": "19th-Century Movements", "era": "1800s (core)", "kind": "gallery",
      "connects_to": ["mezzanine", "gallery-f"],
      "position": [64.0, 12.0, 7.05],

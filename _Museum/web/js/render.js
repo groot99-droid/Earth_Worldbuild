@@ -57,6 +57,13 @@ export const RENDER_DEFAULTS = {
 //   ?shadows=0          disable shadow maps
 //   ?debug              overlay (debug.js)
 //   ?view=<framing>     place the camera at a framings.json view on load (debug.js)
+//   ?room=<id>          start in a manifest room (hud.js teleport)
+//   ?work=<id>          start in front of a work with its placard open (navigate.js)
+//   ?resume=1           restore the last saved position (persist.js)
+//   ?wing=0             skip the procedural People wing (procwing.js)
+//   ?nopatch            skip the procedural mezzanine balcony (procgeo.js)
+//   ?tourDwell=6        seconds the guided tour pauses at each work (tour.js)
+//   ?test               no animation loop; the test harness drives museumDebug.step()/renderOnce()
 export function readRenderOptions(search = window.location.search) {
   const p = new URLSearchParams(search);
   const num = (k, d) => {
@@ -76,6 +83,13 @@ export function readRenderOptions(search = window.location.search) {
     lightGain: num('lights', 1.0),
     shadows: !(p.has('shadows') && (p.get('shadows') === '0' || p.get('shadows') === 'false')),
     skyIntensity: num('sky', RENDER_DEFAULTS.skyIntensity),
+    test: p.has('test'),
+    room: p.get('room') || null,
+    work: p.get('work') || null,
+    resume: flag('resume'),
+    wing: !(p.has('wing') && (p.get('wing') === '0' || p.get('wing') === 'false')),
+    nopatch: flag('nopatch'),
+    tourDwell: num('tourDwell', 6),
   };
 }
 

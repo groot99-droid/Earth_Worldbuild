@@ -12,3 +12,7 @@ _RAG/fetch_config.local.json
 
 # Stray Windows cache dir created by an unexpanded %SystemDrive% path
 %SystemDrive%/
+
+# museum test harness output (screenshots, reports)
+_Museum/tools/out/
+node_modules/
