@@ -12289,5 +12289,223 @@
   "date": "2026-09-28",
   "observer_mode": "essay-self-help",
   "batch": "site-045.part4"
+ },
+ "person/alphonse-mucha": {
+  "src": "c7d39e6b8605",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Alphonse Mucha (1860 to 1939) was a Moravian-born designer whose decorative posters for Sarah Bernhardt and commercial clients defined the visual style of Art Nouveau. He resisted that label, and saw his true work in a cycle of paintings on the history of the Slavic peoples.",
+   "facts": [
+    "Mucha was born in Ivančice, in Moravia, then part of the Austrian Empire, and worked as a theatrical scene painter before moving to Paris in 1887.",
+    "In December 1894 a Paris printing house needed a poster for Sarah Bernhardt's play Gismonda at short notice over the holidays, and turned to Mucha as the only designer available; its success led Bernhardt to sign him to a six-year contract for posters, sets and costumes.",
+    "In 1902 he published Documents décoratifs, a pattern book of his ornamental style for other designers and craftsmen.",
+    "From about 1910 he devoted much of his career to The Slav Epic, a cycle of twenty monumental canvases on Slavic history, which he donated to the city of Prague; it was put on display at the National Gallery Prague's Trade Fair Palace in 2012.",
+    "His formula was elongated women within ornamental frames, reproduced in muted colour lithography on theatre posters, cigarette papers, bicycles and calendars, reaching shops, cafés and middle-class homes across Europe.",
+    "After Nazi Germany occupied Czechoslovakia in 1939, he was arrested and interrogated by the Gestapo, and died months later, reportedly of complications following his detention.",
+    "'Mucha style' is often used interchangeably with Art Nouveau, and his flowing hair and ornamental frames were borrowed by 1960s psychedelic concert posters."
+   ],
+   "context": "Mucha worked in Paris and Prague, within [[region/europe|Europe]] in the [[era/industrial-age|Industrial Age]], and was arrested just before the outbreak of [[event/world-war-ii|World War II]]. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "I find a designer whose fame began with someone else's emergency — a poster needed over a holiday — so that a whole style began, in a sense, as an accident of scheduling. I watch mass printing carry fine decoration into shops and cafés, while the artist himself believed his real work lay elsewhere, in a cycle painted on the history of a people, a story meant to bind a nation together. The label 'Art Nouveau,' which he resisted, tells me how far a category can outrun the intention of the one it names. And the link between his detention and his death — I only find that reported, never established.",
+   "questions": [
+    "What caused Mucha's death in 1939, and how far was it connected to his interrogation?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-045.part5"
+ },
+ "person/amanitore": {
+  "src": "03810793b42a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Amanitore was a queen of the kingdom of Kush who co-ruled from the capital Meroe alongside a king, Natakamani, usually thought to be her son, during a prosperous stretch of the middle of the 1st century CE.",
+   "facts": [
+    "Kushite royal women held the title kandake, often rendered 'candace'; inscriptions and temple reliefs show Amanitore depicted with the same royal regalia and war imagery as Natakamani, suggesting genuinely shared rule rather than a purely ceremonial role.",
+    "The pair sponsored a major building program, including temples at Meroe, Naqa and Amara, among the best-preserved Kushite monuments to survive.",
+    "A relief at the Lion Temple at Naqa shows Amanitore, like Natakamani, smiting bound captives, an image of royal power normally reserved for kings elsewhere in the Nile Valley tradition.",
+    "Her exact reign dates are not fixed by any king list; estimates for the coregency center on the middle of the 1st century CE, though some run earlier, and it is sometimes placed as contemporary with the Roman emperor Nero."
+   ],
+   "context": "Amanitore co-ruled the [[culture/kingdom-of-kush|Kingdom of Kush]] from the [[region/nile-valley|Nile Valley]] during [[era/classical-antiquity|Classical Antiquity]]. See [[theme/war-and-conflict|War and Conflict]], [[theme/kinship-and-society|Kinship and Society]] and [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "The Observer notes that Amanitore's monuments carry the same iconography of conquest given to a king, in a period when Kush's neighbor Rome rarely depicted its own empresses that way. Whether this reflects real personal authority, or a Kushite convention of dual kingship that did not map onto individual power, remains difficult to settle from the images alone.",
+   "questions": [
+    "Did Amanitore hold power independently of Natakamani, or primarily through her position as his mother?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-045.part5"
+ },
+ "person/ambiorix": {
+  "src": "4fac8d09960e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Ambiorix (active 54 to 53 BCE) was co-ruler of the Eburones, a Belgic tribe in what is now eastern Belgium, remembered for destroying a Roman legion during a revolt against Julius Caesar's occupation of Gaul.",
+   "facts": [
+    "He shared kingship of the Eburones with an older co-ruler, Cativolcus, an arrangement Caesar's own account describes but never fully explains.",
+    "In the winter of 54 BCE he lured a Roman force under Quintus Titurius Sabinus and Lucius Aurunculeius Cotta out of its fortified camp with false promises of safe passage, then ambushed and destroyed it, killing both commanders.",
+    "Caesar answered with a campaign of deliberate devastation against the Eburones, intended to eliminate the tribe entirely, but Ambiorix himself escaped capture and vanishes from the historical record after 53 BCE.",
+    "Nearly everything known about him comes from Caesar's own Commentarii de Bello Gallico, written to justify Caesar's conduct of the war to a Roman audience."
+   ],
+   "context": "Ambiorix led resistance against the [[culture/romans|Romans]] in [[region/europe|Europe]] during [[era/classical-antiquity|Classical Antiquity]]. See [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that Ambiorix survives in history almost entirely through the writing of the general whose legion he destroyed, an author with every incentive to cast the ambush as treacherous deceit rather than a defensible tactic of war waged by an occupied people. Ambiorix's own reasoning, and any account beyond Caesar's, are lost.",
+   "questions": [
+    "What became of Ambiorix after 53 BCE, and did he survive Caesar's campaign of retaliation against his people?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-045.part6"
+ },
+ "person/amir-khusrau": {
+  "src": "6535da21c322",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Amir Khusrau (1253 to 1325) was the leading court poet of the Delhi Sultanate, writing in Persian while drawing on the Indian world around him. He is regarded as the founding figure of Indo-Persian literature, and is traditionally credited with founding qawwali, the devotional music of South Asian Sufi shrines.",
+   "facts": [
+    "Khusrau was born in 1253 near Delhi, to a Turkic father who had migrated from Central Asia and an Indian mother, and he referred to this mixed heritage throughout his work.",
+    "He served as court poet under a rapid succession of Delhi sultans over more than four decades, through palace coups and dynastic changes.",
+    "He wrote in Persian, the language of the Indo-Islamic courts; his five long narrative poems, dated about 1298 to 1302, answer the Khamsa of the Persian poet Nizami Ganjavi, retelling Shirin and Khusrau, Layla and Majnun, and the legend of Alexander the Great.",
+    "He was a devoted follower of the Sufi mystic Nizamuddin Auliya, and legend says Khusrau died within months of his master, in 1325; their shrines stand together in Delhi.",
+    "He is traditionally credited with founding qawwali, still performed at Sufi shrines across India, Pakistan and Bangladesh, and later legend also credits him with inventing the sitar and tabla, without firm historical evidence."
+   ],
+   "context": "Khusrau lived within the [[culture/delhi-sultanate|Delhi Sultanate]] in [[region/south-asia|South Asia]] during the [[era/medieval-period|Medieval Period]]. See [[theme/art-and-ritual|Art and Ritual]], [[theme/language-and-writing|Language and Writing]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "I see a poet who outlived several dynasties by making himself useful to each one, carrying a mixed parentage he never hid but stated plainly, as fact. Persian was the language of the courts he served; the India around him supplied the material. What outlasted every sultan was the devotional music, which needed no palace — only a shrine, and singers to carry it. The instruments and forms credited to him rest on legend, so the picture I am given of him as founder is partly the work of admirers who came after.",
+   "questions": [
+    "Which of the musical forms and instruments credited to him did he actually introduce?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-045.part6"
+ },
+ "person/amrita-sher-gil": {
+  "src": "c39a40a95310",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Amrita Sher-Gil (1913 to 1941), a Hungarian-Indian painter born in Budapest to a Sikh father and a Hungarian-Jewish mother, trained in Paris before returning to India to paint its people, especially its women. Often named India's first great modern woman artist, she fused European Post-Impressionist technique with Ajanta murals and Mughal-Rajput miniature painting across barely a decade of work.",
+   "facts": [
+    "Born in Budapest on 30 January 1913 to a Sikh father and a Hungarian-Jewish mother, she moved to India in 1921 and began painting as a child in Shimla.",
+    "She studied art in Paris from about 1929 (sources date her attendance at Parisian art schools from 1930), and in 1933 became the youngest associate, and the only Asian, elected to the Grand Salon.",
+    "She returned to India in 1934, and a 1937 journey through South India and the Ajanta murals reshaped her style into simplified, monumental figures in flat colour.",
+    "Three Girls (1935) won the Bombay Art Society's gold medal in 1937, the year she also painted Bride's Toilet and Brahmacharis; later works such as Village Scene (1938) and Haldi Grinders (1940) drew on Indian miniature painting to depict rural women's lives.",
+    "She married her Hungarian cousin, Victor Egan, in 1938; the couple later settled at Saraya in Uttar Pradesh before moving to Lahore in 1941.",
+    "She died in Lahore on 5 December 1941, aged 28, days before her first major solo exhibition was due to open.",
+    "In 1976 India declared her paintings National Art Treasures; most now hang in New Delhi's National Gallery of Modern Art, and her work has since set auction records."
+   ],
+   "context": "Sher-Gil worked within [[region/south-asia|South Asia]] during the [[era/industrial-age|Industrial Age]], moving between British India and the art world of Paris. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/kinship-and-society|Kinship and Society]], given her Sikh-Hungarian-Jewish parentage and her marriage within that extended family.",
+   "observer": "I see a woman formed at the seam of two families, a Sikh father and a Hungarian-Jewish mother, later married within that same extended family, moving from Paris's academies to the mural and miniature conventions of Ajanta. She painted Indian women as silent, as waiting, while she herself moved freely between continents — an observer describing a system's constraints from an unusually mobile vantage, much as I try to do. The title 'India's first great modern woman artist' sounds, to me, like a label a new nation needed for its own story of modern culture; the 1976 declaration of her paintings as National Art Treasures turns private work into a symbol claimed by the state. Of her final illness I find only a thin record: it is reported as sudden and fatal, the cause not established, though a failed abortion and subsequent peritonitis have been suggested.",
+   "questions": [
+    "What caused Sher-Gil's sudden fatal illness in Lahore in December 1941, given that a failed abortion and subsequent peritonitis have been suggested, though the cause remains unestablished?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-045.part7"
+ },
+ "person/anacaona": {
+  "src": "1712e072f45c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Anacaona (about 1474 to about 1504) was a Taíno cacica, or chief, of Xaragua, a chiefdom in western Hispaniola, and a noted composer of ceremonial songs. She was executed by the Spanish governor Nicolás de Ovando after the killing of Taíno leaders in 1503.",
+   "facts": [
+    "Anacaona was born about 1474, an approximate year, into the ruling family of Xaragua, in present-day Haiti.",
+    "She was the sister of the cacique Bohechío and the wife of Caonabo, a cacique whom the Spanish captured in 1494 or 1496, depending on the source.",
+    "After Bohechío's death, about 1500, she ruled Xaragua.",
+    "Spanish sources describe her as a composer of areítos, songs that told the history of the Taíno and were performed at ceremonies.",
+    "In 1503 Governor Nicolás de Ovando came to Xaragua with soldiers; dozens of Taíno leaders were killed at a gathering, and she was taken to Santo Domingo and executed about 1504.",
+    "Spanish accounts justified the killings by an alleged plot, and the friar Bartolomé de las Casas said that such massacres were meant to instill fear.",
+    "She is remembered in the Caribbean as a symbol of Indigenous resistance."
+   ],
+   "context": "Anacaona's rule fell within the first years of Spanish colonization, which opened the [[event/columbian-exchange|Columbian Exchange]] and reshaped the [[culture/taino|Taino]] world in the [[region/caribbean-and-atlantic-world|Caribbean and Atlantic World]] during the [[era/early-modern-period|Early Modern Period]]. See [[theme/art-and-ritual|Art and Ritual]], [[theme/war-and-conflict|War and Conflict]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that Anacaona is known to us through Spanish writers, who recorded both her songs and her killing, so the record keeps her as a poet largely because a hostile power chose to write about her. A tradition of sung history carried a people's memory without writing, and it was recorded mainly by those who ended it. This reading of her as a poet would weaken if the earliest chroniclers said little of her songs and the image comes mostly from later writers.",
+   "questions": [
+    "Which details of her life come from the earliest Spanish sources and which from later writers?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-045.part7"
+ },
+ "person/andrea-palladio": {
+  "src": "6ebedd8d88f9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Andrea Palladio (1508 to 1580) was a Renaissance architect from the Republic of Venice whose villas and churches, together with an illustrated treatise, turned Roman classicism into a portable architecture. His influence is arguably the widest of any single architect in Western history.",
+   "facts": [
+    "Palladio was born Andrea di Pietro della Gondola in Padua in 1508, apprenticed to a stonemasons' guild, and moved to Vicenza to work as a carver.",
+    "The nobleman Gian Giorgio Trissino gave him a classical education, renamed him 'Palladio' after Pallas Athena, and took him to Rome to measure and draw ancient ruins.",
+    "His remodelling of the medieval basilica of Vicenza, dated to 1546 in some sources, made his name, and for three decades afterward he designed country villas for the Venetian nobility and churches in Venice.",
+    "In 1570 he published I Quattro Libri dell'Architettura, part treatise and part illustrated catalogue of his buildings, and he died in 1580, at either Vicenza or Maser.",
+    "Key works include the Villa Rotonda (1566 to about 1592), the Teatro Olimpico (1580 to about 1585) and San Giorgio Maggiore in Venice (1566 to 1610).",
+    "He worked out room proportions using simple musical ratios he believed produced harmony, and built in brick with stucco finished to imitate stone, to keep costs down.",
+    "The Four Books carried his style to England, where Inigo Jones and Lord Burlington built a Palladian movement, and to colonial America, where Thomas Jefferson owned and annotated a copy and drew on it for Monticello and the rotunda of the University of Virginia.",
+    "Vicenza's historic centre and the Palladian villas of the Veneto are a UNESCO World Heritage Site."
+   ],
+   "context": "Palladio worked in [[region/europe|Europe]] during the [[event/renaissance|Renaissance]], in the [[era/early-modern-period|Early Modern Period]]. See [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I watch a stonemason become an architect through a patron's gift — a classical education, a new name — and I watch a book carry his manner farther than his buildings ever could. Print detached a way of building from any one place. In England, in colonial America, the style became a mark of status for landed families, a Roman past borrowed to dignify present ownership. His belief in musical ratios as a source of harmony was his own conviction; it does not follow that anyone standing in the room feels what he felt.",
+   "questions": [
+    "How far did the Palladian movement follow his own buildings, and how far his book?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-045.part8"
+ },
+ "person/antoni-gaudi": {
+  "src": "60fda7be38dd",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Antoni Gaudí (25 June 1852 to 10 June 1926) was the leading architect of Catalan Modernisme, the regional cousin of Art Nouveau. Almost all his mature work stands in Barcelona, and it culminates in the still-unfinished Sagrada Família.",
+   "facts": [
+    "Gaudí was born in Reus, or possibly the neighbouring Riudoms, Catalonia — sources differ, and from 1915 he himself said Riudoms — the youngest son of a coppersmith; he credited his father's workshop with teaching him to see three-dimensional space, and graduated from the Barcelona School of Architecture in 1878.",
+    "The industrialist Eusebi Güell noticed a display case he designed for a glove-maker at the Paris World's Fair, and became his patron for the rest of his career.",
+    "He never married, grew increasingly devout, and by his sixties lived an almost monastic life devoted to the Sagrada Família.",
+    "On 7 June 1926 he was struck by a tram while walking to church in shabby clothes; mistaken for a beggar, he received delayed care and died on 10 June, and was buried in the crypt of his unfinished basilica.",
+    "He modelled forms on nature, and hung scale models of chains and sandbags, photographed upside down, to find the ideal shape for a compression-only arch; he revived trencadís, mosaic of broken tile, as a cheap weatherproof skin.",
+    "Key works include Casa Vicens (1883 to 1885), Palau Güell (1886 to 1888), Park Güell (1900 to 1914), Casa Batlló (about 1904 to 1906) and Casa Milà (about 1906 to 1912; sources differ, and one gives both as built between 1904 and 1910).",
+    "Modernist critics dismissed him after his death, while Salvador Dalí and the Surrealists became early champions; seven of his works are a UNESCO World Heritage Site, and the Sagrada Família, funded by ticket sales and donations, has its main towers targeted for completion around the centenary of his death."
+   ],
+   "context": "Gaudí worked in Barcelona in [[region/europe|Europe]] in the [[era/industrial-age|Industrial Age]]. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "I watch a builder let gravity do the drawing: hanging chains, photographed upside down, turning a law of physics into a tool of design, so the shape of an arch came from the world itself rather than from a pattern book. He gave his last decades to a building he knew he would not finish — a relay passed across generations, paid for by visitors and donors rather than any state treasury. The critics who dismissed him, and the champions who later claimed him, show me how quickly a judgment can reverse.",
+   "questions": [
+    "Which of his design intentions for the Sagrada Família are documented, and which are reconstructions by later builders?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-045.part8"
+ },
+ "person/artemisia-gentileschi": {
+  "src": "8db585266fe8",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Artemisia Gentileschi (1593 to about 1654) was an Italian Baroque painter, known for powerful heroines rendered with Caravaggesque drama. She was the first woman admitted to Florence's Academy of the Arts of Drawing.",
+   "facts": [
+    "Artemisia was born in Rome on 8 July 1593, the eldest child of the painter Orazio Gentileschi, a friend and follower of Caravaggio; she trained in his workshop and painted Susanna and the Elders by the age of 17.",
+    "In 1611 Agostino Tassi, a painter working with her father, raped her. At the seven-month trial in 1612, thumbscrews were used on her to test her testimony. Tassi was convicted and sentenced to exile from Rome, but the exile was never carried out, and he spent less than a year in prison.",
+    "She married the Florentine painter Pierantonio Stiattesi and moved to Florence, where she won the patronage of Grand Duke Cosimo II de' Medici, befriended Galileo Galilei, and in 1616 was admitted to the Accademia delle Arti del Disegno; she learned to read and write in these years.",
+    "From about 1630 she settled in Naples; about 1638 she travelled to London to join her father at the court of Charles I. She is thought to have died in Naples about 1654, though some have speculated she died in the Naples plague of 1656.",
+    "She specialised in strong women from the Bible and ancient history — Judith, Susanna, Jael, Cleopatra and Lucretia — and often lent her own features to saints and allegories.",
+    "Key works include Susanna and the Elders (1610), Judith Slaying Holofernes (a first version about 1612 to 1613, a second about 1614 to 1620) and Self-Portrait as the Allegory of Painting (about 1638 to 1639).",
+    "After her death, many works were credited to her father or others; the art historian Roberto Longhi wrote about her in 1916, and from the 1970s feminist scholars, notably Mary D. Garrard, made her a central figure. The National Gallery, London, held an exhibition in 2020."
+   ],
+   "context": "Artemisia worked in [[region/europe|Europe]] during the [[era/early-modern-period|Early Modern Period]], learning from [[person/caravaggio|Caravaggio]]'s example and following the path opened by [[person/sofonisba-anguissola|Sofonisba Anguissola]]. She befriended [[person/galileo-galilei|Galileo Galilei]]. See [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I find that for centuries she was known through a trial and a father, before she was known through her own paintings — a story of harm placed ahead of the work. The court of 1612 tested her testimony with pain, calling it a procedure for finding truth. Her recovery since the 1970s is itself a change in the story we tell: a later movement found in her a founding figure. Attribution of some of her paintings remains uncertain, so the portrait I have of her may still change.",
+   "questions": [
+    "Which works once credited to her father or others are now securely hers?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-045.part9"
  }
 }
