@@ -355,7 +355,7 @@ test('framing_views', async (c) => {
     mezzanine_balcony: { pos: [97, 4, 8.7], target: [84, 0, 8.5], fov_deg: 58.7, desc: 'Balcony ring around the stairwell (procedural)' },
   };
   const results = {};
-  await c.ev(() => { const D = window.museumDebug; D.interactions.closePlacard(); if (D.tour.active()) D.tour.stop(); });
+  await c.ev(() => { const D = window.museumDebug; D.interactions.closePlacard(); if (D.tour.active()) D.tour.stop(); D.enter({ pointerLock: false }); });
   for (const [name, f] of Object.entries({ ...framings, ...extra })) {
     await c.ev((fr) => window.museumDebug.applyFraming(fr), f);
     const s = await c.snap();
@@ -684,6 +684,7 @@ test('people_placard', async (c) => {
   await c.load('test');
   const r = await c.ev(() => {
     const D = window.museumDebug;
+    D.enter({ pointerLock: false });
     const ok = D.navigate.goToWork('people--ada-lovelace--1');
     const s = D.step(1 / 60, 2);
     return {
@@ -760,7 +761,7 @@ test('wing_framings', async (c) => {
     people_bronze: { pos: [-23, 4, 1.7], target: [-23, 11, 2.0], fov_deg: 58.7 },
   };
   const out = {};
-  await c.ev(() => { const D = window.museumDebug; D.interactions.closePlacard(); if (D.tour.active()) D.tour.stop(); });
+  await c.ev(() => { const D = window.museumDebug; D.interactions.closePlacard(); if (D.tour.active()) D.tour.stop(); D.enter({ pointerLock: false }); });
   for (const [name, f] of Object.entries(extra)) {
     await c.ev(async (fr) => { const D = window.museumDebug; D.applyFraming(fr); await D.procwing.whenLoaded(D.getCurrentRoomId()); }, f);
     await c.ev(async () => { const D = window.museumDebug; for (const r of D.procwing.rooms) { const s = D.procwing.state().rooms[r]; if (s === 'loading') await D.procwing.whenLoaded(r); } });
