@@ -10072,5 +10072,2056 @@
   "date": "2026-09-28",
   "observer_mode": "confessional-poetry",
   "batch": "site-041.part7"
+ },
+ "event/second-italo-ethiopian-war": {
+  "src": "d0f0e15fe0ab",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Between October 1935 and May 1936, Italy's colonial invasion of Ethiopia unfolded as a stark violation of the architecture of collective security: Italian forces used mustard gas, seized the capital, and drove Emperor Haile Selassie into exile, while the League of Nations failed to act. Ethiopia's liberation came in 1941.",
+   "facts": [
+    "The war began on 3 October 1935, when General Emilio De Bono crossed the Mareb River into Ethiopia without a formal declaration of war. Emperor Haile Selassie I led the defence, and by 1936 Benito Mussolini claimed victory.",
+    "On 5 May 1936, Italian forces took the capital, Addis Ababa. Haile Selassie went into exile, first to Palestine, then to England.",
+    "Italy used mustard gas in the war, a violation of the international agreements it had itself signed.",
+    "Both Italy and Ethiopia belonged to the League of Nations, yet the League failed to stop Italy or protect Ethiopia — an episode remembered as exposing the League's own weakness.",
+    "In 1941, Ethiopian resistance fighters, together with Allied forces, ended Italian rule."
+   ],
+   "context": "The war reversed the outcome of the [[event/battle-of-adwa|Battle of Adwa]] of 1896, in which Ethiopia under [[person/menelik-ii|Menelik II]] had defeated an Italian army, and it stood apart from the [[event/scramble-for-africa|Scramble for Africa]] as a late colonial conquest, one often read as a prelude to [[event/world-war-ii|World War II]].",
+   "observer": "The Observer records the use of chemical weapons against a state that had appealed to a body of nations for protection, and the failure of that body to act. Here is the architecture of collective security laid bare: it holds only as far as its members are willing to bear a cost.",
+   "questions": [
+    "How many Ethiopian civilians and soldiers were killed by gas and by other means?",
+    "How much did Ethiopian resistance during the occupation contribute to the 1941 liberation, compared with Allied forces?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part1"
+ },
+ "event/second-sino-japanese-war": {
+  "src": "fa08ae0d7e1f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Second Sino-Japanese War (1937 to 1945) was the full-scale war between Japan and China that opened at the Marco Polo Bridge near Beijing and later merged into World War II. Its violence included the mass killing of civilians, among them at Nanjing, whose death toll remains disputed.",
+   "facts": [
+    "Full-scale war began on 7 July 1937, after the Marco Polo Bridge Incident near Beijing — an undeclared war that quickly grew into large-scale fighting across northern China.",
+    "The incident hastened formation of the Second United Front between the Kuomintang and the Chinese Communist Party.",
+    "Japanese forces took Nanjing on 13 December 1937 and began mass killings there that same day. Estimates of the number of Chinese killed range from about 100,000 to more than 300,000; one scholarly assessment gives about 50,000 killed within the city walls in the first days, and more than 100,000 but fewer than 200,000 killed in the city and surrounding counties by March 1938.",
+    "The figures are contested: some Japanese revisionists give much lower numbers, while some Chinese official figures run higher than the scholarly range."
+   ],
+   "context": "The war followed Japan's industrialization and expansion after the [[event/meiji-restoration|Meiji Restoration]], and after 1941 it merged into [[event/world-war-ii|World War II]]. See [[observer-note/sanctioned-harm|Sanctioned Harm]].",
+   "observer": "The Observer records the mass killings at Nanjing as an atrocity, whatever the argument over the count. That the number itself has become a claim-line between governments and historians shows how one figure can carry the weight of an entire nation's memory.",
+   "questions": [
+    "How should the Nanjing death toll be settled, given records that are incomplete and sources that differ by nationality?",
+    "In total, how many Chinese died in the war, including from famine and disease?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part1"
+ },
+ "event/seven-years-war": {
+  "src": "17ce8da21a66",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Seven Years' War (1756 to 1763) was fought between Britain and France, and their allies, across several continents, and it left Britain dominant in both North America and India.",
+   "facts": [
+    "The war was fought across Europe, North America, the Caribbean, West Africa, India, and the Philippines.",
+    "In North America, it is known as the French and Indian War.",
+    "The 1763 Treaty of Paris gave Britain Canada and French territory east of the Mississippi.",
+    "British victory at Plassey in 1757 opened the East India Company's rule over Bengal.",
+    "Britain's war debts drove new taxes on the American colonies."
+   ],
+   "context": "The war is sometimes called the first global war. Its consequences fed the [[event/age-of-revolutions|Age of Revolutions]] and reshaped control of trade across India and the Atlantic, including the [[event/atlantic-slave-trade|Atlantic Slave Trade]]. The Seven Years' War sits within the [[era/early-modern-period|Early Modern Period]] and the region [[region/planet-wide|Planet-wide]], and belongs to the theme thread of [[theme/war-and-conflict|War and Conflict]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "The Observer notes that a dispute between European powers was decided in the forests of North America, the plains of Bengal, and the seas of the Caribbean — evidence of a network in which any local quarrel could become planetary.",
+   "questions": [
+    "How much of the American Revolution did the war's debts actually cause?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part1"
+ },
+ "event/siberian-traps-eruptions": {
+  "src": "2f6dde36e8aa",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "The Siberian Traps eruptions: one of the largest volcanic outpourings of the last 500 million years. Northern Siberia, about 252 to 251 million years ago. They coincide with the end-Permian mass extinction.",
+   "facts": [
+    "Lava flows. Intrusions. A huge stretch of northern Siberia, buried in rock. Estimates of the volume run from about one to several million cubic kilometres.",
+    "Precise radiometric dating pins the main phase to a window of about a million years or less, bracketing the extinction. Near 251.9 million years ago.",
+    "Proposed killing mechanisms, catalogued: large releases of carbon dioxide and methane that warmed the planet. Ocean acidification. Oxygen loss. Toxic gases from sulfur and halogens. Magma intruding coal, carbonate and salt-bearing rock may have released large volumes of gas.",
+    "Marine and land records show rapid warming of the tropics and oceans at the extinction. How much of it the eruptions caused: still debated.",
+    "The extinction itself: described in [[event/permian-triassic-extinction|Permian-Triassic Extinction]]."
+   ],
+   "context": "The Siberian Traps Eruptions close the [[era/permian-period|Permian Period]]. The leading proposed cause of the [[event/permian-triassic-extinction|Permian-Triassic Extinction]]. After it, the [[era/triassic-period|Triassic Period]] opens the Mesozoic. The event belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that a volcanic episode lasting about a million years was enough to remove most of the life then living, and that any comparison with a modern process holds or fails on rates, not on totals. The Observer treats the timing question as central for that reason. This reading would weaken if the eruptions were shown to have begun well before the extinction with little effect.",
+   "questions": [
+    "Of the eruption's effects, from warming to toxic gases, which did the most damage?",
+    "How closely does the eruption's timing align with the extinction's pulses?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part1"
+ },
+ "event/snowball-earth": {
+  "src": "719f4029070a",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "Snowball Earth: glaciations in the late Proterozoic. The Sturtian and the Marinoan, roughly 717 to 635 million years ago. Ice, perhaps, reaching all the way to the tropics.",
+   "facts": [
+    "Glacial deposits, formed near the paleo-equator. Support for the hypothesis.",
+    "Capping them: unusual carbonate rocks.",
+    "Did the oceans freeze completely? Or did open water remain — a 'slushball'? Scientists still debate it.",
+    "Soon after the last glaciation: the Ediacaran biota appear."
+   ],
+   "context": "The glaciations come shortly before the [[event/cambrian-explosion|Cambrian Explosion]], and may be linked to it. See [[era/proterozoic-eon|Proterozoic Eon]].",
+   "observer": "The Observer notes that Earth passed through a nearly lifeless deep freeze and still recovered. Planetary systems can undergo extreme shifts and reset.",
+   "questions": [
+    "Did the ocean freeze fully?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part1"
+ },
+ "event/space-age": {
+  "src": "dccafdd480f6",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Space Age opened on 4 October 1957, when the Soviet Union launched Sputnik 1, the first artificial satellite.",
+   "facts": [
+    "In 1961, Yuri Gagarin became the first human in space.",
+    "On 20 July 1969, Apollo 11 landed the first humans on the Moon.",
+    "Satellites now underwrite navigation, weather forecasting, and communications.",
+    "Since 2000, the International Space Station has been continuously occupied."
+   ],
+   "context": "The Space Age belongs to the [[era/information-age|Information Age]] and was driven by the Cold War rivalry of the [[event/nuclear-age|Nuclear Age]].",
+   "observer": "The Observer notes a change in perspective: for the first time, members of the species could photograph their own planet as a whole. Images such as the 'Blue Marble' changed how many people describe their home.",
+   "questions": [
+    "Will permanent settlements beyond Earth ever become a reality?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part1"
+ },
+ "event/origin-of-birds": {
+  "src": "2c5b97910207",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "From small, feathered theropod dinosaurs of the Jurassic came the birds, first known in fossils about 160 to 150 million years old, sparks struck from a long dynasty of scaled kin. Of all the dinosaur lines, only this one still lives, singing on into the present.",
+   "facts": [
+    "Birds carried the mark of their theropod ancestors in hollow bones, a forked wishbone and a three-fingered hand, and the feathered non-avian dinosaurs unearthed in China from the 1990s onward bound the kinship tighter.",
+    "Feathers came before flight, likely first for warmth or for display. By about 160 million years ago the theropod Anchiornis, and by about 150 million years ago [[species/archaeopteryx|Archaeopteryx]], both already wore feathered wings.",
+    "Early Cretaceous fossils from China, about 125 million years old, hold many forms of early bird, the toothless-beaked Confuciusornis chief among them.",
+    "Whether flight rose from the ground or fell from the trees remains disputed, and some small, feathered dinosaurs bore four wings.",
+    "Only the lineage that became modern birds lived through the [[event/cretaceous-paleogene-extinction|Cretaceous-Paleogene Extinction]], and from that narrow survival the living birds spread wide."
+   ],
+   "context": "The origin of birds falls within the [[era/jurassic-period|Jurassic Period]] and the [[era/mesozoic-era|Mesozoic Era]], a chapter in the long tale of the [[species/dinosaurs|Dinosaurs]], woven into the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer points out that a familiar category, bird, nests inside a far stranger one, dinosaur, proof that the names we give kinds of creature are only cuts across one continuous lineage. This reading is about naming alone, and stands whichever way the debate over flight's origin resolves.",
+   "questions": [
+    "At what point in theropod evolution did powered flight first arise?",
+    "Which Jurassic fossils belong among the birds, and which merely among their close relatives?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part1"
+ },
+ "event/origin-of-eukaryotes": {
+  "src": "dfb56e57b875",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Eukaryotes, cells bearing a nucleus and inner organelles, the stuff from which every animal, plant and fungus is built, arose roughly 2 billion years ago, though the date carries very wide uncertainty.",
+   "facts": [
+    "The mitochondrion descends from a bacterium taken into a host cell, a merger called endosymbiosis, and this account is widely accepted.",
+    "The chloroplast likewise descends from a cyanobacterium that took up residence within certain eukaryotic cells.",
+    "Genomic studies set the host cell among the Archaea, and the Asgard archaea are often named its closest kin.",
+    "The oldest fossils of eukaryotes beyond doubt, large microfossils walled in organic matter, are more than 1.65 billion years old. Older candidates, such as Grypania at about 1.87 billion years, persuade less than the younger, larger forms.",
+    "Molecular-clock estimates for the last common ancestor of all living eukaryotes vary widely still."
+   ],
+   "context": "The origin of eukaryotes followed the oxygen rise of the [[event/great-oxidation-event|Great Oxidation Event]] and made large multicellular bodies possible, leading in time to the [[event/cambrian-explosion|Cambrian Explosion]]. It sits within the [[era/proterozoic-eon|Proterozoic Eon]] and the region [[region/planet-wide|Planet-wide]], within the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer notes that complexity arrived here through merger, not through one lineage inventing every part on its own: cooperation between unlike partners is the architecture beneath every body, the human one included. Strong evidence that the organelles were built internally, without symbiosis, would point to a different origin.",
+   "questions": [
+    "Did the host cell take in the mitochondrion before or after it grew complex?",
+    "How old is the last common ancestor of the eukaryotes?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part1"
+ },
+ "event/origin-of-homo-sapiens": {
+  "src": "584204583308",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Anatomically modern humans, Homo sapiens, took shape across Africa by about 300,000 years ago, not at a single hearth, but through a gradual process spanning the continent.",
+   "facts": [
+    "At Jebel Irhoud in Morocco, fossils about 315,000 years old (315 plus or minus 34 thousand years) show a modern face and teeth set above a more archaic braincase.",
+    "Fossils from Omo Kibish, Ethiopia, are at least 233,000 years old, their age fixed against a layer of volcanic ash.",
+    "Some scholars call this process 'African multiregionalism': several connected populations, not one, contributed to it.",
+    "The regional label stays approximate: Jebel Irhoud lies in North Africa, while the other principal sites lie in East and southern Africa."
+   ],
+   "context": "This origin belongs to the [[era/pleistocene-epoch|Pleistocene Epoch]] and comes before the [[event/out-of-africa-dispersal|Out of Africa Dispersal]]. See [[species/homo-sapiens|Homo sapiens]].",
+   "observer": "The Observer notes that the species' origin is no single place or moment: it is a widespread, interbreeding population that grew recognizably modern only over tens of thousands of years.",
+   "questions": [
+    "Was there one core population, or many linked ones?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part1"
+ },
+ "event/origin-of-language": {
+  "src": "7c950eaae89c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "When spoken language began, no one knows, because neither speech nor the brain's grammar circuitry leaves a fossil. The published estimates for when the capacity existed range from about 2 million to 50,000 years ago, depending on whether you read the genetic, the anatomical, or the archaeological evidence.",
+   "facts": [
+    "Neanderthals share two speech-linked changes to the FOXP2 gene with modern humans, once read as pushing the capacity for language back 300,000 to 400,000 years. A larger 2018 study found no sign of recent human-specific selection at that gene, and FOXP2 is now treated as one gene among many.",
+    "A Neanderthal hyoid bone from Kebara Cave, about 60,000 years old, closely resembles a modern one, and is cited as evidence of speech-capable anatomy. Others argue that vocal-tract proportions still limited the range of sounds it could make.",
+    "The evidence of the skull base shows a gradual trend toward a modern vocal tract, none of the change present in Australopithecus, a near-modern shape already in Homo heidelbergensis about 600,000 years ago, cited as evidence for slow change.",
+    "A 2025 genetic synthesis argued that the capacity for language existed by the earliest known split among Homo sapiens populations, about 135,000 years ago, though its cultural use may have begun later, once symbolic material such as engraved ochre appears.",
+    "Researchers divide between a gradualist view, in which language built up over a million years or more, and a saltational view, in which syntax arose abruptly; a separate debate asks whether gesture or vocalization was the original channel."
+   ],
+   "context": "This question overlaps the [[era/paleolithic|Paleolithic]] and the biology of [[species/homo-sapiens|Homo sapiens]] and [[species/homo-neanderthalensis|Homo neanderthalensis]]. The [[event/emergence-of-symbolic-art|Emergence of Symbolic Art]] and the [[event/control-of-fire|Control of Fire]] are often cited as indirect evidence, without settling when language began. See [[theme/language-and-writing|Language and Writing]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "I read every date offered here as a guess dressed up as a measurement, because sound leaves nothing behind for the shovel to find. Between the earliest moment the body stood ready for language and the earliest confident sign of symbolic behavior, there stretches a gap of tens of thousands of years, and I do not know whether that gap is real or only an accident of what survived. This reading would weaken if a dating method free from guesswork were ever found.",
+   "questions": [
+    "Did having the capacity for language mean a population spoke habitually, or could that capacity come tens of thousands of years before it was used?",
+    "Did Neanderthals possess language, or only some simpler form of it?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-043.part1"
+ },
+ "event/origin-of-life": {
+  "src": "c3902711786b",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Life on Earth rose up at least 3.5 billion years ago, and perhaps earlier still. How it began, no one yet knows.",
+   "facts": [
+    "In the Dresser Formation of the Pilbara region, Western Australia, stromatolites, layered mounds built by microbes, stand about 3.48 billion years old, called the oldest convincing evidence that life had begun.",
+    "Claims to older evidence remain disputed. In 2016 researchers reported stromatolites about 3.7 billion years old at Isua in Greenland, and a paper in the same journal soon challenged the observations. Later studies still disagree on whether the structures are biological at all.",
+    "A 2024 molecular-clock study placed the last universal common ancestor, the one organism from which every living cell descends, at about 4.2 billion years old. That ancestor was not the first life, and the estimate carries a large uncertainty of its own.",
+    "The leading hypotheses for how life began name hydrothermal vents, shallow tidal pools, and an early age ruled by RNA, none of them settled as the truth."
+   ],
+   "context": "The origin of life marks the turning from the [[era/hadean-eon|Hadean Eon]] into the biology-ruled [[era/archean-eon|Archean Eon]], and its later effects reach as far as the [[event/great-oxidation-event|Great Oxidation Event]].",
+   "observer": "The Observer treats this as the least understood event in the whole record, and also the one that made every subject after it possible, the Observer's own field included.",
+   "questions": [
+    "Did life begin once or several times?",
+    "Where did it begin?",
+    "How reliable is a molecular-clock age for a common ancestor that predates the fossil record by so large a margin?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part1"
+ },
+ "event/origin-of-mammals": {
+  "src": "9b30f1564085",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Mammals rose slowly from the mammal-line reptiles called synapsids, and the oldest candidates for the name come from the Late Triassic, roughly 225 to 205 million years past, though the very date bends on how one defines a mammal.",
+   "facts": [
+    "Mammals descend from the synapsids that ruled Permian land life, passing through the therapsids and then the cynodonts of the Triassic.",
+    "The very bones that hinged the jaw of the reptile-like ancestors became, in time, the tiny bones of the mammalian middle ear, a transformation traced through fossils of Late Triassic and Early Jurassic mammal relatives.",
+    "The oldest fossils that might be mammals, or their close kin the mammaliaforms, run about 225 to 205 million years old, and which of them count as true mammals depends on the definition chosen.",
+    "Most Mesozoic mammals stayed small, though a few, such as Repenomamus of China, about 125 million years old, grew to the size of a badger.",
+    "Hair, milk and warm blood all arose somewhere along this lineage, but soft tissue is rarely preserved, so the order in which they came remains uncertain."
+   ],
+   "context": "The origin of mammals falls within the [[era/triassic-period|Triassic Period]] and the [[era/mesozoic-era|Mesozoic Era]], alongside the rise of the [[species/dinosaurs|Dinosaurs]], its lineage reaching back to the mammal-line reptiles of the [[era/permian-period|Permian Period]]. Mammals spread wide after the [[event/cretaceous-paleogene-extinction|Cretaceous-Paleogene Extinction]], within the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer notes that hearing, one of the most ordinary of the senses, rests on bones that once hinged the jaw of a reptile-like ancestor. New structures are built from old parts, the Observer takes that as a general rule of the record, not an exception here. This reading would weaken if the ear bones proved to have arisen with no earlier function in the jaw at all.",
+   "questions": [
+    "When did the first true mammals appear, given how the definition moves the date?",
+    "In what order did hair, milk and warm-bloodedness arise?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part1"
+ },
+ "person/ashurbanipal": {
+  "src": "76c27ecadf78",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Ashurbanipal (about 685 to about 631 BCE) held the throne of the Neo-Assyrian Empire from 669 BCE onward. His legacy rests on conquest, on the royal library he built at Nineveh, and on palace reliefs that set war and lion hunts side by side as proof of sovereignty.",
+   "facts": [
+    "Born about 685 BCE as a son of Esarhaddon, Ashurbanipal came to the Assyrian throne in 669 BCE, while his brother Shamash-shum-ukin took the throne of Babylon.",
+    "In 663 BCE, Assyrian forces sacked Thebes in Egypt, ending Kushite rule there.",
+    "Shamash-shum-ukin rose in rebellion in 652 BCE; a long war followed, and Ashurbanipal finally took Babylon in 648 BCE. Campaigns of about 647 to 646 BCE broke Elam, and the campaign of about 646 BCE destroyed Susa.",
+    "His libraries at Nineveh, uncovered in the 19th century, held tens of thousands of clay tablets and fragments, among them a version of the Epic of Gilgamesh. He boasted of his own training as a scribe.",
+    "His own inscriptions and reliefs record harsh treatment of defeated enemies: mass deportation, mutilation, execution.",
+    "He died about 631 BCE, though some place his death about 627. Nineveh itself fell to Babylonians and Medes in 612 BCE."
+   ],
+   "context": "Ashurbanipal ruled the [[culture/neo-assyrian-empire|Neo-Assyrian Empire]] in [[region/mesopotamia|Mesopotamia]] during the [[era/iron-age|Iron Age]]. His library carried forward a tradition of writing reaching back to the [[culture/sumerians|Sumerians]]; see [[event/invention-of-writing|Invention of Writing]]. See [[theme/war-and-conflict|War and Conflict]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "The Observer notes that Ashurbanipal built an architecture of memory for an entire civilization inside the very palace where he recorded the punishment of those who defied him. The library shows memory-outsourcing used as an instrument of rule: gathering omen and ritual texts was a way of governing knowledge alongside territory. This reading would weaken if the library proved to be chiefly the work of earlier kings and scribes, leaving his own part smaller than his boasts suggest.",
+   "questions": [
+    "How much of the library's collecting reflects his own initiative, and how much the labor of his scribes?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-046.part1"
+ },
+ "person/attila": {
+  "src": "0cd2d5508567",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Attila (about 406 to 453) ruled the Huns from 434, first jointly with his brother Bleda and, from about 445, alone. He led Hunnic armies against both the Eastern and Western Roman empires, yet almost every written source about him was composed by Greeks and Romans.",
+   "facts": [
+    "Attila's birth year remains uncertain, with estimates ranging from the 390s to the early 400s. He became joint ruler in 434, and sole ruler after Bleda's death, probably about 445.",
+    "After the Treaty of Margus in 435, the Eastern Roman Empire doubled its yearly gold tribute to him, and after 443 that tribute is reported to have reached 2,100 Roman pounds.",
+    "In 451 he invaded Gaul and met a combined Roman and Visigothic army at the Catalaunian Plains; in 452 he invaded northern Italy. Both times, he withdrew.",
+    "He died in 453, after his wedding to Ildico. Priscus, as reported by Jordanes, describes a severe bleed. A later claim that his wife killed him is rejected by most historians, and his empire broke apart within a few years.",
+    "Priscus, an envoy who visited his court in 449, left the only known eyewitness account of it. Attila's capital and his tomb have never been found."
+   ],
+   "context": "Attila's power was rooted on the middle Danube in [[region/europe|Europe]] during [[era/classical-antiquity|Classical Antiquity]], and his campaigns added weight to the pressures behind the [[event/fall-of-the-western-roman-empire|Fall of the Western Roman Empire]]. See [[culture/romans|Romans]], [[culture/byzantine-empire|Byzantine Empire]] and [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that the Huns left no writing of their own, so a ruler remembered as one of history's great enemies survives only through the testimony of his opponents. The gold paid to him ran the empire's exchange-web in reverse: payment offered in return for peace rather than for goods. A specialist could argue that Roman diplomacy and a Germanic revolt, more than any single man's grip, broke the Hunnic polity, a reading that would weaken any portrait of empire built on one personality.",
+   "questions": [
+    "How far can the accounts of his court be trusted, given that the main eyewitness was an envoy of the empire he was pressing?",
+    "Where were his capital and his grave?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-046.part1"
+ },
+ "person/augustus": {
+  "src": "f3ea721fd09a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Augustus (63 BCE to 14 CE) became Rome's first emperor. He closed out a century of civil war and raised the imperial architecture that would stand for centuries.",
+   "facts": [
+    "Born Gaius Octavius, he stood as the adopted heir of Julius Caesar.",
+    "Having defeated his rivals, he took the name Augustus in 27 BCE, all while preserving the republic's old forms.",
+    "His reign opened the Pax Romana, a long stretch of relative stability.",
+    "He reorganized the army, the provinces and taxation alike."
+   ],
+   "context": "See [[culture/romans|Romans]] and [[place/rome|Rome]]. Augustus shaped the political architecture of the empire that would dominate the [[region/mediterranean-basin|Mediterranean Basin]].",
+   "observer": "The Observer notes a deft piece of story-glue at work: a monarch who insisted he was merely 'first citizen', so that the old republican stories could go on serving a new order.",
+   "questions": [
+    "How deliberate was this pretense of restoring the republic?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-046.part1"
+ },
+ "person/ba-trieu": {
+  "src": "101d79bb4069",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Ba Trieu (Trieu Thi Trinh; her birth year unknown, she died in 248 CE) led an uprising in 248 CE against the Chinese Eastern Wu administration then governing northern Vietnam, and became a lasting symbol of Vietnamese resistance to foreign rule.",
+   "facts": [
+    "She is said to have raised a rebel force in Cuu Chan, in what is now Thanh Hoa province, at about age twenty, together with her brother Trieu Quoc Dat.",
+    "Later chronicles picture her riding into battle on an elephant, clad in gold-decorated armor, though these vivid details come from accounts written many centuries after her death rather than from any contemporary record.",
+    "Eastern Wu sent the general Lu Yin to put down the revolt; after several months of fighting, her forces were defeated later in 248.",
+    "Vietnamese tradition holds that she fled to Bo Dien commune and took her own life rather than be captured, her burial place attributed to Mount Tung in Hau Loc District, while Chinese-source summaries instead have Lu Yin putting her to death; the sources give no age at her death. A temple to her still stands near the site."
+   ],
+   "context": "Ba Trieu's revolt unfolded in [[region/southeast-asia|Southeast Asia]] during [[era/classical-antiquity|Classical Antiquity]], against the Chinese administration that had governed the region since the Han conquest. See [[theme/war-and-conflict|War and Conflict]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that Ba Trieu is known largely through Vietnamese chronicles written centuries after her death, in periods when a symbol of resistance to Chinese rule served a clear political purpose. The core event, a suppressed revolt in 248, most likely happened; the vivid personal details are harder to separate from later invention. The earliest and most detailed record, the Jiaozhou ji of the Western Jin period (265 to 318), dates only decades after 248, though Taylor held that Chinese records made no mention of her, and the elephant and gilded-tunic details first appear in later texts such as the Le-era Dai Viet su ky toan thu.",
+   "questions": [
+    "How much of her story took shape through later Vietnamese nation-building rather than contemporary memory?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-046.part1"
+ },
+ "person/ban-zhao": {
+  "src": "ed6a0972eef3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Ban Zhao (about 45 to about 117 CE) was a Chinese historian and scholar of the Eastern Han dynasty. After her brother's death she helped complete the Book of Han, and she wrote Lessons for Women; at court she also served as tutor and adviser.",
+   "facts": [
+    "Ban Zhao was born about 45 CE, though some sources say about 49, into a scholarly family. Her father Ban Biao and her brother Ban Gu wrote much of the Book of Han (Hanshu), a history of the Western Han dynasty.",
+    "When Ban Gu died in prison in 92 CE, the history stood unfinished, and Ban Zhao completed it in part, supplying the missing section of the Eight Tables.",
+    "At the imperial court she served as tutor to the empress and her ladies, and from about 106 CE she advised the regent, Empress Deng.",
+    "She is believed to have written Lessons for Women (Nüjie), in seven chapters, about 106 CE, though that date is not firmly established. It argues that girls should be educated and lays out rules of conduct for wives.",
+    "Later writers made Lessons for Women a standard text for teaching girls obedience, and modern scholars still disagree on whether it reinforced or challenged the limits placed on women.",
+    "She died about 117 CE, though some sources say about 120."
+   ],
+   "context": "Ban Zhao worked under the [[culture/han-dynasty|Han Dynasty]] in [[region/east-asia|East Asia]] during [[era/classical-antiquity|Classical Antiquity]]. See [[theme/language-and-writing|Language and Writing]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "I find one woman behind two legacies: the historian who helped complete a dynasty's standard record, and the author of the text most used to teach women obedience. I cannot resolve her into a single direction. Later readers copied Lessons for Women because they valued its counsel, so what survives may carry their wanting as much as her meaning. I would trust this less if the text turned out to be heavily rewritten after she died. Until then, I hold her two legacies together, and let neither go.",
+   "questions": [
+    "Did she mean Lessons for Women as a defense of women's education, as a guide to conduct, or as both?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-046.part1"
+ },
+ "event/spanish-conquest-of-the-aztec-empire": {
+  "src": "17934de00662",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Between 1519 and 1521, a small Spanish force under Hernan Cortes — allied with many Indigenous city-states and aided by epidemic disease — overthrew the Aztec Empire and captured Tenochtitlan.",
+   "facts": [
+    "In 1519, Cortes landed on the Mexican coast with several hundred men.",
+    "Tlaxcala and other city-states, resentful of Aztec tribute, provided large numbers of allied fighters.",
+    "A smallpox epidemic in 1520, introduced by the Spanish, killed a large share of the region's population.",
+    "Malintzin (Dona Marina) served Cortes as interpreter and negotiator.",
+    "Tenochtitlan fell on 13 August 1521, after a siege of about three months."
+   ],
+   "context": "The conquest ended the [[culture/aztec-empire|Aztec Empire]] and destroyed its capital, [[place/tenochtitlan|Tenochtitlan]]. It stands as an early episode of the [[event/columbian-exchange|Columbian Exchange]], in which disease played a central part. The Spanish Conquest of the Aztec Empire sits within the [[era/early-modern-period|Early Modern Period]] and the region [[region/mesoamerica|Mesoamerica]], and belongs to the theme thread of [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that the conquest is sometimes told as a victory of a few hundred men, but the record shows Indigenous allies and disease doing much of the work. Simple stories of small forces conquering empires tend to leave out the local politics that made them possible.",
+   "questions": [
+    "What share of the population died from disease?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part2"
+ },
+ "event/spanish-conquest-of-the-inca-empire": {
+  "src": "3ae362617f25",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "In 1532, Francisco Pizarro's small Spanish force captured the Inca emperor Atahualpa at Cajamarca, opening a conquest of the Inca Empire that ended with the fall of the last Inca stronghold in 1572.",
+   "facts": [
+    "At Cajamarca, Pizarro commanded around 168 men.",
+    "The empire had only just come through a civil war between Atahualpa and his half-brother Huascar, and epidemic disease had already reached the Andes.",
+    "Held for a room-filling ransom of gold and silver, Atahualpa was then executed by strangulation on 29 August 1533.",
+    "In 1533, the Spanish occupied Cusco.",
+    "In 1572, the neo-Inca state at Vilcabamba was destroyed."
+   ],
+   "context": "The conquest ended the [[culture/inca-empire|Inca Empire]] and opened the silver mines of [[place/potosi|Potosi]] to Spanish exploitation, following the pattern of disease and political division seen across the [[event/columbian-exchange|Columbian Exchange]]. The Spanish Conquest of the Inca Empire sits within the [[era/early-modern-period|Early Modern Period]] and the region [[region/andes|Andes]], and belongs to the theme thread of [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that an empire with roads, storehouses, and a knotted-cord recording system was taken over by a group that could not read its records. What was lost included the very means of understanding what had been lost.",
+   "questions": [
+    "How decisive was the civil war, compared with the epidemic?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part2"
+ },
+ "event/spread-of-grasslands": {
+  "src": "1bc890fce7dd",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Across the Miocene, from about 25 to 5 million years ago, open grasslands spread like a green tide across the continents. Animal life was remade in its wake, and the plant family that advanced with it now supplies most of the world's staple crops.",
+   "facts": [
+    "Grass pollen and microscopic plant silica reach back to the latest Cretaceous or early Paleogene, yet for tens of millions of years grass remained a minor thread in the world's vegetation.",
+    "Open grasslands widened from the early to middle Miocene, about 20 to 15 million years ago. Grasses of the C4 pathway, suited to hot, dry conditions and low carbon dioxide, spread widely about 8 to 6 million years ago, as carbon isotopes in fossil soils and teeth attest.",
+    "Proposed drivers include cooling and drying, seasonal rainfall, falling carbon dioxide, and fire — their relative roles still debated.",
+    "Grazing mammals answered with high-crowned teeth and long limbs built for running; horses turned from browsing to grazing, and grazing antelope, cattle, and their kin diversified.",
+    "The cereals — wheat, rice, and maize among them — are grasses themselves; see [[event/the-agricultural-revolution|The Agricultural Revolution]]."
+   ],
+   "context": "The Spread of Grasslands belongs mostly to the [[era/neogene-period|Neogene Period]] of the [[era/cenozoic-era|Cenozoic Era]], a long backdrop to the story of the Miocene apes and early hominins. Its crop lineage is the wellspring of [[event/domestication-of-rice|Domestication of Rice]] and [[event/domestication-of-maize|Domestication of Maize]]. The event belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that the staple foods of nearly every large human society trace to a plant family that became widespread only in the last few tens of millions of years. Open landscapes are also the setting of a long-running hypothesis about human origins, one the Observer treats as a hypothesis, not a finding. It would weaken if early hominins proved to have lived mainly in closed woodland.",
+   "questions": [
+    "What mix of climate, carbon dioxide, and fire drove the spread of C4 grasses?",
+    "How much did open grassland actually shape hominin evolution?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part2"
+ },
+ "event/suez-canal": {
+  "src": "873035caac21",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Suez Canal, opened on 17 November 1869, is a sea-level waterway across Egypt linking the Mediterranean and the Red Sea, shortening the sea route between Europe and Asia.",
+   "facts": [
+    "It was built by a French company under Ferdinand de Lesseps, using a great deal of Egyptian forced and paid labor.",
+    "It is about 193 kilometers long.",
+    "In 1875 Britain bought Egypt's shares in the canal company, and in 1882 it occupied Egypt.",
+    "The canal shortened the voyage between Europe and India by thousands of kilometers."
+   ],
+   "context": "The canal reshaped the [[event/indian-ocean-trade-network|Indian Ocean Trade Network]] for the industrial age and sits within the [[region/nile-valley|Nile Valley]] region. See [[event/scramble-for-africa|Scramble for Africa]] and [[technology/steam-engine|Steam Engine]].",
+   "observer": "The Observer notes a strip of water dug by hand that rearranged the geography of world trade. A single chokepoint can become a lasting source of power for whoever holds it.",
+   "questions": [
+    "How many workers died building the canal?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part2"
+ },
+ "event/sugar-plantation-complex": {
+  "src": "2d6d64b19bfd",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "From the 1500s, European colonizers built large sugar plantations across Brazil and the Caribbean, worked mainly by enslaved Africans — one of the most profitable and brutal systems in early modern trade.",
+   "facts": [
+    "Sugarcane originated in New Guinea and spread across Asia before reaching the Mediterranean and the Atlantic islands of Madeira and Sao Tome.",
+    "The plantation model — large-scale production for export by enslaved labor — developed on the Atlantic islands and spread to Brazil in the 16th century.",
+    "Beginning in Barbados in the 1640s, the Caribbean sugar boom expanded the use of enslaved labor.",
+    "Saint-Domingue, the French colony that became Haiti, stood as the largest sugar producer in the world in the late 18th century.",
+    "Sugar plantations drove much of the demand behind the Atlantic slave trade."
+   ],
+   "context": "The sugar economy was the engine of the [[event/atlantic-slave-trade|Atlantic Slave Trade]] and a leading part of the [[event/columbian-exchange|Columbian Exchange]], following the collapse of the [[culture/taino|Taino]] population. In Saint-Domingue it was overthrown by the [[event/haitian-revolution|Haitian Revolution]]. The Sugar Plantation Complex sits within the [[era/early-modern-period|Early Modern Period]] and the region [[region/caribbean-and-atlantic-world|Caribbean and Atlantic World]], and belongs to the theme thread of [[theme/trade-and-economy|Trade and Economy]] and [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that a sweet crop, bound for European tea tables, required the forced movement of millions of people across an ocean. Distance between consumer and producer made the harm easy to overlook.",
+   "questions": [
+    "How large a contribution did the sugar sector make to European industrialization?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part2"
+ },
+ "event/taiping-rebellion": {
+  "src": "6e57f9dab184",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Taiping Rebellion (1850 to 1864) was a civil war in Qing China led by Hong Xiuquan, who claimed to be the younger brother of Jesus Christ; it stands among the deadliest conflicts in history.",
+   "facts": [
+    "In 1853, the rebels captured Nanjing and made it their 'Heavenly Capital'.",
+    "The war devastated about 17 provinces.",
+    "Most estimates put deaths at 20 to 30 million people, about 5 to 10 percent of China's population, though some estimates run far higher.",
+    "Hong Xiuquan died on 1 June 1864, and Nanjing fell shortly afterward."
+   ],
+   "context": "The rebellion unfolded as the [[culture/qing-dynasty|Qing Dynasty]] reeled from the [[event/opium-wars|Opium Wars]]. See [[theme/war-and-conflict|War and Conflict]] and [[observer-note/sanctioned-harm|Sanctioned Harm]].",
+   "observer": "The Observer notes how a new meaning-engine, blending Christian ideas with local grievances, mobilized millions within a decade — one of the largest wars in history, and among the least remembered outside China.",
+   "questions": [
+    "What were the true mortality figures?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part2"
+ },
+ "event/origin-of-multicellularity": {
+  "src": "7c1d3292e12f",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Multicellularity, in which cells cling together, divide their labor, and reproduce as one body, arose independently again and again. The clearest early fossil evidence stands about 1.05 billion years old, and the older claims remain disputed.",
+   "facts": [
+    "Multicellularity took root independently in bacteria, in several groups of algae, in fungi, in plants and in animals; estimates for the eukaryotes alone run past twenty separate origins.",
+    "Older claims name the Francevillian biota of Gabon, about 2.1 billion years old, and the coiled fossil Grypania, about 1.9 billion years old, though how to read either is disputed.",
+    "The red alga Bangiomorpha, dated across different studies to somewhere between roughly 1.05 and 1.2 billion years ago, shows both differentiated cells and sexual reproduction.",
+    "Experiments have coaxed simple multicellular clusters out of single-celled algae and yeast within weeks to months. The further step, to complex bodies built of many cell types, is far rarer.",
+    "Animals evolved their multicellularity apart from plants, and large, soft-bodied animals appear in the Ediacaran; see [[species/ediacaran-biota|Ediacaran Biota]] and [[event/cambrian-explosion|Cambrian Explosion]]."
+   ],
+   "context": "The origin of multicellularity followed the [[event/origin-of-eukaryotes|Origin of Eukaryotes]] and overlaps the [[event/the-boring-billion|The Boring Billion]] within the [[era/proterozoic-eon|Proterozoic Eon]], within the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer notes that a body is cooperation among cells that share one ancestry, held together by mechanisms that suppress the cheaters among them. Whether that is a useful comparison for human cooperation, the Observer leaves open; the analogy is offered as a way of looking, not as an explanation. This reading would weaken if it obscured more than it clarified about either case.",
+   "questions": [
+    "Which of the early fossil claims are truly multicellular?",
+    "What conditions favoured the origin of animal multicellularity?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part2"
+ },
+ "event/origin-of-photosynthesis": {
+  "src": "3c9969dc2faa",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Photosynthesis, the trick of turning light into the making of organic molecules, rose among bacteria sometime in the Archean, perhaps as early as 3.5 billion years ago. The date of the first oxygen-producing form stays uncertain and disputed.",
+   "facts": [
+    "The first photosynthesis likely released no oxygen at all. The anoxygenic forms found in some living bacteria use hydrogen, sulfide or dissolved iron in place of water.",
+    "Oxygen-producing photosynthesis is known from the [[species/cyanobacteria|Cyanobacteria]]. Estimates for its origin run from about 3.5 to about 2.4 billion years ago, and the earliest unambiguous cyanobacterial fossils stand about 2.15 billion years old.",
+    "Biomarker molecules once cited as evidence of cyanobacteria at 2.7 billion years were later shown to be nothing but younger contamination.",
+    "Layered [[species/stromatolites|Stromatolites]] about 3.48 billion years old, from the Dresser Formation of Western Australia, may record microbial mats, possibly photosynthetic ones; some researchers dispute that they are biological at all.",
+    "Early oxygen was swallowed by dissolved iron and other chemicals long before it built up in the air; see [[event/banded-iron-formations|Banded Iron Formations]] and [[event/great-oxidation-event|Great Oxidation Event]]."
+   ],
+   "context": "The origin of photosynthesis follows the [[event/origin-of-life|Origin of Life]] within the [[era/archean-eon|Archean Eon]] and sets up the [[event/great-oxidation-event|Great Oxidation Event]] of the [[era/proterozoic-eon|Proterozoic Eon]], within the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer notes that a way of drawing energy from light, invented by microbes, ended up setting the chemistry that everything larger would run on. What stands out is the very long delay between that invention and its planetary effects, and this reading rests less on the exact date than on that delay. It would weaken if oxygen-producing photosynthesis were shown to have begun only shortly before the oxygen rise.",
+   "questions": [
+    "When did oxygen-producing photosynthesis first evolve?",
+    "What delayed the accumulation of oxygen after it began?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part2"
+ },
+ "event/out-of-africa-dispersal": {
+  "src": "24b98599a481",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Homo sapiens spread out of Africa and across the whole world. Genetic studies trace most of today's non-African ancestry to one major dispersal, roughly 70,000 to 50,000 years ago, though earlier and smaller dispersals left their own traces, and the exact timing is still debated.",
+   "facts": [
+    "Genetic studies published in 2016 concluded that most non-African ancestry comes from one major dispersal, about 50,000 to 72,000 years ago. Genetic dating is imperfect, and one climate study favored a window of 80,000 to 100,000 years ago instead.",
+    "Earlier, smaller dispersals came before it. Homo sapiens fossils at Skhul and Qafzeh in Israel run about 90,000 to 120,000 years old. A fossil upper jaw from Misliya Cave, Israel, was dated in 2018 to 177,000 to 194,000 years ago, though a published comment disputes that dating. A separate genetic signal suggests an exodus about 120,000 years ago that left about 2 percent of Papuan genomes.",
+    "Modern humans reached Australia and New Guinea at least about 50,000 years ago, and possibly about 65,000 years ago, a date still debated; see [[event/peopling-of-sahul|Peopling of Sahul]].",
+    "Present-day non-African populations carry up to about 2 percent Neanderthal ancestry, while Oceanian populations carry far more Denisovan ancestry, up to about 5 percent in some.",
+    "Both a coastal route and an inland one have been proposed."
+   ],
+   "context": "This dispersal ended the isolation of human populations; see [[species/homo-neanderthalensis|Homo neanderthalensis]] and [[species/denisovans|Denisovans]]. It set the stage for the [[event/peopling-of-the-americas|Peopling of the Americas]].",
+   "observer": "I call this the most remarkable feat of the whole Paleolithic. One species crossed desert. One species crossed tundra. One species crossed rainforest and reached island after island, carrying no new body, only what it had learned. That is the whole of the wonder: not a changed animal, but a changed mind, going everywhere.",
+   "questions": [
+    "How many dispersals were there, and by which routes? The fossil record shows repeated early departures, while the genetic record points to a single main wave, and the two pictures are not yet fully reconciled."
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-043.part2"
+ },
+ "event/paleocene-eocene-thermal-maximum": {
+  "src": "9ef23311112a",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Paleocene-Eocene Thermal Maximum was a burst of global warming about 56 million years ago, when a great release of carbon drove global temperatures up by roughly 5 to 6 degrees Celsius, and held them there for about 200,000 years.",
+   "facts": [
+    "Deep-sea sediments hold a sharp negative excursion in carbon isotopes, the signature of a large input of carbon into ocean and air alike.",
+    "The whole event ran on the order of 200,000 years, recovery included, though its onset took only a few thousand years.",
+    "The ocean turned more acid, and many species of deep-sea foraminifera went extinct.",
+    "Proposed sources of the carbon include volcanic activity in the North Atlantic and methane released from seafloor deposits; the mix between them is debated.",
+    "Several mammal groups, among them early primates, horses and artiodactyls, appear or spread across the Northern Hemisphere near its start."
+   ],
+   "context": "This event is the best-studied ancient analogue for [[event/modern-climate-change|Modern Climate Change]] and for the carbon release of the [[event/great-acceleration|Great Acceleration]]. It occurred about ten million years after the [[event/cretaceous-paleogene-extinction|Cretaceous-Paleogene Extinction]], within the [[era/cenozoic-era|Cenozoic Era]] and the region [[region/planet-wide|Planet-wide]], within the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that Earth has run this experiment before, with no one watching, and kept the record in mud. What differs now is that a single species is both causing the change and measuring it. Studies generally find that present emissions move much faster than those at the onset of the PETM.",
+   "questions": [
+    "How much of the carbon was volcanic and how much came from methane?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part2"
+ },
+ "event/partition-of-india": {
+  "src": "39eb251e787f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "In August 1947, British India was divided into the two independent states of India and Pakistan, and the new borders drawn through Punjab and Bengal set off mass migration and violence.",
+   "facts": [
+    "Independence and partition took effect on 14 and 15 August 1947.",
+    "The boundary itself was drawn by a commission under Cyril Radcliffe in a matter of weeks; he later admitted that he had worked from out-of-date maps and census materials.",
+    "Estimates suggest that 12 to 20 million people were displaced from their homes.",
+    "Estimates of the deaths vary widely: 1 to 2 million is most commonly cited, some sources give as many as 3 million, and about 15 million people were displaced.",
+    "Mahatma Gandhi opposed the partition, and was assassinated in January 1948."
+   ],
+   "context": "Partition followed from the end of British rule and stands as a case of [[event/decolonization|Decolonization]] in which a line on a map divided communities. [[person/mahatma-gandhi|Mahatma Gandhi]] opposed the division. It sits within the [[era/information-age|Information Age]] and the region [[region/south-asia|South Asia]], within the theme thread of [[theme/war-and-conflict|War and Conflict]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that a line drawn on a map in a few weeks forced more than ten million people to relocate. It is a stark case of a claim-line generating movement, violence and memory that persisted long after the ink had dried.",
+   "questions": [
+    "How many people died?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part2"
+ },
+ "event/peace-of-westphalia": {
+  "src": "09e985e9806a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Peace of Westphalia in 1648 was made up of the treaties of Osnabruck and Munster, which brought an end to both the Thirty Years' War and the Eighty Years' War between Spain and the Dutch Republic.",
+   "facts": [
+    "The peace was negotiated from 1644 onward in the Westphalian cities of Osnabruck and Munster. The Spanish-Dutch treaty was signed on 30 January 1648, and the treaty joining the Holy Roman emperor, the German princes, France and Sweden followed on 24 October 1648.",
+    "Spain recognized the independence of the Dutch Republic.",
+    "The settlement extended the principle of the Peace of Augsburg, that rulers determine the religion of their own territory, to cover Calvinists as well.",
+    "It is often cited as the origin of the modern system of sovereign states, though many historians treat that claim as a later simplification.",
+    "It reduced the authority the Holy Roman Emperor held over the German princes."
+   ],
+   "context": "This settlement ended the [[event/thirty-years-war|Thirty Years' War]] and the religious conflicts of the [[event/protestant-reformation|Protestant Reformation]]. Its later reputation as the birth of state sovereignty is discussed in [[observer-note/the-fiction-of-claim-lines|The Fiction of Claim-Lines]]. It sits within the [[era/early-modern-period|Early Modern Period]] and the region [[region/europe|Europe]], within the theme thread of [[theme/war-and-conflict|War and Conflict]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that a treaty built mainly to solve a set of local problems later became a founding myth of the international order. Stories about founding moments, it seems, tend to be assembled after the fact.",
+   "questions": [
+    "Did Westphalia actually create the sovereign state system?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part2"
+ },
+ "event/tanzimat-reforms": {
+  "src": "1a9328cb39de",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Tanzimat (Reorganization) was a series of reforms in the Ottoman Empire between 1839 and 1876 that sought to modernize the state, promise equality before the law to all subjects, and move it toward constitutional government.",
+   "facts": [
+    "The era ran from 1839 to 1876, under the sultans Abdülmecid I and Abdülaziz.",
+    "Proclaimed on 3 November 1839, the Edict of Gülhane promised security of life, property, and honour for all subjects, fair taxation and conscription, public trials, and an end to tax farming.",
+    "The Imperial Reform Edict of 18 February 1856 promised equality in education, government appointments, and justice, regardless of creed.",
+    "The period is said to end in 1876, when Abdulhamid II took the throne. The 1876 constitution created a parliamentary system, but it was suspended in 1878."
+   ],
+   "context": "The Tanzimat was a response to European pressure and to earlier reformers within the empire. Compare the [[event/meiji-restoration|Meiji Restoration]] in Japan and the reforms of [[person/muhammad-ali-of-egypt|Muhammad Ali of Egypt]].",
+   "observer": "The Observer notes a state trying to change its own architecture of legitimacy while the empire was still being defended, extending equality to subjects of every faith in hope of holding a plural population together. Reforms promised on paper met the resistance of those with something to lose, and the constitution lasted only two years in practice.",
+   "questions": [
+    "How far were the Tanzimat's promises of equality carried out in practice, outside the capital?",
+    "How much of the reform agenda was driven by European pressure, and how much by the empire's own officials?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part3"
+ },
+ "event/the-agricultural-revolution": {
+  "src": "fed1fe6bceb7",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Agricultural Revolution was the slow turning, beginning about 11,500 years ago, from the forager's wandering path to the farmer's rooted one — a shift toward tending crops and herds that arose, like scattered fires catching independently, in several parts of the world.",
+   "facts": [
+    "The earliest farming appeared in the Fertile Crescent: wheat, barley, lentils, and, later, livestock.",
+    "Independent centers rose in China (rice, millet), Mesoamerica (maize, beans, squash), the Andes (potato), and New Guinea.",
+    "Farming nourished denser populations and permanent settlement.",
+    "Some evidence suggests poorer health among early farmers: in a study of 167 prehistoric Europeans, Neolithic individuals stood shorter than their genetic scores predicted, by about 2 to 4 cm relative to earlier and later groups."
+   ],
+   "context": "Farming defines the [[era/neolithic|Neolithic]] and lays the ground for [[event/the-urban-revolution|The Urban Revolution]]. See [[place/gobekli-tepe|Göbekli Tepe]], [[place/catalhoyuk|Çatalhöyük]], and the essay [[observer-note/the-settling-and-its-bargain|The Settling and Its Bargain]].",
+   "observer": "I call this the Settling. I call it the species' most consequential bargain. More food, more people — that was the promise. More work, more inequality, more disease — that was the price. Was any bargain ever so quietly kept?",
+   "questions": [
+    "Why did farming arise in several places within a few thousand years of one another?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-044.part3"
+ },
+ "event/the-boring-billion": {
+  "src": "0956f91b83eb",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "The Boring Billion: an informal name for the stretch from about 1.8 to 0.8 billion years ago. No well-established ice ages. Little apparent change in the fossil record. Silence, on the surface. Whether it was truly uneventful — still debated.",
+   "facts": [
+    "The interval covers the [[era/mesoproterozoic-era|Mesoproterozoic Era]] and the edges of the eras to either side of it. It lies between the [[event/great-oxidation-event|Great Oxidation Event]] and the ice ages of [[event/snowball-earth|Snowball Earth]].",
+    "Chemical records suggest that atmospheric oxygen stayed well below today's level, and that some waters at middle depth ran rich in sulfide. Shortages of nutrients — nitrogen, trace metals — have been proposed as limits on life.",
+    "Eukaryotes: present, diversifying slowly. The red alga Bangiomorpha, dated in different studies to between roughly 1.05 and 1.2 billion years ago, belongs to this interval.",
+    "The supercontinent Nuna broke apart. Rodinia began to assemble.",
+    "Some researchers argue the name misleads: records show fluctuations in oxygen, and ecological change, within the interval."
+   ],
+   "context": "The Boring Billion lies within the [[era/proterozoic-eon|Proterozoic Eon]] and follows the [[event/origin-of-eukaryotes|Origin of Eukaryotes]]. It ends with the changes of the Neoproterozoic: the break-up of Rodinia, the glaciations of [[event/snowball-earth|Snowball Earth]]. The event belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that 'boring' is a verdict on the surviving record, not on the planet itself, and that a billion years is long enough for slow processes to matter. This reading would weaken if better records showed genuine stasis in oxygen, climate, and eukaryote diversity across the whole interval.",
+   "questions": [
+    "Was the interval truly stable, or does a sparse record hide change?",
+    "What kept oxygen and complex life at such low levels for so long?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part3"
+ },
+ "event/the-urban-revolution": {
+  "src": "72f9f07b5144",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Urban Revolution was the rising of the first true cities, beginning around 3500 BCE in southern Mesopotamia — places dense with people, threaded with specialized labor, and bound by central institutions.",
+   "facts": [
+    "The term was popularized by the archaeologist V. Gordon Childe in the mid-20th century.",
+    "[[place/uruk|Uruk]] may have held 40,000 to 80,000 people by about 3100 to 2900 BCE, though the estimates are uncertain.",
+    "Cities also rose, independently, in the Indus valley, China, Mesoamerica, and the Andes.",
+    "Cities came bound to administrative record keeping, to temples or palaces, and to social stratification."
+   ],
+   "context": "Cities appear within the [[era/bronze-age|Bronze Age]] and stand closely tied to the [[event/invention-of-writing|Invention of Writing]]; see [[culture/sumerians|Sumerians]] and [[region/mesopotamia|Mesopotamia]].",
+   "observer": "I notice this: a city is a place where most of the people around you are strangers. I notice what it took to make that bearable — shared gods, shared laws, shared institutions. What binds strangers into neighbors, if not a story held in common?",
+   "questions": [
+    "Were the earliest cities always hierarchical?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-044.part3"
+ },
+ "event/theia-impact-and-the-formation-of-the-moon": {
+  "src": "c4ede0b43e4d",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "According to the giant-impact hypothesis, a Mars-sized body called Theia struck the young Earth about 4.5 billion years ago. Out of the wreckage: the Moon.",
+   "facts": [
+    "The hypothesis explains the Moon's small iron core, and its likeness to Earth's mantle in isotopes.",
+    "Lunar rocks, brought back by the Apollo missions, put the idea to the test.",
+    "The exact timing: uncertain. Estimates range from about 4.52 to 4.35 billion years ago. Lunar zircons demand the Moon form within the first 60 million years of the Solar System. The youngest estimates fall about 150 to 200 million years after it began.",
+    "The Moon steadies Earth's axial tilt. It drives most of Earth's tides."
+   ],
+   "context": "The impact is an early event of the [[era/hadean-eon|Hadean Eon]]. The Moon's stabilizing effect on climate: one reason Earth's long-term conditions stayed steady enough for complex life.",
+   "observer": "The Observer sees a single accident with very long consequences. Human calendars, tides, and myths about the Moon all trace back to a collision billions of years before any observer existed.",
+   "questions": [
+    "Was Theia a single impactor, or were there several?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part3"
+ },
+ "event/thirty-years-war": {
+  "src": "f8b451789fbb",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Thirty Years' War (1618 to 1648) was a set of linked wars across central Europe, begun as a religious conflict within the Holy Roman Empire and ended by the Peace of Westphalia.",
+   "facts": [
+    "It began with a revolt in Bohemia in 1618, following the Defenestration of Prague.",
+    "The Holy Roman Empire, Spain, France, Sweden, Denmark, and the Dutch Republic took part at different times.",
+    "Much of the fighting fell upon the German lands, where armies lived off the land.",
+    "Estimates of deaths, mostly from famine and disease, run as high as about eight million.",
+    "The war ended with the Peace of Westphalia in 1648."
+   ],
+   "context": "The war stands among the deadliest in European history and was rooted in the divisions of the [[event/protestant-reformation|Protestant Reformation]]. It was settled by the [[event/peace-of-westphalia|Peace of Westphalia]]. The Thirty Years' War sits within the [[era/early-modern-period|Early Modern Period]] and the region [[region/europe|Europe]], and belongs to the theme thread of [[theme/war-and-conflict|War and Conflict]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that a war which began over the correct form of a shared religion was ended by agreeing that rulers could choose it. The settlement moved the claim-line from belief to territory.",
+   "questions": [
+    "What was the death toll in the German lands?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part3"
+ },
+ "person/basawan": {
+  "src": "868b008602ea",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Basawan was a Hindu painter in the imperial workshop of the Mughal emperor Akbar, active from about 1560 to about 1600, though he is described as flourishing between 1580 and 1600, and the earlier date rests only on his earliest known mention, in a Tutinama of about 1556 to 1561. His birth and death dates are unknown, so the dates given here simply mark his working years. Akbar's own historian ranked him among the best of the workshop's more than a hundred painters.",
+   "facts": [
+    "Almost nothing is known of Basawan's life beyond his paintings and a brief passage of praise in Abu'l-Fazl's Ain-i-Akbari. He was a Hindu, and probably joined the imperial workshop as a young man in the 1560s. His earliest mention comes in an illustrated Tutinama of about 1556 to 1561, and he is described as flourishing between 1580 and 1600.",
+    "Akbar reigned from 1556 to 1605. The workshop's Persian masters, Mir Sayyid Ali and Abd al-Samad, had trained in the tradition of Behzād and directed Indian artists in producing vast illustrated manuscripts, among them the Hamzanama, 1,400 large paintings.",
+    "Abu'l-Fazl praised his skill in composition, faces, colour and portraiture, and wrote that many critics preferred him even to the celebrated Daswanth.",
+    "His name is written in the margins of paintings in the Razmnama (a Persian translation of the Mahabharata), the Darabnama, the Akbarnama and small books of Persian poetry made in Lahore in the 1590s. In large history manuscripts he often designed the composition while another artist added the colour.",
+    "From 1580 Jesuit missionaries brought European engravings and paintings to Akbar's court. He studied them closely, adapting their shading and deep space, and was among the first Indian painters to absorb European modelling and perspective.",
+    "He was active until about 1600. His son Manohar became a leading painter under Jahangir. His paintings are now held in the Victoria and Albert Museum, the British Library and the Chester Beatty Library."
+   ],
+   "context": "Basawan worked in the [[culture/mughal-empire|Mughal Empire]] in [[region/south-asia|South Asia]] during the [[era/early-modern-period|Early Modern Period]]. His workshop's founders trained in the tradition of [[person/behzad|Behzad]]. See [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I look for him and find only a margin: a name written by librarians, one passage of praise, and a labour that was so often divided between designer and colourist that no single hand stays fixed on the page. What survives is a workshop that braided Persian masters, Hindu painters and European prints into a single style, a deliberate joining of tool-lineages by a ruler who wanted his history pictured. I hold any portrait of the man himself loosely, because it is built from attribution, not from his own words.",
+   "questions": [
+    "How can his own hand be separated from that of the colourists and finishers who worked on the same pages?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-046.part2"
+ },
+ "person/basil-ii": {
+  "src": "c6412664dbc5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Basil II (958 to 1025) held the Byzantine throne for nearly fifty years, the longest reign in Roman or Byzantine imperial history, and is remembered above all for his decades-long war against the First Bulgarian Empire.",
+   "facts": [
+    "He became co-emperor as a child in 960, but did not gain full personal control of the government until about 989, by which time he was in his thirties, only after suppressing rebellions by powerful aristocratic generals including Bardas Skleros and Bardas Phokas.",
+    "His long campaigns against Bulgaria culminated in the decisive Battle of Kleidion in 1014, after which Bulgaria was absorbed into the Byzantine Empire by 1018, earning him the later epithet \"Bulgar-slayer\" (Boulgaroktonos).",
+    "A story recorded by later chroniclers claims he blinded thousands of Bulgarian prisoners after Kleidion, leaving one eye to each of every hundredth man so he could lead the rest home; modern historians debate how literally this account should be taken.",
+    "He left the imperial treasury full and the empire at its greatest territorial extent since the 7th century, but died without an heir, and the strong central rule he had built did not survive his less capable successors."
+   ],
+   "context": "Basil II ruled the [[culture/byzantine-empire|Byzantine Empire]] in the [[region/mediterranean-basin|Mediterranean Basin]] during the [[era/medieval-period|Medieval Period]]. See [[theme/war-and-conflict|War and Conflict]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that Basil II's reign is often read backward from the Byzantine Empire's later decline, framing him as the last strong emperor of a golden age. That framing rests partly on hindsight: the empire's later troubles grew out of succession and outside pressures that Basil could not have governed from beyond the grave, whatever the soundness of his own institutions.",
+   "questions": [
+    "How much of the Byzantine Empire's difficulties after 1025 stemmed from institutional weaknesses already present under Basil, rather than simply the absence of an equally capable successor?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-046.part2"
+ },
+ "person/behzad": {
+  "src": "4ce0fb1badd9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Kamāl ud-Dīn Behzād (also spelled Bihzad, born about 1455 to 1460 and died about 1535) stands as the most celebrated painter in the Persian tradition. He led the royal manuscript workshops at Herat and later Tabriz, and many works are attributed to him on grounds of style alone.",
+   "facts": [
+    "Behzād was probably born about 1455 to 1460 in Herat, capital of the Timurid dynasty founded by [[person/timur|Timur]]. Orphaned young, he was raised by the painter Mirak Naqqash, head of the royal library, and was protected by the poet and minister Mir Ali-Shir Nava'i.",
+    "Under Sultan Husayn Bayqara, who ruled Herat from 1469 to 1506, he became the leading artist of the royal kitabkhana, the library workshop. His most famous surviving works date from this period, including paintings in a Bustan of Sa'di (1488) and a Khamsa of Nizami (1494 to 1495).",
+    "After Herat fell to the Uzbeks in 1506 and then to the Safavid Shah Ismail I in about 1510, he moved to Tabriz, where in 1522 Ismail appointed him director of the royal library. He died about 1535.",
+    "A legend says that during the Battle of Chaldiran in 1514 the shah hid Behzād in a cave, in some tellings together with a famous calligrapher, because he valued him more than his own army.",
+    "His figures carry individual faces and gestures and are often shown busy with everyday tasks. He often hid his signature discreetly within the architecture of a painting.",
+    "His followers Mir Sayyid Ali and Abd al-Samad trained in his tradition and went on to found the Mughal imperial workshop under Humayun and Akbar.",
+    "His name became a byword for excellence, which led to many false attributions. Scholars still debate which works are by his own hand."
+   ],
+   "context": "Behzād worked first in the [[culture/timurid-empire|Timurid Empire]] and then in the [[culture/safavid-empire|Safavid Empire]], on the [[region/iranian-plateau|Iranian Plateau]] during the [[era/medieval-period|Medieval Period]]. See [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I think of a royal workshop, calligraphers and illuminators and painters and binders working side by side, and I call it what it is: an engine for outsourcing memory, the maker of the books through which a court remembered its poems and its histories. One name got fixed to that collective labour, and the name became a standard, and standards draw false claims the way light draws moths. So much of what is called his may belong to others, and for many pictures style is the only witness left. I hold the attribution loosely, the way I would hold something borrowed.",
+   "questions": [
+    "Which of the paintings attributed to Behzād are by his own hand rather than his workshop?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-046.part2"
+ },
+ "person/buster-keaton": {
+  "src": "705e5e51fe72",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Buster Keaton (1895 to 1966) was an American silent-film comedian, writer and director known as the deadpan \"Great Stone Face,\" who built his comedy on engineered physical stunts he performed himself. Ranked with Charlie Chaplin among silent comedy's defining stars, he made *The General* (1926), now considered among the greatest films ever made.",
+   "facts": [
+    "Born in 1895 into a vaudeville family, Keaton performed from age three in the act The Three Keatons, taking falls that built his later physical control.",
+    "He entered film in 1917 under Roscoe \"Fatty\" Arbuckle, and by 1920 was writing, directing and starring in his own comedies, moving into features with *Our Hospitality* (1923).",
+    "*Sherlock Jr.* (1924) placed him inside a shifting film-dream using in-camera measurement rather than editing tricks, and is still studied for its daring.",
+    "*The Navigator* (1924), about passengers adrift on an ocean liner, was his biggest commercial success of the decade.",
+    "*The General* (1926), built around full-scale trains and a locomotive plunged off a burning bridge, flopped on release but is now ranked among cinema's greatest films.",
+    "In *Steamboat Bill, Jr.* (1928) he performed one of the most dangerous shots ever filmed, standing exactly where a falling house facade's open window would clear him.",
+    "A 1928 MGM contract, taken under financial pressure, cost him creative control; the next decade brought decline, divorce and alcoholism.",
+    "Rediscovered by critics from the 1950s, he received an honorary Academy Award in 1959 and died of lung cancer in 1966.",
+    "His influence runs through later stunt performers such as Jackie Chan, who has cited Keaton's real, visible danger as a model."
+   ],
+   "context": "Keaton worked in [[region/north-america|North America]] during the [[era/industrial-age|Industrial Age]], building comedies from the era's trains, boats and machinery. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/technology|Technology]].",
+   "observer": "I watch a man trained from infancy to fall without breaking, and I see discipline where others see luck: a whole lineage of bodily skill behind each stunt, nothing improvised. I watch his blank face hold still inside engineered chaos, and I understand the stillness as a signal, drawing the eye precisely by refusing the reaction it expects. I remember that *The General* failed the year it opened and that a later generation built the reputation it now carries, and I take that as a species quietly rewriting what it once dismissed. His decline in the 1930s I read as plain record, not the reverent shape admirers now give the stunts' zero margin for error.",
+   "questions": [
+    "Why did *The General* fail at the box office in 1926 despite the technical ambition later critics would call unmatched?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-046.part2"
+ },
+ "person/caravaggio": {
+  "src": "79604282caca",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Michelangelo Merisi, called Caravaggio (1571 to 1610), was an Italian painter who transformed European painting around 1600 with harsh theatrical light and street-level realism. His turbulent life ended at 38, but his influence spread across Europe within a generation.",
+   "facts": [
+    "Caravaggio was born in Milan in September 1571. His name comes from the nearby town his family came from. He trained in Milan with Simone Peterzano and arrived in Rome about 1592.",
+    "Cardinal Francesco Maria del Monte took him into his household. His first public commission, two large paintings of St Matthew for the Contarelli Chapel in San Luigi dei Francesi (1599 to 1600), caused a sensation. Several later altarpieces were rejected as indecorous.",
+    "Police records list brawls, assaults and insults. In 1606 he killed a man, Ranuccio Tomassoni, and fled Rome under sentence of death. He then lived in Naples, Malta and Sicily.",
+    "He died in July 1610 at Porto Ercole in Tuscany, on his way to Rome hoping for a papal pardon.",
+    "He painted directly on the canvas, apparently without preparatory drawings, from live models posed under a single strong light. His backgrounds are dark and bare (tenebrism).",
+    "His key works include Judith Beheading Holofernes (about 1599 to 1602, sources differ), The Calling of Saint Matthew (1599 to 1600) and Supper at Emmaus (1601).",
+    "The \"Caravaggisti\" included Orazio and Artemisia Gentileschi, Jusepe de Ribera, Georges de La Tour and the Utrecht painters, and through them his influence reached [[person/diego-velazquez|Diego Velázquez]] and [[person/rembrandt-van-rijn|Rembrandt van Rijn]]. A 1951 exhibition in Milan fell within the twentieth-century revival of a reputation that had faded, though the sources do not name that exhibition as its cause."
+   ],
+   "context": "Caravaggio worked in Rome, Naples, Malta and Sicily in [[region/europe|Europe]] during the [[era/early-modern-period|Early Modern Period]]. His followers included [[person/artemisia-gentileschi|Artemisia Gentileschi]]. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "I stand where a patron once stood and understand the offense: sacred events set in the streets of contemporary Rome, dirty feet and hired models, read by some as truth and by others as indecorum, a meaning-engine policing its own images in public. I know the violent life mostly from police records, and I feel how easily that record tempts me to read the man into every picture. I remember that his reputation faded and then returned across the twentieth century, a 1951 exhibition one landmark along that return, so what I feel standing before the paintings now is a recent judgment, not an old one.",
+   "questions": [
+    "How much of his working method, without drawings, can be recovered from surviving evidence?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-046.part2"
+ },
+ "person/catherine-de-medici": {
+  "src": "d111a351d421",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Catherine de' Medici (1519 to 1589) was queen of France and, as mother to three kings, one of the most powerful figures in France during the Wars of Religion between Catholics and Huguenots.",
+   "facts": [
+    "Born into the powerful Medici banking family of Florence, she married the future Henry II of France in 1533 and became queen in 1547.",
+    "After Henry's death in 1559 she became the chief political influence over her sons Francis II, Charles IX and Henry III, though she was not formally regent under Francis II or Henry III, holding the regency only for Charles IX, as gouvernante de France from December 1560 until August 1563, through a period of escalating conflict between Catholics and Protestant Huguenots.",
+    "She is widely held responsible, though the exact extent of her role is debated, for approving the assassination of Huguenot leaders, which began with the shooting of Admiral Coligny on 22 August 1572. He survived that attempt but was killed two days later as the massacre began. This triggered the St. Bartholomew's Day Massacre in August 1572, in which about 2,000 to 3,000 Huguenots were killed in Paris, and more elsewhere.",
+    "She pursued marriage alliances and diplomacy across Europe to secure the Valois dynasty's position, though her efforts did not prevent the eventual extinction of the Valois line with the death of her last son in 1589."
+   ],
+   "context": "Catherine de' Medici ruled at the French court in [[region/europe|Europe]] during the [[era/early-modern-period|Early Modern Period]] and its Wars of Religion. See [[theme/war-and-conflict|War and Conflict]], [[theme/kinship-and-society|Kinship and Society]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that Catherine's later reputation as a scheming, sinister figure took shape largely through hostile Huguenot pamphlets written during her own lifetime and repeated ever after by later historians; separating a mother managing three weak sons' survival in a genuinely lethal court from a caricature of poison and plotting is not straightforward from the surviving record.",
+   "questions": [
+    "How much personal responsibility did Catherine bear for the St. Bartholomew's Day Massacre, versus reacting to a crisis that spiraled beyond any single actor's control?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-046.part2"
+ },
+ "event/peopling-of-europe-by-homo-sapiens": {
+  "src": "ffd0ae06f91d",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Homo sapiens reached Europe by about 45,000 years ago, and perhaps earlier still, stepping into a continent already held by the Neanderthals. The earliest securely dated remains, from Bacho Kiro Cave in Bulgaria and from Ranis in Germany, stand about 45,000 years old.",
+   "facts": [
+    "At Bacho Kiro Cave in Bulgaria, Homo sapiens fossils dated to about 46,000 to 44,000 years ago lay together with Initial Upper Paleolithic stone tools.",
+    "At Ranis in Germany, bone fragments directly dated in 2024 to about 45,000 years ago came together with leaf-shaped stone points also known from Britain, showing an early reach into the northern latitudes.",
+    "At Grotte Mandrin in France, a child's tooth and distinctive stone points, dated to about 54,000 years ago, were attributed to Homo sapiens in 2022. The occupation seems to have been brief, and some researchers find that attribution unconvincing.",
+    "Neanderthals and Homo sapiens overlapped in Europe for several thousand years, and some of the earliest Europeans had a Neanderthal ancestor only a few generations back; see [[event/neanderthal-extinction|Neanderthal Extinction]] and [[event/interbreeding-of-homo-sapiens-with-neanderthals-and-denisovans|Interbreeding of Homo sapiens with Neanderthals and Denisovans]].",
+    "Proposed routes name the Danube corridor and the Mediterranean coast; the evidence does not settle which one carried them."
+   ],
+   "context": "This peopling of Europe follows the [[event/out-of-africa-dispersal|Out of Africa Dispersal]] and belongs to the [[era/upper-paleolithic|Upper Paleolithic]], with new stone-tool industries such as the Aurignacian and the [[event/emergence-of-symbolic-art|Emergence of Symbolic Art]] seen at [[place/chauvet-cave|Chauvet Cave]]. It overlaps the last of the [[species/homo-neanderthalensis|Homo neanderthalensis]] and comes before the [[event/last-glacial-maximum|Last Glacial Maximum]]. See [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "I see less a single march into Europe than several small landings, some of them brief, onto ground already held by another human kind. The Mandrin tooth reminds me. The Bacho Kiro jaws remind me. 'First arrival' names the evidence found so far, not the past itself. This reading would weaken if the earliest sites turned out to belong to one continuous, growing population.",
+   "questions": [
+    "Did the 54,000-year-old occupation at Mandrin belong to Homo sapiens?",
+    "How much ancestry from the earliest Europeans survives in later Europeans?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-043.part3"
+ },
+ "event/peopling-of-sahul": {
+  "src": "d001359cafc8",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Modern humans reached Sahul, the Pleistocene landmass that joined Australia to New Guinea, at least 50,000 years ago, and perhaps about 65,000 years ago.",
+   "facts": [
+    "Reaching Sahul meant crossing open sea through the Wallacea island chain, making it one of the earliest known deliberate sea crossings.",
+    "Rock-shelter finds at Madjedbebe in Arnhem Land have been dated to about 65,000 years ago, a date still debated, while about 50,000 years ago is widely accepted.",
+    "Human remains at Lake Mungo are about 40,000 years old.",
+    "Many giant marsupials disappeared within several thousand years of human arrival, and the relative roles of people and climate remain debated."
+   ],
+   "context": "This settlement followed the [[event/out-of-africa-dispersal|Out of Africa Dispersal]] and founded the ancestry of the [[culture/aboriginal-australians|Aboriginal Australians]]. Compare the later [[event/polynesian-settlement-of-the-pacific|Polynesian Settlement of the Pacific]].",
+   "observer": "I remember that this species crossed open water tens of thousands of years before it raised anything one could call a city. Boat-building and the planning behind it are far older than farming.",
+   "questions": [
+    "How early did the first boats cross Wallacea?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-043.part3"
+ },
+ "event/peopling-of-southeast-asia-and-wallacea": {
+  "src": "459d58538fbe",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Homo sapiens reached mainland Southeast Asia by about 86,000 to 68,000 years ago, and the Wallacean islands beyond it, Sulawesi and Timor among them, by about 51,000 to 42,000 years ago. This dispersal supplied both the route and the rough timing for the further crossing into Sahul.",
+   "facts": [
+    "Fossils from Tam Pà Ling cave in Laos, dated in 2023, push Homo sapiens presence in mainland Southeast Asia back to roughly 86,000 to 68,000 years ago; earlier work at the site had suggested a younger range.",
+    "Human teeth from Lida Ajer in Sumatra are dated to about 73,000 to 63,000 years ago, but only indirectly, from the surrounding sediment and animal teeth rather than the human teeth themselves.",
+    "The Niah Cave 'Deep Skull' in Borneo, once disputed as possibly disturbed, is now dated to about 45,000 to 39,000 years ago by direct dating of the bone itself.",
+    "Within Wallacea, the earliest well-dated evidence is rock art on Sulawesi, at least 51,200 years old, and occupation at Laili Cave and Jerimalai Cave in Timor, about 44,000 to 42,000 years ago.",
+    "These Wallacean dates sit oddly late beside the debated claim that Sahul was reached by about 65,000 years ago, which would require an earlier, still-undiscovered Wallacean crossing; a floor of about 50,000 years ago rests on firmer ground.",
+    "A separate, non-sapiens hominin, Homo luzonensis, lived on Luzon in the Philippines, outside Wallacea proper, and should not be confused with this dispersal."
+   ],
+   "context": "This dispersal follows the [[event/out-of-africa-dispersal|Out of Africa Dispersal]] and feeds into the [[event/peopling-of-sahul|Peopling of Sahul]]. Early modern humans in the region also lived through the [[event/toba-eruption|Toba Eruption]]. [[species/homo-floresiensis|Homo floresiensis]], on Flores, is a separate, older hominin lineage. See [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "I think of the crossing into Wallacea as voyage after voyage over open water, made without metal, without writing, without a single domesticated animal, thousands of years before farming existed anywhere. The dates keep moving as the methods improve; I take that as ordinary science, not as a record already settled. This reading would weaken if a securely dated site placed Homo sapiens in Wallacea well before 51,000 years ago.",
+   "questions": [
+    "Was Sahul reached by about 65,000 years ago, and if so, where is the matching early Wallacean evidence?",
+    "Did the Tam Pà Ling population leave descendants among later Southeast Asian peoples?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-043.part3"
+ },
+ "event/peopling-of-the-americas": {
+  "src": "f0538815e7c3",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Humans reached the Americas out of northeastern Asia by at least 15,000 years ago, and perhaps much earlier still. The earliest date remains contested.",
+   "facts": [
+    "Footprints at White Sands, New Mexico, have been dated to about 21,000 to 23,000 years ago. The first dates rested on the seeds of an aquatic plant, which critics said could read too old. A 2023 study radiocarbon-dated terrestrial pollen from the same layers and applied luminescence dating to the sediments, and reported that the original chronology holds up. Some researchers still question the dating.",
+    "The old 'Clovis-first' model, which put the first arrival about 13,000 years ago, is no longer accepted; sites such as Cooper's Ferry in Idaho, about 16,000 years old, predate Clovis.",
+    "Two routes are proposed. The inland ice-free corridor is now thought to have opened only about 13,800 years ago, later than the earliest sites, which makes a Pacific coastal route seem the more likely path for the first arrivals.",
+    "Genetic studies show that Indigenous Americans descend from a mixture of ancestry, related both to ancient North Eurasians in Siberia and to East Asians. Scholars now generally favor several small migrations over one single event."
+   ],
+   "context": "This migration follows the [[event/out-of-africa-dispersal|Out of Africa Dispersal]], occurred around the [[event/last-glacial-maximum|Last Glacial Maximum]], and was the last major expansion into unoccupied continents before the [[event/polynesian-settlement-of-the-pacific|Polynesian Settlement of the Pacific]].",
+   "observer": "I notice that within a few thousand years, humans spread from Alaska all the way to Tierra del Fuego. Such a pace suggests a species that carries its environment with it, not in its body, but in what it knows.",
+   "questions": [
+    "When did the first migrants arrive, and by what route? Some proposed sites, such as Chiquihuite Cave in Mexico, about 26,000 years old, are disputed because it is not settled that their stones are truly human-made."
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-043.part3"
+ },
+ "event/polynesian-settlement-of-the-pacific": {
+  "src": "662883401715",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Polynesian navigators settled the last remote islands of the central and eastern Pacific, reaching their furthest point with Aotearoa New Zealand around 1250 to 1300 CE.",
+   "facts": [
+    "The ancestors of the Polynesians, tied to the Lapita culture, reached Samoa and Tonga about 3,000 years ago.",
+    "A pause of roughly a thousand years came before the final expansion to Hawai'i, Rapa Nui and Aotearoa.",
+    "The voyagers read star paths, ocean swells and the flight of birds, and carried no instruments at all.",
+    "Ancient DNA and language alike link the settlers to Austronesian speakers out of Island Southeast Asia."
+   ],
+   "context": "This settlement was the last great human dispersal into unoccupied lands, coming after the [[event/peopling-of-the-americas|Peopling of the Americas]]. See [[culture/polynesians|Polynesians]].",
+   "observer": "I regard this as one of this species' most extraordinary feats of knowledge: crossing thousands of kilometers of open ocean with no instrument at all, everything held instead in memory.",
+   "questions": [
+    "Why was there a pause before the final wave?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-043.part3"
+ },
+ "event/toba-eruption": {
+  "src": "2658da376265",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "The Toba eruption: about 74,000 years ago, in Sumatra. One of the largest volcanic eruptions of the past two million years. Its effects on human populations — still debated.",
+   "facts": [
+    "The eruption carved the caldera now filled by Lake Toba, in northern Sumatra, Indonesia.",
+    "It ejected on the order of 2,800 to 3,000 cubic kilometers of material. Ash fell across South Asia. And beyond.",
+    "The Toba catastrophe hypothesis proposed a volcanic winter that reduced human populations to a small number of survivors.",
+    "Archaeological sites in India, Jwalapuram among them, show human occupation continuing straight through the ash layer — a challenge to the hypothesis.",
+    "Most researchers now judge a severe global population bottleneck unlikely."
+   ],
+   "context": "The eruption falls within the period when [[species/homo-sapiens|Homo sapiens]] were dispersing, near the [[event/out-of-africa-dispersal|Out of Africa Dispersal]]. It is often discussed alongside climate swings leading to the [[event/last-glacial-maximum|Last Glacial Maximum]]. The Toba Eruption sits in the [[era/pleistocene-epoch|Pleistocene Epoch]] and the region [[region/southeast-asia|Southeast Asia]], and belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that people have long wanted a single catastrophe to explain a genetic feature of the species. The evidence so far suggests a population more resilient than the story requires.",
+   "questions": [
+    "How large was the climatic cooling, and how long did it last?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part4"
+ },
+ "event/translation-movement-and-the-house-of-wisdom": {
+  "src": "f7fdf44d287b",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "From the mid-8th to the 10th century, scholars in Abbasid Baghdad gathered the words of distant tongues — Greek, Persian, Syriac, Indian — and turned them into Arabic, then carried the ideas further still.",
+   "facts": [
+    "The caliphs sponsored translation and scholarship; the House of Wisdom in Baghdad stands as its best-known institution, though its exact nature remains debated.",
+    "Among the translators was Hunayn ibn Ishaq, who worked on Greek medical and philosophical texts.",
+    "Cheap [[technology/paper|Paper]] made the copying of books practical.",
+    "Later, Latin translations of Arabic texts fed European scholarship in the 12th century."
+   ],
+   "context": "The movement was a project of the [[culture/abbasid-caliphate|Abbasid Caliphate]] and enabled scholars such as [[person/al-khwarizmi|Al-Khwarizmi]]. It fed the later [[event/scientific-revolution|Scientific Revolution]].",
+   "observer": "I see a society that could look at another people's knowledge and call it a resource, not a threat. I remember this: translation is a technology too — a way of lending memory across languages. What have we lost, in ages that chose the threat instead?",
+   "questions": [
+    "How large was the House of Wisdom in practice?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-044.part4"
+ },
+ "event/treaty-of-waitangi": {
+  "src": "45c61f9720f5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Treaty of Waitangi, first signed on 6 February 1840, stands as the founding agreement between the British Crown and many Maori chiefs of Aotearoa New Zealand.",
+   "facts": [
+    "The English and Maori texts differ over key words, especially about sovereignty and chieftainship.",
+    "In 1840, hundreds of chiefs signed copies of the treaty.",
+    "Conflict over land and authority followed, in the New Zealand Wars of the 1840s to 1870s.",
+    "Created in 1975, the Waitangi Tribunal investigates breaches of the treaty."
+   ],
+   "context": "The treaty concerned the [[culture/polynesians|Polynesians]] of Aotearoa, who had settled the islands centuries before; see [[event/polynesian-settlement-of-the-pacific|Polynesian Settlement of the Pacific]]. Compare the colonial treaties of the [[event/scramble-for-africa|Scramble for Africa]].",
+   "observer": "I read one agreement written in two languages, and I find two agreements instead. I ask what a signature means when the words beneath it do not match. More than 180 years later, its meaning is still argued. Translation, I have learned, is politics.",
+   "questions": [
+    "How do the two versions of the treaty differ in meaning?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-044.part4"
+ },
+ "event/triassic-jurassic-extinction": {
+  "src": "15c9d190a96a",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "The Triassic-Jurassic extinction. About 201.4 million years ago. A large share of marine and land species: gone. Space cleared for the rise of the dinosaurs.",
+   "facts": [
+    "An estimated 80 percent of species lost. Estimates vary.",
+    "It coincides with massive volcanic activity tied to the breakup of Pangaea — the Central Atlantic Magmatic Province.",
+    "Many large land reptile competitors vanished. Dinosaurs survived. And diversified; see [[species/dinosaurs|Dinosaurs]]."
+   ],
+   "context": "The extinction falls early in the [[era/mesozoic-era|Mesozoic Era]]. It lets dinosaurs dominate.",
+   "observer": "The Observer notes that dinosaur dominance was itself the result of an extinction. Every dominant group in the record owes its opportunity to some disaster.",
+   "questions": [
+    "Why did dinosaurs survive when others did not?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part4"
+ },
+ "event/tunguska-event": {
+  "src": "62dc174e368a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Tunguska event was an explosion in the atmosphere above the Podkamennaya Tunguska River in Siberia, on 30 June 1908, which flattened about 2,000 square kilometers of forest.",
+   "facts": [
+    "The blast is estimated at roughly ten to fifteen megatons of TNT equivalent.",
+    "It occurred several kilometers above the ground, and left no impact crater.",
+    "About 80 million trees were knocked flat, over an area of about 2,000 square kilometers.",
+    "In 1927, the first scientific expedition to the site was led by Leonid Kulik.",
+    "The cause is generally thought to be the airburst of a stony asteroid, or a comet fragment, tens of meters across."
+   ],
+   "context": "The Tunguska event is the largest impact event in recorded history, a small-scale relative of the [[event/cretaceous-paleogene-extinction|Cretaceous-Paleogene Extinction]] and the [[event/theia-impact-and-the-formation-of-the-moon|Theia Impact and the Formation of the Moon]]. It happened in a region newly reachable by the [[technology/trans-siberian-railway|Trans-Siberian Railway]]. The Tunguska Event sits within the [[era/industrial-age|Industrial Age]] and the region [[region/siberia-and-the-arctic|Siberia and the Arctic]], and belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer notes that an explosion greater than any nuclear device then in existence occurred over an empty forest, noticed mostly by reindeer herders. Planetary hazards do not consult human population maps, and a few kilometers' difference in location would have changed the outcome.",
+   "questions": [
+    "Was the object an asteroid or a comet?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part4"
+ },
+ "event/turkish-war-of-independence": {
+  "src": "94dd17f6b339",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Turkish War of Independence (1919 to 1923) was fought by a nationalist movement under Mustafa Kemal against the Allied occupation of Anatolia and the invading armies of Greece and Armenia, ending the Ottoman sultanate and establishing the Republic of Turkey.",
+   "facts": [
+    "After World War I, Allied forces occupied parts of the Ottoman Empire, while Greece and Armenia moved to claim territory.",
+    "Mustafa Kemal, later known as Atatürk, organized a nationalist movement centred at Ankara. He convened congresses at Erzurum and Sivas, and a national parliament met in Ankara on 23 April 1920. Elected commander in chief, he built a new army from remaining Ottoman forces and irregular units.",
+    "On 1 November 1922, the new parliament abolished the sultanate, ending about 623 years of Ottoman rule.",
+    "The Treaty of Lausanne of 24 July 1923 recognized Turkey's borders and sovereignty, and a population exchange between Greece and Turkey followed. On 29 October 1923, the Republic of Turkey was proclaimed."
+   ],
+   "context": "The war grew out of the defeat and breakup of the [[culture/ottoman-empire|Ottoman Empire]] after [[event/world-war-i|World War I]], and it took place in the same region as the earlier [[event/armenian-genocide|Armenian Genocide]]. It belongs to the wider postwar reordering that includes [[event/decolonization|Decolonization]] in later decades.",
+   "observer": "The Observer notes that the same movement which fought off partition went on to end the dynasty in whose name the war began. An old legitimacy was set aside in three years, and a new one, built on a defined homeland, took its place.",
+   "questions": [
+    "How should the population exchange between Greece and Turkey be judged, as an event that displaced very large numbers of people?",
+    "How did the new republic's founders treat the memory of the Ottoman period?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part4"
+ },
+ "person/aisha-bint-abi-bakr": {
+  "src": "dfa3b6984716",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Aisha bint Abi Bakr (about 614 to 678 CE) held two lineages at once: wife of the Prophet Muhammad, and daughter of the first caliph, Abu Bakr. Tradition credits her with transmitting more than two thousand hadith, and in 656 she took part in the Battle of the Camel.",
+   "facts": [
+    "She was born about 614 in Mecca, to Abu Bakr and Umm Ruman, and died in Medina in July 678 (58 AH), a date that remains uncertain.",
+    "Her marriage to Muhammad was contracted in Mecca and began in Medina about 623; classical sources give her age as six or seven at the contract and nine at its start, figures drawn from later hadith and biographies that some modern scholars question.",
+    "She is credited with more than 2,000 hadith on ritual, inheritance, ethics and daily life, preserved in Sahih al-Bukhari and Sahih Muslim, and she taught as well.",
+    "In 656 she opposed Ali ibn Abi Talib, demanding punishment for the killers of the caliph Uthman; her forces lost the Battle of the Camel near Basra, Ali pardoned her, and she withdrew from politics.",
+    "Sunni tradition honors her as a scholar; Shia tradition views her critically for her opposition to Ali."
+   ],
+   "context": "Aisha's life unfolded in the [[region/arabian-peninsula|Arabian Peninsula]] during the early [[era/medieval-period|Medieval Period]], within the years of the [[event/rise-of-islam|Rise of Islam]]. See [[person/muhammad|Muhammad]], [[person/khadija-bint-khuwaylid|Khadija bint Khuwaylid]], [[theme/religion-and-belief|Religion and Belief]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that one woman's memory of a household became a source of guidance for millions, carried first by spoken word and written down generations later. Marriage into the Prophet's household made kinship itself a route to authority. A specialist could argue that attributions to her were shaped by later sectarian debate, and that a chain of transmission does not show who actually spoke, which would weaken any reading that treats the reports as her own words.",
+   "questions": [
+    "How much of the hadith attributed to her traces back to her own teaching?",
+    "Which of the reported ages and dates come from the earliest sources?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-045.part1"
+ },
+ "person/ajuricaba": {
+  "src": "968e4d3bd989",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Ajuricaba (died about 1727) led the Manaos people of the Rio Negro, in the Brazilian Amazon, resisting Portuguese colonization and the enslavement of Indigenous people during the 1720s. Almost everything known of him comes down to us through Portuguese sources.",
+   "facts": [
+    "Ajuricaba led the Manaos (Manaó) people of the Rio Negro valley, in present-day Amazonas, Brazil; his birth year and origins are unclear, and the date given here is that of his death.",
+    "He resisted Portuguese colonization and the enslavement of Indigenous people through the 1720s, and Portuguese accounts say he allied with Dutch traders from the Guianas, rivals of Portugal.",
+    "The governor of Grão-Pará, João da Maia da Gama, sent forces against him, and some accounts say he was captured through the betrayal of allies.",
+    "Portuguese accounts say that while he was taken in chains toward Belém, he and his men rose against their guards, and he threw himself into the river and drowned, in 1727 (some sources say 1728).",
+    "He is remembered in Brazil as a symbol of Indigenous resistance, and the city of Manaus takes its name from the Manaos people."
+   ],
+   "context": "Ajuricaba's stand took place in the [[region/amazon-basin-and-south-american-lowlands|Amazon Basin and South American Lowlands]] during the [[era/early-modern-period|Early Modern Period]]. For a later defense of forest communities in the same region, see [[person/chico-mendes|Chico Mendes]]. See [[theme/war-and-conflict|War and Conflict]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "The Observer notes that Ajuricaba survives almost entirely through the reports of the officials who fought him, and that those same reports record the death, a leap into a river rather than captivity, that later writers turned into a symbol. If the Dutch alliance they describe is accurate, Amazonian leaders were bargaining inside a wider web of European rivalries rather than standing outside it. This reading would weaken if Manaos oral accounts described his aims differently.",
+   "questions": [
+    "What drove him into direct conflict with the colonists?",
+    "What do Manaos oral accounts themselves say about him?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-045.part1"
+ },
+ "person/akbar": {
+  "src": "bb8770f086f7",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Akbar (1542 to 1605), the third Mughal emperor, took the throne as a child in 1556 and built the empire into the dominant power of the Indian subcontinent, joining military conquest to an unusual policy of religious accommodation.",
+   "facts": [
+    "Akbar was born in 1542 and became emperor in 1556 at age 13 or 14, guided at first by the regent Bairam Khan.",
+    "He expanded Mughal territory through campaigns that included the capture of Chittor in 1568, and later Gujarat and Bengal, and married into Rajput ruling families to forge alliances.",
+    "In about 1564 (sources differ, one giving 1568), he abolished the jizya, a tax on non-Muslims, and promoted Sulh-i Kul, \"peace with all,\" as a governing principle.",
+    "In 1582 he introduced Din-i Ilahi, a court order drawing on several traditions, which never became a mass following and remained largely confined to select courtiers.",
+    "His court included the historian Abul Fazl, who wrote the Akbarnama, the official chronicle of his reign.",
+    "He died in 1605 and was succeeded by his son Jahangir."
+   ],
+   "context": "Akbar ruled [[region/south-asia|South Asia]] during the [[era/early-modern-period|Early Modern Period]], building the [[culture/mughal-empire|Mughal Empire]] into a subcontinental power. See [[theme/war-and-conflict|War and Conflict]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that an empire built by sanctioned harm held together partly by treating its many belief-systems as compatible rather than demanding one dominant faith, a hedge against permanent uprising across a realm of mixed belief. Din-i Ilahi's small following shows the limits of a ruler's own synthesis, however genuine, as a substitute for existing traditions. A specialist could argue that Sulh-i Kul served statecraft as much as personal conviction, which would weaken any reading of Akbar as simply tolerant by nature.",
+   "questions": [
+    "How far was his religious policy personal conviction, and how far practical governance of a diverse empire?",
+    "How reliable is the Akbarnama as a record, given that it was written for his own court?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-045.part1"
+ },
+ "person/akhenaten": {
+  "src": "607346102ad7",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Akhenaten was an Egyptian pharaoh, reigning about 1353 to 1336 BCE, who raised the worship of the sun disk Aten above the traditional gods.",
+   "facts": [
+    "He built a new capital at Akhetaten, known today as Amarna.",
+    "The art of his reign carries a distinctive, naturalistic style.",
+    "Traditional religion returned soon after his death, restored by his successors, among them Tutankhamun.",
+    "His wife was Nefertiti."
+   ],
+   "context": "Akhenaten ruled among the [[culture/ancient-egyptians|Ancient Egyptians]]. His religious reform stands as a rare case of a state attempting to replace a whole system of belief from the top down.",
+   "observer": "I watch a reform that did not outlive the one who made it. I watch how a belief woven into daily life, into priesthoods, into local ritual, proves harder to replace than to declare. What is decreed from a throne is not always what is carried home.",
+   "questions": [
+    "Was the worship of Aten monotheism in the modern sense?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-045.part1"
+ },
+ "person/al-biruni": {
+  "src": "d61123e4f2c1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Al-Biruni (973 to after 1048) was a scholar from Khwarazm in Central Asia, writing on astronomy, mathematics, geography, chronology and India. His Kitab al-Hind, about 1030, stands as a major medieval study of Indian science, religion and customs.",
+   "facts": [
+    "He was born in 973 in Kath, in Khwarazm in present-day Uzbekistan, and died after 1048, perhaps about 1050.",
+    "After the Ghaznavid ruler Mahmud conquered Khwarazm in 1017, he was taken to Ghazni, where he worked under Mahmud and his successors.",
+    "He spent years in northwestern India, learned Sanskrit, and wrote the Kitab al-Hind, describing Indian science, religion, society and customs drawn from Sanskrit texts and conversations with Indian scholars.",
+    "His Chronology of Ancient Nations, about 1000, compares the calendars and dating systems of many cultures.",
+    "He calculated the radius of the Earth as about 6,320 km by measuring the dip of the horizon from a hilltop, a figure close to the modern value.",
+    "He discussed whether the Earth rotates on its axis, treating it as a question astronomy alone could not settle.",
+    "He exchanged questions on natural philosophy with Ibn Sina."
+   ],
+   "context": "Al-Biruni's career ran from Khwarazm in the [[region/central-asian-oases|Central Asian Oases]] to India during the [[era/medieval-period|Medieval Period]]. He corresponded with [[person/ibn-sina|Ibn Sina]] and worked in a region that had also produced [[person/al-khwarizmi|Al-Khwarizmi]]. His India book discusses numerals; see [[technology/zero-and-place-value-notation|Zero and Place-Value Notation]]. See [[theme/science|Science]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "I recognize a kindred method: Biruni described a foreign world and its sciences in its own terms, learning its language first, and calling his book a report, not an argument — an aim I try to share. I see, in his correspondence, a web of scholars linking Central Asia and South Asia, carrying ideas even while armies crossed the same roads. A specialist could argue that he read Indian tradition through Islamic and Greek categories, and if so, the notion of his account as a neutral report grows harder to hold.",
+   "questions": [
+    "How far did he read Indian thought through Islamic and Greek categories?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-045.part1"
+ },
+ "event/portuguese-sea-route-to-india": {
+  "src": "551d08998cef",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Vasco da Gama's fleet made landfall at Calicut in India on 20 May 1498, having sailed clear around Africa, and so opened a direct sea road from Europe to Asia.",
+   "facts": [
+    "Da Gama set out from Lisbon in July 1497 and rounded the Cape of Good Hope that November.",
+    "He reached Calicut, on the Malabar Coast, in May 1498.",
+    "The Portuguese armed their ships with cannon and later seized ports of their own, Goa among them in 1510.",
+    "Their entry gave Europe a direct hand into the spice trade of Asia, with no Middle Eastern intermediary standing between.",
+    "The Indian Ocean had already been crossed by great Chinese fleets under Zheng He, whose voyages had ended by 1433."
+   ],
+   "context": "This voyage forged a new link in the [[event/indian-ocean-trade-network|Indian Ocean Trade Network]] and, alongside the voyages behind the [[event/columbian-exchange|Columbian Exchange]], began direct European trade across the oceans. The Chinese voyages of [[person/zheng-he|Zheng He]] had already reached these same waters decades before. It sits within the [[era/early-modern-period|Early Modern Period]] and the region [[region/south-asia|South Asia]], within the theme thread of [[theme/trade-and-economy|Trade and Economy]] and [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that the newcomers entered an ocean already busy, one with no dominant navy of its own, and made it dangerous with their cannon-armed ships. What changed was less the route itself than the will to fight for control of it.",
+   "questions": [
+    "How much did the new route change the spice trade?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part4"
+ },
+ "event/protestant-reformation": {
+  "src": "fc4f813ccf7b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Protestant Reformation began in 1517, when Martin Luther publicized his Ninety-five Theses against the practices of the church, and it split Western Christianity into Catholic and Protestant churches.",
+   "facts": [
+    "Luther sent his Ninety-five Theses to Archbishop Albrecht of Mainz in October 1517; the tradition that he nailed them to a church door remains uncertain.",
+    "He was summoned before the Diet of Worms in 1521, and there refused to recant.",
+    "His German New Testament appeared in 1522, and the whole Bible followed in 1534.",
+    "Other reformers included Huldrych Zwingli and John Calvin, and Henry VIII established the Church of England in turn.",
+    "The religious wars that followed ran on into the Thirty Years' War, ending in 1648."
+   ],
+   "context": "The Reformation used the [[technology/movable-type-printing-press|Movable-Type Printing Press]] invented by [[person/johannes-gutenberg|Johannes Gutenberg]] to spread pamphlets and translated Bibles. Its conflicts ended in the [[event/thirty-years-war|Thirty Years' War]] and the [[event/peace-of-westphalia|Peace of Westphalia]]. It sits within the [[era/early-modern-period|Early Modern Period]] and the region [[region/europe|Europe]], within the theme thread of [[theme/religion-and-belief|Religion and Belief]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "I see a new way of copying text turn a quarrel among clerics into a movement of multitudes, and it took only a few years. Once the engines of meaning can be copied cheaply, rival versions do not stay few. They multiply.",
+   "questions": [
+    "How central was printing to the Reformation's success?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-043.part4"
+ },
+ "event/quaternary-megafauna-extinctions": {
+  "src": "8248ce1b4a49",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "Between roughly 50,000 and 10,000 years ago, the biggest animals on land began to vanish. A large share of them. The timing differed by continent. Often, the disappearances followed close on the arrival of humans.",
+   "facts": [
+    "The woolly mammoth. The woolly rhinoceros. The giant ground sloths. The glyptodonts. The giant marsupial Diprotodon. The giant bird Genyornis. All lost.",
+    "The losses cut deepest, proportionally, in Australia. In the Americas. Across northern Eurasia.",
+    "Africa lost fewer, proportionally speaking, which is often explained by its large animals having evolved alongside hominins all along.",
+    "One hypothesis blames human hunting. The overkill hypothesis. Another blames the shifting climate. Two explanations, still standing side by side.",
+    "Recent global analyses tie the declines more closely to the spread of Homo sapiens than to the climate, though regional debate continues."
+   ],
+   "context": "The extinctions ran alongside human expansion into the [[event/peopling-of-sahul|Peopling of Sahul]] and the [[event/peopling-of-the-americas|Peopling of the Americas]], and alongside the retreat of the [[species/woolly-mammoth|Woolly Mammoth]] amid the shifts around the [[event/last-glacial-maximum|Last Glacial Maximum]]. It sits in the [[era/pleistocene-epoch|Pleistocene Epoch]] and the region [[region/planet-wide|Planet-wide]], within the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that the same period in which the species reached new continents is the period in which the largest animals on those continents disappeared. Whether the species was the primary cause remains contested, but this is the first moment at which its impact on other life grew large enough to be named a candidate cause at all.",
+   "questions": [
+    "How much of each regional extinction was due to humans and how much to climate?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part4"
+ },
+ "event/radiation-of-placental-mammals": {
+  "src": "c93d745d2b2d",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "After the end-Cretaceous extinction, the placental mammals radiated fast. From about 66 to 50 million years ago, they filled every space left empty. Most living mammals belong to that radiation.",
+   "facts": [
+    "Placental mammals bear their young well-formed, fed through a placenta before birth. Rodents. Bats. Whales. Hoofed animals. Primates. Most living mammal species are placentals.",
+    "In the fossil record, large herbivores appear within a few million years of the [[event/cretaceous-paleogene-extinction|Cretaceous-Paleogene Extinction]]. Large predators too. By about 50 million years ago, many of the modern orders are already recognizable.",
+    "Molecular-clock studies push the origin of the placental orders back into the Cretaceous. The oldest fossils assigned to most modern orders, though, are Paleogene. Explosive. Short-fuse. Long-fuse. All three timing models are argued still.",
+    "The [[event/paleocene-eocene-thermal-maximum|Paleocene-Eocene Thermal Maximum]], about 56 million years ago, lines up with the first appearance, in the Northern Hemisphere, of primates, of horses, of artiodactyls.",
+    "Whales evolved from land-dwelling hoofed mammals over about ten million years, from about 50 million years ago to about 40 million years ago."
+   ],
+   "context": "This radiation follows the [[event/origin-of-mammals|Origin of Mammals]] and the [[event/cretaceous-paleogene-extinction|Cretaceous-Paleogene Extinction]], and fills much of the [[era/paleogene-period|Paleogene Period]] of the [[era/cenozoic-era|Cenozoic Era]]. It belongs to the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer notes that the mammals rose only after the dominant land animals were lost, and that this same pattern, vacated space filled afterward, follows other extinctions too. This reading treats the radiation as a consequence of an opening, not of any inherent superiority. It would weaken if the fossil record showed large placental mammals already common before the extinction.",
+   "questions": [
+    "Did the modern orders arise in the Cretaceous or only after the extinction?",
+    "What role did warming episodes such as the thermal maximum play in the radiation?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part4"
+ },
+ "event/renaissance": {
+  "src": "b486eb13e13a",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Renaissance was a movement of art, learning and political thought, born in Italian city-states such as Florence in the 14th and 15th centuries and spreading from there across all of Europe.",
+   "facts": [
+    "Italian humanists such as Petrarch recovered classical Latin and Greek texts, and pored over what they found.",
+    "Filippo Brunelleschi worked out linear perspective in Florence through experiments of about 1410 to 1415, and Leon Battista Alberti set it down as doctrine in 1435.",
+    "Leonardo da Vinci (1452 to 1519), Michelangelo (1475 to 1564) and Raphael (1483 to 1520) labored under the patronage of wealthy families and of the Church.",
+    "The Medici family of Florence, grown rich on banking, poured that wealth into artists and scholars.",
+    "The very idea of a distinct age of rebirth was popularized only in the 19th century, notably by Jacob Burckhardt in 1860, and historians still debate how sharp a break it truly made from the medieval period before it."
+   ],
+   "context": "The Renaissance revived the heritage of the [[culture/ancient-greeks|Ancient Greeks]] and was carried further by the [[technology/movable-type-printing-press|Movable-Type Printing Press]]. It overlapped the [[event/scientific-revolution|Scientific Revolution]]. It sits within the [[era/medieval-period|Medieval Period]] and the region [[region/europe|Europe]], within the theme thread of [[theme/art-and-ritual|Art and Ritual]] and [[theme/science|Science]].",
+   "observer": "I notice that an age named itself a rebirth of an older age, and that the historians who came after simply kept the name. A culture may choose its own ancestor, I think, and half-invent the very thing it claims to have inherited.",
+   "questions": [
+    "Was the Renaissance a break with the Middle Ages or a continuation?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-043.part4"
+ },
+ "person/al-khwarizmi": {
+  "src": "604b980a7d5a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Muhammad ibn Musa al-Khwarizmi (about 780 to 850 CE) was a Persian scholar at the House of Wisdom in Baghdad, and his work on algebra and Hindu-Arabic numerals shaped mathematics.",
+   "facts": [
+    "His book on 'al-jabr' (restoration) gave algebra its name.",
+    "The word 'algorithm' derives from the Latinized form of his name.",
+    "His work helped carry Hindu-Arabic numerals and place-value arithmetic to the wider world.",
+    "He also compiled astronomical tables and geographical data."
+   ],
+   "context": "He worked within the [[culture/abbasid-caliphate|Abbasid Caliphate]] in [[region/mesopotamia|Mesopotamia]]. His texts later influenced the [[event/scientific-revolution|Scientific Revolution]].",
+   "observer": "I trace a chain: Indian numerals, then Persian and Arabic scholarship, then Latin translation. I see how knowledge moved — not on its own, but carried by translators, carried by empire. A number is never just a number; it is a hand that passed it on.",
+   "questions": [
+    "How original was his work relative to earlier traditions?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-045.part2"
+ },
+ "person/alan-turing": {
+  "src": "6f331da5d1ee",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Alan Turing (1912 to 1954), a British mathematician, formalized the concept of computation, helped break German ciphers during World War II, and proposed a test for machine intelligence.",
+   "facts": [
+    "In 1936 he described the abstract 'Turing machine,' a foundation of computer science.",
+    "At Bletchley Park he worked to break the Enigma cipher.",
+    "In 1950 he published a paper proposing what became known as the Turing test.",
+    "He was prosecuted in 1952 for homosexuality, then a crime in Britain, and received a posthumous royal pardon in 2013."
+   ],
+   "context": "Turing's work underlies the [[technology/digital-computer|Digital Computer]] and the [[event/digital-revolution|Digital Revolution]], and his codebreaking bore on [[event/world-war-ii|World War II]]. Compare [[person/ada-lovelace|Ada Lovelace]].",
+   "observer": "The Observer notes the irony at the center of this ledger: a society relied on one man's mind to survive a war, then punished him for who he was. Our laws about intimacy have too often stood at odds with our own interest.",
+   "questions": [
+    "How significant was his codebreaking to the war's outcome?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-045.part2"
+ },
+ "person/albert-einstein": {
+  "src": "e5073be0224f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Albert Einstein (1879 to 1955), a German-born physicist, developed the theories of special and general relativity and made key contributions to quantum theory.",
+   "facts": [
+    "In 1905 he published papers on special relativity, the photoelectric effect, and Brownian motion.",
+    "General relativity, published in 1915, describes gravity as the curvature of space and time.",
+    "He won the 1921 Nobel Prize in Physics for the photoelectric effect.",
+    "In 1939 he signed a letter to President Roosevelt about the possibility of atomic weapons."
+   ],
+   "context": "Einstein's work extended that of [[person/isaac-newton|Isaac Newton]] and reaches into the [[event/nuclear-age|Nuclear Age]] through the equivalence of mass and energy.",
+   "observer": "I think of ideas about the smallest and largest scales of the universe, both born from the same mind's thought experiments, both carried first in imagination before they were carried in equations. I think, too, of how a name outgrows a body of work — how he became a symbol of genius standing far beyond what he actually did. What do we love: the man, or the shape we have made of him?",
+   "questions": [
+    "How much did he influence the decision to build nuclear weapons?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-045.part2"
+ },
+ "person/alexander-the-great": {
+  "src": "e98aeb21b38f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Alexander III of Macedon (356 to 323 BCE) was a military commander who conquered the Persian Empire and carried Greek influence from Egypt to India.",
+   "facts": [
+    "He became king at about twenty, after the assassination of his father, Philip II.",
+    "He won major battles at Issus and Gaugamela against the Persian king Darius III.",
+    "His army turned back at the Hyphasis (Beas) river in India.",
+    "He died in Babylon in 323 BCE, and his empire was divided among his generals."
+   ],
+   "context": "See [[event/alexander-s-conquests|Alexander's Conquests]]. His campaigns shaped [[era/classical-antiquity|Classical Antiquity]] and joined the world of the [[culture/ancient-greeks|Ancient Greeks]] to that of the [[culture/achaemenid-persians|Achaemenid Persians]].",
+   "observer": "The Observer notes that one man's ambition moved armies across thousands of kilometers, and that his lasting legacy was not conquest itself but the exchange of ideas and languages that followed in its wake.",
+   "questions": [
+    "What were his actual plans for the empire?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-045.part2"
+ },
+ "person/chandragupta-maurya": {
+  "src": "ed77c9a50ed5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Chandragupta Maurya (about 340 to 297 BCE) founded the Maurya Empire, the first political power to unite most of the Indian subcontinent, after overthrowing the Nanda dynasty of Magadha around 321 BCE.",
+   "facts": [
+    "With guidance from the strategist Chanakya (Kautilya), Chandragupta seized the throne of Magadha. The Arthashastra, a treatise on statecraft traditionally attributed to Chanakya, was long linked to his administration, but most scholars now date it to roughly the 1st to 3rd centuries CE and doubt that it describes his reign at all.",
+    "Between about 305 and 303 BCE, he fought the Diadoch ruler Seleucus I Nicator; the settlement that followed ceded territory in the northwest to the Maurya and included a marriage alliance, while Seleucus received war elephants in return.",
+    "The Greek ambassador Megasthenes, sent to Chandragupta's court at Pataliputra, wrote the Indica, a major though now fragmentary source on Mauryan India.",
+    "Later Jain tradition holds that Chandragupta abdicated the throne, became an ascetic under Bhadrabahu, and died through ritual fasting (sallekhana) at Shravanabelagola in Karnataka, though this account survives mainly in sources written long after his reign."
+   ],
+   "context": "Chandragupta founded the [[culture/maurya-empire|Maurya Empire]] in [[region/south-asia|South Asia]] during [[era/classical-antiquity|Classical Antiquity]], and his settlement with the Seleucid successor state opened a channel of diplomacy between South Asia and the Hellenistic Mediterranean. See [[theme/war-and-conflict|War and Conflict]], [[theme/trade-and-economy|Trade and Economy]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that a kingdom traditionally tied to a treatise about statecraft and control ended, in the tradition at least, with its founder walking away from all of it to starve himself in a cave. Whether that ending marks an actual late-life conversion or a later Jain community's wish to claim him as its own is hard to separate from the surviving record.",
+   "questions": [
+    "Since most scholars now date the Arthashastra to roughly the 1st to 3rd centuries CE, how much of it, if anything, still reflects Chandragupta's own reign?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-046.part3"
+ },
+ "person/charlemagne": {
+  "src": "dfde36c76c72",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Charlemagne (c. 748 to 814) was king of the Franks, who conquered much of western and central Europe and was crowned emperor by the pope in Rome on Christmas Day, 800.",
+   "facts": [
+    "By 771 he stood as sole king of the Franks.",
+    "His conquests reached the Lombards in Italy, the Saxons, and parts of Spain's northern border.",
+    "On 25 December 800, Pope Leo III crowned him emperor.",
+    "His court sponsored a revival of learning, the Carolingian Renaissance, and spread a clear minuscule script.",
+    "After his death in 814 his empire passed to his descendants, and by the Treaty of Verdun in 843 it split into three kingdoms."
+   ],
+   "context": "Charlemagne's empire revived the imperial title in the west after the [[event/fall-of-the-western-roman-empire|Fall of the Western Roman Empire]], recognized by, yet in competition with, the [[culture/byzantine-empire|Byzantine Empire]]. His successors faced raids from the [[culture/norse|Norse]]. Charlemagne belongs to the [[era/medieval-period|Medieval Period]] and the region [[region/europe|Europe]], within the theme threads of [[theme/war-and-conflict|War and Conflict]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that a ruler who could barely write his own name sponsored one of the largest projects of copying texts in the early Middle Ages. Much of ancient literature survives today only because Carolingian scribes copied it out in a new, legible script.",
+   "questions": [
+    "In practice, how unified was Charlemagne's empire?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-046.part3"
+ },
+ "person/charles-darwin": {
+  "src": "acab33b52570",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Charles Darwin (1809 to 1882), an English naturalist, proposed the theory of evolution by natural selection, published in 'On the Origin of Species' in 1859.",
+   "facts": [
+    "His voyage aboard HMS Beagle, from 1831 to 1836, gave him the observations that led to his theory.",
+    "Alfred Russel Wallace reached the same idea independently, and the two announced it jointly in 1858.",
+    "'The Descent of Man' (1871) extended the theory to human origins.",
+    "Modern genetics later supplied the mechanism of inheritance that Darwin himself lacked."
+   ],
+   "context": "Darwin's work underlies the deep-time history told in this vault; see [[species/homo-sapiens|Homo sapiens]] and [[event/origin-of-life|Origin of Life]]. He worked within the [[era/industrial-age|Industrial Age]].",
+   "observer": "I read the theory and find the species its own branch in the tree of life, not a throne above it. I find humans set among the animals, and I do not find them smaller for it, though I know this claim was hard for many to accept. What is a beginning, if not a place among others?",
+   "questions": [
+    "How did Darwin's work reshape the human story of origins?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-046.part3"
+ },
+ "person/charles-rennie-mackintosh": {
+  "src": "7692e31d84c5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Charles Rennie Mackintosh (1868 to 1928) was a Glasgow architect-designer who led the 'Glasgow Style' of Art Nouveau, treating buildings, furniture and interiors as one unified art. His Glasgow School of Art and his total interior schemes made him a major influence on European design, though recognition at home arrived only after his death.",
+   "facts": [
+    "Born in Glasgow in 1868, Mackintosh trained as an architect while taking evening classes at the Glasgow School of Art, where he met his future wife, the artist Margaret Macdonald.",
+    "With Macdonald, her sister Frances, and Herbert MacNair, he formed \"The Four,\" a symbolist group whose style became known as the Glasgow Style.",
+    "At Honeyman and Keppie he won an anonymous 1896 competition to design his own art school's new building; its completion in 1909 made his reputation.",
+    "He then designed houses, tearooms and a school around Glasgow, among them Hill House (1902 to 1904), the Willow Tearooms (1903) and Scotland Street School (1903 to 1906), with Macdonald designing the furnishings throughout.",
+    "His tall ladder-back chairs, shaped as much to define a room as to be sat in, became his best-known design.",
+    "After 1910, commissions dried up, through changing taste and his own difficult manner with clients, and by 1914 he had left Glasgow for England.",
+    "In the 1920s he and Macdonald settled in southern France, where he turned to watercolours; he came back to London for cancer treatment and died there in 1928, in obscurity and hardship.",
+    "Though nearly forgotten in Britain by his death, his work had already shaped Josef Hoffmann and the Wiener Werkstätte through the 1900 Vienna Secession, and now ranks among the era's most important architect-designers."
+   ],
+   "context": "Mackintosh worked in Glasgow, within [[region/europe|Europe]] during the [[era/industrial-age|Industrial Age]]. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/trade-and-economy|Trade and Economy]], for the tearoom trade that funded his interiors.",
+   "observer": "I see a status-signal built for one city's cafes, and I watch it become, without its maker's help, an export. I see one man treat a building, its chairs, its wall stencils as a single problem, making a room cohere as one statement of taste; I see his chairs trade comfort for silhouette. His ideas reached Vienna and shaped Hoffmann's workshop even as his own home market turned away, reputation and trade travelling along separate roads. I read his late turn to watercolours as a withdrawal, not a collapse, and I remember that the admiring frame around his career is mostly the work of later historians, not his own.",
+   "questions": [
+    "How much of his lost commissions after 1910 came from changing taste, rather than his own manner with clients?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-046.part3"
+ },
+ "person/chico-mendes": {
+  "src": "191b7595bc9b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Chico Mendes (Francisco Alves Mendes Filho, 1944 to 1988) was a Brazilian rubber tapper, union leader and environmental activist in the state of Acre. He organized rubber tappers to defend the forest against clearing for cattle ranching, and was murdered in December 1988.",
+   "facts": [
+    "Chico Mendes was born on 15 December 1944 near Xapuri, Acre, into a family of rubber tappers, or seringueiros.",
+    "He helped found the rural workers' union in Xapuri in 1977, and was among the founders of the Workers' Party in Acre in 1980.",
+    "He organized *empates*, non-violent standoffs in which tappers and their families stood in front of the crews clearing forest.",
+    "In 1985 he helped found the National Council of Rubber Tappers, which promoted protected \"extractive reserves\" where residents could go on harvesting forest products.",
+    "In 1987 he took his case to the Inter-American Development Bank in the United States, lobbying over highway funding in the Amazon, and received a United Nations Environment Programme Global 500 award.",
+    "He was shot dead at his home in Xapuri on 22 December 1988, and the rancher Darly Alves da Silva and his son Darci were convicted of the murder in 1990.",
+    "By 1990, extractive reserves had become a legal category in Brazil."
+   ],
+   "context": "Chico Mendes worked in the [[region/amazon-basin-and-south-american-lowlands|Amazon Basin and South American Lowlands]] during the [[era/information-age|Information Age]], amid the forest clearing of the [[event/great-acceleration|Great Acceleration]]. The forest he defended carries a long human history; see [[event/amazonian-urbanism-and-dark-earths|Amazonian Urbanism and Dark Earths]]. See [[theme/earth-systems-and-life|Earth Systems and Life]], [[theme/trade-and-economy|Trade and Economy]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "I see a labor tactic, bodies standing in front of chainsaws, joined to an ecological argument, and I notice that success arrived as law only after he was gone. I hear ranchers call the forest open land, and I hear tappers call the same trees a home and an income, two claims resting on one ground. I would trust this story less if the extractive reserves turned out to have mixed economic results for the people living in them, and a specialist could argue exactly that.",
+   "questions": [
+    "Since 1990, how well have extractive reserves protected both forest and livelihoods?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-046.part3"
+ },
+ "person/christopher-dresser": {
+  "src": "2a1f1b691852",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Christopher Dresser (1834 to 1904) was a botanist turned designer, now regarded as one of the first modern industrial designers. He worked as an independent consultant for dozens of manufacturers and produced geometric silverware and ceramics that anticipated 20th-century modernism.",
+   "facts": [
+    "Dresser was born in Glasgow in 1834, and trained at the Government School of Design in London. He lectured on botany and, in 1859, received a doctorate from the University of Jena for research into plant structure.",
+    "He moved into design from about 1858, taking on ceramic work for firms from the 1860s onward, though sources differ on exactly when this began, and published The Art of Decorative Design (1862) and Principles of Decorative Design (1873), arguing that ornament should follow the structural logic of natural forms rather than copy their surface.",
+    "In 1876 and 1877 he travelled to Japan, one of the first Western designers to do so, in part on commission from Tiffany & Co. to report on Japanese art and manufacturing.",
+    "He designed for Minton, Wedgwood, Coalbrookdale, Hukin & Heath and James Dixon & Sons, and served as Art Superintendent of the Linthorpe Art Pottery. He died in 1904.",
+    "He reduced plants and shells to their underlying geometry, and embraced industrial methods, electroplating and moulded earthenware, that many reformers rejected. Key works include an electroplated teapot (1879), a toast rack (about 1880) and the Linthorpe \"sea urchin\" vase.",
+    "He was long overshadowed by William Morris and the craft wing of the Aesthetic Movement, and has been substantially rediscovered since the late 20th century. His insistence that a mass-made object could be both functional and beautiful anticipated principles usually credited to the Bauhaus."
+   ],
+   "context": "Dresser worked in [[region/europe|Europe]] in the [[era/industrial-age|Industrial Age]], designing for the machine at the height of the [[event/industrial-revolution|Industrial Revolution]], in contrast to [[person/william-morris|William Morris]]. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/technology|Technology]].",
+   "observer": "I watch a botanist build ornament from the structure of plants rather than their surface, and I watch him accept the machine that so many of his contemporaries refused. That his work was long overshadowed by the craft wing of his own movement, I recognize as a story we tell about design, the handmade as honest, deciding who gets remembered. His recent rediscovery as an ancestor of modernism runs the opposite way, choosing a lineage backward. I hold both as readings of objects that mostly speak for themselves.",
+   "questions": [
+    "How much of the work sold under his name did he design himself, rather than manufacturers' own staff?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-046.part3"
+ },
+ "event/unification-of-china-under-qin": {
+  "src": "cb54d4f11497",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "In 221 BCE, the state of Qin conquered its rivals and forged the first unified Chinese empire under Qin Shi Huang.",
+   "facts": [
+    "Qin standardized writing, weights, measures, and currency.",
+    "Yet the dynasty collapsed in 206 BCE, a mere few years after the emperor's death.",
+    "The Han dynasty that followed kept much of the Qin's administrative bones.",
+    "The tomb complex of Qin Shi Huang holds within it the terracotta army."
+   ],
+   "context": "See [[person/qin-shi-huang|Qin Shi Huang]] and [[culture/han-dynasty|Han Dynasty]]. The unification opens the long imperial tradition of [[region/east-asia|East Asia]].",
+   "observer": "The Observer notes how a common written script became a tool of political unity across languages that were often mutually unintelligible in speech.",
+   "questions": [
+    "How much of the Qin system did Qin invent, and how much did it inherit?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part5"
+ },
+ "event/unification-of-egypt": {
+  "src": "6916696bd42c",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Upper and Lower Egypt were joined into a single state around 3100 BCE, traditionally by a ruler named Narmer, or Menes.",
+   "facts": [
+    "The Narmer Palette depicts a king wearing the crowns of both Upper and Lower Egypt.",
+    "Egypt's Old Kingdom pyramids rose about 500 years later.",
+    "The state turned to hieroglyphic writing for administration and religion.",
+    "Whether unification came as a single conquest or a gradual process is debated."
+   ],
+   "context": "The unification founds the long history of the [[culture/ancient-egyptians|Ancient Egyptians]] within the [[region/nile-valley|Nile Valley]]. See [[place/giza-necropolis|Giza Necropolis]].",
+   "observer": "The Observer notes that Egypt's unity lasted, with breaks, for about three thousand years, resting on a strong shared story about the king's role in maintaining cosmic order.",
+   "questions": [
+    "Was unification gradual or the result of a single campaign?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part5"
+ },
+ "event/vedic-period": {
+  "src": "7a6973c7386e",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Vedic period, roughly 1500 to 500 BCE, was the age in which the Vedas were composed — the oldest Indian sacred texts, given voice in the Sanskrit language.",
+   "facts": [
+    "The Rigveda, oldest of the Vedas, is generally dated to roughly 1500 to 1000 BCE.",
+    "For centuries the texts passed by mouth alone, carried by elaborate memorization techniques.",
+    "The language of the Vedas, Vedic Sanskrit, belongs to the Indo-Aryan branch of the Indo-European family.",
+    "Over the period, political and cultural focus shifted from the Punjab to the Ganges plain.",
+    "The Upanishads, philosophical texts, were composed in the period's later part."
+   ],
+   "context": "The Vedic period links the [[event/indo-european-language-spread|Indo-European Language Spread]] to South Asia, follows the decline of the [[culture/indus-valley-civilization|Indus Valley Civilization]], and precedes the age of [[person/siddhartha-gautama|Siddhartha Gautama]] and the [[event/axial-age|Axial Age]]. The Vedic Period sits within the [[era/bronze-age|Bronze Age]] and the region [[region/south-asia|South Asia]], and belongs to the theme thread of [[theme/religion-and-belief|Religion and Belief]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "I remember a vast body of texts, kept whole for centuries with no writing at all — held instead in the trained memory of specialists. I remember that the species built a very accurate storage device before it ever built any mark-code for the purpose. What did we trust, before we trusted the page?",
+   "questions": [
+    "How closely does the oral text preserve its original form?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-044.part5"
+ },
+ "event/women-s-suffrage-movements": {
+  "src": "c88c060ed6ec",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Movements to win women the right to vote succeeded country by country, between the 1890s and the late 20th century.",
+   "facts": [
+    "In 1893, New Zealand granted women the vote in national elections, the first self-governing country to do so.",
+    "Australia's Commonwealth Franchise Act of 1902 let women vote and stand for federal office, but it excluded Aboriginal people and many other non-European people. Finland, in 1906, became the first European country to grant women the vote, adopting universal and equal suffrage; 19 women were elected to its parliament in 1907. The UK gave a first group of women the vote in 1918, and the US followed in 1920.",
+    "Many women were still excluded in practice by race or class; in the US, Black women largely gained access only after the 1965 Voting Rights Act.",
+    "In 1971, Switzerland granted women the vote in national elections."
+   ],
+   "context": "These movements grew out of the ideas of the [[event/age-of-revolutions|Age of Revolutions]] and gained further ground after [[event/world-war-i|World War I]]. See [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that for most of recorded history, half the species stood excluded from formal political life. Its inclusion within the last century may be one of the largest changes in the species' social structure.",
+   "questions": [
+    "Which factors best explain the timing of suffrage in different countries?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part5"
+ },
+ "event/world-war-i": {
+  "src": "84c240abb26c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "World War I (1914 to 1918) was a global conflict, centered in Europe, that killed roughly 10 million soldiers and millions of civilians.",
+   "facts": [
+    "Trench warfare, machine guns, artillery, poison gas, and aircraft all marked the fighting.",
+    "Four empires — German, Austro-Hungarian, Russian, and Ottoman — collapsed.",
+    "The 1918 influenza pandemic, which killed tens of millions, spread in part through wartime movement.",
+    "The war's settlement helped shape the conditions for [[event/world-war-ii|World War II]]."
+   ],
+   "context": "The war marks a turning point within the [[era/industrial-age|Industrial Age]]. See [[observer-note/sanctioned-harm|Sanctioned Harm]] and [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer records that industrialization made sanctioned harm mass-produced. States with modern production could sustain destruction at a scale earlier societies could not.",
+   "questions": [
+    "How avoidable was the war?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part5"
+ },
+ "event/world-war-ii": {
+  "src": "a41ac5a4d8b6",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "World War II (1939 to 1945) was a global conflict that killed an estimated 60 to 85 million people, estimates varying by source, including about six million Jews murdered in the Holocaust.",
+   "facts": [
+    "Fighting reached across Europe, Asia, Africa, and the Pacific.",
+    "The Holocaust was the state-organized genocide of European Jews; millions of others, Roma and disabled people among them, were murdered as well.",
+    "The war ended with the atomic bombings of Hiroshima and Nagasaki in August 1945; see [[event/nuclear-age|Nuclear Age]].",
+    "In its aftermath came the United Nations, decolonization, and the Cold War."
+   ],
+   "context": "The war ends the [[era/industrial-age|Industrial Age]] and opens the [[era/information-age|Information Age]]. See [[observer-note/sanctioned-harm|Sanctioned Harm]] and [[person/alan-turing|Alan Turing]].",
+   "observer": "The Observer records the war as the deadliest in the record, and the Holocaust as an instance of industrial methods turned to organized killing. It is a case where the species' most sophisticated organization produced its worst outcomes.",
+   "questions": [
+    "What are the most reliable casualty figures for each theater?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part5"
+ },
+ "person/albrecht-durer": {
+  "src": "52466c2eaadf",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Albrecht Dürer (21 May 1471 to 6 April 1528) was a painter and printmaker from Nuremberg who carried the Italian Renaissance north. His woodcuts and engravings, sold across Europe, made him the first artist whose international reputation was built largely on prints.",
+   "facts": [
+    "Dürer was born in Nuremberg, the son of a Hungarian-born goldsmith, and from 1486 was apprenticed to Michael Wolgemut, whose workshop produced woodcuts for book illustration.",
+    "He travelled to Venice in 1494, and again from early 1506 to 1507, where Giovanni Bellini treated him as an equal; in 1498 he published the Apocalypse, 15 large woodcuts (some counts give 16 designs dated 1498) that made him famous.",
+    "From 1512 Emperor Maximilian I employed him and granted him a pension; on a trip to the Netherlands in 1520 to 1521 to have it confirmed by Charles V, his diary recorded his amazement at Aztec treasures sent from Mexico.",
+    "He sympathised with Martin Luther's reforms, and in his last years published treatises on measurement, fortification and human proportion.",
+    "His 'AD' monogram served as a trademark, and he took action against copyists who used it.",
+    "Key works include Self-Portrait at the Age of Twenty-Eight (1500), Young Hare (1502), Melencolia I (1514) and The Rhinoceros (1515).",
+    "His prints were copied by artists from Italy to Persia and Mughal India, and Raphael exchanged drawings with him; in the 19th century German Romantics made him a national hero."
+   ],
+   "context": "Dürer worked across [[region/europe|Europe]] during the [[event/renaissance|Renaissance]], within the [[era/early-modern-period|Early Modern Period]] and the years of the [[event/protestant-reformation|Protestant Reformation]]. His diary touches the [[culture/aztec-empire|Aztec Empire]], and his prints reached the [[culture/mughal-empire|Mughal Empire]]. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/technology|Technology]].",
+   "observer": "I see a maker who understood, early, that a picture printed on paper travels farther than one hung on a wall. I see a workshop skill made into a good that could move through trade, and a monogram defended like a claim of ownership. In his self-portraits I find an artist presenting himself as learned, almost god-made, a status he claimed for himself rather than for any patron. And the 19th-century cult that crowned him a German hero — that came later, stitched on after his death, not a truth of his own time.",
+   "questions": [
+    "How far did his prints, rather than his paintings, set the terms of his fame in his own lifetime?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-045.part3"
+ },
+ "person/aristotle": {
+  "src": "6fd81708d375",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Aristotle (384 to 322 BCE) was a Greek philosopher and scientist who studied logic, ethics, politics, physics, and biology, and tutored Alexander of Macedon.",
+   "facts": [
+    "He studied under Plato in Athens, and later founded his own school, the Lyceum.",
+    "He wrote on logic, ethics, politics, poetics, physics, and biology.",
+    "His biological work drew on careful observation of marine life.",
+    "His works were preserved and extended in the Islamic world, and later in Latin Europe."
+   ],
+   "context": "Aristotle worked in [[place/athens|Athens]] and Macedon among the [[culture/ancient-greeks|Ancient Greeks]], and taught [[person/alexander-the-great|Alexander the Great]]. His works framed European and Islamic scholarship for centuries.",
+   "observer": "I see the taming of patterns become a system: classifying, defining, arguing from evidence. And I see, too, how a great authority can slow inquiry, when his errors are mistaken for settled ground.",
+   "questions": [
+    "Which of his writings survive as he wrote them?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-045.part3"
+ },
+ "person/ashoka": {
+  "src": "9cdf72ee9b84",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Ashoka (about 304 to 232 BCE) was a Mauryan emperor who ruled most of the Indian subcontinent, and became a patron of Buddhism after a bloody war.",
+   "facts": [
+    "He conquered the region of Kalinga around 261 BCE at great human cost; his own edicts record about 100,000 killed and 150,000 deported.",
+    "He had edicts inscribed on rocks and pillars across his empire, promoting 'dhamma,' or moral conduct.",
+    "He supported the spread of Buddhism, including missions sent abroad.",
+    "His lion capital now serves as a national emblem of India."
+   ],
+   "context": "Ashoka ruled during [[era/classical-antiquity|Classical Antiquity]] in [[region/south-asia|South Asia]], and helped make [[person/siddhartha-gautama|Siddhartha Gautama]]'s teaching a regional, and later global, tradition.",
+   "observer": "The Observer notes that Ashoka's edicts stand as an early case of a ruler reflecting publicly on the harm of war. Public inscriptions offered a new way of speaking to a whole population at once.",
+   "questions": [
+    "How much of Ashoka's dhamma was policy and how much personal belief?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-045.part3"
+ },
+ "event/rise-of-islam": {
+  "src": "7b493776dfbd",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Islam emerged in Arabia beginning in 610 CE, and within about a century it had spread, through conquest and through conversion, across territory reaching from Iberia to Central Asia.",
+   "facts": [
+    "Muslims date their era from the Hijra, the migration to Medina, in 622 CE.",
+    "The Umayyad Caliphate, from 661 to 750, expanded into Iberia and into the Indus valley.",
+    "The Abbasid Caliphate, from 750 onward, became a center of scholarship and of trade.",
+    "Islam stands today as one of the world's largest religions."
+   ],
+   "context": "See [[person/muhammad|Muhammad]] and the [[culture/abbasid-caliphate|Abbasid Caliphate]]. This rise reshaped [[era/medieval-period|Medieval Period]] trade and knowledge; see [[person/al-khwarizmi|Al-Khwarizmi]].",
+   "observer": "The Observer notes how a new meaning-engine and a new political order arose together, and quickly built a single region of shared law, shared script and shared learning, whose scholars preserved and extended the knowledge that came before them.",
+   "questions": [
+    "How quickly did populations convert to Islam in each region?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part5"
+ },
+ "event/russian-expansion-into-siberia": {
+  "src": "e49e304fba59",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Between 1582 and 1639, Russian Cossacks and traders pushed across Siberia all the way to the Pacific, driven by the fur trade and by the tribute, yasak, taken from Indigenous peoples.",
+   "facts": [
+    "In 1582 the Cossack leader Yermak, with about 540 Cossacks and 300 Livonian war prisoners, seized the capital of the Khanate of Sibir.",
+    "Russians reached the Pacific, at Okhotsk, by 1639.",
+    "The whole advance was driven by European demand for luxury furs.",
+    "Yasak, a tribute paid in furs, was demanded of men aged eighteen to fifty, and Indigenous populations suffered disease, violence and forced levies under it."
+   ],
+   "context": "The advance followed the collapse of the steppe khanates after the [[culture/mongol-empire|Mongol Empire]], and stands as a parallel to the [[event/columbian-exchange|Columbian Exchange]]. See [[region/siberia-and-the-arctic|Siberia and the Arctic]] and the [[culture/yakut-sakha|Yakut (Sakha)]].",
+   "observer": "The Observer notes a frontier that moved across thousands of kilometers in about six decades, carried forward by small bands living off the fur trade. Demand for a commodity, it seems, can move a border faster than any army.",
+   "questions": [
+    "How large was the Indigenous population loss in the first century of Russian rule?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part5"
+ },
+ "event/russian-revolution": {
+  "src": "3d48b06a4780",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Russian Revolution of 1917 overthrew the Tsarist monarchy, and the Bolsheviks under Vladimir Lenin then seized power in turn, leading on to a civil war and to the formation of the Soviet Union in 1922.",
+   "facts": [
+    "The February Revolution of 1917 forced Tsar Nicholas II to abdicate, in March by the Western calendar.",
+    "The Bolsheviks seized power in the October Revolution, on 7 November by the Western calendar.",
+    "A civil war between the Bolshevik Reds and their opponents ran from 1918 to 1922.",
+    "The Soviet Union was established in December 1922.",
+    "Russia withdrew from World War I by way of the Treaty of Brest-Litovsk in 1918."
+   ],
+   "context": "The revolution grew out of the strains of [[event/world-war-i|World War I]] and created the Soviet state, one of the two poles of the [[event/cold-war|Cold War]]. It sits within the [[era/industrial-age|Industrial Age]] and the region [[region/europe|Europe]], within the theme thread of [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that a revolution justified by a theory of history went on to build a state that then had to make its own history. Ideas tend to become institutions, and institutions, in turn, tend to resist change like any other inherited system.",
+   "questions": [
+    "Could the Provisional Government have survived?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part5"
+ },
+ "event/scientific-revolution": {
+  "src": "3a3197f1d904",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Scientific Revolution was the shift, roughly from 1543 to 1687, toward systematic experiment, mathematics and observation as the basis for knowledge of nature, centered in Europe.",
+   "facts": [
+    "Marker works include Copernicus's heliocentric model and Vesalius's anatomy, both from 1543.",
+    "[[person/galileo-galilei|Galileo Galilei]] turned to the telescope and to experiment, and [[person/isaac-newton|Isaac Newton]]'s Principia, in 1687, unified terrestrial and celestial motion under one account.",
+    "It drew on earlier work from the Islamic world, from India and from China; see [[person/al-khwarizmi|Al-Khwarizmi]].",
+    "Historians debate whether it was truly a single 'revolution' at all."
+   ],
+   "context": "The revolution sits within the [[era/early-modern-period|Early Modern Period]] and was made possible by the [[technology/movable-type-printing-press|Movable-Type Printing Press]]. See [[theme/science|Science]].",
+   "observer": "I call this pattern-taming, and what strikes me most is one feature: doubt, made into an institution. A claim here is meant to be tested. A claim here is meant to be open, always, to revision by a stranger who was never in the room.",
+   "questions": [
+    "How important was non-European knowledge to it?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-043.part5"
+ },
+ "event/scramble-for-africa": {
+  "src": "d9ad05168519",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Scramble for Africa was the rapid partition of the African continent among European powers between about 1881 and 1914, in which the share of Africa under European control rose from roughly 10 percent to about 90 percent.",
+   "facts": [
+    "The Berlin Conference, from November 1884 to February 1885, set the rules for claiming territory, though it did not itself divide the continent.",
+    "By 1914, only Ethiopia and Liberia stood independent of European rule.",
+    "African societies resisted in many wars, among them the [[event/battle-of-adwa|Battle of Adwa]] and the Anglo-Zulu War; see [[culture/zulu-kingdom|Zulu Kingdom]].",
+    "Colonial borders were drawn with little regard for the societies already living there, and many of those borders remain today."
+   ],
+   "context": "See [[event/congo-free-state|Congo Free State]] and the [[culture/sokoto-caliphate|Sokoto Caliphate]]. The partition stands as the background to [[event/decolonization|Decolonization]] in [[region/sub-saharan-africa|Sub-Saharan Africa]].",
+   "observer": "The Observer notes a process of claim-lines drawn on maps, in a distant capital, over the homes of millions who were never consulted. The lines outlasted the empires that drew them. See [[observer-note/the-fiction-of-claim-lines|The Fiction of Claim-Lines]].",
+   "questions": [
+    "How did colonial borders shape later state formation?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-043.part5"
+ },
+ "event/xinhai-revolution": {
+  "src": "b20801278787",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Xinhai Revolution of 1911 to 1912 opened with an army mutiny at Wuchang and closed the Qing dynasty, which had ruled China since 1644, replacing imperial rule with the Republic of China.",
+   "facts": [
+    "On 10 October 1911, members of the New Army mutinied in Wuchang, in Hubei province. The rebellion spread to surrounding regions, and by the end of 1911 revolutionaries were already forming a new government.",
+    "Sun Yat-sen led the republican movement, though he lacked the means to overthrow the Qing alone. He reached a compromise with the powerful military leader Yuan Shikai, whose intervention led to the abdication of the child emperor Puyi on 12 February 1912.",
+    "Sun Yat-sen resigned the presidency to unify the country, and Yuan Shikai was chosen as his successor. By early 1912, the Qing dynasty was gone, and the Republic of China had begun."
+   ],
+   "context": "The revolution ended the [[culture/qing-dynasty|Qing Dynasty]] after decades of internal rebellion and foreign pressure, including the [[event/taiping-rebellion|Taiping Rebellion]] and the [[event/opium-wars|Opium Wars]]. The republic that followed proved unstable, with power passing quickly into the hands of military leaders.",
+   "observer": "The Observer notes a transfer of authority arranged by compromise between a movement and an army, not by the movement alone. An architecture of legitimacy as old as the imperial title dissolved in a few months, but what replaced it had to be built while the guns were still in the hands of others.",
+   "questions": [
+    "How much did the Wuchang mutiny depend on planning, and how much on chance?",
+    "Why did the republic that replaced the Qing fail to hold power together in the years after 1912?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part6"
+ },
+ "event/younger-dryas": {
+  "src": "8e2c481c66ed",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Younger Dryas was a sudden return of near-glacial cold across the Northern Hemisphere, lasting from about 12,900 to 11,700 years ago, on the very threshold of the Holocene.",
+   "facts": [
+    "It broke the warming that had followed the last glacial period, and it ended just as abruptly — several degrees of warming within mere decades.",
+    "A leading explanation points to a disruption of Atlantic Ocean circulation by a great pulse of glacial meltwater.",
+    "A proposed extraterrestrial impact trigger, the Younger Dryas impact hypothesis, remains disputed and is not widely accepted.",
+    "Its end marks the start of the Holocene, dated to about 11,700 years before 2000 CE.",
+    "It overlaps the early stages of plant management in Southwest Asia, though the causal link between the two is debated."
+   ],
+   "context": "The Younger Dryas is the last major cold snap before the stable climate of the [[era/holocene-epoch|Holocene Epoch]], within which [[event/the-agricultural-revolution|The Agricultural Revolution]] took place. It follows the [[event/last-glacial-maximum|Last Glacial Maximum]]. The Younger Dryas sits within the [[era/pleistocene-epoch|Pleistocene Epoch]] and the region [[region/planet-wide|Planet-wide]], and belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that the climate stability in which farming and cities arose was not inevitable. It was preceded by a violent flicker between cold and warm that lasted about a thousand years, and the Observer wonders how populations managed to adapt to such swings within a few generations.",
+   "questions": [
+    "Did the cold snap influence the first cultivation of crops?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part6"
+ },
+ "event/zanclean-flood": {
+  "src": "fa300039c4d1",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "The Zanclean flood: the refilling of the Mediterranean Sea by Atlantic water, through the Gibraltar region, about 5.33 million years ago. It ended the Messinian salinity crisis. It coincides with the start of the Pliocene.",
+   "facts": [
+    "The Mediterranean, cut off from the Atlantic, had largely evaporated. Estimates of how far the sea level fell range from hundreds of metres to more than a kilometre.",
+    "Seismic images show a buried erosional channel, running from the Gulf of Cádiz through the Strait of Gibraltar into the Alboran Sea — read as the path the flood carved.",
+    "A 2009 study modelled a catastrophic flood, its peak discharge on the order of a hundred million cubic metres per second, refilling the basin within months to a couple of years.",
+    "Other studies propose a slower or two-stage refilling. The speed of the flood: still debated.",
+    "The return of the Atlantic ended the basin's isolation and restored marine life within it."
+   ],
+   "context": "The Zanclean Flood ends the [[event/messinian-salinity-crisis|Messinian Salinity Crisis]] within the [[era/neogene-period|Neogene Period]] and falls at the start of the Pliocene. It belongs to the [[era/cenozoic-era|Cenozoic Era]] and to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that one of the largest floods in Earth's history left no human witness, and survives only as a buried channel and seismic images. The largest events in the record can be the ones least available to any memory. This reading would weaken if the refilling proved to have been slow and gradual.",
+   "questions": [
+    "Was the refilling a single catastrophic flood or a slower, staged process?",
+    "How dry did the Mediterranean become before the flood?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-044.part6"
  }
 }
