@@ -18,12 +18,12 @@ fact_checks: ["2026-09-27: Portuguese traders established themselves on Gorée i
 Gorée Island is a small island off Dakar, Senegal, held in turn by the Portuguese, Dutch, British and French from the 15th century, and a symbol of the Atlantic slave trade, though historians debate how many enslaved people left from it.
 
 ## Facts
-- Gorée Island lies about 3 kilometers off Dakar; the Portuguese landed in 1444, the Dutch took the island in 1617, and the French took it in 1677, after which it changed hands several times between Britain and France until 1817.
+- Gorée Island lies about 2 kilometers off Dakar; the Portuguese landed in 1444, the Dutch held the island by 1628 (exactly when and how they replaced the Portuguese is unknown, since the early Dutch West India Company archive was largely lost), and the French captured it from the Dutch in 1677, after which control passed between Britain and France several times over the following century.
 - Gorée was a trading post for goods such as gum and hides and for enslaved people; a community of Afro-European merchant women, called signares, ran trade and property on the island, and some owned enslaved people.
-- The House of Slaves, built in 1776 and having a doorway to the sea called the "Door of No Return", is a pilgrimage site for visitors.
+- The House of Slaves, built by Nicolas Pépin at a date given variously as about 1776 or 1780 to 1784, and having a doorway to the sea called the "Door of No Return", is a pilgrimage site for visitors.
 - Many historians argue that Gorée was a modest embarkation point compared with larger ports on the Atlantic coast and that the House of Slaves did not hold the numbers often claimed, while others stress its symbolic importance; the debate is unresolved.
 - African merchants and rulers took part in the trade alongside European ones.
-- Visitors to Gorée include Nelson Mandela in 1991, Pope John Paul II in 1992 and US President Barack Obama in 2013.
+- Visitors to Gorée have reportedly included Nelson Mandela and Pope John Paul II, and, most firmly documented, US President Barack Obama in 2013.
 - UNESCO inscribed the Island of Gorée in 1978.
 
 ## Context & Connections

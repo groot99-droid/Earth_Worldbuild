@@ -171,7 +171,7 @@ The Observer prefers a global reading of this era. It sees a species increasingl
 - [[Karakorum]] (1235 CE)
 - [[Sarai]] (1250 CE)
 - [[Tenochtitlan]] (1325 CE)
-- [[Ayutthaya]] (1350 CE)
+- [[Ayutthaya]] (1351 CE)
 - [[Forbidden City]] (1406 CE)
 - [[Gorée Island]] (1444 CE)
 - [[Machu Picchu]] (1450 CE)

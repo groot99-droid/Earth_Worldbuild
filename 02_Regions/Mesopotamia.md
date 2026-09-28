@@ -51,7 +51,7 @@ The Observer treats Mesopotamia as a laboratory for large-scale coordination: bo
 **Places**
 - [[Uruk]] (4000 BCE)
 - [[Ur]] (3800 BCE)
-- [[Babylon]] (2300 BCE)
+- [[Babylon]] (2200 BCE)
 - [[Baghdad]] (762 CE)
 
 **Species**

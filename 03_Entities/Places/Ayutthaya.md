@@ -4,7 +4,7 @@ type: place
 era: "[[Medieval Period]]"
 region: "[[Southeast Asia]]"
 themes: [trade, war, religion]
-date_start: 1350
+date_start: 1351
 date_end: 1767
 date_precision: year
 related: ["[[Ayutthaya Kingdom]]", "[[Khmer Empire]]", "[[Angkor]]", "[[Dutch East India Company]]"]
@@ -16,11 +16,11 @@ fact_checks: ["2026-09-27: Ayutthaya is conventionally dated to 1351 (4 March 13
 ---
 
 ## Summary
-Ayutthaya is a city on an island at the meeting of three rivers in central Thailand, traditionally founded in 1350, the capital of the Ayutthaya Kingdom until the Burmese army destroyed it in 1767, and a major trading port of Southeast Asia.
+Ayutthaya is a city on an island at the meeting of three rivers in central Thailand, traditionally founded in 1351, the capital of the Ayutthaya Kingdom until the Burmese army destroyed it in 1767, and a major trading port of Southeast Asia.
 
 ## Facts
-- Ayutthaya lies on an island at the confluence of the Chao Phraya, Lopburi and Pa Sak rivers, and is traditionally said to have been founded in 1350 by King U Thong (Ramathibodi I).
-- Ayutthaya's forces took Angkor in 1431, after which the Khmer court moved away from Angkor.
+- Ayutthaya lies on an island at the confluence of the Chao Phraya, Lopburi and Pa Sak rivers, and is traditionally said to have been founded in 1351 (by convention, 4 March 1351) by King U Thong (Ramathibodi I), though the settlement may be older.
+- In the 1430s Ayutthaya's forces attacked Angkor and installed a short-lived puppet ruler there, though they did not sack the city.
 - Chinese, Japanese, Persian, Indian and Malay merchants traded at Ayutthaya; the Portuguese, in 1511, were the first Europeans to reach it, the Dutch East India Company opened a trading post in 1608, and King Narai exchanged embassies with the French court in the 1680s.
 - European visitors in the 17th century described a city of canals, palaces and many temples, and some estimates put its population at several hundred thousand at its height.
 - A Burmese army besieged Ayutthaya for about 14 months and took it in April 1767, burning much of the city; many thousands of captives were taken to Burma, and much of the kingdom's written record was lost.

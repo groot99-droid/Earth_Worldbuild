@@ -19,9 +19,9 @@ The Mogao Caves are a complex of Buddhist cave temples cut into a cliff near Dun
 
 ## Facts
 - The Mogao Caves lie near the oasis of Dunhuang at the edge of the desert, where Silk Road routes met; Han China had established a commandery at Dunhuang in the late 2nd century BCE.
-- By tradition the first cave was dug in 366 CE by the monk Yuezun, and work continued into the 14th century; the site has roughly 735 caves, about 490 of which hold murals or painted sculptures, with murals covering about 45,000 square meters.
+- By tradition the first cave was dug in 366 CE by the monk Yuezun, and work continued into the 14th century; the site has roughly 735 caves (487 known since the early 1900s plus 248 more found between 1988 and 1995), several hundred of which hold murals or painted sculptures, with murals covering about 46,000 square meters.
 - The art shows Indian, Central Asian and Chinese influences, and donors, including officials, merchants and local rulers, are painted into many caves.
-- Dunhuang was under Tibetan rule from about 786 to 848, was governed by a local regime from 848, and passed to the Tangut state of Western Xia in about 1036.
+- Dunhuang was under Tibetan rule from about 787 to 848, was governed by a local regime from 848, and passed to the Tangut state of Western Xia in about 1036.
 - The "Library Cave" (Cave 17), sealed around the early 11th century, was opened in 1900 by Wang Yuanlu, a Daoist priest who guarded the caves; it held tens of thousands of manuscripts in Chinese, Tibetan, Sanskrit, Sogdian, Khotanese and other languages, including a printed Diamond Sutra dated 868.
 - Aurel Stein in 1907, Paul Pelliot in 1908 and others obtained large numbers of these manuscripts, now held in London, Paris and elsewhere; the removals are described in China as theft and by the acquiring institutions as purchases.
 - UNESCO inscribed the Mogao Caves in 1987, and the Dunhuang Academy has conserved them since 1944.

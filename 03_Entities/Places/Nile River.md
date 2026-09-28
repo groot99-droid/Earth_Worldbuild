@@ -15,7 +15,7 @@ fact_checks: ["2026-09-27: The White Nile and Blue Nile meet at Khartoum, and th
 ---
 
 ## Summary
-The Nile River is a river of northeastern Africa about 6,650 kilometers long, flowing north to the Mediterranean, whose annual flood supported farming and the states of Egypt and Nubia from about the 6th millennium BCE.
+The Nile River is a river of northeastern Africa, commonly cited as about 6,650 kilometers long though estimates vary by measurement method, flowing north to the Mediterranean, whose annual flood supported farming and the states of Egypt and Nubia from about the 6th millennium BCE.
 
 ## Facts
 - The Nile flows north from the highlands of east and central Africa to the Mediterranean; its two main branches, the White Nile from the Lake Victoria region and the Blue Nile from Lake Tana in Ethiopia, meet at Khartoum, and the Ethiopian highlands supply most of the seasonal flood.

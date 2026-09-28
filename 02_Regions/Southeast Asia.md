@@ -57,11 +57,11 @@ The Observer treats Southeast Asia as the great intersection zone of the maritim
 - [[Malacca Sultanate]] (1400 CE)
 
 **Places**
-- [[Mekong River]] (2000 BCE)
+- [[Mekong River]] (210 BCE)
 - [[Borobudur]] (800 CE)
 - [[Angkor]] (802 CE)
 - [[Bagan]] (849 CE)
-- [[Ayutthaya]] (1350 CE)
+- [[Ayutthaya]] (1351 CE)
 
 **Species**
 - [[Homo floresiensis]] (100 ka)

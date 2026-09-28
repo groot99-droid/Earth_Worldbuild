@@ -19,11 +19,11 @@ fact_checks: ["2026-09-27: Yazdegerd III, the last Sasanian ruler (reigned 632 t
 Merv was a major oasis city on the Silk Roads in what is now Turkmenistan, a city of the Achaemenid Persians, a capital of the Abbasid caliph al-Ma'mun and of the Seljuk sultans, and sacked by the Mongols in 1221.
 
 ## Facts
-- Merv lies in the Murghab delta oasis near the modern city of Mary; Bronze Age towns of the region, such as Gonur Depe, date to about 2000 BCE, and the walled city of Erk Kala dates from the Achaemenid period, from about the 6th century BCE.
+- Merv lies in the Murghab delta oasis near the modern city of Mary; Bronze Age towns of the region, such as Gonur Depe, date to about 2000 BCE, and the walled city of Erk Kala dates from the Achaemenid period, from about the 7th century BCE.
 - Arab forces took Merv in 651, after the last Sasanian king, Yazdegerd III, was killed near it.
-- Abu Muslim launched the Abbasid Revolution from Merv in 747, and the caliph al-Ma'mun ruled from Merv from about 813 to 818 before moving to Baghdad.
+- Abu Muslim launched the Abbasid Revolution from Merv in 747 and declared the new Abbasid dynasty there in February 748; the caliph al-Ma'mun ruled from Merv from about 813 to 818 before moving to Baghdad.
 - Merv was a Seljuk capital, notably under Sultan Sanjar (reigned 1118 to 1157), whose mausoleum survives, and some estimates suggest it was among the largest cities in the world in the 12th century.
-- The geographer Yaqut, who visited in 1219, described its libraries.
+- The geographer Yaqut, who studied in Merv's libraries in the early 13th century, described them.
 - The Mongol army took Merv in 1221; Persian chronicles report hundreds of thousands to over a million killed, figures that modern historians regard as greatly exaggerated but that reflect a severe massacre and destruction.
 - Merv was rebuilt on a smaller scale in the 15th century and was finally abandoned in the late 18th century.
 - UNESCO inscribed Ancient Merv in 1999.

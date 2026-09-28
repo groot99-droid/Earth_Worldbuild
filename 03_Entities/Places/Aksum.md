@@ -19,7 +19,7 @@ Aksum is a town in the Tigray region of northern Ethiopia that was the capital o
 
 ## Facts
 - Aksum lies in the highlands of northern Ethiopia, and the Periplus of the Erythraean Sea, a Greek trade guide of about the 1st century CE, mentions Aksum and its port Adulis on the Red Sea.
-- Aksumite rulers minted gold, silver and bronze coins from about the late 3rd century CE, and King Ezana adopted Christianity around 330 CE; coins struck afterward bear the cross.
+- Aksumite rulers minted gold, silver and bronze coins from about the late 3rd century CE, and King Ezana adopted Christianity at a date placed variously between about 325 and 340 CE; coins struck afterward bear the cross.
 - Ezana's inscriptions were written in Ge'ez, Sabaean and Greek.
 - Aksum's monolithic stelae mark burial sites; the largest, about 33 meters high, fell and broke, and a 24-meter stele taken to Rome by Italian forces in 1937 was returned in 2005 and re-erected in 2008.
 - Ethiopian Christian tradition holds that the Church of Our Lady Mary of Zion at Aksum houses the Ark of the Covenant; the claim cannot be examined.

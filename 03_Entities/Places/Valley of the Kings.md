@@ -22,7 +22,7 @@ The Valley of the Kings is a valley on the west bank of the Nile opposite Thebes
 - The Valley of the Kings served for royal burials of the 18th to 20th Dynasties, from about 1500 BCE until about 1070 BCE, and holds more than 60 tombs cut into limestone hills.
 - The rulers chose hidden rock-cut tombs in place of the pyramids of earlier periods, such as those at Giza.
 - Most tombs were robbed in antiquity; records of trials of tomb robbers survive from the 20th Dynasty, and priests later moved royal mummies to hidden caches.
-- The workmen's village of Deir el-Medina yielded ration accounts and an account of a strike over unpaid rations in about 1157 BCE, often described as one of the earliest recorded labor strikes.
+- The workmen's village of Deir el-Medina yielded ration accounts and an account of a strike over unpaid rations, traditionally placed around the 25th year of Ramesses III (about 1170 BCE) though the precise year is not firmly fixed, often described as one of the earliest recorded labor strikes.
 - Howard Carter found the tomb of Tutankhamun (KV62) in November 1922, largely intact and holding thousands of objects.
 - UNESCO inscribed Ancient Thebes with its Necropolis, including the Valley of the Kings, in 1979.
 

@@ -1,10 +1,10 @@
 ---
 title: "Mekong River"
 type: place
-era: "[[Bronze Age]]"
+era: "[[Classical Antiquity]]"
 region: "[[Southeast Asia]]"
 themes: [earth-systems, trade, technology]
-date_start: -2000
+date_start: -210
 date_precision: approx
 related: ["[[Khmer Empire]]", "[[Angkor]]", "[[Cold War]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
@@ -15,18 +15,18 @@ fact_checks: ["2026-09-27: The Mekong is a transboundary river with an estimated
 ---
 
 ## Summary
-The Mekong River is a river of Asia about 4,350 kilometers long, rising on the Tibetan Plateau and flowing through China, Myanmar, Laos, Thailand, Cambodia and Vietnam, whose annual flood supports rice farming and one of the world's largest inland fisheries.
+The Mekong River is a river of Asia with an estimated length of about 4,900 kilometers, rising on the Tibetan Plateau and flowing through China, Myanmar, Laos, Thailand, Cambodia and Vietnam, whose annual flood supports rice farming and one of the world's largest inland fisheries.
 
 ## Facts
 - The Mekong rises on the Tibetan Plateau and flows through China, along the borders of Myanmar, Laos and Thailand, and through Cambodia and Vietnam into the South China Sea, where it forms a large delta.
-- Rice-farming and fishing communities lived along the middle and lower Mekong from about the 3rd to 2nd millennia BCE, and the early port of Oc Eo in the delta, part of the state called Funan, traded from about the 1st century CE.
+- Settlement along the Mekong is documented from at least 210 BCE, and the early port of Oc Eo in the delta, part of the state called Funan, traded from about the 1st century CE; the region's much earlier prehistory is not well fixed by the sources consulted here.
 - The Tonlé Sap, a lake in Cambodia joined to the Mekong, changes its direction of flow with the season: floodwater flows into it in the wet season and back out in the dry season, supporting a major fishery.
 - The lower basin has about 60 million people, and the river is among the world's most productive inland fisheries.
 - A French exploration commission in 1866 to 1868 found that rapids made the Mekong unnavigable as a route to China, and the Mekong Delta was a major area of fighting in the Vietnam War.
 - China has built a cascade of dams on the upper Mekong since the 1990s, and Laos began operating the Xayaburi dam on the lower river in 2019; the Mekong River Commission, formed in 1995, coordinates the lower-basin countries, and the effects of the dams on fish, sediment and flood timing are debated.
 
 ## Context & Connections
-The Mekong River was the corridor of the [[Khmer Empire]] and its capital [[Angkor]], and its delta was a theater of the [[Cold War]]. It sits in the [[Bronze Age]] (its early farming communities) and the region [[Southeast Asia]], and belongs to the theme threads of [[Earth Systems and Life]], [[Trade and Economy]] and [[Technology]].
+The Mekong River was the corridor of the [[Khmer Empire]] and its capital [[Angkor]], and its delta was a theater of the [[Cold War]]. It sits in [[Classical Antiquity]] (its earliest documented settlement) and the region [[Southeast Asia]], and belongs to the theme threads of [[Earth Systems and Life]], [[Trade and Economy]] and [[Technology]].
 
 ## Observer's Reading
 The Observer notes that the Mekong is a river whose annual pulse feeds fish and rice for tens of millions, and that dams upstream change that pulse for people downstream, a relation in which those who control the flow can alter conditions for others across claim-lines that the river itself ignores. The reversing flow of the Tonlé Sap shows a natural rhythm that a whole society organized its seasons around. The reading would weaken if measurements show that the dams' net effect on downstream fish and sediment is smaller than the models suggest.
