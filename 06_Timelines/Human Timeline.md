@@ -175,6 +175,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 550 BCE to 486 BCE | [[Darius I]] | person | [[Iron Age]] |
 | 550 BCE | [[Laozi]] | person | [[Iron Age]] |
 | 550 BCE | [[Pasargadae]] | place | [[Iron Age]] |
+| 544 BCE to 320 CE | [[Magadha]] | culture | [[Iron Age]] |
 | 544 BCE to 496 BCE | [[Sun Tzu]] | person | [[Iron Age]] |
 | 539 BCE | [[Cyrus Cylinder]] | technology | [[Iron Age]] |
 | 530 BCE | [[Tomyris]] | person | [[Iron Age]] |
@@ -204,7 +205,9 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 305 BCE to 30 BCE | [[Ptolemaic Kingdom]] | culture | [[Classical Antiquity]] |
 | 304 BCE to 232 BCE | [[Ashoka]] | person | [[Classical Antiquity]] |
 | 300 BCE | [[Crucible Steel]] | technology | [[Classical Antiquity]] |
+| 300 BCE to 1200 CE | [[Gandhara]] | culture | [[Iron Age]] |
 | 300 BCE | [[Shinto]] | culture | [[Iron Age]] |
+| 300 BCE to 250 CE | [[Yayoi Culture]] | culture | [[Iron Age]] |
 | 285 BCE | [[Library of Alexandria]] | place | [[Classical Antiquity]] |
 | 259 BCE to 210 BCE | [[Qin Shi Huang]] | person | [[Classical Antiquity]] |
 | 250 BCE | [[Dead Sea Scrolls]] | technology | [[Classical Antiquity]] |
@@ -253,6 +256,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 248 CE | [[Ba Trieu]] | person | [[Classical Antiquity]] |
 | 250 CE to 987 CE | [[Franks]] | culture | [[Medieval Period]] |
 | 250 CE to 900 CE | [[Maya]] | culture | [[Medieval Period]] |
+| 250 CE to 710 CE | [[Yamato Court]] | culture | [[Iron Age]] |
 | 300 CE | [[Sogdians]] | culture | [[Classical Antiquity]] |
 | 300 CE | [[Zero and Place-Value Notation]] | technology | [[Classical Antiquity]] |
 | 302 CE | [[Stirrup]] | technology | [[Classical Antiquity]] |
@@ -405,6 +409,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1328 CE to 1350 CE | [[Gitarja]] | person | [[Medieval Period]] |
 | 1332 CE to 1406 CE | [[Ibn Khaldun]] | person | [[Medieval Period]] |
 | 1336 CE to 1405 CE | [[Timur]] | person | [[Medieval Period]] |
+| 1336 CE to 1565 CE | [[Vijayanagara Empire]] | culture | [[Medieval Period]] |
 | 1340 CE | [[Double-Entry Bookkeeping]] | technology | [[Medieval Period]] |
 | 1346 CE to 1353 CE | [[Black Death]] | event | [[Medieval Period]] |
 | 1351 CE to 1767 CE | [[Ayutthaya]] | place | [[Medieval Period]] |
@@ -513,6 +518,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1658 CE to 1996 CE | [[Robben Island]] | place | [[Early Modern Period]] |
 | 1670 CE to 1902 CE | [[Asante Empire]] | culture | [[Early Modern Period]] |
 | 1672 CE to 1725 CE | [[Peter the Great]] | person | [[Early Modern Period]] |
+| 1674 CE to 1818 CE | [[Maratha Empire]] | culture | [[Early Modern Period]] |
 | 1676 CE to 1759 CE | [[Jeong Seon]] | person | [[Early Modern Period]] |
 | 1681 CE to 1741 CE | [[Vitus Bering]] | person | [[Early Modern Period]] |
 | 1700 CE to 1789 CE | [[Enlightenment]] | event | [[Early Modern Period]] |
@@ -543,6 +549,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1795 CE to 1893 CE | [[Hawaiian Kingdom]] | culture | [[Industrial Age]] |
 | 1796 CE | [[Vaccination]] | technology | [[Early Modern Period]] |
 | 1797 CE to 1858 CE | [[Utagawa Hiroshige]] | person | [[Industrial Age]] |
+| 1799 CE to 1849 CE | [[Sikh Empire]] | culture | [[Early Modern Period]] |
 | 1800 CE | [[Battery]] | technology | [[Industrial Age]] |
 | 1803 CE to 1815 CE | [[Napoleonic Wars]] | event | [[Industrial Age]] |
 | 1804 CE to 1903 CE | [[Sokoto Caliphate]] | culture | [[Industrial Age]] |
@@ -613,6 +620,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1867 CE to 1959 CE | [[Frank Lloyd Wright]] | person | [[Industrial Age]] |
 | 1867 CE to 1934 CE | [[Marie Curie]] | person | [[Industrial Age]] |
 | 1868 CE to 1928 CE | [[Charles Rennie Mackintosh]] | person | [[Industrial Age]] |
+| 1869 CE | [[Ainu]] | culture | [[Industrial Age]] |
 | 1869 CE to 1948 CE | [[Mahatma Gandhi]] | person | [[Industrial Age]] |
 | 1873 CE to 1968 CE | [[Alice Guy-Blaché]] | person | [[Industrial Age]] |
 | 1876 CE | [[Telephone]] | technology | [[Industrial Age]] |

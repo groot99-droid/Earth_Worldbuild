@@ -157,6 +157,7 @@ The Observer prefers a global reading of this era. It sees a species increasingl
 - [[Ottoman Empire]] (1299 CE)
 - [[Nenets]] (1300 CE)
 - [[Yakut (Sakha)]] (1300 CE)
+- [[Vijayanagara Empire]] (1336 CE)
 - [[Ming Dynasty]] (1368 CE)
 - [[Timurid Empire]] (1370 CE)
 - [[Joseon Dynasty]] (1392 CE)

@@ -212,7 +212,9 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 - [[Zhou Dynasty]] (1046 BCE)
 - [[Confucianism]] (551 BCE)
 - [[Sarmatians]] (400 BCE)
+- [[Yayoi Culture]] (300 BCE)
 - [[Xiongnu]] (209 BCE)
+- [[Yamato Court]] (250 CE)
 - [[Huns]] (370 CE)
 - [[Marajoara Culture]] (400 CE)
 - [[Anglo-Saxons]] (450 CE)
@@ -239,6 +241,7 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 - [[Lakota]] (1760 CE)
 - [[Hawaiian Kingdom]] (1795 CE)
 - [[Zulu Kingdom]] (1816 CE)
+- [[Ainu]] (1869 CE)
 - [[Soviet Union]] (1922 CE)
 - [[Yanomami]] (1940 CE)
 

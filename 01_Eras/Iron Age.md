@@ -70,13 +70,17 @@ The Observer sees the Iron Age as a democratization of tools and, therefore, of 
 - [[Jainism]] (599 BCE)
 - [[Confucianism]] (551 BCE)
 - [[Achaemenid Persians]] (550 BCE)
+- [[Magadha]] (544 BCE)
 - [[Buddhism]] (500 BCE)
 - [[Sarmatians]] (400 BCE)
+- [[Gandhara]] (300 BCE)
 - [[Shinto]] (300 BCE)
+- [[Yayoi Culture]] (300 BCE)
 - [[Parthian Empire]] (247 BCE)
 - [[Yuezhi]] (200 BCE)
 - [[Silla]] (57 BCE)
 - [[Goguryeo]] (37 BCE)
+- [[Yamato Court]] (250 CE)
 
 **Places**
 - [[Tikal]] (1000 BCE)

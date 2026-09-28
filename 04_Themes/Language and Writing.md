@@ -155,6 +155,7 @@ The Observer calls these the sound-code and the mark-code. It notes that languag
 - [[Joseon Dynasty]] (1392 CE)
 - [[Cherokee]] (1540 CE)
 - [[Garifuna]] (1635 CE)
+- [[Ainu]] (1869 CE)
 
 **Places**
 - [[Knossos]] (7000 BCE)

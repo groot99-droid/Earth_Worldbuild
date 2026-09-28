@@ -73,9 +73,11 @@ The Observer notes a distinctive continuity: a written language and administrati
 - [[Daoism]] (600 BCE)
 - [[Confucianism]] (551 BCE)
 - [[Shinto]] (300 BCE)
+- [[Yayoi Culture]] (300 BCE)
 - [[Han Dynasty]] (206 BCE)
 - [[Silla]] (57 BCE)
 - [[Goguryeo]] (37 BCE)
+- [[Yamato Court]] (250 CE)
 - [[Sui Dynasty]] (581 CE)
 - [[Tang Dynasty]] (618 CE)
 - [[Song Dynasty]] (960 CE)
@@ -84,6 +86,7 @@ The Observer notes a distinctive continuity: a written language and administrati
 - [[Joseon Dynasty]] (1392 CE)
 - [[Tokugawa Shogunate]] (1603 CE)
 - [[Qing Dynasty]] (1644 CE)
+- [[Ainu]] (1869 CE)
 
 **Places**
 - [[Yellow River]] (6000 BCE)

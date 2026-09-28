@@ -160,6 +160,7 @@ The Observer calls this the tool-lineage: an inheritance in which each tool make
 - [[Polynesians]] (1300 BCE)
 - [[Kingdom of Kush]] (1070 BCE)
 - [[Nok Culture]] (900 BCE)
+- [[Yayoi Culture]] (300 BCE)
 - [[Han Dynasty]] (206 BCE)
 - [[Funan]] (100 CE)
 - [[Casarabe Culture]] (500 CE)

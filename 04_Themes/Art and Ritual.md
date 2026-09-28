@@ -176,6 +176,7 @@ The Observer treats art and ritual as behavior with no obvious direct survival f
 - [[Ancient Greeks]] (800 BCE)
 - [[Etruscans]] (800 BCE)
 - [[Nabataeans]] (312 BCE)
+- [[Gandhara]] (300 BCE)
 - [[Goguryeo]] (37 BCE)
 - [[Kushan Empire]] (30 CE)
 - [[Moche Culture]] (100 CE)

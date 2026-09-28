@@ -104,6 +104,8 @@ The Observer notes that for the first time, every inhabited continent was in con
 - [[Qing Dynasty]] (1644 CE)
 - [[Maroon Communities]] (1650 CE)
 - [[Asante Empire]] (1670 CE)
+- [[Maratha Empire]] (1674 CE)
+- [[Sikh Empire]] (1799 CE)
 
 **Places**
 - [[Elmina Castle]] (1482 CE)
