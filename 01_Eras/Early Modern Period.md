@@ -98,6 +98,7 @@ The Observer notes that for the first time, every inhabited continent was in con
 - [[Safavid Empire]] (1501 CE)
 - [[Mughal Empire]] (1526 CE)
 - [[Mapuche]] (1546 CE)
+- [[Polish-Lithuanian Commonwealth]] (1569 CE)
 - [[Dutch Republic]] (1581 CE)
 - [[Tokugawa Shogunate]] (1603 CE)
 - [[Garifuna]] (1635 CE)
@@ -105,6 +106,8 @@ The Observer notes that for the first time, every inhabited continent was in con
 - [[Maroon Communities]] (1650 CE)
 - [[Asante Empire]] (1670 CE)
 - [[Maratha Empire]] (1674 CE)
+- [[Comanche]] (1700 CE)
+- [[Sami]] (1700 CE)
 - [[Sikh Empire]] (1799 CE)
 
 **Places**

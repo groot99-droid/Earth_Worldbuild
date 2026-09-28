@@ -80,6 +80,7 @@ The Observer notes a distinctive continuity: a written language and administrati
 - [[Yamato Court]] (250 CE)
 - [[Sui Dynasty]] (581 CE)
 - [[Tang Dynasty]] (618 CE)
+- [[Tibetan Empire]] (618 CE)
 - [[Song Dynasty]] (960 CE)
 - [[Yuan Dynasty]] (1271 CE)
 - [[Ming Dynasty]] (1368 CE)

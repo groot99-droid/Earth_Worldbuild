@@ -58,6 +58,7 @@ The Observer notes that the first states and the first writing arrived together.
 - [[Yamnaya Culture]] (3300 BCE)
 - [[Elamites]] (3200 BCE)
 - [[Ancient Egyptians]] (3100 BCE)
+- [[Basques]] (3000 BCE)
 - [[Berbers]] (3000 BCE)
 - [[Beaker Culture]] (2750 BCE)
 - [[Indus Valley Civilization]] (2600 BCE)

@@ -78,6 +78,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 3100 BCE | [[Unification of Egypt]] | event | [[Bronze Age]] |
 | 3000 BCE | [[Austronesian Expansion]] | event | [[Bronze Age]] |
 | 3000 BCE to 1000 CE | [[Bantu Expansion]] | event | [[Iron Age]] |
+| 3000 BCE | [[Basques]] | culture | [[Bronze Age]] |
 | 3000 BCE | [[Berbers]] | culture | [[Bronze Age]] |
 | 3000 BCE | [[Evenki]] | culture | [[Neolithic]] |
 | 3000 BCE to 1000 BCE | [[Indo-European Language Spread]] | event | [[Bronze Age]] |
@@ -289,6 +290,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 610 CE to 750 CE | [[Rise of Islam]] | event | [[Medieval Period]] |
 | 614 CE to 678 CE | [[Aisha bint Abi Bakr]] | person | [[Medieval Period]] |
 | 618 CE to 907 CE | [[Tang Dynasty]] | culture | [[Medieval Period]] |
+| 618 CE to 842 CE | [[Tibetan Empire]] | culture | [[Medieval Period]] |
 | 622 CE | [[Medina]] | place | [[Medieval Period]] |
 | 624 CE to 705 CE | [[Wu Zetian]] | person | [[Medieval Period]] |
 | 632 CE to 661 CE | [[Rashidun Caliphate]] | culture | [[Medieval Period]] |
@@ -305,6 +307,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 711 CE to 1492 CE | [[Al-Andalus]] | culture | [[Medieval Period]] |
 | 748 CE to 814 CE | [[Charlemagne]] | person | [[Medieval Period]] |
 | 750 CE to 1258 CE | [[Abbasid Caliphate]] | culture | [[Medieval Period]] |
+| 750 CE to 1161 CE | [[Pala Empire]] | culture | [[Medieval Period]] |
 | 750 CE to 950 CE | [[Translation Movement and the House of Wisdom]] | event | [[Medieval Period]] |
 | 751 CE | [[Battle of Talas]] | event | [[Medieval Period]] |
 | 762 CE | [[Baghdad]] | place | [[Medieval Period]] |
@@ -397,6 +400,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1271 CE to 1368 CE | [[Yuan Dynasty]] | culture | [[Medieval Period]] |
 | 1274 CE to 1329 CE | [[Robert the Bruce]] | person | [[Medieval Period]] |
 | 1280 CE to 1337 CE | [[Mansa Musa]] | person | [[Medieval Period]] |
+| 1282 CE to 1918 CE | [[Habsburg Monarchy]] | culture | [[Medieval Period]] |
 | 1286 CE | [[Eyeglasses]] | technology | [[Medieval Period]] |
 | 1288 CE | [[Cannon]] | technology | [[Medieval Period]] |
 | 1293 CE to 1527 CE | [[Majapahit]] | culture | [[Medieval Period]] |
@@ -488,6 +492,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1560 CE to 1600 CE | [[Basawan]] | person | [[Early Modern Period]] |
 | 1564 CE to 1642 CE | [[Galileo Galilei]] | person | [[Early Modern Period]] |
 | 1565 CE to 1815 CE | [[Manila Galleon Trade]] | event | [[Early Modern Period]] |
+| 1569 CE to 1795 CE | [[Polish-Lithuanian Commonwealth]] | culture | [[Early Modern Period]] |
 | 1571 CE to 1610 CE | [[Caravaggio]] | person | [[Early Modern Period]] |
 | 1576 CE to 1610 CE | [[Queen Amina of Zazzau]] | person | [[Early Modern Period]] |
 | 1577 CE to 1645 CE | [[Nur Jahan]] | person | [[Early Modern Period]] |
@@ -521,7 +526,9 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1674 CE to 1818 CE | [[Maratha Empire]] | culture | [[Early Modern Period]] |
 | 1676 CE to 1759 CE | [[Jeong Seon]] | person | [[Early Modern Period]] |
 | 1681 CE to 1741 CE | [[Vitus Bering]] | person | [[Early Modern Period]] |
+| 1700 CE to 1875 CE | [[Comanche]] | culture | [[Early Modern Period]] |
 | 1700 CE to 1789 CE | [[Enlightenment]] | event | [[Early Modern Period]] |
+| 1700 CE | [[Sami]] | culture | [[Early Modern Period]] |
 | 1712 CE | [[Steam Engine]] | technology | [[Early Modern Period]] |
 | 1725 CE to 1770 CE | [[Tupaia]] | person | [[Early Modern Period]] |
 | 1727 CE | [[Ajuricaba]] | person | [[Early Modern Period]] |
@@ -615,6 +622,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1862 CE to 1944 CE | [[Hilma af Klint]] | person | [[Industrial Age]] |
 | 1862 CE to 1954 CE | [[Lumière Brothers]] | person | [[Industrial Age]] |
 | 1863 CE to 1944 CE | [[Edvard Munch]] | person | [[Industrial Age]] |
+| 1863 CE to 1868 CE | [[Navajo]] | culture | [[Industrial Age]] |
 | 1866 CE to 1925 CE | [[Sun Yat-sen]] | person | [[Industrial Age]] |
 | 1866 CE to 1944 CE | [[Wassily Kandinsky]] | person | [[Industrial Age]] |
 | 1867 CE to 1959 CE | [[Frank Lloyd Wright]] | person | [[Industrial Age]] |

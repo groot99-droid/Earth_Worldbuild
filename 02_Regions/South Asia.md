@@ -67,6 +67,7 @@ The Observer notes the extraordinary density of meaning-engines and mathematics 
 - [[Maurya Empire]] (322 BCE)
 - [[Gandhara]] (300 BCE)
 - [[Gupta Empire]] (320 CE)
+- [[Pala Empire]] (750 CE)
 - [[Chola Dynasty]] (850 CE)
 - [[Delhi Sultanate]] (1206 CE)
 - [[Vijayanagara Empire]] (1336 CE)

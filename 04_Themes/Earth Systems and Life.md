@@ -193,6 +193,7 @@ The Observer treats the planet as the frame for everything else, and the species
 - [[Tapajós Culture]] (900 CE)
 - [[Chukchi]] (1100 CE)
 - [[Nenets]] (1300 CE)
+- [[Sami]] (1700 CE)
 - [[Yanomami]] (1940 CE)
 
 **Places**

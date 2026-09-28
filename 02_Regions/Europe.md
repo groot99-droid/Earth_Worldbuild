@@ -113,6 +113,7 @@ The Observer cautions against a common habit: a small peninsula's history is oft
 
 **Peoples and cultures**
 - [[Yamnaya Culture]] (3300 BCE)
+- [[Basques]] (3000 BCE)
 - [[Beaker Culture]] (2750 BCE)
 - [[Celts]] (800 BCE)
 - [[Etruscans]] (800 BCE)
@@ -124,7 +125,10 @@ The Observer cautions against a common habit: a small peninsula's history is oft
 - [[Kievan Rus]] (882 CE)
 - [[Normans]] (911 CE)
 - [[Holy Roman Empire]] (962 CE)
+- [[Habsburg Monarchy]] (1282 CE)
+- [[Polish-Lithuanian Commonwealth]] (1569 CE)
 - [[Dutch Republic]] (1581 CE)
+- [[Sami]] (1700 CE)
 - [[Soviet Union]] (1922 CE)
 
 **Places**

@@ -187,6 +187,7 @@ The Observer treats art and ritual as behavior with no obvious direct survival f
 - [[Tang Dynasty]] (618 CE)
 - [[Ancestral Puebloans]] (700 CE)
 - [[Al-Andalus]] (711 CE)
+- [[Pala Empire]] (750 CE)
 - [[Igbo-Ukwu Culture]] (800 CE)
 - [[Khmer Empire]] (802 CE)
 - [[Chola Dynasty]] (850 CE)

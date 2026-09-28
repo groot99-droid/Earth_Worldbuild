@@ -57,7 +57,9 @@ The Observer notes a wide range of political forms that did not resemble the sta
 - [[Mississippian Culture]] (1000 CE)
 - [[Haudenosaunee Confederacy]] (1450 CE)
 - [[Cherokee]] (1540 CE)
+- [[Comanche]] (1700 CE)
 - [[Lakota]] (1760 CE)
+- [[Navajo]] (1863 CE)
 
 **Places**
 - [[Poverty Point]] (1700 BCE)
