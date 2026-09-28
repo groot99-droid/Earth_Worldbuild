@@ -31405,5 +31405,1031 @@
   },
   "date": "2026-09-28",
   "batch": "site-074.part6"
+ },
+ "source/wikipedia-on-merv": {
+  "src": "7fe19361f522",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the Sasanian end and the Arab conquest, al-Ma'mun's residence at Merv from 813 to 818, Sultan Sanjar's reign and mausoleum, the 12th-century size estimate, the Mongol sack of 1221 with its chronicle death tolls, and the Abu Muslim declaration at Merv in February 748.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a general encyclopedia article read through a fetch tool that returned extracted passages; it gives Erk Kala as 7th century BC, does not give 1219 for Yaqut, and neither describes the 1221 death tolls as exaggerated nor mentions a 15th-century rebuilding."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part5"
+ },
+ "source/wikipedia-on-ming-great-wall": {
+  "src": "218a7d6e06cd",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the 1449 Tumu capture of the Zhengtong Emperor and the wall-building that followed, the Ming length of 8,850 km, and the brick and stone construction.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It was read through a fetch tool's extraction rather than raw page text, and it gives no numeric casualty figures."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part5"
+ },
+ "source/wikipedia-on-moctezuma-ii": {
+  "src": "70f0a00d94fe",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs his dates and his status as ninth ruler, the meeting with Cortes on 8 November 1519, his captivity, the conflicting accounts of his death, and the succession by Cuitlahuac and Cuauhtemoc.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a tertiary encyclopedia article whose infobox and lead give different birth years, c. 1471 against c. 1466, and which leaves the manner of his death unresolved."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part5"
+ },
+ "source/wikipedia-on-mogao-caves": {
+  "src": "585f53f68b40",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the 366 CE tradition of Le Zun (Yuezun), the discovery of the Library Cave on 25 June 1900 and its early-11th-century sealing, the Stein acquisition of 1907 and the Pelliot acquisition of 1908, the UNESCO listing of 1987, and the founding of the Dunhuang Academy in 1944.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a general encyclopedia article; it opens with 500 temples, gives the mural area as about 46,000 square metres, dates Tibetan rule as 787-848 and Western Xia's invasion as 1035, and its figures differ slightly from those in the note and in the Dunhuang article."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part5"
+ },
+ "source/wikipedia-on-mongol-invasions-of-japan": {
+  "src": "ccde91cc4b7d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the invasion dates of 1274 and 1281, the typhoon of August 15, 1281, the Japanese raids that came before the storm, the 1276 wall at Hakata Bay, and Tokimune's executions of envoys in 1275 and 1279.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It was read through a WebFetch text extraction, which summarises the article, and it describes the 1274 event as a reverse wind from the east rather than as a typhoon."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part5"
+ },
+ "source/wikipedia-on-nabataeans": {
+  "src": "5c2f07634508",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the first mention of the Nabataeans in 312/311 BC, when they were attacked at Sela or perhaps at Petra, and the Roman conversion of the kingdom into the province of Arabia Petraea.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a tertiary encyclopedia text that is internally inconsistent on the annexation year, giving both 105 and 106 AD."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part5"
+ },
+ "source/wikipedia-on-history-of-bukhara": {
+  "src": "e97eb733e80f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the walled Sogdian settlements by 500 BCE, Bukhara's becoming the Samanid capital in 892, the fifteen-day Mongol siege of 1220, and the Manghit emirate from 1785 to 1920.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary article that differs from the main Bukhara article on when Bukhara became the Samanid capital — 892 here, versus by 850 there."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part7"
+ },
+ "source/wikipedia-on-history-of-jerusalem": {
+  "src": "d3c56dd9217e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the 516 BCE Second Temple, the 70 CE destruction, Bar Kokhba and Aelia Capitolina, the 1099 massacre, the 1187 Saladin recapture, and the 1517 Ottoman conquest.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary source: it dates the Bar Kokhba revolt 132 to 136 CE and the Muslim conquest to 638 CE, and archaeologists are divided over the biblical account of Solomon."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part7"
+ },
+ "source/wikipedia-on-history-of-london": {
+  "src": "6b3175ac41ea",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the AD 47 founding of Londinium, the Boudica destruction around AD 60, and the end of Roman rule in 410.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article: it notes that some sources call Londinium the capital of Roman Britain, but that no surviving evidence proves it."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part7"
+ },
+ "source/wikipedia-on-history-of-new-zealand": {
+  "src": "30809eb67dd4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the archaeological dating of Polynesian settlement — nothing confidently earlier than the Kaharoa Tephra c. 1314 CE, mtDNA 1250-1300 — and the relegation of the Kupe-and-fleet synthesis to myth.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Wikipedia is a tertiary source, and this article's early-synthesis date for Kupe — 750 CE — differs from the 925 CE given in the Kupe article."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part7"
+ },
+ "source/wikipedia-on-history-of-paris": {
+  "src": "a143e429e33c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the Parisii settlement date and the disputed fort location, the Roman conquest of 52 BC, Clovis in 508, the 1328 population and the 1348 plague toll, and the Vel' d'Hiv and Liberation dates.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article: it gives the University of Paris date as both the mid-12th and the mid-13th century, and cites nearly 7,000 Commune dead against the 10,000 to 15,000 given in the Paris Commune article."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part7"
+ },
+ "source/wikipedia-on-ho-chi-minh": {
+  "src": "5927c02f4124",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the birth details, the names, the 1930 party merger, the 1941 return, the 1945 declaration, the 1954 partition, the land reform figures and apology, and his death and the renaming of Saigon.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article read through a fetch tool that returned extracted summaries rather than raw page text: it dates the presidency to 6 January 1946 and does not itself confirm the declaration's opening quotations."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part7"
+ },
+ "source/wikipedia-on-nalanda": {
+  "src": "24d23c225c45",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs his study under Silabhadra at Nalanda and the 657 Sanskrit texts he brought back to China.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a tertiary encyclopedia article read through a summarising fetch tool; it gives 74 personally translated texts, where the Xuanzang article gives 75."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part6"
+ },
+ "source/wikipedia-on-nara-period": {
+  "src": "1a2b665257d3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the founding of Heijō-kyō in 710 under Empress Genmei, the Chang'an model, the chronicles of 712 and 720, the Buddha dates of 743 and 752, and the capital moves of 784 and 794 with their reasons.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a general encyclopedia article read through a WebFetch extraction rather than as raw page text, and the causes it gives for leaving Nara are summarized rather than argued."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part6"
+ },
+ "source/wikipedia-on-nara-nara": {
+  "src": "626efa3db6c5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs Nara's seat as Japan's first permanent capital from 710 to 784, the Chang'an-modeled grid, its location in Kansai, and the UNESCO listing of December 1998.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a city-level overview article read through a WebFetch extraction; it says little on the epidemic or on the reasons for leaving in 784."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part6"
+ },
+ "source/wikipedia-on-naranjo-guatemala": {
+  "src": "27812ef72889",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page corroborates that she was sent to Naranjo in 682, that her son acceded in 693 at age five with her possibly acting as regent, and that she died in 741.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a general-purpose encyclopedia article whose dating of the Caracol attack, 626, and of Calakmul's retaking, 631, differs from the framing in the Lady Six Sky article."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part6"
+ },
+ "source/wikipedia-on-natakamani": {
+  "src": "624895a98b00",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs Natakamani ruling as co-regent with his mother Amanitore, and the pylon relief at the Apademak Temple in Naqa that shows the pair smiting enemies.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a short general article that dates the reign only to the middle of the 1st century and does not describe the captives as bound."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part6"
+ },
+ "source/wikipedia-on-new-julfa": {
+  "src": "c5d0868bd0e1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the establishment of New Julfa in 1606 as an Armenian quarter of Isfahan by the mandate of Abbas the Great, for Armenians forcibly moved from Julfa.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It gives no dates for the 1604-1605 deportation and no death toll on the march, and its figure of over 150,000 people moved differs from the Isfahan article."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part6"
+ },
+ "source/wikipedia-on-house-of-slaves": {
+  "src": "e6f581952b60",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the House of Slaves being built by Nicolas Pépin around 1776, and the dispute over how many enslaved Africans passed through the Door of No Return.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Its construction date of c. 1776 conflicts with the 1780-1784 date in the Wikipedia Gorée article, so the date should be hedged."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part8"
+ },
+ "source/wikipedia-on-hojo-tokimune": {
+  "src": "ab525d3452fa",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs his birth and death dates, his accession as eighth shikken on April 18, 1268, his rejection of Mongol demands, and the envoy executions of 1275 and 1279.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read through a WebFetch text extraction rather than the raw page: the article gives his accession age as 18, an East Asian style count that would be 16 by Western reckoning from a June 1251 birth."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part8"
+ },
+ "source/wikipedia-on-indira-gandhi": {
+  "src": "50507588a9f9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs her birth date and parentage, her two terms as prime minister, and the date and manner of her assassination.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A crowd-edited encyclopedia article read through a fetch-tool extraction, so its figures were taken as extracted and not checked against the primary literature it cites."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part8"
+ },
+ "source/wikipedia-on-indus-valley-civilisation": {
+  "src": "fb470386caca",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the Mature Harappan dates of about 2600 to 1900 BCE, the standardized weights and 4:2:1 bricks, the seals with an undeciphered script found in Mesopotamian contexts, and the proposed climate and river explanations for the decline.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article: its population and decline explanations are estimates and hypotheses that the article itself treats as debated."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part8"
+ },
+ "source/wikipedia-on-iraq-museum": {
+  "src": "f0eeb34e4597",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the figure of around 15,000 items looted from the museum in 2003, and the partial recovery.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Figures for the 2003 looting were disputed in early press reports, and the article gives the corrected estimate without a precise recovery count."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part8"
+ },
+ "source/wikipedia-on-isfahan": {
+  "src": "4e0712bea5b9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the mid-11th-century Seljuk capital, the 1387 Timur massacre with its reported toll of 70,000, and the 1598 Safavid move from Qazvin with the rebuilt Shah Square and Shah Mosque.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It gives no exact year for the Seljuk capital and no UNESCO inscription years, population estimates or 1722 death toll, and its Armenian resettlement figure — as many as 300,000 — is much larger than the one on the New Julfa page."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part8"
+ },
+ "source/wikipedia-on-newgrange": {
+  "src": "b6c4b2559c75",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the construction date, the monument's dimensions, the roofbox solstice alignment and its 17-minute duration, the debated quartz facade reconstruction, and the Roman-era offerings.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a tertiary source whose date of around 3100 BC is a little later than the 3200 BCE often quoted, and it gives no year for the facade reconstruction beyond the 1962-1975 excavation."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part7"
+ },
+ "source/wikipedia-on-nile": {
+  "src": "15d5e04de036",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the Khartoum confluence, the Blue Nile's 54 percent share of the annual flow, the eleven basin countries, and the current length figure of 7,088 km.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a general encyclopedia article read through a WebFetch extraction; its length figure of 7,088 km, measured in 2009 by satellite, differs from the older figure of 6,650 km, and the excerpt gave no detail on early agriculture, nilometers, or the 1959 agreement."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part7"
+ },
+ "source/wikipedia-on-operation-blue-star": {
+  "src": "0eab3d0a25be",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the June 1984 dates, the Golden Temple as the target, Gandhi's authorization, and the damage to the Akal Takht.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Casualty figures for the operation vary widely between government and independent estimates, and this page does not rely on them."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part7"
+ },
+ "source/wikipedia-on-orkhon-valley": {
+  "src": "62c0066631ce",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the 2004 UNESCO World Heritage inscription year for the Orkhon Valley Cultural Landscape and the inclusion of Kharkhorum (Karakorum) among its components.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Wikipedia is a tertiary source, and this article carries a one-source maintenance tag; the inscription year comes from its infobox rather than from UNESCO directly."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part7"
+ },
+ "source/wikipedia-on-ottomansafavid-war-15321555": {
+  "src": "832324b1e055",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the December 1534 capture of Baghdad under Ibrahim Pasha and the terms of the Peace of Amasya of 29 May 1555.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The extract read does not say whether Suleiman personally commanded the Baghdad operation, only that he joined Ibrahim Pasha after the fall of Tabriz."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part7"
+ },
+ "source/wikipedia-on-pagan-kingdom": {
+  "src": "e6d38f91d470",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs Anawrahta's reign from 1044 to 1077, the defeat at Ngasaunggyan in 1277, the collapse in 1287, and the framing of the tax-free religious wealth theory as one view among several.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a general encyclopedia article read through an AI-summarized WebFetch, so the exact wording was not checked against the raw page, and the land-grant debate was only loosely characterized."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part7"
+ },
+ "source/wikipedia-on-issyk-kul": {
+  "src": "e6ef439f35f0",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the lake's area, depth, altitude, salinity, its lack of an outlet and its rare freezing, and the 2022 report that the Black Death was present near the lake in 1338 or 1339.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read via WebFetch extraction: the article as read has no Saka or Iron Age material, gives the name as Hot Lake, and says the lake rarely freezes."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part9"
+ },
+ "source/wikipedia-on-jadwiga-of-poland": {
+  "src": "d5acff2b4f31",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs her birth window, her 1384 coronation as 'King', her 1386 marriage and Jagiello's baptism and coronation, the daughter's birth and death, her death date, and her canonization in 1997.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article read through a fetch summary rather than a raw page dump: it does not state she was the first woman to rule Poland."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part9"
+ },
+ "source/wikipedia-on-jagiellonian-university": {
+  "src": "b604f7bdf44c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the 1364 founding by Casimir III, and Jadwiga's donation of her jewellery in reviving the university before the 1400 reform.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article read through a fetch summary: it frames the revival as a joint effort with Jagiello, and does not describe her as sole funder."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part9"
+ },
+ "source/wikipedia-on-jerusalem": {
+  "src": "677ca54e316c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the 4th-millennium BCE settlement, the Amarna letters as possibly the earliest mention, and the Temple dates of 586 BCE and c. 516 BCE.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-audience tertiary summary: it hedges on the Egyptian Execration Texts and on the archaeology of the Davidic and Solomonic period."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part9"
+ },
+ "source/wikipedia-on-john-curtin": {
+  "src": "3767449aa0f3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs Curtin's birth and death dates, his Labor leadership and prime ministership dates, his anti-conscription and journalism background, the I Corps dispute with Churchill, the December 1941 America statement, and his death in office.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A crowd-edited tertiary source read through an AI-summarising fetch tool rather than as raw page text, so exact wording was not independently checked."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part9"
+ },
+ "source/wikipedia-on-john-iii-of-portugal": {
+  "src": "0cc62169f34b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs John III's birth and death dates, his accession in 1521, the 1536 Inquisition, the 1534 Brazilian captaincies, and the 1537 university move to Coimbra.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia article read only through a summarizing fetch, so its wording is paraphrased, and the note's claim about court factions urging the Inquisition was not confirmed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part9"
+ },
+ "source/wikipedia-on-kalyan-minaret": {
+  "src": "f8f5aefafc2c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the 1127 construction date, and the Karakhanid ruler Arslan Khan Muhammad as its initiator.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary article: the Genghis Khan sparing anecdote it repeats is a traditional story, and was not used as a check."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part10"
+ },
+ "source/wikipedia-on-kamehameha-i": {
+  "src": "47e87decdcec",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the birth-year range, the death date, the 1782 succession events, the 1795 Oʻahu invasion, and the 1810 Kauaʻi settlement.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article: it cites historians such as Kuykendall and Fornander for the disputed birth year rather than settling it."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part10"
+ },
+ "source/wikipedia-on-karakorum": {
+  "src": "ea109d0dca83",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the 1220 founding, the capital span of 1235 to 1260, Ogedei's 1235 palace decree, Rubruck's 1254 description, the Kublai-era decline, and the Ming damage dates of 1372, 1380 and 1388.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Wikipedia is a tertiary source and is internally inconsistent on the Ming destruction — 1372, 1380 and a passing 1388 — so the destruction date should be hedged."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part10"
+ },
+ "source/wikipedia-on-karnak": {
+  "src": "a8ca8b29cc47",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the start of construction under Senusret I and its continuation into the Ptolemaic period, the Great Hypostyle Hall's 134 columns in 16 rows, and the 1979 UNESCO listing.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read through a WebFetch extraction that did not surface the Hatshepsut erasure, Kadesh, Shoshenq I, Kushite or estate details, and its tallest-column figure of 21 m conflicts with the Great Hypostyle Hall article's 24 m."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part10"
+ },
+ "source/wikipedia-on-kashi-vishwanath-temple": {
+  "src": "99263b53bda4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs the destruction and rebuilding history of the Kashi Vishwanath temple, Aurangzeb's demolition in 1669, the Gyanvapi Mosque built on the site, and the present temple built in 1780 by Ahilyabai Holkar.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia article on a politically contested site: it notes scholarly debate over Aurangzeb's motives, and describes the Gyanvapi Mosque as disputed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part10"
+ },
+ "source/wikipedia-on-kate-sheppard": {
+  "src": "e6839f1576b5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry backs her birth and death dates and places, her arrival in New Zealand, the 1887 WCTU post, the petition signature counts, the 1893 assent and election dates, the 1919 limit on standing for Parliament, and the 1991 banknote portrait.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article read through a WebFetch summary rather than the raw page: it does not itself address Māori women's voting in 1893."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-074.part10"
+ },
+ "source/wikipedia-on-paraguayan-war": {
+  "src": "6485c3f1fba8",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the span from 1864 to 1870, the Triple Alliance belligerents, and the description of the war as the deadliest inter-state war in Latin American history.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Casualty figures for Paraguay are disputed within the article itself, and its infobox end date varies by reading, so only the year span is cited here."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part8"
+ },
+ "source/wikipedia-on-paris": {
+  "src": "44e8d4cf2a86",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the German entry into Paris on 14 June 1940, the arrest of 12,884 Jews on 16 to 17 July 1942 who were sent on to Auschwitz, and the 1991 UNESCO designation of the banks of the Seine.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a general overview article whose Vel' d'Hiv figures differ slightly from those in the History of Paris article: 4,115 children against 4,051."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part8"
+ },
+ "source/wikipedia-on-paris-commune": {
+  "src": "8fdf70ff634c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the dates of the Commune and the estimated 10,000 to 15,000 Communards killed or executed during Bloody Week, with an unconfirmed upper estimate of 20,000.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Death-toll estimates for the Commune are contested, and they vary between Wikipedia articles."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part8"
+ },
+ "source/wikipedia-on-pasargadae": {
+  "src": "e2724def2a35",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the 6th-century BCE founding by Cyrus near his 550 BCE victory over Astyages, the city's status as capital until Darius moved the capital to Persepolis, its location about 90 km northeast of Shiraz and about 40 km from Persepolis, and the 2004 UNESCO inscription.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a general encyclopedia article that gives only a 6th-century BCE founding date and does not detail the Lydian/Ionian masons or the dispute over the Darius I inscription."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part8"
+ },
+ "source/wikipedia-on-pedro-ii-of-brazil": {
+  "src": "8102272076b7",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs Pedro II's birth and death dates, his accession at age five in 1831, the 1840 declaration of his majority, the Golden Law of 1888, and the military coup and exile of 1889.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a crowd-edited encyclopedia article; the details on the landowner backlash and on being the last country in the Americas were read through a fetched summary rather than the lead text."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part8"
+ },
+ "source/wikipedia-on-pericles": {
+  "src": "d3e99724e8c9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs Pericles' birth and death dates, his death from plague, his yearly generalship from 444 to 430 BC, the Delian League's funding of the Acropolis, jury pay, the Megarian decree and the decision for war, and the debate over Thucydides' Funeral Oration.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a general-purpose tertiary encyclopedia article that in turn relies on Thucydides and Plutarch, so disputes among the ancient sources are only summarized."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part8"
+ },
+ "source/wikipedia-on-peter-the-great": {
+  "src": "041e0f1d0df7",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs Peter's birth and death dates, his 1682 accession alongside Ivan V and his sole rule from 1696, the Grand Embassy of 1697 to 1698, the victory at Poltava, the 1703 founding of Saint Petersburg, and the capital move of 1712.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It was read through a WebFetch extraction of the article rather than the full page text, and it does not describe Peter personally cutting boyars' beards, giving instead an order to cut beards and a beard tax."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part9"
+ },
+ "source/wikipedia-on-petra": {
+  "src": "30360d991c13",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the 4th-century-BCE settlement and the second-century-BCE capital dating, the 312 BCE passage on Antigonus, the 106 CE annexation into Arabia Petraea, the dating of the Treasury and its possible attribution to Aretas IV, the earthquake of 363, and Burckhardt's visit in 1812.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a tertiary encyclopedia text; it gives a peak population of about 20,000 and no length for the Siq, so the note's range of 20,000 to 30,000 and its figure of 1.2 km need other sources."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part9"
+ },
+ "source/wikipedia-on-philip-ii-of-spain": {
+  "src": "e4b9223f8b10",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs Philip II's birth and death dates, his accession in 1556, his English kingship from 1554 to 1558, the dating of the Dutch revolt, and the bankruptcy years.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a tertiary encyclopedia article; it gives the start of the Dutch revolt as 1566, the Iconoclast Fury, with open war from 1568, so the note's 1566 is the earlier of two conventional dates."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part9"
+ },
+ "source/wikipedia-on-philip-the-handsome": {
+  "src": "98209db727e0",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the statement that in 1504 Philip commissioned Bosch to paint a large Last Judgement triptych that is now lost.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The Bosch commission rests on a single sentence citing Nils Buttner (2016), and the separate Vienna Last Judgment article frames the 1504 event as an acquisition by Philip instead, a reading some scholars deny."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part9"
+ },
+ "source/wikipedia-on-pico-duarte": {
+  "src": "44d9fd6201e8",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs Pico Duarte as the highest peak on Hispaniola and in the Caribbean, with a most recent measured height of 3,101.1 m.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a tertiary encyclopedia article; its height figure differs from the 3,098 m used in the vault note, and older sources give other figures."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part9"
+ },
+ "source/wikipedia-on-port-royal": {
+  "src": "126ec71947a3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page backs the English capture of 1655, the population of about 6,500 and the 2,000 dwellings by 1692, and the lower alternative death-toll estimates for the 1692 earthquake.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a crowd-edited encyclopedia article read through a summarizing fetch tool; it gives no year for the Panama raid and marks the wickedest-city reputation as needing a citation."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-075.part9"
  }
 }
