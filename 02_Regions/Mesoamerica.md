@@ -47,6 +47,7 @@ The Observer regards Mesoamerica as a natural experiment: a second, independent 
 
 **Peoples and cultures**
 - [[Olmecs]] (1200 BCE)
+- [[Zapotec Civilization]] (500 BCE)
 - [[Maya]] (250 CE)
 - [[Aztec Empire]] (1428 CE)
 

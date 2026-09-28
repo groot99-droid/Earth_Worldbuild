@@ -58,6 +58,7 @@ The Observer notes that the first states and the first writing arrived together.
 - [[Yamnaya Culture]] (3300 BCE)
 - [[Ancient Egyptians]] (3100 BCE)
 - [[Indus Valley Civilization]] (2600 BCE)
+- [[Akkadian Empire]] (2334 BCE)
 - [[Sintashta Culture]] (2100 BCE)
 - [[Minoans]] (2000 BCE)
 - [[Judaism]] (1800 BCE)

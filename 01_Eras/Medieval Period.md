@@ -118,6 +118,7 @@ The Observer prefers a global reading of this era. It sees a species increasingl
 - [[Khmer Empire]] (802 CE)
 - [[Chola Dynasty]] (850 CE)
 - [[Kanem-Bornu Empire]] (900 CE)
+- [[Normans]] (911 CE)
 - [[Song Dynasty]] (960 CE)
 - [[Inuit and the Thule Expansion]] (1000 CE)
 - [[Mississippian Culture]] (1000 CE)

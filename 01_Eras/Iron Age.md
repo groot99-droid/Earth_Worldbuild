@@ -59,6 +59,7 @@ The Observer sees the Iron Age as a democratization of tools and, therefore, of 
 - [[Kingdom of Saba]] (1000 BCE)
 - [[Zoroastrianism]] (1000 BCE)
 - [[Neo-Assyrian Empire]] (911 BCE)
+- [[Chavín Culture]] (900 BCE)
 - [[Scythians]] (900 BCE)
 - [[Celts]] (800 BCE)
 - [[Etruscans]] (800 BCE)

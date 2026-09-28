@@ -128,6 +128,7 @@ The Observer calls these the sound-code and the mark-code. It notes that languag
 **Peoples and cultures**
 - [[Sumerians]] (4500 BCE)
 - [[Yamnaya Culture]] (3300 BCE)
+- [[Akkadian Empire]] (2334 BCE)
 - [[Hittites]] (1650 BCE)
 - [[Mycenaean Greeks]] (1600 BCE)
 - [[Shang Dynasty]] (1600 BCE)
@@ -136,6 +137,7 @@ The Observer calls these the sound-code and the mark-code. It notes that languag
 - [[Neo-Assyrian Empire]] (911 BCE)
 - [[Celts]] (800 BCE)
 - [[Romans]] (509 BCE)
+- [[Zapotec Civilization]] (500 BCE)
 - [[Kingdom of Aksum]] (100 CE)
 - [[Maya]] (250 CE)
 - [[Sogdians]] (300 CE)

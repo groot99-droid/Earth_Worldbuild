@@ -38,6 +38,7 @@ The Observer sees the plateau as a hinge region: its historical role was less to
 **Peoples and cultures**
 - [[Zoroastrianism]] (1000 BCE)
 - [[Achaemenid Persians]] (550 BCE)
+- [[Sasanian Empire]] (224 CE)
 - [[Safavid Empire]] (1501 CE)
 
 **Places**

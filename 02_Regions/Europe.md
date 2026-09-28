@@ -116,8 +116,10 @@ The Observer cautions against a common habit: a small peninsula's history is oft
 - [[Celts]] (800 BCE)
 - [[Etruscans]] (800 BCE)
 - [[Franks]] (250 CE)
+- [[Huns]] (370 CE)
 - [[Anglo-Saxons]] (450 CE)
 - [[Norse]] (793 CE)
+- [[Normans]] (911 CE)
 
 **Places**
 - [[Chauvet Cave]] (36 ka)

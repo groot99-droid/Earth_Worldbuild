@@ -90,6 +90,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 2600 BCE to 1900 BCE | [[Indus Valley Civilization]] | culture | [[Bronze Age]] |
 | 2600 BCE | [[Sanitation and Sewers]] | technology | [[Bronze Age]] |
 | 2500 BCE to 1900 BCE | [[Mohenjo-daro]] | place | [[Bronze Age]] |
+| 2334 BCE to 2154 BCE | [[Akkadian Empire]] | culture | [[Bronze Age]] |
 | 2285 BCE to 2250 BCE | [[Enheduanna]] | person | [[Bronze Age]] |
 | 2200 BCE | [[Babylon]] | place | [[Bronze Age]] |
 | 2100 BCE to 1800 BCE | [[Sintashta Culture]] | culture | [[Bronze Age]] |
@@ -132,6 +133,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1000 BCE to 950 CE | [[Tikal]] | place | [[Iron Age]] |
 | 1000 BCE | [[Zoroastrianism]] | culture | [[Iron Age]] |
 | 911 BCE to 609 BCE | [[Neo-Assyrian Empire]] | culture | [[Iron Age]] |
+| 900 BCE to 250 BCE | [[Chavín Culture]] | culture | [[Iron Age]] |
 | 900 BCE to 200 BCE | [[Scythians]] | culture | [[Iron Age]] |
 | 814 BCE to 146 BCE | [[Carthage]] | place | [[Iron Age]] |
 | 814 BCE to 760 BCE | [[Dido]] | person | [[Iron Age]] |
@@ -176,6 +178,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 500 BCE to 1221 CE | [[Merv]] | place | [[Classical Antiquity]] |
 | 500 BCE | [[Monte Alban]] | place | [[Classical Antiquity]] |
 | 500 BCE to 500 CE | [[Upano Valley Settlements]] | place | [[Classical Antiquity]] |
+| 500 BCE to 900 CE | [[Zapotec Civilization]] | culture | [[Classical Antiquity]] |
 | 495 BCE to 429 BCE | [[Pericles]] | person | [[Classical Antiquity]] |
 | 400 BCE to 1600 CE | [[Marajó Island]] | place | [[Iron Age]] |
 | 400 BCE to 500 CE | [[Nazca Lines]] | place | [[Iron Age]] |
@@ -200,6 +203,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 209 BCE to 93 CE | [[Xiongnu]] | culture | [[Classical Antiquity]] |
 | 206 BCE to 220 CE | [[Han Dynasty]] | culture | [[Classical Antiquity]] |
 | 202 BCE to 904 CE | [[Chang'an]] | place | [[Classical Antiquity]] |
+| 200 BCE to 700 CE | [[Hopewell Tradition]] | culture | [[Classical Antiquity]] |
 | 196 BCE | [[Rosetta Stone]] | technology | [[Classical Antiquity]] |
 | 150 BCE | [[Córdoba]] | place | [[Classical Antiquity]] |
 | 130 BCE to 1450 CE | [[Opening of the Silk Roads]] | event | [[Classical Antiquity]] |
@@ -224,6 +228,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 100 CE to 940 CE | [[Kingdom of Aksum]] | culture | [[Classical Antiquity]] |
 | 132 CE | [[Seismoscope]] | technology | [[Classical Antiquity]] |
 | 192 CE to 1832 CE | [[Champa]] | culture | [[Medieval Period]] |
+| 224 CE to 651 CE | [[Sasanian Empire]] | culture | [[Classical Antiquity]] |
 | 240 CE to 1300 CE | [[Manichaeism]] | culture | [[Classical Antiquity]] |
 | 240 CE to 274 CE | [[Zenobia]] | person | [[Classical Antiquity]] |
 | 248 CE | [[Ba Trieu]] | person | [[Classical Antiquity]] |
@@ -238,6 +243,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 330 CE to 1453 CE | [[Constantinople]] | place | [[Classical Antiquity]] |
 | 350 CE to 415 CE | [[Hypatia]] | person | [[Classical Antiquity]] |
 | 366 CE | [[Mogao Caves]] | place | [[Classical Antiquity]] |
+| 370 CE to 469 CE | [[Huns]] | culture | [[Classical Antiquity]] |
 | 400 CE to 1300 CE | [[Marajoara Culture]] | culture | [[Classical Antiquity]] |
 | 406 CE to 453 CE | [[Attila]] | person | [[Classical Antiquity]] |
 | 427 CE to 1200 CE | [[Nalanda]] | place | [[Classical Antiquity]] |
@@ -292,6 +298,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 900 CE to 1100 CE | [[Kupe]] | person | [[Medieval Period]] |
 | 900 CE to 1628 CE | [[Nan Madol]] | place | [[Medieval Period]] |
 | 900 CE | [[Windmill]] | technology | [[Medieval Period]] |
+| 911 CE to 1194 CE | [[Normans]] | culture | [[Medieval Period]] |
 | 927 CE | [[Astrolabe]] | technology | [[Medieval Period]] |
 | 958 CE to 1025 CE | [[Basil II]] | person | [[Medieval Period]] |
 | 960 CE to 1279 CE | [[Song Dynasty]] | culture | [[Medieval Period]] |
@@ -456,6 +463,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1644 CE to 1912 CE | [[Qing Dynasty]] | culture | [[Early Modern Period]] |
 | 1648 CE | [[Peace of Westphalia]] | event | [[Early Modern Period]] |
 | 1648 CE to 1695 CE | [[Sor Juana Inés de la Cruz]] | person | [[Early Modern Period]] |
+| 1650 CE | [[Maroon Communities]] | culture | [[Early Modern Period]] |
 | 1655 CE to 1692 CE | [[Port Royal]] | place | [[Early Modern Period]] |
 | 1658 CE to 1996 CE | [[Robben Island]] | place | [[Early Modern Period]] |
 | 1672 CE to 1725 CE | [[Peter the Great]] | person | [[Early Modern Period]] |

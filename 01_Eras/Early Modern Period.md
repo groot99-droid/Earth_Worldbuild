@@ -101,6 +101,7 @@ The Observer notes that for the first time, every inhabited continent was in con
 - [[Tokugawa Shogunate]] (1603 CE)
 - [[Garifuna]] (1635 CE)
 - [[Qing Dynasty]] (1644 CE)
+- [[Maroon Communities]] (1650 CE)
 
 **Places**
 - [[Elmina Castle]] (1482 CE)

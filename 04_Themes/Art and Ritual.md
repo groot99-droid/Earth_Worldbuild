@@ -169,6 +169,7 @@ The Observer treats art and ritual as behavior with no obvious direct survival f
 - [[Minoans]] (2000 BCE)
 - [[Lapita Culture]] (1600 BCE)
 - [[Olmecs]] (1200 BCE)
+- [[Chavín Culture]] (900 BCE)
 - [[Scythians]] (900 BCE)
 - [[Ancient Greeks]] (800 BCE)
 - [[Etruscans]] (800 BCE)

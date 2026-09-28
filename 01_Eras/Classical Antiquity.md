@@ -65,18 +65,22 @@ The Observer notes that several distant societies, largely out of contact, devel
 **Peoples and cultures**
 - [[Ancient Greeks]] (800 BCE)
 - [[Romans]] (509 BCE)
+- [[Zapotec Civilization]] (500 BCE)
 - [[Maurya Empire]] (322 BCE)
 - [[Nabataeans]] (312 BCE)
 - [[Xiongnu]] (209 BCE)
 - [[Han Dynasty]] (206 BCE)
+- [[Hopewell Tradition]] (200 BCE)
 - [[Christianity]] (30 CE)
 - [[Kushan Empire]] (30 CE)
 - [[Funan]] (100 CE)
 - [[Kingdom of Aksum]] (100 CE)
+- [[Sasanian Empire]] (224 CE)
 - [[Manichaeism]] (240 CE)
 - [[Sogdians]] (300 CE)
 - [[Gupta Empire]] (320 CE)
 - [[Byzantine Empire]] (330 CE)
+- [[Huns]] (370 CE)
 - [[Marajoara Culture]] (400 CE)
 
 **Places**
