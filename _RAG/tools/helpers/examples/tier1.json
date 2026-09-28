@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-25",
+  "source_updates": [
+    {
+      "title": "Britannica on Timur",
+      "set": {
+        "access": "archived-copy",
+        "access_route": "Wayback Machine snapshot of 2026-09-20 (britannica.com returns 403 to automated requests)",
+        "read_on": "2026-09-25",
+        "checked_on": "2026-09-25"
+      },
+      "used": "Birth year given as 1336 at Kesh, dominion over Transoxania by the 1360s and proclamation as sovereign of the Chagatai line of khans about 1370, and death at Otrar in February 1405 while preparing an expedition to China.",
+      "caveats": "Read in full on 2026-09-25 as raw text from a Wayback Machine snapshot dated 2026-09-20; the live britannica.com page returns HTTP 403 to automated requests, so the snapshot may differ from the current article. The article gives the birth as 1336 at Kesh without qualification, says that about 1370 Timur proclaimed himself at Samarkand sovereign of the Chagatai line after the assassination of Amir Husayn, whom he had besieged in Balkh, and says he fell ill at Otrar and died in February 1405 (19 February in the opening line) after preparing an expedition to China. It does not name the Ming dynasty and does not discuss the argument for a birth in the late 1320s, which the vault takes from Wikipedia on Timur, so the birth year stays contested in the notes. Re-verify before citing in print.",
+      "mark": "done"
+    },
+    {
+      "title": "PNAS 2024 Civil War Mortality Estimates",
+      "set": {
+        "access": "full-text",
+        "access_route": "Europe PMC full-text XML of the open-access copy (PMC11621511, CC BY); pnas.org returns 403 and the PMC web page shows a CAPTCHA",
+        "read_on": "2026-09-25",
+        "checked_on": "2026-09-25"
+      },
+      "citation": "Barceló, J., Jensen, J. L., Peisakhin, L., and Zhai, H. 2024. 'New estimates of US Civil War mortality from full-census records.' Proceedings of the National Academy of Sciences 121(48): e2414919121. First published 18 November 2024.",
+      "used": "A national estimate of about 698,000 Civil War deaths from full-count census records, with a bounding interval of roughly 50,000 either way (647,439 to 748,561), set against the conventional count of 618,222 and the roughly 750,000 (751,562, bounds 632,115 to 871,009) that Hacker's 1 percent census sample gives when recomputed by the authors. Also the finding that about 13 percent of military-age native-born white men in the core Confederate states died against about 5 percent in the core Union states.",
+      "caveats": "Read in full on 2026-09-25 from the Europe PMC full-text XML of the open-access copy (PMC11621511); pnas.org returns HTTP 403 to automated requests and the PMC web page shows a CAPTCHA, neither of which was bypassed. This is a Brief Report. The earlier citation gave 25 September 2024, which is the acceptance date; Europe PMC gives first publication as 18 November 2024. The claim that the toll was 'much greater in the Confederate states' concerns rates: about 13 percent of military-age native-born white men in the core Confederate states against about 5 percent in the core Union states. In absolute numbers the Union lost more men, about 400,000 or more against roughly 300,000 for the Confederacy on the paper's own tally. The estimate measures excess mortality, which includes deaths of veterans after the war and some civilian deaths, and it rests on standard assumptions for foreign-born and Black soldier deaths, which the census method cannot estimate.",
+      "mark": "done"
+    },
+    {
+      "title": "Pigati et al. 2023 White Sands Footprints",
+      "set": {
+        "access": "abstract",
+        "access_route": "PubMed abstract (PMID 37797035) through NCBI E-utilities, with OpenAlex and Crossref records; science.org returns 403 and no open-access copy of the full paper was found",
+        "read_on": "2026-09-25",
+        "checked_on": "2026-09-25"
+      },
+      "citation": "Pigati, J. S., Springer, K. B., Honke, J. S., Wahl, D., Champagne, M. R., Zimmerman, S. R. H., Gray, H. J., Santucci, V. L., Odess, D., Bustos, D., and Bennett, M. R. 2023. 'Independent age estimates resolve the controversy of ancient human footprints at White Sands.' Science 382(6666): 73-75.",
+      "used": "The age of the White Sands footprints (reportedly about 21,000 to 23,000 years ago from earlier radiocarbon dating of Ruppia seeds), and the two new checks named in the abstract: calibrated radiocarbon ages of terrestrial pollen from the same stratigraphic horizons and optically stimulated luminescence ages of sediments from the footprint-bearing sequence. The authors conclude that the original chronology is robust and that humans were present in North America during the Last Glacial Maximum.",
+      "caveats": "Only the abstract was read (the PubMed record, fetched on 2026-09-25 through NCBI E-utilities). science.org returns HTTP 403 and the PubMed web page shows a cookie wall, neither of which was bypassed, and no open-access copy of the full paper turned up. This source therefore confirms only what the abstract says: the abstract calls the dated material 'terrestrial pollen' and the luminescence dating 'of sediments', so the vault's wording of conifer pollen and quartz is not confirmed here, and sample counts, error ranges and methods are unread. The abstract says the earlier seed ages were controversial because of possible old-carbon reservoir effects. Whether the age is universally accepted is not something the abstract can show; the vault treats it as well supported but contested, following Wikipedia on the Settlement of the Americas.",
+      "mark": "done"
+    },
+    {
+      "title": "Science 2021 Amazonian Reforestation Pollen Study",
+      "set": {
+        "access": "abstract",
+        "access_route": "PubMed abstract (PMID 33926948) through NCBI E-utilities, plus the accepted-version supplementary materials PDF from the University of Reading repository; science.org returns 403",
+        "read_on": "2026-09-25",
+        "checked_on": "2026-09-25"
+      },
+      "citation": "Bush, M. B., Nascimento, M. N., Åkesson, C. M., Cárdenes-Sandí, G. M., Maezumi, S. Y., Behling, H., Correa-Metrio, A., Church, W., Huisman, S. N., Kelly, T., Mayle, F. E., and McMichael, C. N. H. 2021. 'Widespread reforestation before European influence on Amazonia.' Science 372(6541): 484-487.",
+      "used": "The finding, from 39 Amazonian fossil pollen records, that there was no synchronous reforestation event after European arrival and that at most sites land abandonment and forest regrowth began about 300 to 600 years before European arrival. The abstract frames this as a test of the hypothesis that a post-contact population collapse (an estimated 90 to 95 percent of Indigenous people in Amazonia) lowered atmospheric carbon dioxide around 1610 CE through reforestation, and it names pre-European pandemics, social strife and environmental change as possible causes of the earlier abandonments.",
+      "caveats": "Only the abstract was read (the PubMed record, fetched on 2026-09-25), together with the accepted-version supplementary materials in the University of Reading repository (methods and site tables, about 7,800 characters), which confirm that 39 lake-sediment records were used. science.org returns HTTP 403 and no open-access copy of the main paper was found, so its results and discussion were not read. The reply from Alexander Koch and colleagues, and the statement that Bush and McMichael think populations peaked and declined well before 1492, both appear in the Amazon Basin and South American Lowlands note but are not in the text read here; they came from press coverage seen only as search-result summaries and remain unverified. The paper challenges one hypothesis (post-1492 regrowth cooling the climate); it does not show that no post-contact depopulation occurred, and its abstract cites an estimated 90 to 95 percent loss of Indigenous people.",
+      "mark": "done"
+    }
+  ],
+  "notes": [
+    {
+      "note": "Timur",
+      "replace_checks": [
+        [
+          "Traditional birth year 1336 near Kesh; control of Transoxiana about 1370; died at Otrar in 1405 preparing to invade Ming China [Britannica on Timur]",
+          "Britannica gives his birth as 1336 at Kesh; by the 1360s he held dominion over Transoxania and about 1370 he proclaimed himself sovereign of the Chagatai line of khans at Samarkand; he died at Otrar in February 1405 while preparing an expedition to China [Britannica on Timur]"
+        ]
+      ]
+    },
+    {
+      "note": "American Civil War",
+      "replace": [
+        [
+          "A 2024 study using full-count census records estimated about 698,000 deaths, with a much higher toll in the Confederate states than in the Union.",
+          "A 2024 study using full-count census records estimated about 698,000 deaths, with a bounding interval of roughly 50,000 either way. It found a much higher death rate in the Confederate states than in the Union: about 13 percent of military-age native-born white men in the core Confederate states against about 5 percent in the core Union states, although the Union lost more men in absolute numbers (more than 400,000 against about 300,000)."
+        ]
+      ],
+      "replace_checks": [
+        [
+          "A 2024 full-census study estimated about 698,000 deaths, with higher mortality in the Confederate states [PNAS 2024 Civil War Mortality Estimates]",
+          "A 2024 full-census study estimated about 698,000 war deaths with a bounding interval of roughly 50,000 either way, about 7 percent below the estimate from a 1 percent census sample; about 13 percent of military-age native-born white men died in the core Confederate states against about 5 percent in the core Union states, while total deaths were higher on the Union side (more than 400,000 against about 300,000) [PNAS 2024 Civil War Mortality Estimates]"
+        ]
+      ],
+      "checks": [
+        "The long-standing official count was 618,222 deaths (about 618,000), and Hacker's 2011 census-sample estimate was over 750,000 [PNAS 2024 Civil War Mortality Estimates]"
+      ]
+    },
+    {
+      "note": "Peopling of the Americas",
+      "replace_checks": [
+        [
+          "White Sands footprints dated to about 21,000 to 23,000 years ago, with independent pollen radiocarbon and luminescence checks in 2023 after criticism of the 2021 seed dates [Pigati et al. 2023 White Sands Footprints]",
+          "White Sands footprints reportedly date to about 21,000 to 23,000 years ago from radiocarbon dating of Ruppia seeds, which drew criticism over possible old-carbon effects; a 2023 study added radiocarbon ages of terrestrial pollen from the same horizons and luminescence ages of sediments and reported that the original chronology is robust (abstract only; the conifer pollen and quartz detail in the note is not confirmed) [Pigati et al. 2023 White Sands Footprints]"
+        ]
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "note": "American Civil War",
+      "source": "PNAS 2024 Civil War Mortality Estimates",
+      "was": "a much higher toll in the Confederate states than in the Union (ambiguous, reads as absolute deaths)",
+      "text_says": "The paper's own abstract says the toll was much greater in the Confederacy, but its tables show this is a rate (about 13 percent against about 5 percent of military-age native-born white men); in absolute numbers the Union lost more (over 400,000 against about 300,000).",
+      "action": "Facts sentence and fact_check rewritten to state the rate and the absolute numbers; added the bounding interval of roughly 50,000 either way."
+    },
+    {
+      "note": "American Civil War",
+      "source": "PNAS 2024 Civil War Mortality Estimates",
+      "was": "Hacker's 2011 range of 650,000 to 850,000 (cited to Hacker 2011 Civil War Death Toll)",
+      "text_says": "PNAS Table 1 gives 751,562 for the 1 percent sample with bounds 632,115 to 871,009, computed from separate 1850-1860 and 1870-1880 baselines.",
+      "action": "No change: the two ranges come from different bounding methods and the note attributes 650,000 to 850,000 to Hacker's own paper. To be settled when the Hacker source is re-read."
+    },
+    {
+      "note": "PNAS 2024 Civil War Mortality Estimates",
+      "source": "PNAS 2024 Civil War Mortality Estimates",
+      "was": "citation date 25 September 2024",
+      "text_says": "25 September 2024 is the acceptance date; the paper was first published 18 November 2024 (PNAS 121(48): e2414919121).",
+      "action": "Source note citation corrected."
+    },
+    {
+      "note": "Timur",
+      "source": "Britannica on Timur",
+      "was": "preparing to invade Ming China; control of Transoxiana about 1370",
+      "text_says": "Britannica says he prepared an expedition to China (no mention of the Ming), had dominion over Transoxania by the 1360s, and about 1370 proclaimed himself sovereign of the Chagatai line at Samarkand after Husayn's assassination.",
+      "action": "Fact_check rewritten to what the article says. Note text left unchanged: it is not contradicted by the article (Wikipedia on Timur was not re-read in this pass)."
+    },
+    {
+      "note": "Peopling of the Americas",
+      "source": "Pigati et al. 2023 White Sands Footprints",
+      "was": "a 2023 study dated conifer pollen by radiocarbon and quartz by luminescence",
+      "text_says": "The abstract says terrestrial pollen and luminescence ages of sediments; it does not name conifer pollen or quartz.",
+      "action": "Note text left unchanged (earlier search-result summaries described it that way, unverified in this read); the fact_check now covers only what the abstract says and flags the rest as unconfirmed until the full paper is read."
+    },
+    {
+      "note": "Amazon Basin and South American Lowlands",
+      "source": "Science 2021 Amazonian Reforestation Pollen Study",
+      "was": "Bush and McMichael argue populations peaked and declined well before 1492; Alexander Koch and colleagues reply that Amazonia may have been less affected",
+      "text_says": "Neither statement appears in the abstract or the supplementary materials. The abstract only says pre-European pandemics, social strife or environmental change may have contributed to the earlier abandonments.",
+      "action": "Note text left unchanged; both statements remain unverified (they have no fact_check) and need a page that reports the reply, to be found in tier 5."
+    }
+  ]
+}

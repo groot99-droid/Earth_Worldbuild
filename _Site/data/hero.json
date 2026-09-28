@@ -1,0 +1,17 @@
+{
+ "ai": true,
+ "model": "Recraft V4.1 via Higgsfield",
+ "prompt": "Editorial illustration in the style of a vintage natural-history plate: fine ink linework with muted watercolor wash on warm parchment, restrained palette of ochre, umber, slate blue and muted crimson, soft paper grain, no text, no lettering, no people, no faces. Subject: planet Earth rising over a dark horizon at dawn with a thin line of city lights across its night side, a brass telescope silhouetted in the foreground, and a wide band of stars.",
+ "job_id": "c8a385ac-79b1-483a-a26e-0636f0465a9c",
+ "generated": "2026-09-26",
+ "caption": "AI illustration: Earth rising at dawn with a thin line of city lights",
+ "license": "AI-generated image (no third-party source); Higgsfield terms apply",
+ "license_url": null,
+ "source": null,
+ "author": null,
+ "via": "higgsfield-ai",
+ "w": 960,
+ "h": 549,
+ "src": "images/_hero/hero.jpg",
+ "og": "images/_hero/og.jpg"
+}

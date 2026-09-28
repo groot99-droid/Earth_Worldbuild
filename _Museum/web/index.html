@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>The Chronicle Museum</title>
+<link rel="stylesheet" href="css/museum.css" />
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+    "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+  }
+}
+</script>
+</head>
+<body>
+  <div id="blocker">
+    <div id="instructions">
+      <h1>The Chronicle Museum</h1>
+      <p>Art-Talk Wing &mdash; 53 artists, 299 works, 973&ndash;1968</p>
+      <p class="intro-voice">Every placard is retold by AI in one of four voices: epic, horror, essay and confession, each where it fits.</p>
+      <p><strong>Click to enter</strong></p>
+      <p class="hint">WASD / arrows to walk &middot; mouse to look &middot; click a painting to read about it</p>
+    </div>
+  </div>
+
+  <div id="crosshair"></div>
+
+  <div id="placard" class="hidden">
+    <button id="placard-close" aria-label="Close">&times;</button>
+    <div id="placard-image-wrap"><img id="placard-image" src="" alt="" /></div>
+    <div id="placard-body">
+      <h2 id="placard-title"></h2>
+      <p id="placard-meta"></p>
+      <p id="placard-artist"></p>
+      <p id="placard-description"></p>
+      <p id="placard-voice" hidden></p>
+      <p id="placard-credit"></p>
+      <div id="suggested-wrap">
+        <h3>Suggested next</h3>
+        <div id="suggested-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="room-label"></div>
+  <div id="loading">Loading the museum&hellip;</div>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

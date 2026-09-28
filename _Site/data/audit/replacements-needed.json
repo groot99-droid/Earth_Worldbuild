@@ -1,0 +1,439 @@
+{
+ "event/collapse-of-the-soviet-union": {
+  "title": "Collapse of the Soviet Union",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "1730 map of the Russian Empire, not the Soviet collapse"
+  ]
+ },
+ "event/late-ordovician-extinction": {
+  "title": "Late Ordovician Extinction",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "cyanobacteria bloom, unrelated to the Late Ordovician extinction"
+  ]
+ },
+ "region/southeast-asia": {
+  "title": "Southeast Asia",
+  "type": "region",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/green-revolution": {
+  "title": "Green Revolution",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/colonization-of-land": {
+  "title": "Colonization of Land",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "political decolonization map on a note about life colonizing land",
+   "1550 human colonization map, wrong subject"
+  ]
+ },
+ "event/genomic-revolution": {
+  "title": "Genomic Revolution",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "wild cereals photo on the Genomic Revolution note",
+   "sickles, wrong topic"
+  ]
+ },
+ "event/onset-of-northern-hemisphere-glaciation": {
+  "title": "Onset of Northern Hemisphere Glaciation",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "era/holocene-epoch": {
+  "title": "Holocene Epoch",
+  "type": "era",
+  "why": "no image left",
+  "removed": [
+   "generic world map, not about the Holocene"
+  ]
+ },
+ "region/caribbean-and-atlantic-world": {
+  "title": "Caribbean and Atlantic World",
+  "type": "region",
+  "why": "only weak or not-lead images left",
+  "removed": [
+   "French Revolution painting on the Caribbean and Atlantic World"
+  ]
+ },
+ "technology/electrical-power-grid": {
+  "title": "Electrical Power Grid",
+  "type": "technology",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "region/central-asian-oases": {
+  "title": "Central Asian Oases",
+  "type": "region",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/formation-of-the-oceans": {
+  "title": "Formation of the Oceans",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "ocean salinity map, not the formation of the oceans"
+  ]
+ },
+ "technology/paper": {
+  "title": "Paper",
+  "type": "technology",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "place/potosi": {
+  "title": "Potosi",
+  "type": "place",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/miocene-great-ape-radiation": {
+  "title": "Miocene Great Ape Radiation",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "culture/botai-culture": {
+  "title": "Botai Culture",
+  "type": "culture",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/closure-of-the-isthmus-of-panama": {
+  "title": "Closure of the Isthmus of Panama",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "Balboa voyage map is not the geological closure of the isthmus"
+  ]
+ },
+ "event/emergence-of-the-genus-homo": {
+  "title": "Emergence of the Genus Homo",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "Torre Sant'Andrea coast, unrelated to genus Homo (borrowed)"
+  ]
+ },
+ "event/bantu-expansion": {
+  "title": "Bantu Expansion",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "technology/sanitation-and-sewers": {
+  "title": "Sanitation and Sewers",
+  "type": "technology",
+  "why": "only weak or not-lead images left",
+  "removed": [
+   "tiny flat diagram"
+  ]
+ },
+ "event/bengal-famine-of-1943": {
+  "title": "Bengal Famine of 1943",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "distressing photograph, not for a card",
+   "RAF Hurricanes unrelated to the famine"
+  ]
+ },
+ "technology/iron-smelting": {
+  "title": "Iron Smelting",
+  "type": "technology",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/the-urban-revolution": {
+  "title": "The Urban Revolution",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "private individuals at a restaurant, name coincidence Urban Revolution; remove for privacy",
+   "private individuals at a restaurant, name coincidence",
+   "private individuals at a restaurant, name coincidence",
+   "art exhibition named Urban, not the Urban Revolution",
+   "private individuals at a restaurant, name coincidence"
+  ]
+ },
+ "event/unification-of-egypt": {
+  "title": "Unification of Egypt",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/emergence-of-symbolic-art": {
+  "title": "Emergence of Symbolic Art",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "Glyptodon drawing, not symbolic art (borrowed)"
+  ]
+ },
+ "event/divergence-of-the-hominin-lineage": {
+  "title": "Divergence of the Hominin Lineage",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "Torre Sant'Andrea coast, unrelated to hominin divergence (borrowed)"
+  ]
+ },
+ "event/origin-of-homo-sapiens": {
+  "title": "Origin of Homo sapiens",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "dark unreadable diagram"
+  ]
+ },
+ "event/domestication-of-maize": {
+  "title": "Domestication of Maize",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "insects, unrelated to maize",
+   "rice planting, not maize",
+   "mushrooms, not maize",
+   "termites, unrelated to maize"
+  ]
+ },
+ "region/planet-wide": {
+  "title": "Planet-wide",
+  "type": "region",
+  "why": "no image left",
+  "removed": [
+   "video-game screenshot (Planetary Annihilation)",
+   "Hubble pixels of an exoplanet candidate, unrelated",
+   "same game screenshot as Planet-wide #1",
+   "same Hubble image as Planet-wide #2"
+  ]
+ },
+ "event/earliest-continental-crust": {
+  "title": "Earliest Continental Crust",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/origin-of-eukaryotes": {
+  "title": "Origin of Eukaryotes",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/collision-of-india-and-asia": {
+  "title": "Collision of India and Asia",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/the-boring-billion": {
+  "title": "The Boring Billion",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/amazonian-urbanism-and-dark-earths": {
+  "title": "Amazonian Urbanism and Dark Earths",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "photo of two private individuals matched by the name Urban (Commons search false positive); also the donor image"
+  ]
+ },
+ "culture/haudenosaunee-confederacy": {
+  "title": "Haudenosaunee Confederacy",
+  "type": "culture",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/fish-to-tetrapod-transition": {
+  "title": "Fish-to-Tetrapod Transition",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": [
+   "same diagram as Fish-to-Tetrapod #1 in Russian"
+  ]
+ },
+ "technology/calendars": {
+  "title": "Calendars",
+  "type": "technology",
+  "why": "only weak or not-lead images left",
+  "removed": [
+   "jewelled pendant titled Calendar, not a calendar"
+  ]
+ },
+ "event/digital-revolution": {
+  "title": "Digital Revolution",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": [
+   "unclear graphic",
+   "tiny flowchart"
+  ]
+ },
+ "species/homo-sapiens": {
+  "title": "Homo sapiens",
+  "type": "species",
+  "why": "only weak or not-lead images left",
+  "removed": [
+   "portrait of two identifiable people of one ethnic group used to represent the species",
+   "portrait of an identifiable elderly man used to represent the species"
+  ]
+ },
+ "event/modern-climate-change": {
+  "title": "Modern Climate Change",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": [
+   "pearl millet breeding photo, not climate change"
+  ]
+ },
+ "event/peopling-of-europe-by-homo-sapiens": {
+  "title": "Peopling of Europe by Homo sapiens",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "South American Glyptodon drawing on the peopling of Europe (borrowed)"
+  ]
+ },
+ "culture/inuit-and-the-thule-expansion": {
+  "title": "Inuit and the Thule Expansion",
+  "type": "culture",
+  "why": "no image left",
+  "removed": [
+   "map of Turkic languages on the Inuit and Thule note (borrowed)"
+  ]
+ },
+ "region/amazon-basin-and-south-american-lowlands": {
+  "title": "Amazon Basin and South American Lowlands",
+  "type": "region",
+  "why": "no image left",
+  "removed": [
+   "sweet corn photo on the Amazon Basin region (borrowed)"
+  ]
+ },
+ "technology/oldowan-stone-tools": {
+  "title": "Oldowan Stone Tools",
+  "type": "technology",
+  "why": "no image left",
+  "removed": [
+   "almost blank faint sketch"
+  ]
+ },
+ "event/spread-of-grasslands": {
+  "title": "Spread of Grasslands",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "insect plate, unrelated to grasslands"
+  ]
+ },
+ "event/radiation-of-placental-mammals": {
+  "title": "Radiation of Placental Mammals",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/eocene-oligocene-transition": {
+  "title": "Eocene-Oligocene Transition",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "person/hypatia": {
+  "title": "Hypatia",
+  "type": "person",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/carboniferous-coal-forests": {
+  "title": "Carboniferous Coal Forests",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "powerloom weaving photo on the Carboniferous coal forests note (borrowed)"
+  ]
+ },
+ "place/xingu-garden-cities": {
+  "title": "Xingu Garden Cities",
+  "type": "place",
+  "why": "no image left",
+  "removed": [
+   "private individuals at a restaurant, name coincidence (borrowed from the Urban Revolution note)"
+  ]
+ },
+ "event/quaternary-megafauna-extinctions": {
+  "title": "Quaternary Megafauna Extinctions",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "same White Sands footprints as peopling of the Americas #1, tangential here (borrowed)"
+  ]
+ },
+ "event/opening-of-the-silk-roads": {
+  "title": "Opening of the Silk Roads",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": [
+   "a British road named A523 Silk Road (name coincidence)"
+  ]
+ },
+ "event/interbreeding-of-homo-sapiens-with-neanderthals-and-denisovans": {
+  "title": "Interbreeding of Homo sapiens with Neanderthals and Denisovans",
+  "type": "event",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "person/queen-amina-of-zazzau": {
+  "title": "Queen Amina of Zazzau",
+  "type": "person",
+  "why": "no image left",
+  "removed": [
+   "Ottoman miniature of the birth of Muhammad, name mix-up with Amina (mother of Muhammad)",
+   "Halima, nurse of Muhammad, wrong Amina"
+  ]
+ },
+ "event/middle-pleistocene-transition": {
+  "title": "Middle Pleistocene Transition",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "same CLIMAP map as event/last-glacial-maximum/1, wrong for this note"
+  ]
+ },
+ "person/sundiata-keita": {
+  "title": "Sundiata Keita",
+  "type": "person",
+  "why": "only weak or not-lead images left",
+  "removed": []
+ },
+ "event/origin-of-multicellularity": {
+  "title": "Origin of Multicellularity",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "Blue Marble, not multicellularity",
+   "meteorite slab, not multicellularity"
+  ]
+ },
+ "event/polynesian-settlement-of-the-pacific": {
+  "title": "Polynesian Settlement of the Pacific",
+  "type": "event",
+  "why": "no image left",
+  "removed": [
+   "borrowed copy of removed image from culture/polynesians"
+  ]
+ }
+}

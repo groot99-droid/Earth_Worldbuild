@@ -1,0 +1,284 @@
+﻿id,title,slug,aliases,track,vault_region,arttalk_region,disciplines,gender,era,date_start,date_end,precision,tier,img_risk,status,batch,images_ok,dropout_reason,swap_for,notes
+E001,Albrecht Dürer,durer,,existing,Europe,,painting,M,Early Modern Period,1471,1528,exact,,,existing,,,,,
+E002,Alice Guy-Blaché,alice-guy-blache,,existing,Europe,,film,F,Industrial Age,1873,1968,year,,,existing,,,,,
+E003,Alphonse Mucha,alphonse-mucha,,existing,Europe,,design,M,Industrial Age,1860,1939,year,,,existing,,,,,
+E004,Amir Khusrau,amir-khusrau,,existing,South Asia,,literature,M,Medieval Period,1253,1325,year,,,existing,,,,,
+E005,Amrita Sher-Gil,amrita-sher-gil,,existing,South Asia,,painting,F,Industrial Age,1913,1941,year,,,existing,,,,,
+E006,Andrea Palladio,andrea-palladio,,existing,Europe,,architecture,M,Early Modern Period,1508,1580,year,,,existing,,,,,
+E007,Antoni Gaudí,antoni-gaudi,,existing,Europe,,architecture,M,Industrial Age,1852,1926,exact,,,existing,,,,,
+E008,Artemisia Gentileschi,artemisia-gentileschi,,existing,Europe,,painting,F,Early Modern Period,1593,1654,approx,,,existing,,,,,
+E009,Basawan,basawan,,existing,South Asia,,painting,M,Early Modern Period,1560,1600,approx,,,existing,,,,,
+E010,Behzad,behzad,,existing,Iranian Plateau,,painting,M,Medieval Period,1455,1535,approx,,,existing,,,,,
+E011,Buster Keaton,buster-keaton,,existing,North America,,film,M,Industrial Age,1895,1966,year,,,existing,,,,,
+E012,Caravaggio,caravaggio,,existing,Europe,,painting,M,Early Modern Period,1571,1610,year,,,existing,,,,,
+E013,Charles Rennie Mackintosh,charles-rennie-mackintosh,,existing,Europe,,"design, architecture",M,Industrial Age,1868,1928,year,,,existing,,,,,
+E014,Christopher Dresser,christopher-dresser,,existing,Europe,,design,M,Industrial Age,1834,1904,year,,,existing,,,,,
+E015,Christopher Wren,christopher-wren,,existing,Europe,,architecture,M,Early Modern Period,1632,1723,year,,,existing,,,,,
+E016,Claude Monet,monet,,existing,Europe,,painting,M,Industrial Age,1840,1926,exact,,,existing,,,,,
+E017,Diego Velázquez,velazquez,,existing,Europe,,painting,M,Early Modern Period,1599,1660,year,,,existing,,,,,
+E018,Edvard Munch,munch,,existing,Europe,,painting,M,Industrial Age,1863,1944,exact,,,existing,,,,,
+E019,Francisco Goya,goya,,existing,Europe,,painting,M,Industrial Age,1746,1828,exact,,,existing,,,,,
+E020,Frank Lloyd Wright,frank-lloyd-wright,,existing,North America,,architecture,M,Industrial Age,1867,1959,year,,,existing,,,,,
+E021,Georges Méliès,georges-melies,,existing,Europe,,film,M,Industrial Age,1861,1938,year,,,existing,,,,,
+E022,Giotto,giotto,,existing,Europe,,painting,M,Medieval Period,1267,1337,approx,,,existing,,,,,
+E023,Gustav Klimt,klimt,,existing,Europe,,painting,M,Industrial Age,1862,1918,exact,,,existing,,,,,
+E024,Henry Ossawa Tanner,henry-ossawa-tanner,,existing,Europe,,painting,M,Industrial Age,1859,1937,exact,,,existing,,,,,
+E025,Hieronymus Bosch,bosch,,existing,Europe,,painting,M,Medieval Period,1450,1516,approx,,,existing,,,,,
+E026,Hilma af Klint,hilma-af-klint,,existing,Europe,,painting,F,Industrial Age,1862,1944,exact,,,existing,,,,,
+E027,J. M. W. Turner,turner,,existing,Europe,,painting,M,Industrial Age,1775,1851,exact,,,existing,,,,,
+E028,Jan van Eyck,van-eyck,,existing,Europe,,painting,M,Medieval Period,1390,1441,approx,,,existing,,,,,
+E029,Jane Austen,jane-austen,,existing,Europe,,literature,F,Industrial Age,1775,1817,year,,,existing,,,,,
+E030,Jeong Seon,jeong-seon,,existing,East Asia,,painting,M,Early Modern Period,1676,1759,year,,,existing,,,,,
+E031,Johannes Vermeer,vermeer,,existing,Europe,,painting,M,Early Modern Period,1632,1675,year,,,existing,,,,,
+E032,José María Velasco,velasco,,existing,Mesoamerica,,painting,M,Industrial Age,1840,1912,exact,,,existing,,,,,
+E033,Katsushika Hokusai,hokusai,,existing,East Asia,,painting,M,Industrial Age,1760,1849,year,,,existing,,,,,
+E034,Leo Tolstoy,leo-tolstoy,,existing,Europe,,literature,M,Industrial Age,1828,1910,year,,,existing,,,,,
+E035,Leonardo da Vinci,leonardo-da-vinci,,existing,Europe,,painting,M,Medieval Period,1452,1519,exact,,,existing,,,,,
+E036,Louis Comfort Tiffany,louis-comfort-tiffany,,existing,North America,,design,M,Industrial Age,1848,1933,year,,,existing,,,,,
+E037,Lumière Brothers,lumiere-brothers,,existing,Europe,,film,M,Industrial Age,1862,1954,year,,,existing,,,,,
+E038,Mary Cassatt,mary-cassatt,,existing,Europe,,painting,F,Industrial Age,1844,1926,exact,,,existing,,,,,
+E039,Michelangelo,michelangelo,,existing,Europe,,"sculpture, painting, architecture",M,Early Modern Period,1475,1564,exact,,,existing,,,,,
+E040,Mimar Sinan,mimar-sinan,,existing,Levant and Anatolia,,architecture,M,Early Modern Period,1489,1588,approx,,,existing,,,,,
+E041,Murasaki Shikibu,murasaki-shikibu,,existing,East Asia,,literature,F,Medieval Period,973,1014,approx,,,existing,,,,,
+E042,Pieter Bruegel the Elder,bruegel,,existing,Europe,,painting,M,Early Modern Period,1525,1569,approx,,,existing,,,,,
+E043,Raja Ravi Varma,raja-ravi-varma,,existing,South Asia,,painting,M,Industrial Age,1848,1906,exact,,,existing,,,,,
+E044,Rembrandt van Rijn,rembrandt,,existing,Europe,,painting,M,Early Modern Period,1606,1669,exact,,,existing,,,,,
+E045,Rumi,rumi,,existing,Levant and Anatolia,,literature,M,Medieval Period,1207,1273,year,,,existing,,,,,
+E046,Sergei Eisenstein,sergei-eisenstein,,existing,Europe,,film,M,Industrial Age,1898,1948,year,,,existing,,,,,
+E047,Sesshū Tōyō,sesshu,,existing,East Asia,,painting,M,Medieval Period,1420,1506,year,,,existing,,,,,
+E048,Shen Zhou,shen-zhou,,existing,East Asia,,painting,M,Medieval Period,1427,1509,year,,,existing,,,,,
+E049,Sofonisba Anguissola,sofonisba-anguissola,,existing,Europe,,painting,F,Early Modern Period,1532,1629,approx,,,existing,,,,,
+E050,Utagawa Hiroshige,hiroshige,,existing,East Asia,,painting,M,Industrial Age,1797,1858,year,,,existing,,,,,
+E051,Vincent van Gogh,van-gogh,,existing,Europe,,painting,M,Industrial Age,1853,1890,exact,,,existing,,,,,
+E052,Wassily Kandinsky,kandinsky,,existing,Europe,,painting,M,Industrial Age,1866,1944,exact,,,existing,,,,,
+E053,William Morris,william-morris,,existing,Europe,,design,M,Industrial Age,1834,1896,year,,,existing,,,,,
+A054,Élisabeth Vigée Le Brun,elisabeth-vigee-le-brun,Vigée Le Brun; Elisabeth Vigee Le Brun,ill,Europe,Europe,Painting,F,,,,,A,,candidate,,,,,
+A055,Judith Leyster,judith-leyster,,ill,Europe,Europe,Painting,F,,,,,A,,candidate,,,,,
+A056,Maria Sibylla Merian,maria-sibylla-merian,,ill,Europe,Europe,Painting,F,,,,,A,,candidate,,,,,
+A057,Käthe Kollwitz,kathe-kollwitz,,ill,Europe,Europe,Painting,F,,,,,B,,candidate,,,,,
+A058,Camille Claudel,camille-claudel,,ill,Europe,Europe,Sculpture,F,,,,,B,,candidate,,,,,
+A059,Gian Lorenzo Bernini,gian-lorenzo-bernini,Bernini,ill,Europe,Europe,Sculpture,M,,,,,A,,candidate,,,,,
+A060,Hildegard of Bingen,hildegard-of-bingen,Hildegard von Bingen,ill,Europe,Europe,Music,F,,,,,A,,candidate,,,,,
+A061,Johann Sebastian Bach,johann-sebastian-bach,J. S. Bach; Bach,ill,Europe,Europe,Music,M,,,,,A,,candidate,,,,,
+A062,Clara Schumann,clara-schumann,,ill,Europe,Europe,Music,F,,,,,A,,candidate,,,,,
+A063,William Shakespeare,william-shakespeare,Shakespeare,ill,Europe,Europe,Theatre,M,,,,,A,,candidate,,,,,
+A064,Christine de Pizan,christine-de-pizan,,ill,Europe,Europe,Literature,F,,,,,A,,candidate,,,,,
+A065,Julia Margaret Cameron,julia-margaret-cameron,,ill,Europe,Europe,Photography,F,,,,,A,,candidate,,,,,
+A066,Marie Taglioni,marie-taglioni,,ill,Europe,Europe,Dance,F,,,,,A,,candidate,,,,,
+A067,Homer,homer,,ill,Mediterranean Basin,Europe,Literature,M,,,,,A,,candidate,,,,,low-confidence identity/dates: state in confidence low and Facts
+A068,Wallada bint al-Mustakfi,wallada-bint-al-mustakfi,,ill,Mediterranean Basin,Europe,Literature,F,,,,,A,Y,candidate,,,,,high image risk
+A069,Exekias,exekias,,ill,Mediterranean Basin,Europe,Craft,M,,,,,A,,candidate,,,,,
+A070,Phidias,phidias,Pheidias,ill,Mediterranean Basin,Europe,Sculpture,M,,,,,A,,candidate,,,,,
+A071,Ictinus,ictinus,Iktinos,ill,Mediterranean Basin,Europe,Architecture,M,,,,,A,,candidate,,,,,
+A072,Vitruvius,vitruvius,,ill,Mediterranean Basin,Europe,Architecture,M,,,,,A,,candidate,,,,,
+A073,Sophocles,sophocles,,ill,Mediterranean Basin,Europe,Theatre,M,,,,,A,,candidate,,,,,
+A074,Aeschylus,aeschylus,,ill,Mediterranean Basin,Europe,Theatre,M,,,,,A,,candidate,,,,,
+A075,Kassia,kassia,,ill,Mediterranean Basin,Europe,Music,F,,,,,A,,candidate,,,,,
+A076,Ziryab,ziryab,,ill,Mediterranean Basin,Europe,Music,M,,,,,A,,candidate,,,,,
+A077,Toros Roslin,toros-roslin,,ill,Levant and Anatolia,West & Central Asia,Painting,M,,,,,A,,candidate,,,,,
+A078,Matrakçı Nasuh,matrakc-nasuh,,ill,Levant and Anatolia,West & Central Asia,Painting,M,,,,,A,,candidate,,,,,
+A079,Mihri Müşfik Hanım,mihri-musfik-hanm,,ill,Levant and Anatolia,West & Central Asia,Painting,F,,,,,B,Y,candidate,,,,,high image risk
+A080,Sedefkâr Mehmed Ağa,sedefkar-mehmed-aga,,ill,Levant and Anatolia,West & Central Asia,Architecture,M,,,,,A,,candidate,,,,,
+A081,Apollodorus of Damascus,apollodorus-of-damascus,,ill,Levant and Anatolia,West & Central Asia,Architecture,M,,,,,A,,candidate,,,,,
+A082,Komitas,komitas,,ill,Levant and Anatolia,West & Central Asia,Music,M,,,,,B,,candidate,,,,,
+A083,May Ziadeh,may-ziadeh,,ill,Levant and Anatolia,West & Central Asia,Literature,F,,,,,B,Y,candidate,,,,,high image risk
+A084,Ibn Muqla,ibn-muqla,Ibn Muqlah,ill,Mesopotamia,West & Central Asia,Calligraphy,M,,,,,A,,candidate,,,,,
+A085,Yahya al-Wasiti,yahya-al-wasiti,,ill,Mesopotamia,West & Central Asia,Painting,M,,,,,A,,candidate,,,,,
+A086,Safi al-Din al-Urmawi,safi-al-din-al-urmawi,,ill,Mesopotamia,West & Central Asia,Music,M,,,,,A,,candidate,,,,,
+A087,Arib al-Ma'muniyya,arib-al-ma-muniyya,,ill,Mesopotamia,West & Central Asia,Music,F,,,,,A,Y,candidate,,,,,high image risk
+A088,Zaha Hadid,zaha-hadid,,tierP,Mesopotamia,West & Central Asia,Architecture,F,,,,,P,,candidate,,,,,
+A089,Ferdowsi,ferdowsi,Firdausi,ill,Iranian Plateau,West & Central Asia,Literature,M,,,,,A,,candidate,,,,,
+A090,Hafez,hafez,Hafiz,ill,Iranian Plateau,West & Central Asia,Literature,M,,,,,A,,candidate,,,,,
+A091,Parvin E'tesami,parvin-e-tesami,,ill,Iranian Plateau,West & Central Asia,Literature,F,,,,,B,,candidate,,,,,
+A092,Sultan Ali Mashhadi,sultan-ali-mashhadi,,ill,Iranian Plateau,West & Central Asia,Calligraphy,M,,,,,A,,candidate,,,,,
+A093,Mir Emad Hassani,mir-emad-hassani,,ill,Iranian Plateau,West & Central Asia,Calligraphy,M,,,,,A,,candidate,,,,,
+A094,Reza Abbasi,reza-abbasi,,ill,Iranian Plateau,West & Central Asia,Painting,M,,,,,A,,candidate,,,,,
+A095,Antoin Sevruguin,antoin-sevruguin,,ill,Iranian Plateau,West & Central Asia,Photography,M,,,,,B,,candidate,,,,,
+A096,Imru' al-Qais,imru-al-qais,,ill,Arabian Peninsula,West & Central Asia,Literature,M,,,,,A,Y,candidate,,,,,high image risk; low-confidence identity/dates: state in confidence low and Facts
+A097,Al-Khansa,al-khansa,,ill,Arabian Peninsula,West & Central Asia,Literature,F,,,,,A,Y,candidate,,,,,high image risk
+A098,Rudaki,rudaki,,ill,Central Asian Oases,West & Central Asia,Literature,M,,,,,A,,candidate,,,,,
+A099,Babur,babur,Zahir-ud-din Muhammad Babur,ill,Central Asian Oases,West & Central Asia,Literature,M,,,,,A,,candidate,,,,,
+A100,Nodira,nodira,,ill,Central Asian Oases,West & Central Asia,Literature,F,,,,,A,Y,candidate,,,,,high image risk
+A101,Mir Ali Hiravi,mir-ali-hiravi,,ill,Central Asian Oases,West & Central Asia,Calligraphy,M,,,,,A,,candidate,,,,,
+A102,Zanabazar,zanabazar,,ill,Central Asian Steppe,West & Central Asia,Sculpture,M,,,,,A,,candidate,,,,,
+A103,Balduugiin Sharav,balduugiin-sharav,,ill,Central Asian Steppe,West & Central Asia,Painting,M,,,,,B,,candidate,,,,,
+A104,Dina Nurpeisova,dina-nurpeisova,,ill,Central Asian Steppe,West & Central Asia,Music,F,,,,,B,Y,candidate,,,,,high image risk
+A105,Aron of Kangeq,aron-of-kangeq,Aron Kleist,ill,Siberia and the Arctic,Europe,Painting,M,,,,,A,,candidate,,,,,
+A106,Johan Turi,johan-turi,,ill,Siberia and the Arctic,Europe,Literature,M,,,,,B,,candidate,,,,,
+A107,Kalidasa,kalidasa,,ill,South Asia,South Asia,Theatre,M,,,,,A,,candidate,,,,,low-confidence identity/dates: state in confidence low and Facts
+A108,Bharata Muni,bharata-muni,,ill,South Asia,South Asia,Dance,M,,,,,A,,candidate,,,,,low-confidence identity/dates: state in confidence low and Facts
+A109,Bangalore Nagarathnamma,bangalore-nagarathnamma,,ill,South Asia,South Asia,Dance,F,,,,,B,Y,candidate,,,,,high image risk
+A110,Ustad Ahmad Lahori,ustad-ahmad-lahori,,ill,South Asia,South Asia,Architecture,M,,,,,A,,candidate,,,,,
+A111,Tansen,tansen,Miyan Tansen,ill,South Asia,South Asia,Music,M,,,,,A,,candidate,,,,,
+A112,Gauhar Jaan,gauhar-jaan,,ill,South Asia,South Asia,Music,F,,,,,B,,candidate,,,,,
+A113,Ustad Mansur,ustad-mansur,Mansur (painter),ill,South Asia,South Asia,Painting,M,,,,,A,,candidate,,,,,
+A114,Gulbadan Begum,gulbadan-begum,,ill,South Asia,South Asia,Literature,F,,,,,A,,candidate,,,,,
+A115,Akka Mahadevi,akka-mahadevi,,ill,South Asia,South Asia,Literature,F,,,,,A,Y,candidate,,,,,high image risk
+A116,Andal,andal,,ill,South Asia,South Asia,Literature,F,,,,,A,,candidate,,,,,low-confidence identity/dates: state in confidence low and Facts
+A117,Rabindranath Tagore,rabindranath-tagore,,ill,South Asia,South Asia,Literature,M,,,,,B,,candidate,,,,,
+A118,Gu Kaizhi,gu-kaizhi,,ill,East Asia,East Asia,Painting,M,,,,,A,,candidate,,,,,
+A119,Guan Daosheng,guan-daosheng,,ill,East Asia,East Asia,Painting,F,,,,,A,,candidate,,,,,
+A120,Shin Saimdang,shin-saimdang,,ill,East Asia,East Asia,Painting,F,,,,,A,,candidate,,,,,
+A121,Katsushika Ōi,katsushika-oi,Katsushika Oi,ill,East Asia,East Asia,Painting,F,,,,,A,,candidate,,,,,
+A122,Wang Xizhi,wang-xizhi,,ill,East Asia,East Asia,Calligraphy,M,,,,,A,,candidate,,,,,
+A123,Cai Wenji,cai-wenji,,ill,East Asia,East Asia,Music,F,,,,,A,,candidate,,,,,
+A124,Li Bai,li-bai,,ill,East Asia,East Asia,Literature,M,,,,,A,,candidate,,,,,
+A125,Sei Shōnagon,sei-shonagon,Sei Shonagon,ill,East Asia,East Asia,Literature,F,,,,,A,,candidate,,,,,
+A126,Yosano Akiko,yosano-akiko,,ill,East Asia,East Asia,Literature,F,,,,,B,,candidate,,,,,
+A127,Guan Hanqing,guan-hanqing,,ill,East Asia,East Asia,Theatre,M,,,,,A,,candidate,,,,,
+A128,Zeami Motokiyo,zeami-motokiyo,Zeami,ill,East Asia,East Asia,Theatre,M,,,,,A,,candidate,,,,,
+A129,Unkei,unkei,,ill,East Asia,East Asia,Sculpture,M,,,,,A,,candidate,,,,,
+A130,Izumo no Okuni,izumo-no-okuni,,ill,East Asia,East Asia,Dance,F,,,,,A,,candidate,,,,,low-confidence identity/dates: state in confidence low and Facts
+A131,Otagaki Rengetsu,otagaki-rengetsu,,ill,East Asia,East Asia,Craft,F,,,,,A,,candidate,,,,,
+A132,Raden Saleh,raden-saleh,,ill,Southeast Asia,Southeast Asia,Painting,M,,,,,A,,candidate,,,,,
+A133,Juan Luna,juan-luna,,ill,Southeast Asia,Southeast Asia,Painting,M,,,,,A,,candidate,,,,,
+A134,Nguyễn An,nguyen-an,,ill,Southeast Asia,Southeast Asia,Architecture,M,,,,,A,,candidate,,,,,
+A135,Luang Pradit Phairoh,luang-pradit-phairoh,,ill,Southeast Asia,Southeast Asia,Music,M,,,,,B,,candidate,,,,,
+A136,Hamengkubuwono I,hamengkubuwono-i,,ill,Southeast Asia,Southeast Asia,Dance,M,,,,,A,,candidate,,,,,
+A137,Đoàn Thị Điểm,oan-thi-iem,,ill,Southeast Asia,Southeast Asia,Literature,F,,,,,A,Y,candidate,,,,,high image risk
+A138,Sunthorn Phu,sunthorn-phu,,ill,Southeast Asia,Southeast Asia,Literature,M,,,,,A,,candidate,,,,,
+A139,Hồ Xuân Hương,ho-xuan-huong,,ill,Southeast Asia,Southeast Asia,Literature,F,,,,,A,,candidate,,,,,
+A140,Kartini,kartini,Raden Adjeng Kartini,ill,Southeast Asia,Southeast Asia,Literature,F,,,,,A,,candidate,,,,,
+A141,Imhotep,imhotep,,ill,Nile Valley,Africa,Architecture,M,,,,,A,,candidate,,,,,low-confidence identity/dates: state in confidence low and Facts
+A142,Senenmut,senenmut,,ill,Nile Valley,Africa,Architecture,M,,,,,A,,candidate,,,,,
+A143,Thutmose (sculptor),thutmose,Thutmose,ill,Nile Valley,Africa,Sculpture,M,,,,,A,,candidate,,,,,
+A144,Mahmoud Mokhtar,mahmoud-mokhtar,,ill,Nile Valley,Africa,Sculpture,M,,,,,B,,candidate,,,,,
+A145,Ibn Daniyal,ibn-daniyal,,ill,Nile Valley,Africa,Theatre,M,,,,,A,Y,candidate,,,,,high image risk
+A146,Sayed Darwish,sayed-darwish,,ill,Nile Valley,Africa,Music,M,,,,,A,,candidate,,,,,
+A147,Saint Yared,saint-yared,,ill,Sub-Saharan Africa,Africa,Music,M,,,,,A,,candidate,,,,,low-confidence identity/dates: state in confidence low and Facts
+A148,Enoch Sontonga,enoch-sontonga,,ill,Sub-Saharan Africa,Africa,Music,M,,,,,A,,candidate,,,,,
+A149,Fre Seyon,fre-seyon,,ill,Sub-Saharan Africa,Africa,Painting,M,,,,,A,,candidate,,,,,low-confidence identity/dates: state in confidence low and Facts
+A150,Abu Ishaq al-Sahili,abu-ishaq-al-sahili,,ill,Sub-Saharan Africa,Africa,Architecture,M,,,,,A,,candidate,,,,,
+A151,Olowe of Ise,olowe-of-ise,Olowe,ill,Sub-Saharan Africa,Africa,Sculpture,M,,,,,B,,candidate,,,,,
+A152,Mwana Kupona,mwana-kupona,,ill,Sub-Saharan Africa,Africa,Literature,F,,,,,A,Y,candidate,,,,,high image risk
+A153,Nana Asma'u,nana-asma-u,,ill,Sub-Saharan Africa,Africa,Literature,F,,,,,A,Y,candidate,,,,,high image risk
+A154,Thomas Mofolo,thomas-mofolo,,ill,Sub-Saharan Africa,Africa,Literature,M,,,,,B,Y,candidate,,,,,high image risk
+A155,Ibrahim Njoya,ibrahim-njoya,,ill,Sub-Saharan Africa,Africa,Design,M,,,,,B,,candidate,,,,,
+A156,Tommy McRae,tommy-mcrae,,ill,Oceania,Oceania,Painting,M,,,,,A,,candidate,,,,,
+A157,William Barak,william-barak,,ill,Oceania,Oceania,Painting,M,,,,,A,,candidate,,,,,
+A158,Raharuhi Rukupō,raharuhi-rukupo,,ill,Oceania,Oceania,Sculpture,M,,,,,A,,candidate,,,,,
+A159,Tene Waitere,tene-waitere,,ill,Oceania,Oceania,Sculpture,M,,,,,B,,candidate,,,,,
+A160,Rangi Topeora,rangi-topeora,,ill,Oceania,Oceania,Music,F,,,,,A,Y,candidate,,,,,high image risk
+A161,Kalākaua,kalakaua,Kalakaua,ill,Oceania,Oceania,Dance,M,,,,,A,,candidate,,,,,
+A162,Harriet Powers,harriet-powers,,ill,North America,Americas,Craft,F,,,,,A,,candidate,,,,,
+A163,Nampeyo,nampeyo,,ill,North America,Americas,Craft,F,,,,,B,,candidate,,,,,
+A164,Louisa Keyser,louisa-keyser,,ill,North America,Americas,Craft,F,,,,,A,,candidate,,,,,
+A165,Edmonia Lewis,edmonia-lewis,,ill,North America,Americas,Sculpture,F,,,,,A,,candidate,,,,,
+A166,Scott Joplin,scott-joplin,,ill,North America,Americas,Music,M,,,,,A,,candidate,,,,,
+A167,Zitkala-Ša,zitkala-sa,,ill,North America,Americas,Literature,F,,,,,B,,candidate,,,,,
+A168,Loie Fuller,loie-fuller,,ill,North America,Americas,Dance,F,,,,,B,,candidate,,,,,
+A169,Lois Weber,lois-weber,,ill,North America,Americas,Film,F,,,,,B,,candidate,,,,,
+A170,Ira Aldridge,ira-aldridge,,ill,North America,Americas,Theatre,M,,,,,A,,candidate,,,,,
+A171,Marcos Cipac de Aquino,marcos-cipac-de-aquino,,ill,Mesoamerica,Americas,Painting,M,,,,,A,,candidate,,,,,low-confidence identity/dates: state in confidence low and Facts
+A172,Miguel Cabrera (painter),miguel-cabrera,Miguel Cabrera,ill,Mesoamerica,Americas,Painting,M,,,,,A,,candidate,,,,,
+A173,José Guadalupe Posada,jose-guadalupe-posada,,ill,Mesoamerica,Americas,Painting,M,,,,,A,,candidate,,,,,
+A174,Ángela Peralta,angela-peralta,,ill,Mesoamerica,Americas,Music,F,,,,,A,,candidate,,,,,
+A175,Juventino Rosas,juventino-rosas,,ill,Mesoamerica,Americas,Music,M,,,,,A,,candidate,,,,,
+A176,"Joseph Bologne, Chevalier de Saint-Georges",joseph-bologne-chevalier-de-saint-georges,Chevalier de Saint-Georges,ill,Caribbean and Atlantic World,Americas,Music,M,,,,,A,,candidate,,,,,
+A177,Vicente Escobar,vicente-escobar,,ill,Caribbean and Atlantic World,Americas,Painting,M,,,,,A,,candidate,,,,,
+A178,Gertrudis Gómez de Avellaneda,gertrudis-gomez-de-avellaneda,,ill,Caribbean and Atlantic World,Americas,Literature,F,,,,,A,,candidate,,,,,
+A179,Mary Prince,mary-prince,,ill,Caribbean and Atlantic World,Americas,Literature,F,,,,,A,,candidate,,,,,
+A180,Felipe Guamán Poma de Ayala,felipe-guaman-poma-de-ayala,,ill,Andes,Americas,Painting,M,,,,,A,,candidate,,,,,
+A181,Diego Quispe Tito,diego-quispe-tito,,ill,Andes,Americas,Painting,M,,,,,A,,candidate,,,,,
+A182,Francisco Tito Yupanqui,francisco-tito-yupanqui,,ill,Andes,Americas,Sculpture,M,,,,,A,,candidate,,,,,low-confidence identity/dates: state in confidence low and Facts
+A183,Clorinda Matto de Turner,clorinda-matto-de-turner,,ill,Andes,Americas,Literature,F,,,,,A,Y,candidate,,,,,high image risk
+A184,Daniel Alomía Robles,daniel-alomia-robles,,ill,Andes,Americas,Music,M,,,,,B,,candidate,,,,,
+A185,Aleijadinho,aleijadinho,Antônio Francisco Lisboa,ill,Amazon Basin and South American Lowlands,Americas,Sculpture,M,,,,,A,,candidate,,,,,
+A186,Chiquinha Gonzaga,chiquinha-gonzaga,,ill,Amazon Basin and South American Lowlands,Americas,Music,F,,,,,B,,candidate,,,,,
+A187,Maria Firmina dos Reis,maria-firmina-dos-reis,,ill,Amazon Basin and South American Lowlands,Americas,Literature,F,,,,,A,Y,candidate,,,,,high image risk
+A188,Oscar Niemeyer,oscar-niemeyer,,tierP,Amazon Basin and South American Lowlands,Americas,Architecture,M,,,,,P,,candidate,,,,,
+A189,Pablo Picasso,pablo-picasso,,text-only,Europe,,Painting,M,,,,,C,,candidate,,,,,
+A190,Igor Stravinsky,igor-stravinsky,,text-only,Europe,,Music,M,,,,,C,,candidate,,,,,
+A191,Bertolt Brecht,bertolt-brecht,,text-only,Europe,,Theatre,M,,,,,C,,candidate,,,,,
+A192,Georgia O'Keeffe,georgia-o-keeffe,,text-only,North America,,Painting,F,,,,,C,,candidate,,,,,
+A193,Martha Graham,martha-graham,,text-only,North America,,Dance,F,,,,,C,,candidate,,,,,
+A194,Tarsila do Amaral,tarsila-do-amaral,,text-only,Amazon Basin and South American Lowlands,,Painting,F,,,,,C,,candidate,,,,,
+A195,Wifredo Lam,wifredo-lam,,text-only,Caribbean and Atlantic World,,Painting,M,,,,,C,,candidate,,,,,
+A196,Emily Kame Kngwarreye,emily-kame-kngwarreye,,text-only,Oceania,,Painting,F,,,,,C,,candidate,,,,,
+A197,Yayoi Kusama,yayoi-kusama,,text-only,East Asia,,Painting,F,,,,,C,,candidate,,,,,"living: no date_end, public-record facts only"
+A198,Akira Kurosawa,akira-kurosawa,,text-only,East Asia,,Film,M,,,,,C,,candidate,,,,,
+A199,Ravi Shankar,ravi-shankar,,text-only,South Asia,,Music,M,,,,,C,,candidate,,,,,
+A200,Umm Kulthum,umm-kulthum,,text-only,Nile Valley,,Music,F,,,,,C,,candidate,,,,,
+A201,El Anatsui,el-anatsui,,text-only,Sub-Saharan Africa,,Sculpture,M,,,,,C,,candidate,,,,,"living: no date_end, public-record facts only"
+A202,Fela Kuti,fela-kuti,,text-only,Sub-Saharan Africa,,Music,M,,,,,C,,candidate,,,,,
+A203,Wole Soyinka,wole-soyinka,,text-only,Sub-Saharan Africa,,Literature,M,,,,,C,,candidate,,,,,"living: no date_end, public-record facts only"
+A204,Duke Ellington,duke-ellington,,text-only,North America,,Music,M,,,,,C,,reserve,,,,,text-only reserve
+A205,Diego Rivera,diego-rivera,,text-only,Mesoamerica,,Painting,M,,,,,C,,reserve,,,,,text-only reserve
+A206,Albert Namatjira,albert-namatjira,,text-only,Oceania,,Painting,M,,,,,C,,reserve,,,,,text-only reserve
+A207,Ousmane Sembène,ousmane-sembene,,text-only,Sub-Saharan Africa,,Film,M,,,,,C,,reserve,,,,,text-only reserve
+A208,Miriam Makeba,miriam-makeba,,text-only,Sub-Saharan Africa,,Music,F,,,,,C,,reserve,,,,,text-only reserve
+A209,Berthe Morisot,berthe-morisot,,ill,Europe,Europe,Painting,F,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A210,Rosalba Carriera,rosalba-carriera,,ill,Europe,Europe,Painting,F,,,,,,,reserve,,,,Gian Lorenzo Bernini,illustrated reserve; tier set at drafting
+A211,Auguste Rodin,auguste-rodin,,ill,Europe,Europe,Sculpture,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A212,Vaslav Nijinsky,vaslav-nijinsky,,ill,Europe,Europe,Dance,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A213,Hrotsvitha,hrotsvitha,,ill,Europe,Europe,Literature,F,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A214,Euripides,euripides,,ill,Mediterranean Basin,Europe,Theatre,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A215,Lysippos,lysippos,,ill,Mediterranean Basin,Europe,Sculpture,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A216,Terence,terence,,ill,Mediterranean Basin,Europe,Theatre,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A217,Abdulmecid Levni,abdulmecid-levni,Levni,ill,Levant and Anatolia,West & Central Asia,Painting,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A218,Kahlil Gibran,kahlil-gibran,,ill,Levant and Anatolia,West & Central Asia,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A219,Fatma Aliye Topuz,fatma-aliye-topuz,Fatma Aliye,ill,Levant and Anatolia,West & Central Asia,Literature,F,,,,,,,reserve,,,,Matrakçı Nasuh,illustrated reserve; tier set at drafting
+A220,Osman Hamdi Bey,osman-hamdi-bey,,ill,Levant and Anatolia,West & Central Asia,Painting,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A221,Shota Rustaveli,shota-rustaveli,,ill,Levant and Anatolia,West & Central Asia,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A222,Ibn al-Bawwab,ibn-al-bawwab,,ill,Mesopotamia,West & Central Asia,Calligraphy,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A223,Ulayya bint al-Mahdi,ulayya-bint-al-mahdi,,ill,Mesopotamia,West & Central Asia,Music,F,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A224,Nizami Ganjavi,nizami-ganjavi,Nizami,ill,Iranian Plateau,West & Central Asia,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A225,Omar Khayyam,omar-khayyam,,ill,Iranian Plateau,West & Central Asia,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A226,Kamal-ol-Molk,kamal-ol-molk,,ill,Iranian Plateau,West & Central Asia,Painting,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A227,Jahan Malek Khatun,jahan-malek-khatun,,ill,Iranian Plateau,West & Central Asia,Literature,F,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A228,Antarah ibn Shaddad,antarah-ibn-shaddad,,ill,Arabian Peninsula,West & Central Asia,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A229,Ali-Shir Nava'i,ali-shir-nava-i,,ill,Central Asian Oases,West & Central Asia,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A230,Magtymguly Pyragy,magtymguly-pyragy,,ill,Central Asian Oases,West & Central Asia,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A231,Abai Qunanbaiuly,abai-qunanbaiuly,,ill,Central Asian Steppe,West & Central Asia,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A232,Al-Farabi,al-farabi,,ill,Central Asian Steppe,West & Central Asia,Music,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A233,Platon Oyunsky,platon-oyunsky,,ill,Siberia and the Arctic,Europe,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A234,Nainsukh,nainsukh,,ill,South Asia,South Asia,Painting,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A235,Abanindranath Tagore,abanindranath-tagore,,ill,South Asia,South Asia,Painting,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A236,Lalleshwari,lalleshwari,Lal Ded,ill,South Asia,South Asia,Literature,F,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A237,Toru Dutt,toru-dutt,,ill,South Asia,South Asia,Literature,F,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A238,Lala Deen Dayal,lala-deen-dayal,,ill,South Asia,South Asia,Photography,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A239,Tyagaraja,tyagaraja,,ill,South Asia,South Asia,Music,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A240,Du Fu,du-fu,,ill,East Asia,East Asia,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A241,Shitao,shitao,,ill,East Asia,East Asia,Painting,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A242,Tang Ying,tang-ying,,ill,East Asia,East Asia,Craft,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A243,Ogata Kenzan,ogata-kenzan,,ill,East Asia,East Asia,Craft,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A244,Heo Nanseolheon,heo-nanseolheon,,ill,East Asia,East Asia,Literature,F,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A245,Uemura Shōen,uemura-shoen,,ill,East Asia,East Asia,Painting,F,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A246,Kim Jeong-hui,kim-jeong-hui,,ill,East Asia,East Asia,Calligraphy,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A247,Kusakabe Kimbei,kusakabe-kimbei,,ill,East Asia,East Asia,Photography,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A248,Krua In Khong,krua-in-khong,,ill,Southeast Asia,Southeast Asia,Music,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A249,Nguyễn Du,nguyen-du,,ill,Southeast Asia,Southeast Asia,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A250,Mpu Prapanca,mpu-prapanca,,ill,Southeast Asia,Southeast Asia,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A251,Dara Rasmi,dara-rasmi,,ill,Southeast Asia,Southeast Asia,Dance,F,,,,,,,reserve,,,,Luang Pradit Phairoh,illustrated reserve; tier set at drafting
+A252,Hemiunu,hemiunu,,ill,Nile Valley,Africa,Architecture,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A253,Ya'qub Sanu',ya-qub-sanu,,ill,Nile Valley,Africa,Theatre,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A254,Aziza Amir,aziza-amir,,ill,Nile Valley,Africa,Film,F,,,,,,,reserve,,,,Mahmoud Mokhtar,illustrated reserve; tier set at drafting
+A255,Muyaka bin Haji,muyaka-bin-haji,,ill,Sub-Saharan Africa,Africa,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A256,Sol Plaatje,sol-plaatje,,ill,Sub-Saharan Africa,Africa,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A257,Charles Goldie,charles-goldie,,ill,Oceania,Oceania,Painting,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A258,David Drake (potter),david-drake,Dave the Potter,ill,North America,Americas,Craft,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A259,Phillis Wheatley,phillis-wheatley,,ill,North America,Americas,Literature,F,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A260,Bessie Smith,bessie-smith,,ill,North America,Americas,Music,F,,,,,,,reserve,,,,Scott Joplin,illustrated reserve; tier set at drafting
+A261,Winslow Homer,winslow-homer,,ill,North America,Americas,Painting,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A262,Emily Carr,emily-carr,,ill,North America,Americas,Painting,F,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A263,Cristóbal de Villalpando,cristobal-de-villalpando,,ill,Mesoamerica,Americas,Painting,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A264,Manuel de Sumaya,manuel-de-sumaya,,ill,Mesoamerica,Americas,Music,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A265,Juan Francisco Manzano,juan-francisco-manzano,,ill,Caribbean and Atlantic World,Americas,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A266,Olaudah Equiano,olaudah-equiano,,ill,Caribbean and Atlantic World,Americas,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A267,Ignacio Cervantes,ignacio-cervantes,,ill,Caribbean and Atlantic World,Americas,Music,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A268,Marcos Zapata,marcos-zapata,,ill,Andes,Americas,Painting,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A269,Caspicara,caspicara,,ill,Andes,Americas,Sculpture,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A270,Juana Manuela Gorriti,juana-manuela-gorriti,,ill,Andes,Americas,Literature,F,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A271,Machado de Assis,machado-de-assis,,ill,Amazon Basin and South American Lowlands,Americas,Literature,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A272,Almeida Júnior,almeida-junior,,ill,Amazon Basin and South American Lowlands,Americas,Painting,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+A273,Victor Meirelles,victor-meirelles,,ill,Amazon Basin and South American Lowlands,Americas,Painting,M,,,,,,,reserve,,,,,illustrated reserve; tier set at drafting
+R001,Sappho,,,retro-tag,,,Literature,F,,,,,,,pending-approval,,,,,"existing general People note; needs user OK to add tags: [artist, <discipline>]"
+R002,Enheduanna,,,retro-tag,,,Literature,F,,,,,,,pending-approval,,,,,"existing general People note; needs user OK to add tags: [artist, <discipline>]"
+R003,Ban Zhao,,,retro-tag,,,Literature,F,,,,,,,pending-approval,,,,,"existing general People note; needs user OK to add tags: [artist, <discipline>]"
+R004,Li Qingzhao,,,retro-tag,,,Literature,F,,,,,,,pending-approval,,,,,"existing general People note; needs user OK to add tags: [artist, <discipline>]"
+R005,Mirabai,,,retro-tag,,,Literature,F,,,,,,,pending-approval,,,,,"existing general People note; needs user OK to add tags: [artist, <discipline>]"
+R006,Sor Juana Inés de la Cruz,,,retro-tag,,,Literature,F,,,,,,,pending-approval,,,,,"existing general People note; needs user OK to add tags: [artist, <discipline>]"
+R007,Frida Kahlo,,,retro-tag,,,Painting,F,,,,,,,pending-approval,,,,,"existing general People note; needs user OK to add tags: [artist, <discipline>]"
+R008,Liliuokalani,,,retro-tag,,,Music,F,,,,,,,pending-approval,,,,,"existing general People note; needs user OK to add tags: [artist, <discipline>]"
+R009,José Martí,,,retro-tag,,,Literature,M,,,,,,,pending-approval,,,,,"existing general People note; needs user OK to add tags: [artist, <discipline>]"
+R010,Tupaia,,,retro-tag,,,Painting,M,,,,,,,pending-approval,,,,,"existing general People note; needs user OK to add tags: [artist, <discipline>]"

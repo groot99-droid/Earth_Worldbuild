@@ -1,0 +1,2291 @@
+{
+ "era/cenozoic-era/1.jpg": {
+  "code": "O",
+  "reason": "coastline, not illustrative of the Cenozoic",
+  "auto": false,
+  "note": "era/cenozoic-era",
+  "credit": {
+   "file": "File:Torre Sant'Andrea.jpg",
+   "caption": "Torre Sant'Andrea",
+   "source": "https://commons.wikimedia.org/wiki/File:Torre_Sant%27Andrea.jpg",
+   "author": "Emanuele Petrachi (Petrescu)",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "via": "wikipedia-lead",
+   "w": 960,
+   "h": 720
+  }
+ },
+ "era/early-modern-period/2.jpg": {
+  "code": "O",
+  "reason": "Beijing pagoda, unrelated to Early Modern Period",
+  "auto": false,
+  "note": "era/early-modern-period",
+  "credit": {
+   "file": "File:Cishou Temple Pagoda.JPG",
+   "caption": "Cishou Temple Pagoda",
+   "source": "https://commons.wikimedia.org/wiki/File:Cishou_Temple_Pagoda.JPG",
+   "author": null,
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "via": "wikipedia-article",
+   "w": 720,
+   "h": 960
+  }
+ },
+ "era/early-modern-period/3.jpg": {
+  "code": "D",
+  "reason": "same file as event/american-revolution/1",
+  "auto": false,
+  "note": "era/early-modern-period",
+  "credit": {
+   "file": "File:Declaration independence.jpg",
+   "caption": "Declaration independence",
+   "source": "https://commons.wikimedia.org/wiki/File:Declaration_of_Independence_(1819),_by_John_Trumbull.jpg",
+   "author": "John Trumbull",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 630
+  }
+ },
+ "era/holocene-epoch/1.jpg": {
+  "code": "Q",
+  "reason": "generic world map, not about the Holocene",
+  "auto": false,
+  "note": "era/holocene-epoch",
+  "credit": {
+   "file": "File:Mollweide.jpg",
+   "caption": "Mollweide",
+   "source": "https://commons.wikimedia.org/wiki/File:Mollweide.jpg",
+   "author": "Ktrinko",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "wikipedia-lead",
+   "w": 960,
+   "h": 480
+  }
+ },
+ "era/industrial-age/3.jpg": {
+  "code": "Q",
+  "reason": "dark unreadable diagram",
+  "auto": false,
+  "note": "era/industrial-age",
+  "credit": {
+   "file": "File:Industrial Age company architecture.png",
+   "caption": "Industrial Age company architecture",
+   "source": "https://commons.wikimedia.org/wiki/File:Industrial_Age_company_architecture.png",
+   "author": "DavidJRostcheck",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 607
+  }
+ },
+ "era/industrial-age/4.jpg": {
+  "code": "O",
+  "reason": "Bronze Age site shown for the Industrial Age",
+  "auto": false,
+  "note": "era/industrial-age",
+  "credit": {
+   "file": "File:A Bronze Age industrial site^ - geograph.org.uk - 5748263.jpg",
+   "caption": "A Bronze Age industrial site^ - geograph.org.uk - 5748263",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Bronze_Age_industrial_site%5E_-_geograph.org.uk_-_5748263.jpg",
+   "author": "Richard Webb",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 640
+  }
+ },
+ "era/mesoproterozoic-era/2.jpg": {
+  "code": "O",
+  "reason": "generic Blue Marble, not Mesoproterozoic",
+  "auto": false,
+  "note": "era/mesoproterozoic-era",
+  "credit": {
+   "file": "File:The Blue Marble, AS17-148-22727.jpg",
+   "caption": "The Blue Marble, AS17-148-22727",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Blue_Marble,_AS17-148-22727.jpg",
+   "author": "Harrison Schmitt / Apollo 17",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 960
+  }
+ },
+ "era/mesozoic-era/3.jpg": {
+  "code": "O",
+  "reason": "random forest photo (Mesozoic)",
+  "auto": false,
+  "note": "era/mesozoic-era",
+  "credit": {
+   "file": "File:ProspectPemulwuypine.jpg",
+   "caption": "ProspectPemulwuypine",
+   "source": "https://commons.wikimedia.org/wiki/File:ProspectPemulwuypine.jpg",
+   "author": "Meganesia",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 360
+  }
+ },
+ "era/middle-paleolithic/1.jpg": {
+  "code": "O",
+  "reason": "Jurassic ammonite on the Middle Paleolithic note",
+  "auto": false,
+  "note": "era/middle-paleolithic",
+  "credit": {
+   "file": "File:Pleuroceras ammonite with no background.png",
+   "caption": "Pleuroceras ammonite with no background",
+   "source": "https://commons.wikimedia.org/wiki/File:Pleuroceras_ammonite_with_no_background.png",
+   "author": "Llez (H. Zell) .",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 960
+  }
+ },
+ "era/pleistocene-epoch/3.jpg": {
+  "code": "D",
+  "reason": "duplicate of event/the-agricultural-revolution/4, tiny chart",
+  "auto": false,
+  "note": "era/pleistocene-epoch",
+  "credit": {
+   "file": "File:Evolution of temperature in the Post-Glacial period according to Greenland ice cores.jpg",
+   "caption": "Evolution of temperature in the Post-Glacial period according to Greenland ice cores",
+   "source": "https://commons.wikimedia.org/wiki/File:Evolution_of_temperature_in_the_Post-Glacial_period_according_to_Greenland_ice_cores.jpg",
+   "author": "Daniel E. Platt, Marc Haber, Magda Bou Dagher-Kharrat, Bouchra Douaihy, Georges Khazen, Maziar Ashrafian Bonab, Angélique Salloum, Francis Mouzaya, Donata Luiselli, Chris Tyler-Smith, Colin Renfrew, Elizabeth Matisoo-Smith & Pierre A. Zalloua",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 267
+  }
+ },
+ "era/proterozoic-eon/2.jpg": {
+  "code": "O",
+  "reason": "Gondwana at 420 Ma is Silurian, not Proterozoic",
+  "auto": false,
+  "note": "era/proterozoic-eon",
+  "credit": {
+   "file": "File:Gondwana 420 Ma.png",
+   "caption": "Gondwana 420 Ma",
+   "source": "https://commons.wikimedia.org/wiki/File:Gondwana_420_Ma.png",
+   "author": "Fama Clamosa",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 490
+  }
+ },
+ "era/proterozoic-eon/3.jpg": {
+  "code": "D",
+  "reason": "duplicate of event/assembly-of-rodinia/1",
+  "auto": false,
+  "note": "era/proterozoic-eon",
+  "credit": {
+   "file": "File:Rodinia 900Ma.jpg",
+   "caption": "Rodinia 900Ma",
+   "source": "https://commons.wikimedia.org/wiki/File:Rodinia_900Ma.jpg",
+   "author": "Fama Clamosa",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 500
+  }
+ },
+ "event/amazonian-urbanism-and-dark-earths/1.jpg": {
+  "code": "X",
+  "reason": "photo of two private individuals matched by the name Urban (Commons search false positive); also the donor image",
+  "auto": false,
+  "note": "event/amazonian-urbanism-and-dark-earths",
+  "credit": {
+   "file": "File:2025-10-09-Revolution-1989-Jubilaeum-13-Elke-Urban-u-Christian-Scheibler.jpg",
+   "caption": "2025-10-09-Revolution-1989-Jubilaeum-13-Elke-Urban-u-Christian-Scheibler",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-10-09-Revolution-1989-Jubilaeum-13-Elke-Urban-u-Christian-Scheibler.jpg",
+   "author": "Oliver Kloss",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "via": "borrowed from note: The Urban Revolution",
+   "w": 960,
+   "h": 720,
+   "borrowed_from": "event/the-urban-revolution"
+  }
+ },
+ "event/armenian-genocide/3.jpg": {
+  "code": "S",
+  "reason": "graphic photograph of the dead, not suitable as a card image",
+  "auto": false,
+  "note": "event/armenian-genocide",
+  "credit": {
+   "file": "File:Ambassador Morgenthau's Story p314.jpg",
+   "caption": "Ambassador Morgenthau's Story p314",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambassador_Morgenthau%27s_Story_p314.jpg",
+   "author": "Henry Morgenthau",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 656
+  }
+ },
+ "event/armenian-genocide/4.jpg": {
+  "code": "S",
+  "reason": "distressing photograph, not for a card",
+  "auto": false,
+  "note": "event/armenian-genocide",
+  "credit": {
+   "file": "File:Armenian woman kneeling beside dead child in field.png",
+   "caption": "Armenian woman kneeling beside dead child in field",
+   "source": "https://commons.wikimedia.org/wiki/File:Armenian_woman_kneeling_beside_dead_child_in_field.png",
+   "author": "en:American Committee for Relief in the Near East",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 601
+  }
+ },
+ "event/banded-iron-formations/2.jpg": {
+  "code": "O",
+  "reason": "amethyst crystal unrelated to banded iron formations",
+  "auto": false,
+  "note": "event/banded-iron-formations",
+  "credit": {
+   "file": "File:Amethyst sceptre2.jpg",
+   "caption": "Amethyst sceptre2",
+   "source": "https://commons.wikimedia.org/wiki/File:Amethyst_sceptre2.jpg",
+   "author": "Didier Descouens",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 782,
+   "h": 960
+  }
+ },
+ "event/bengal-famine-of-1943/1.jpg": {
+  "code": "S",
+  "reason": "distressing photograph, not for a card",
+  "auto": false,
+  "note": "event/bengal-famine-of-1943",
+  "credit": {
+   "file": "File:Dead or dying children on a Calcutta street (the Statesman 22 August 1943).jpg",
+   "caption": "Dead or dying children on a Calcutta street (the Statesman 22 August 1943)",
+   "source": "https://commons.wikimedia.org/wiki/File:Dead_or_dying_children_on_a_Calcutta_street_(the_Statesman_22_August_1943).jpg",
+   "author": "The Statesman, Calcutta, India",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-lead",
+   "w": 960,
+   "h": 587
+  }
+ },
+ "event/bengal-famine-of-1943/2.jpg": {
+  "code": "O",
+  "reason": "RAF Hurricanes unrelated to the famine",
+  "auto": false,
+  "note": "event/bengal-famine-of-1943",
+  "credit": {
+   "file": "File:67 Sqn Hurricanes.jpg",
+   "caption": "67 Sqn Hurricanes",
+   "source": "https://commons.wikimedia.org/wiki/File:67_Sqn_Hurricanes.jpg",
+   "author": "No 9 Army Film & Photographic Section, Army Film & Photographic Unit",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 656
+  }
+ },
+ "event/black-death/1.jpg": {
+  "code": "S",
+  "reason": "medical photo of gangrene, poor card image",
+  "auto": false,
+  "note": "event/black-death",
+  "credit": {
+   "file": "File:Acral gangrene due to plague.jpg",
+   "caption": "Acral gangrene due to plague",
+   "source": "https://commons.wikimedia.org/wiki/File:Acral_gangrene_due_to_plague.jpg",
+   "author": "Photo Credit: Content Providers(s): CDC Original uploaderL M123 at en.wikipedia",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 637
+  }
+ },
+ "event/carboniferous-coal-forests/1.jpg": {
+  "code": "O",
+  "reason": "powerloom weaving photo on the Carboniferous coal forests note (borrowed)",
+  "auto": false,
+  "note": "event/carboniferous-coal-forests",
+  "credit": {
+   "file": "File:Powerloom weaving in 1835.jpg",
+   "caption": "Powerloom weaving in 1835",
+   "source": "https://commons.wikimedia.org/wiki/File:Powerloom_weaving_in_1835.jpg",
+   "author": "Illustrator T. Allom, Engraver J. Tingle",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "borrowed from note: Industrial Revolution",
+   "w": 960,
+   "h": 620,
+   "borrowed_from": "event/industrial-revolution"
+  }
+ },
+ "event/chinese-reform-and-opening/3.jpg": {
+  "code": "Q",
+  "reason": "tiny chart, unrelated",
+  "auto": false,
+  "note": "event/chinese-reform-and-opening",
+  "credit": {
+   "file": "File:China-wheat-prod.png",
+   "caption": "China-wheat-prod",
+   "source": "https://commons.wikimedia.org/wiki/File:China-wheat-prod.png",
+   "author": null,
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 300
+  }
+ },
+ "event/closure-of-the-isthmus-of-panama/1.jpg": {
+  "code": "O",
+  "reason": "Balboa voyage map is not the geological closure of the isthmus",
+  "auto": false,
+  "note": "event/closure-of-the-isthmus-of-panama",
+  "credit": {
+   "file": "File:Balboa Voyage 1513.PNG",
+   "caption": "Balboa Voyage 1513",
+   "source": "https://commons.wikimedia.org/wiki/File:Balboa_Voyage_1513.PNG",
+   "author": "No machine-readable author provided. Taichi assumed (based on copyright claims).",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 272
+  }
+ },
+ "event/cold-war/1.jpg": {
+  "code": "Q",
+  "reason": "logo of the Pan-European Picnic",
+  "auto": false,
+  "note": "event/cold-war",
+  "credit": {
+   "file": "File:00 Páneurópai Piknik emlékhely.jpg",
+   "caption": "00 Páneurópai Piknik emlékhely",
+   "source": "https://commons.wikimedia.org/wiki/File:00_P%C3%A1neur%C3%B3pai_Piknik_eml%C3%A9khely.jpg",
+   "author": "Kiss Tamás ( Kit36a at Hungarian Wikipedia )",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "wikipedia-article",
+   "w": 330,
+   "h": 506
+  }
+ },
+ "event/collapse-of-the-soviet-union/1.jpg": {
+  "code": "O",
+  "reason": "1730 map of the Russian Empire, not the Soviet collapse",
+  "auto": false,
+  "note": "event/collapse-of-the-soviet-union",
+  "credit": {
+   "file": "File:1730 map of the Russian Empire by Philipp Johann Strahlenberg.jpg",
+   "caption": "1730 map of the Russian Empire by Philipp Johann Strahlenberg",
+   "source": "https://commons.wikimedia.org/wiki/File:1730_map_of_the_Russian_Empire_by_Philipp_Johann_Strahlenberg.jpg",
+   "author": "Philipp Johann Strahlenberg engraverː Theodore Spendelowe in London.",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 605
+  }
+ },
+ "event/colonization-of-land/1.jpg": {
+  "code": "O",
+  "reason": "political decolonization map on a note about life colonizing land",
+  "auto": false,
+  "note": "event/colonization-of-land",
+  "credit": {
+   "file": "File:Descolonización - Decolonization.png",
+   "caption": "Descolonización - Decolonization",
+   "source": "https://commons.wikimedia.org/wiki/File:Descolonizaci%C3%B3n_-_Decolonization.png",
+   "author": "Universalis",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-lead",
+   "w": 960,
+   "h": 329
+  }
+ },
+ "event/colonization-of-land/2.jpg": {
+  "code": "O",
+  "reason": "1550 human colonization map, wrong subject",
+  "auto": false,
+  "note": "event/colonization-of-land",
+  "credit": {
+   "file": "File:Colonisation 1550.png",
+   "caption": "Colonisation 1550",
+   "source": "https://commons.wikimedia.org/wiki/File:Colonisation_1550.png",
+   "author": "ArdadN",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 421
+  }
+ },
+ "event/cretaceous-paleogene-extinction/3.jpg": {
+  "code": "O",
+  "reason": "golden toad, unrelated to the K-Pg extinction",
+  "auto": false,
+  "note": "event/cretaceous-paleogene-extinction",
+  "credit": {
+   "file": "File:Bufo periglenes2 cropped.jpg",
+   "caption": "Bufo periglenes2 cropped",
+   "source": "https://commons.wikimedia.org/wiki/File:Bufo_periglenes2_cropped.jpg",
+   "author": "Bufo_periglenes1.jpg : Charles H. Smith, vergrößert von Aglarech derivative work: Purpy Pupple ( talk )",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 760
+  }
+ },
+ "event/crusades/2.jpg": {
+  "code": "O",
+  "reason": "St Peter's dome, not the Crusades",
+  "auto": false,
+  "note": "event/crusades",
+  "credit": {
+   "file": "File:046CupolaSPietro.jpg",
+   "caption": "046CupolaSPietro",
+   "source": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+   "author": "MarkusMark",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 375
+  }
+ },
+ "event/crusades/3.jpg": {
+  "code": "O",
+  "reason": "Last Judgment fresco, not the Crusades",
+  "auto": false,
+  "note": "event/crusades",
+  "credit": {
+   "file": "File:11th century unknown painters - Last Judgment (detail) - WGA19745.jpg",
+   "caption": "11th century unknown painters - Last Judgment (detail) - WGA19745",
+   "source": "https://commons.wikimedia.org/wiki/File:11th_century_unknown_painters_-_Last_Judgment_(detail)_-_WGA19745.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 643
+  }
+ },
+ "event/digital-revolution/2.jpg": {
+  "code": "Q",
+  "reason": "unclear graphic",
+  "auto": false,
+  "note": "event/digital-revolution",
+  "credit": {
+   "file": "File:Rings of time Information Age (Digital Revolution).jpg",
+   "caption": "Rings of time Information Age (Digital Revolution)",
+   "source": "https://commons.wikimedia.org/wiki/File:Rings_of_time_Information_Age_(Digital_Revolution).jpg",
+   "author": "Petar Milošević",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 721,
+   "h": 960
+  }
+ },
+ "event/digital-revolution/3.jpg": {
+  "code": "Q",
+  "reason": "tiny flowchart",
+  "auto": false,
+  "note": "event/digital-revolution",
+  "credit": {
+   "file": "File:Three stages of the Information Age.png",
+   "caption": "Three stages of the Information Age",
+   "source": "https://commons.wikimedia.org/wiki/File:Three_stages_of_the_Information_Age.png",
+   "author": "Suroiranga",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 280
+  }
+ },
+ "event/divergence-of-the-hominin-lineage/1.jpg": {
+  "code": "O",
+  "reason": "Torre Sant'Andrea coast, unrelated to hominin divergence (borrowed)",
+  "auto": false,
+  "note": "event/divergence-of-the-hominin-lineage",
+  "credit": {
+   "file": "File:Torre Sant'Andrea.jpg",
+   "caption": "Torre Sant'Andrea",
+   "source": "https://commons.wikimedia.org/wiki/File:Torre_Sant%27Andrea.jpg",
+   "author": "Emanuele Petrachi (Petrescu)",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "via": "borrowed from note: Cenozoic Era",
+   "w": 960,
+   "h": 720,
+   "borrowed_from": "era/cenozoic-era"
+  }
+ },
+ "event/domestication-of-maize/1.jpg": {
+  "code": "O",
+  "reason": "insects, unrelated to maize",
+  "auto": false,
+  "note": "event/domestication-of-maize",
+  "credit": {
+   "file": "File:02-Indian-Insect-Life - Harold Maxwell-Lefroy - Kerria-Lacca.jpg",
+   "caption": "02-Indian-Insect-Life - Harold Maxwell-Lefroy - Kerria-Lacca",
+   "source": "https://commons.wikimedia.org/wiki/File:02-Indian-Insect-Life_-_Harold_Maxwell-Lefroy_-_Kerria-Lacca.jpg",
+   "author": "Harold Maxwell-Lefroy; artist F.M. Howlett",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "via": "wikipedia-article",
+   "w": 572,
+   "h": 960
+  }
+ },
+ "event/domestication-of-maize/2.jpg": {
+  "code": "O",
+  "reason": "rice planting, not maize",
+  "auto": false,
+  "note": "event/domestication-of-maize",
+  "credit": {
+   "file": "File:1962-05 1962年 海南岛乐东县 黎族民众插秧.jpg",
+   "caption": "1962-05 1962年 海南岛乐东县 黎族民众插秧",
+   "source": "https://commons.wikimedia.org/wiki/File:1962-05_1962%E5%B9%B4_%E6%B5%B7%E5%8D%97%E5%B2%9B%E4%B9%90%E4%B8%9C%E5%8E%BF_%E9%BB%8E%E6%97%8F%E6%B0%91%E4%BC%97%E6%8F%92%E7%A7%A7.jpg",
+   "author": "《人民画报》",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 470
+  }
+ },
+ "event/domestication-of-maize/3.jpg": {
+  "code": "O",
+  "reason": "mushrooms, not maize",
+  "auto": false,
+  "note": "event/domestication-of-maize",
+  "credit": {
+   "file": "File:20161028-AMS-LSC-0500 (30202109333).jpg",
+   "caption": "20161028-AMS-LSC-0500 (30202109333)",
+   "source": "https://commons.wikimedia.org/wiki/File:20161028-AMS-LSC-0500_(30202109333).jpg",
+   "author": "U.S. Department of Agriculture Lance Cheung/Visual Information Photographer/USDA/Lance Cheung",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 540
+  }
+ },
+ "event/domestication-of-maize/4.jpg": {
+  "code": "O",
+  "reason": "termites, unrelated to maize",
+  "auto": false,
+  "note": "event/domestication-of-maize",
+  "credit": {
+   "file": "File:Ancistrotermes latinotus.jpg",
+   "caption": "Ancistrotermes latinotus",
+   "source": "https://commons.wikimedia.org/wiki/File:Ancistrotermes_latinotus.jpg",
+   "author": "Alan Manson",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "via": "wikipedia-article",
+   "w": 572,
+   "h": 960
+  }
+ },
+ "event/emergence-of-symbolic-art/1.jpg": {
+  "code": "O",
+  "reason": "Glyptodon drawing, not symbolic art (borrowed)",
+  "auto": false,
+  "note": "event/emergence-of-symbolic-art",
+  "credit": {
+   "file": "File:Glyptodon old drawing.jpg",
+   "caption": "Glyptodon old drawing",
+   "source": "https://commons.wikimedia.org/wiki/File:Glyptodon_old_drawing.jpg",
+   "author": "Heinrich Harder (1858-1935)",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "borrowed from note: Paleolithic",
+   "w": 500,
+   "h": 315,
+   "borrowed_from": "era/paleolithic"
+  }
+ },
+ "event/emergence-of-the-genus-homo/1.jpg": {
+  "code": "O",
+  "reason": "Torre Sant'Andrea coast, unrelated to genus Homo (borrowed)",
+  "auto": false,
+  "note": "event/emergence-of-the-genus-homo",
+  "credit": {
+   "file": "File:Torre Sant'Andrea.jpg",
+   "caption": "Torre Sant'Andrea",
+   "source": "https://commons.wikimedia.org/wiki/File:Torre_Sant%27Andrea.jpg",
+   "author": "Emanuele Petrachi (Petrescu)",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "via": "borrowed from note: Divergence of the Hominin Lineage",
+   "w": 960,
+   "h": 720,
+   "borrowed_from": "event/divergence-of-the-hominin-lineage"
+  }
+ },
+ "event/fish-to-tetrapod-transition/2.jpg": {
+  "code": "D",
+  "reason": "same diagram as Fish-to-Tetrapod #1 in Russian",
+  "auto": false,
+  "note": "event/fish-to-tetrapod-transition",
+  "credit": {
+   "file": "File:Simplified phylogeny spanning the fish–tetrapod transition (ru).jpg",
+   "caption": "Simplified phylogeny spanning the fish–tetrapod transition (ru)",
+   "source": "https://commons.wikimedia.org/wiki/File:Simplified_phylogeny_spanning_the_fish%E2%80%93tetrapod_transition_(ru).jpg",
+   "author": "Per E. AHLBERG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 772
+  }
+ },
+ "event/formation-of-the-oceans/1.jpg": {
+  "code": "O",
+  "reason": "ocean salinity map, not the formation of the oceans",
+  "auto": false,
+  "note": "event/formation-of-the-oceans",
+  "credit": {
+   "file": "NASA PIA15799",
+   "caption": "NASA Aquarius Maps Ocean Salinity Structure",
+   "source": "https://images.nasa.gov/details/PIA15799",
+   "author": "NASA/JPL-Caltech/GSFC",
+   "license": "NASA media (public domain)",
+   "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+   "via": "nasa-images"
+  }
+ },
+ "event/genomic-revolution/1.jpg": {
+  "code": "O",
+  "reason": "wild cereals photo on the Genomic Revolution note",
+  "auto": false,
+  "note": "event/genomic-revolution",
+  "credit": {
+   "file": "File:Associations of wild cereals and other wild grasses in northern Israel.jpg",
+   "caption": "Associations of wild cereals and other wild grasses in northern Israel",
+   "source": "https://commons.wikimedia.org/wiki/File:Associations_of_wild_cereals_and_other_wild_grasses_in_northern_Israel.jpg",
+   "author": "Alexander Weide , Simone Riehl, Mohsen Zeidi, Nicholas J. Conard",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 701
+  }
+ },
+ "event/genomic-revolution/2.jpg": {
+  "code": "O",
+  "reason": "sickles, wrong topic",
+  "auto": false,
+  "note": "event/genomic-revolution",
+  "credit": {
+   "file": "File:Composite Sickles for Cereal Harvesting at 23,000-Years-Old Ohalo II, Israel.jpg",
+   "caption": "Composite Sickles for Cereal Harvesting at 23,000-Years-Old Ohalo II, Israel",
+   "source": "https://commons.wikimedia.org/wiki/File:Composite_Sickles_for_Cereal_Harvesting_at_23,000-Years-Old_Ohalo_II,_Israel.jpg",
+   "author": "Iris Groman-Yaroslavski , Ehud Weiss, Dani Nadel",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "via": "wikipedia-article",
+   "w": 692,
+   "h": 960
+  }
+ },
+ "event/invention-of-writing/4.jpg": {
+  "code": "O",
+  "reason": "Queen Maya's dream relief, unrelated to the invention of writing",
+  "auto": false,
+  "note": "event/invention-of-writing",
+  "credit": {
+   "file": "File:Interpretation of Queen Maya's dream.jpg",
+   "caption": "Interpretation of Queen Maya's dream",
+   "source": "https://commons.wikimedia.org/wiki/File:Interpretation_of_Queen_Maya%27s_dream.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 751
+  }
+ },
+ "event/late-heavy-bombardment/1.jpg": {
+  "code": "O",
+  "reason": "Crab Nebula, unrelated to the Late Heavy Bombardment",
+  "auto": false,
+  "note": "event/late-heavy-bombardment",
+  "credit": {
+   "file": "File:Crab Nebula.jpg",
+   "caption": "Crab Nebula",
+   "source": "https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg",
+   "author": "NASA , ESA , J. Hester and A. Loll (Arizona State University)",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 960
+  }
+ },
+ "event/late-ordovician-extinction/1.jpg": {
+  "code": "O",
+  "reason": "cyanobacteria bloom, unrelated to the Late Ordovician extinction",
+  "auto": false,
+  "note": "event/late-ordovician-extinction",
+  "credit": {
+   "file": "File:Cyanobacteria Aggregation2.jpg",
+   "caption": "Cyanobacteria Aggregation2",
+   "source": "https://commons.wikimedia.org/wiki/File:Cyanobacteria_Aggregation2.jpg",
+   "author": "Christian Fischer",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 640
+  }
+ },
+ "event/mexican-revolution/3.jpg": {
+  "code": "S",
+  "reason": "dead bodies in a street, not for a card",
+  "auto": false,
+  "note": "event/mexican-revolution",
+  "credit": {
+   "file": "File:Dead outside National Palace during one of the outbreaks, Mexico City.jpg",
+   "caption": "Dead outside National Palace during one of the outbreaks, Mexico City",
+   "source": "https://commons.wikimedia.org/wiki/File:Dead_outside_National_Palace_during_one_of_the_outbreaks,_Mexico_City.jpg",
+   "author": "Manuel Ramos (1874–1945), published by SMU Central University Libraries",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 720
+  }
+ },
+ "event/middle-pleistocene-transition/1.jpg": {
+  "code": "D",
+  "reason": "same CLIMAP map as event/last-glacial-maximum/1, wrong for this note",
+  "auto": false,
+  "note": "event/middle-pleistocene-transition",
+  "credit": {
+   "file": "File:CLIMAP.jpg",
+   "caption": "CLIMAP",
+   "source": "https://commons.wikimedia.org/wiki/File:CLIMAP.jpg",
+   "author": null,
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "via": "borrowed from note: Last Glacial Maximum",
+   "w": 500,
+   "h": 363,
+   "borrowed_from": "event/last-glacial-maximum"
+  }
+ },
+ "event/modern-climate-change/4.jpg": {
+  "code": "O",
+  "reason": "pearl millet breeding photo, not climate change",
+  "auto": false,
+  "note": "event/modern-climate-change",
+  "credit": {
+   "file": "File:2013.02-402-294a Pearl millet,breeding,selfing ICRISAT,Patancheru(Hyderabad,Andhra Pradesh),IN wed20feb2013.jpg",
+   "caption": "2013.02-402-294a Pearl millet,breeding,selfing ICRISAT,Patancheru(Hyderabad,Andhra Pradesh),IN wed20feb2013",
+   "source": "https://commons.wikimedia.org/wiki/File:2013.02-402-294a_Pearl_millet,breeding,selfing_ICRISAT,Patancheru(Hyderabad,Andhra_Pradesh),IN_wed20feb2013.jpg",
+   "author": "Rik Schuiling / TropCrop - TCS",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 640
+  }
+ },
+ "event/opening-of-the-silk-roads/2.jpg": {
+  "code": "O",
+  "reason": "a British road named A523 Silk Road (name coincidence)",
+  "auto": false,
+  "note": "event/opening-of-the-silk-roads",
+  "credit": {
+   "file": "File:The A523 Silk Road, prior to its opening, Macclesfield - geograph.org.uk - 6467049.jpg",
+   "caption": "The A523 Silk Road, prior to its opening, Macclesfield - geograph.org.uk - 6467049",
+   "source": "https://commons.wikimedia.org/wiki/File:The_A523_Silk_Road,_prior_to_its_opening,_Macclesfield_-_geograph.org.uk_-_6467049.jpg",
+   "author": "Colin Park",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 640
+  }
+ },
+ "event/origin-of-bipedalism/2.jpg": {
+  "code": "O",
+  "reason": "Asimo robot, not the origin of bipedalism",
+  "auto": false,
+  "note": "event/origin-of-bipedalism",
+  "credit": {
+   "file": "File:Asimo.jpg",
+   "caption": "Asimo",
+   "source": "https://commons.wikimedia.org/wiki/File:Asimo.jpg",
+   "author": "No machine-readable author provided. Poppy assumed (based on copyright claims).",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "via": "wikipedia-article",
+   "w": 811,
+   "h": 960
+  }
+ },
+ "event/origin-of-bipedalism/3.jpg": {
+  "code": "O",
+  "reason": "children running, not the origin of bipedalism",
+  "auto": false,
+  "note": "event/origin-of-bipedalism",
+  "credit": {
+   "file": "File:Running 3.jpg",
+   "caption": "Running 3",
+   "source": "https://commons.wikimedia.org/wiki/File:Running_3.jpg",
+   "author": "SAgbley",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 640
+  }
+ },
+ "event/origin-of-homo-sapiens/1.jpg": {
+  "code": "Q",
+  "reason": "dark unreadable diagram",
+  "auto": false,
+  "note": "event/origin-of-homo-sapiens",
+  "credit": {
+   "file": "File:Modelos-Origem-Homo-sapiens.png",
+   "caption": "Modelos-Origem-Homo-sapiens",
+   "source": "https://commons.wikimedia.org/wiki/File:Modelos-Origem-Homo-sapiens.png",
+   "author": "MarlonHJ",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 422
+  }
+ },
+ "event/origin-of-multicellularity/1.jpg": {
+  "code": "O",
+  "reason": "Blue Marble, not multicellularity",
+  "auto": false,
+  "note": "event/origin-of-multicellularity",
+  "credit": {
+   "file": "File:BlueMarble-2001-2002.jpg",
+   "caption": "BlueMarble-2001-2002",
+   "source": "https://commons.wikimedia.org/wiki/File:BlueMarble-2001-2002.jpg",
+   "author": "Reto Stöckli (land surface, shallow water, clouds) Robert Simmon (enhancements: ocean color, compositing, 3D globes, animation) Data and technical support: MODIS Land Group; MODIS Science Data Support Team; MODIS Atmosphere Group; MODIS Ocean Group Additional data: USGS EROS Data Center (topography); USGS Terrestrial Remote Sensing Flagstaff Field Center (Antarctica); Defense Meteorological Satellite Program (city lights).",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-lead",
+   "w": 960,
+   "h": 480
+  }
+ },
+ "event/origin-of-multicellularity/2.jpg": {
+  "code": "O",
+  "reason": "meteorite slab, not multicellularity",
+  "auto": false,
+  "note": "event/origin-of-multicellularity",
+  "credit": {
+   "file": "File:Carbonaceous chondrite (Allende Meteorite) (4.560-4.568 Ga) 6 (16763228023).jpg",
+   "caption": "Carbonaceous chondrite (Allende Meteorite) (4.560-4.568 Ga) 6 (16763228023)",
+   "source": "https://commons.wikimedia.org/wiki/File:Carbonaceous_chondrite_(Allende_Meteorite)_(4.560-4.568_Ga)_6_(16763228023).jpg",
+   "author": "James St. John",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 799
+  }
+ },
+ "event/peopling-of-europe-by-homo-sapiens/1.jpg": {
+  "code": "O",
+  "reason": "South American Glyptodon drawing on the peopling of Europe (borrowed)",
+  "auto": false,
+  "note": "event/peopling-of-europe-by-homo-sapiens",
+  "credit": {
+   "file": "File:Glyptodon old drawing.jpg",
+   "caption": "Glyptodon old drawing",
+   "source": "https://commons.wikimedia.org/wiki/File:Glyptodon_old_drawing.jpg",
+   "author": "Heinrich Harder (1858-1935)",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "borrowed from note: Emergence of Symbolic Art",
+   "w": 500,
+   "h": 315,
+   "borrowed_from": "event/emergence-of-symbolic-art"
+  }
+ },
+ "event/peopling-of-sahul/2.jpg": {
+  "code": "O",
+  "reason": "Atayal portrait (Taiwan), not the peopling of Sahul",
+  "auto": false,
+  "note": "event/peopling-of-sahul",
+  "credit": {
+   "file": "File:Atayal.jpg",
+   "caption": "Atayal",
+   "source": "https://commons.wikimedia.org/wiki/File:Atayal.jpg",
+   "author": "Ryūzō Torii",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 727,
+   "h": 960
+  }
+ },
+ "event/permian-triassic-extinction/1.jpg": {
+  "code": "O",
+  "reason": "Carboniferous crinoid on the Permian-Triassic extinction",
+  "auto": false,
+  "note": "event/permian-triassic-extinction",
+  "credit": {
+   "file": "File:Agaricocrinus americanus Carboniferous Indiana.jpg",
+   "caption": "Agaricocrinus americanus Carboniferous Indiana",
+   "source": "https://commons.wikimedia.org/wiki/File:Agaricocrinus_americanus_Carboniferous_Indiana.jpg",
+   "author": "Vassil",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "wikipedia-article",
+   "w": 957,
+   "h": 960
+  }
+ },
+ "event/quaternary-megafauna-extinctions/1.jpg": {
+  "code": "D",
+  "reason": "same White Sands footprints as peopling of the Americas #1, tangential here (borrowed)",
+  "auto": false,
+  "note": "event/quaternary-megafauna-extinctions",
+  "credit": {
+   "file": "File:Footprints of Human Adolescent and Teen (b47488a1-0f52-4d94-9da3-b7b8fea91d0e).JPG",
+   "caption": "Footprints of Human Adolescent and Teen (b47488a1-0f52-4d94-9da3-b7b8fea91d0e)",
+   "source": "https://commons.wikimedia.org/wiki/File:Footprints_of_Human_Adolescent_and_Teen_(b47488a1-0f52-4d94-9da3-b7b8fea91d0e).JPG",
+   "author": "NPS",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "borrowed from note: Peopling of the Americas",
+   "w": 960,
+   "h": 640,
+   "borrowed_from": "event/peopling-of-the-americas"
+  }
+ },
+ "event/scramble-for-africa/2.jpg": {
+  "code": "S",
+  "reason": "colonial ethnographic photograph captioned 'African Pigmies', demeaning framing, not for a card",
+  "auto": false,
+  "note": "event/scramble-for-africa",
+  "credit": {
+   "file": "File:African Pigmies CNE-v1-p58-B.jpg",
+   "caption": "African Pigmies CNE-v1-p58-B",
+   "source": "https://commons.wikimedia.org/wiki/File:African_Pigmies_CNE-v1-p58-B.jpg",
+   "author": "Keystone View Company",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 628,
+   "h": 960
+  }
+ },
+ "event/spread-of-grasslands/1.jpg": {
+  "code": "O",
+  "reason": "insect plate, unrelated to grasslands",
+  "auto": false,
+  "note": "event/spread-of-grasslands",
+  "credit": {
+   "file": "File:02-Indian-Insect-Life - Harold Maxwell-Lefroy - Kerria-Lacca.jpg",
+   "caption": "02-Indian-Insect-Life - Harold Maxwell-Lefroy - Kerria-Lacca",
+   "source": "https://commons.wikimedia.org/wiki/File:02-Indian-Insect-Life_-_Harold_Maxwell-Lefroy_-_Kerria-Lacca.jpg",
+   "author": "Harold Maxwell-Lefroy; artist F.M. Howlett",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "via": "borrowed from note: Domestication of Maize",
+   "w": 572,
+   "h": 960,
+   "borrowed_from": "event/domestication-of-maize"
+  }
+ },
+ "event/the-agricultural-revolution/4.jpg": {
+  "code": "D",
+  "reason": "duplicate of era/pleistocene-epoch/3, tiny chart",
+  "auto": false,
+  "note": "event/the-agricultural-revolution",
+  "credit": {
+   "file": "File:Evolution of temperature in the Post-Glacial period according to Groeanland ice cores.jpg",
+   "caption": "Evolution of temperature in the Post-Glacial period according to Groeanland ice cores",
+   "source": "https://commons.wikimedia.org/wiki/File:Evolution_of_temperature_in_the_Post-Glacial_period_according_to_Greenland_ice_cores.jpg",
+   "author": "Daniel E. Platt, Marc Haber, Magda Bou Dagher-Kharrat, Bouchra Douaihy, Georges Khazen, Maziar Ashrafian Bonab, Angélique Salloum, Francis Mouzaya, Donata Luiselli, Chris Tyler-Smith, Colin Renfrew, Elizabeth Matisoo-Smith & Pierre A. Zalloua",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 267
+  }
+ },
+ "event/the-urban-revolution/1.jpg": {
+  "code": "X",
+  "reason": "private individuals at a restaurant, name coincidence Urban Revolution; remove for privacy",
+  "auto": false,
+  "note": "event/the-urban-revolution",
+  "credit": {
+   "file": "File:2025-10-09-Revolution-1989-Jubilaeum-13-Elke-Urban-u-Christian-Scheibler.jpg",
+   "caption": "2025-10-09-Revolution-1989-Jubilaeum-13-Elke-Urban-u-Christian-Scheibler",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-10-09-Revolution-1989-Jubilaeum-13-Elke-Urban-u-Christian-Scheibler.jpg",
+   "author": "Oliver Kloss",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 720
+  }
+ },
+ "event/the-urban-revolution/2.jpg": {
+  "code": "X",
+  "reason": "private individuals at a restaurant, name coincidence",
+  "auto": false,
+  "note": "event/the-urban-revolution",
+  "credit": {
+   "file": "File:2025-10-09-Revolution-1989-Jubilaeum-08-Frank-Poerner-u-Elke-Urban-u-Frank-Richter.jpg",
+   "caption": "2025-10-09-Revolution-1989-Jubilaeum-08-Frank-Poerner-u-Elke-Urban-u-Frank-Richter",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-10-09-Revolution-1989-Jubilaeum-08-Frank-Poerner-u-Elke-Urban-u-Frank-Richter.jpg",
+   "author": "Oliver Kloss",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 720
+  }
+ },
+ "event/the-urban-revolution/3.jpg": {
+  "code": "X",
+  "reason": "private individuals at a restaurant, name coincidence",
+  "auto": false,
+  "note": "event/the-urban-revolution",
+  "credit": {
+   "file": "File:2025-10-09-Revolution-1989-Jubilaeum-05-Frank-Poerner-u-Elke-Urban-u-Jochen-Laessig.jpg",
+   "caption": "2025-10-09-Revolution-1989-Jubilaeum-05-Frank-Poerner-u-Elke-Urban-u-Jochen-Laessig",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-10-09-Revolution-1989-Jubilaeum-05-Frank-Poerner-u-Elke-Urban-u-Jochen-Laessig.jpg",
+   "author": "Oliver Kloss",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 720
+  }
+ },
+ "event/the-urban-revolution/4.jpg": {
+  "code": "X",
+  "reason": "art exhibition named Urban, not the Urban Revolution",
+  "auto": false,
+  "note": "event/the-urban-revolution",
+  "credit": {
+   "file": "File:Obra de Tamara Alves - Exposição Urban Revolution - Cordoaria Nacional (Lisboa), 2023.jpg",
+   "caption": "Obra de Tamara Alves - Exposição Urban Revolution - Cordoaria Nacional (Lisboa), 2023",
+   "source": "https://commons.wikimedia.org/wiki/File:Obra_de_Tamara_Alves_-_Exposi%C3%A7%C3%A3o_Urban_Revolution_-_Cordoaria_Nacional_(Lisboa),_2023.jpg",
+   "author": "RitaFMatos",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 720
+  }
+ },
+ "event/the-urban-revolution/5.jpg": {
+  "code": "X",
+  "reason": "private individuals at a restaurant, name coincidence",
+  "auto": false,
+  "note": "event/the-urban-revolution",
+  "credit": {
+   "file": "File:2025-10-09-Revolution-1989-Jubilaeum-06-Frank-Poerner-u-Elke-Urban.jpg",
+   "caption": "2025-10-09-Revolution-1989-Jubilaeum-06-Frank-Poerner-u-Elke-Urban",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-10-09-Revolution-1989-Jubilaeum-06-Frank-Poerner-u-Elke-Urban.jpg",
+   "author": "Oliver Kloss",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 720
+  }
+ },
+ "event/world-war-ii/5.jpg": {
+  "code": "S",
+  "reason": "photograph of a hanging, not for a card",
+  "auto": false,
+  "note": "event/world-war-ii",
+  "credit": {
+   "file": "File:Bundesarchiv Bild 101I-031-2436-03A, Russland, Hinrichtung von Partisanen retouched.jpg",
+   "caption": "Bundesarchiv Bild 101I-031-2436-03A, Russland, Hinrichtung von Partisanen retouched",
+   "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-031-2436-03A,_Russland,_Hinrichtung_von_Partisanen_retouched.jpg",
+   "author": "Lutz Koch",
+   "license": "CC BY-SA 3.0 de",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 313
+  }
+ },
+ "person/al-biruni/3.jpg": {
+  "code": "O",
+  "reason": "mathematical flower art by an unrelated artist",
+  "auto": false,
+  "note": "person/al-biruni",
+  "credit": {
+   "file": "File:Flowers 1-5-2-2-1 by Hamid Naderi Yeganeh.png",
+   "caption": "Flowers 1-5-2-2-1 by Hamid Naderi Yeganeh",
+   "source": "https://commons.wikimedia.org/wiki/File:Flowers_1-5-2-2-1_by_Hamid_Naderi_Yeganeh.png",
+   "author": "Hamid Naderi Yeganeh",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 960
+  }
+ },
+ "person/ban-zhao/1.jpg": {
+  "code": "Q",
+  "reason": "almost invisible faint sketch",
+  "auto": false,
+  "note": "person/ban-zhao",
+  "credit": {
+   "file": "File:Famous Women, 1799 (L).jpg",
+   "caption": "Famous Women, 1799 (L)",
+   "source": "https://commons.wikimedia.org/wiki/File:Famous_Women,_1799_(L).jpg",
+   "author": "Gai Qi (改琦), 1773–1828",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-lead",
+   "w": 672,
+   "h": 960
+  }
+ },
+ "person/behzad/1.jpg": {
+  "code": "X",
+  "reason": "photo of Behzad Farahani (a living Iranian actor), not the miniaturist Kamal ud-Din Behzad",
+  "auto": false,
+  "note": "person/behzad",
+  "credit": {
+   "file": "File:Behzad Farahani 13961206.jpg",
+   "caption": "Behzad Farahani 13961206",
+   "source": "https://commons.wikimedia.org/wiki/File:Behzad_Farahani_13961206.jpg",
+   "author": "ایمان حامی‌خواه",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 640
+  }
+ },
+ "person/behzad/3.jpg": {
+  "code": "X",
+  "reason": "photo of Behzad Bolour, a different person, not the miniaturist",
+  "auto": false,
+  "note": "person/behzad",
+  "credit": {
+   "file": "File:Behzad Bolour by Pouria Afkhami Pixoosphoto 02.jpg",
+   "caption": "Behzad Bolour by Pouria Afkhami Pixoosphoto 02",
+   "source": "https://commons.wikimedia.org/wiki/File:Behzad_Bolour_by_Pouria_Afkhami_Pixoosphoto_02.jpg",
+   "author": "Pixoos",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "commons-search",
+   "w": 640,
+   "h": 960
+  }
+ },
+ "person/leonardo-da-vinci/3.jpg": {
+  "code": "O",
+  "reason": "modern anatomy pose figure unrelated to Leonardo",
+  "auto": false,
+  "note": "person/leonardo-da-vinci",
+  "credit": {
+   "file": "File:Anatomy posture and body mechanics 08.jpg",
+   "caption": "Anatomy posture and body mechanics 08",
+   "source": "https://commons.wikimedia.org/wiki/File:Anatomy_posture_and_body_mechanics_08.jpg",
+   "author": "Ziv lenzner",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 784
+  }
+ },
+ "person/queen-amina-of-zazzau/1.jpg": {
+  "code": "X",
+  "reason": "Ottoman miniature of the birth of Muhammad, name mix-up with Amina (mother of Muhammad)",
+  "auto": false,
+  "note": "person/queen-amina-of-zazzau",
+  "credit": {
+   "file": "File:Siyer-i Nebi The birth of Muhammad.jpg",
+   "caption": "Siyer-i Nebi The birth of Muhammad",
+   "source": "https://commons.wikimedia.org/wiki/File:Siyer-i_Nebi_The_birth_of_Muhammad.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-lead",
+   "w": 500,
+   "h": 524
+  }
+ },
+ "person/queen-amina-of-zazzau/2.jpg": {
+  "code": "X",
+  "reason": "Halima, nurse of Muhammad, wrong Amina",
+  "auto": false,
+  "note": "person/queen-amina-of-zazzau",
+  "credit": {
+   "file": "File:Halima, Nodriza De Mahoma , Da El Pecho Al Niño Húerfano.jpg",
+   "caption": "Halima, Nodriza De Mahoma , Da El Pecho Al Niño Húerfano",
+   "source": "https://commons.wikimedia.org/wiki/File:Halima,_Nodriza_De_Mahoma_,_Da_El_Pecho_Al_Ni%C3%B1o_H%C3%BAerfano.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 910,
+   "h": 960
+  }
+ },
+ "person/sappho/1.jpg": {
+  "code": "O",
+  "reason": "vase by the Sappho Painter, a different Sappho",
+  "auto": false,
+  "note": "person/sappho",
+  "credit": {
+   "file": "File:Malarz Safony - Kalpis wykonana techniką Six.jpg",
+   "caption": "Malarz Safony - Kalpis wykonana techniką Six",
+   "source": "https://commons.wikimedia.org/wiki/File:Malarz_Safony_-_Kalpis_wykonana_technik%C4%85_Six.jpg",
+   "author": "Sappho Painter",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-lead",
+   "w": 500,
+   "h": 667
+  }
+ },
+ "place/cordoba/2.jpg": {
+  "code": "O",
+  "reason": "football stadium in Cordoba, Spain, not the historic city",
+  "auto": false,
+  "note": "place/cordoba",
+  "credit": {
+   "file": "File:ArcangelCordoba2Lega3.jpg",
+   "caption": "ArcangelCordoba2Lega3",
+   "source": "https://commons.wikimedia.org/wiki/File:ArcangelCordoba2Lega3.jpg",
+   "author": "Miguelazo84",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 539
+  }
+ },
+ "place/ganges-river/2.jpg": {
+  "code": "O",
+  "reason": "street photo of a girl selling containers (identifiable minor), not about the Ganges",
+  "auto": false,
+  "note": "place/ganges-river",
+  "credit": {
+   "file": "File:A girl selling plastic containers for carrying Ganges water, Haridwar.jpg",
+   "caption": "A girl selling plastic containers for carrying Ganges water, Haridwar",
+   "source": "https://commons.wikimedia.org/wiki/File:A_girl_selling_plastic_containers_for_carrying_Ganges_water,_Haridwar.jpg",
+   "author": "etrenard",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 667
+  }
+ },
+ "place/havana/2.jpg": {
+  "code": "O",
+  "reason": "photo of schoolchildren in Havana (identifiable minors), generic",
+  "auto": false,
+  "note": "place/havana",
+  "credit": {
+   "file": "File:Alumnos, La Habana, Cuba (9419813189).jpg",
+   "caption": "Alumnos, La Habana, Cuba (9419813189)",
+   "source": "https://commons.wikimedia.org/wiki/File:Alumnos,_La_Habana,_Cuba_(9419813189).jpg",
+   "author": "Rinaldo Wurglitsch from Vienna, Austria",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 637
+  }
+ },
+ "place/isfahan/3.jpg": {
+  "code": "Q",
+  "reason": "unrelated bar chart",
+  "auto": false,
+  "note": "place/isfahan",
+  "credit": {
+   "file": "File:1972 to 2009 abundance percentage percentage of years of drought and wet periods data isfahan atlas.png",
+   "caption": "1972 to 2009 abundance percentage percentage of years of drought and wet periods data isfahan atlas",
+   "source": "https://commons.wikimedia.org/wiki/File:1972_to_2009_abundance_percentage_percentage_of_years_of_drought_and_wet_periods_data_isfahan_atlas.png",
+   "author": "Baratiiman",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 309
+  }
+ },
+ "place/jack-hills-zircons/2.jpg": {
+  "code": "O",
+  "reason": "butterfly, unrelated to Jack Hills zircons (also on a source note)",
+  "auto": false,
+  "note": "place/jack-hills-zircons",
+  "credit": {
+   "file": "File:Issoria lathonia.jpg",
+   "caption": "Issoria lathonia",
+   "source": "https://commons.wikimedia.org/wiki/File:Issoria_lathonia.jpg",
+   "author": null,
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 354
+  }
+ },
+ "place/jerusalem/4.jpg": {
+  "code": "O",
+  "reason": "museum corridor about Abu Jihad, unrelated",
+  "auto": false,
+  "note": "place/jerusalem",
+  "credit": {
+   "file": "File:Abu jihad.jpg",
+   "caption": "Abu jihad",
+   "source": "https://commons.wikimedia.org/wiki/File:Abu_jihad.jpg",
+   "author": "Diaaasa",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 333
+  }
+ },
+ "place/karakorum/2.jpg": {
+  "code": "O",
+  "reason": "Beiyue Temple in Hebei, China, not Karakorum",
+  "auto": false,
+  "note": "place/karakorum",
+  "credit": {
+   "file": "File:Beiyue Temple 8.jpg",
+   "caption": "Beiyue Temple 8",
+   "source": "https://commons.wikimedia.org/wiki/File:Beiyue_Temple_8.jpg",
+   "author": "User:Zeus1234",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 720
+  }
+ },
+ "place/xingu-garden-cities/1.jpg": {
+  "code": "X",
+  "reason": "private individuals at a restaurant, name coincidence (borrowed from the Urban Revolution note)",
+  "auto": false,
+  "note": "place/xingu-garden-cities",
+  "credit": {
+   "file": "File:2025-10-09-Revolution-1989-Jubilaeum-13-Elke-Urban-u-Christian-Scheibler.jpg",
+   "caption": "2025-10-09-Revolution-1989-Jubilaeum-13-Elke-Urban-u-Christian-Scheibler",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-10-09-Revolution-1989-Jubilaeum-13-Elke-Urban-u-Christian-Scheibler.jpg",
+   "author": "Oliver Kloss",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "via": "borrowed from note: Amazonian Urbanism and Dark Earths",
+   "w": 960,
+   "h": 720,
+   "borrowed_from": "event/amazonian-urbanism-and-dark-earths"
+  }
+ },
+ "culture/inuit-and-the-thule-expansion/1.jpg": {
+  "code": "O",
+  "reason": "map of Turkic languages on the Inuit and Thule note (borrowed)",
+  "auto": false,
+  "note": "culture/inuit-and-the-thule-expansion",
+  "credit": {
+   "file": "File:Turkic Languages distribution map.png",
+   "caption": "Turkic Languages distribution map",
+   "source": "https://commons.wikimedia.org/wiki/File:Turkic_Languages_distribution_map.png",
+   "author": "GalaxMaps",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "borrowed from note: Yakut (Sakha)",
+   "w": 960,
+   "h": 538,
+   "borrowed_from": "culture/yakut-sakha"
+  }
+ },
+ "culture/kingdom-of-benin/1.jpg": {
+  "code": "O",
+  "reason": "photo of a python snake, not a depiction of the Kingdom of Benin",
+  "auto": false,
+  "note": "culture/kingdom-of-benin",
+  "credit": {
+   "file": "File:Adult Female Python sebae 1.33aspect.jpg",
+   "caption": "Adult Female Python sebae 1.33aspect",
+   "source": "https://commons.wikimedia.org/wiki/File:Adult_Female_Python_sebae_1.33aspect.jpg",
+   "author": "Adult_Female_Python_sebae.jpg : Tigerpython derivative work: Materialscientist ( talk )",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "wikipedia-article",
+   "w": 720,
+   "h": 960
+  }
+ },
+ "culture/kingdom-of-mapungubwe/2.jpg": {
+  "code": "O",
+  "reason": "bateleur eagle photo, unrelated to Mapungubwe",
+  "auto": false,
+  "note": "culture/kingdom-of-mapungubwe",
+  "credit": {
+   "file": "File:Bateleur Eagle with Kill.jpg",
+   "caption": "Bateleur Eagle with Kill",
+   "source": "https://commons.wikimedia.org/wiki/File:Bateleur_Eagle_with_Kill.jpg",
+   "author": "Sumeet Moghe",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 640
+  }
+ },
+ "culture/mughal-empire/1.jpg": {
+  "code": "O",
+  "reason": "aerial view of a park in Dhaka, not the Mughal Empire",
+  "auto": false,
+  "note": "culture/mughal-empire",
+  "credit": {
+   "file": "File:1. লালবাগের কেল্লা.jpg",
+   "caption": "1. লালবাগের কেল্লা",
+   "source": "https://commons.wikimedia.org/wiki/File:1._%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0_%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE.jpg",
+   "author": "Pinu Rahman",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 640
+  }
+ },
+ "culture/polynesians/1.jpg": {
+  "code": "D",
+  "reason": "same performers photo as event/polynesian-settlement-of-the-pacific/1",
+  "auto": false,
+  "note": "culture/polynesians",
+  "credit": {
+   "file": "File:Maori welkom.JPG",
+   "caption": "Maori welkom",
+   "source": "https://commons.wikimedia.org/wiki/File:Maori_welkom.JPG",
+   "author": "Original uploader was Ciell at nl.wikipedia",
+   "license": "CC BY-SA 2.5 nl",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5/nl/deed.en",
+   "via": "wikipedia-lead",
+   "w": 960,
+   "h": 720
+  }
+ },
+ "culture/romans/1.jpg": {
+  "code": "O",
+  "reason": "Holy Roman Empire coat of arms, not the ancient Romans",
+  "auto": false,
+  "note": "culture/romans",
+  "credit": {
+   "file": "File:CoA of later Ferdinand I Holy Roman Emperor as King of the Romans 1536 Hofburg Wien Austria.jpg",
+   "caption": "CoA of later Ferdinand I Holy Roman Emperor as King of the Romans 1536 Hofburg Wien Austria",
+   "source": "https://commons.wikimedia.org/wiki/File:CoA_of_later_Ferdinand_I_Holy_Roman_Emperor_as_King_of_the_Romans_1536_Hofburg_Wien_Austria.jpg",
+   "author": "Jebulon",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "via": "commons-search",
+   "w": 786,
+   "h": 960
+  }
+ },
+ "culture/romans/4.jpg": {
+  "code": "O",
+  "reason": "postcard of the French town of Romans, name coincidence",
+  "auto": false,
+  "note": "culture/romans",
+  "credit": {
+   "file": "File:Romans - Place Jacquemart; Romans - Caserne Bon (33761836593).jpg",
+   "caption": "Romans - Place Jacquemart; Romans - Caserne Bon (33761836593)",
+   "source": "https://commons.wikimedia.org/wiki/File:Romans_-_Place_Jacquemart;_Romans_-_Caserne_Bon_(33761836593).jpg",
+   "author": "Médiathèques Valence Romans agglomération",
+   "license": "No restrictions",
+   "license_url": "https://www.flickr.com/commons/usage/",
+   "via": "commons-search",
+   "w": 960,
+   "h": 628
+  }
+ },
+ "technology/calendars/3.jpg": {
+  "code": "O",
+  "reason": "jewelled pendant titled Calendar, not a calendar",
+  "auto": false,
+  "note": "technology/calendars",
+  "credit": {
+   "file": "File:Calendar (part of a set) MET DP-13486-011.jpg",
+   "caption": "Calendar (part of a set) MET DP-13486-011",
+   "source": "https://commons.wikimedia.org/wiki/File:Calendar_(part_of_a_set)_MET_DP-13486-011.jpg",
+   "author": "Asprey",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "via": "wikipedia-article",
+   "w": 768,
+   "h": 960
+  }
+ },
+ "technology/coinage/2.jpg": {
+  "code": "O",
+  "reason": "Coinage Hall building in Cornwall, name coincidence",
+  "auto": false,
+  "note": "technology/coinage",
+  "credit": {
+   "file": "File:Coinage Hall - geograph.org.uk - 2697803.jpg",
+   "caption": "Coinage Hall - geograph.org.uk - 2697803",
+   "source": "https://commons.wikimedia.org/wiki/File:Coinage_Hall_-_geograph.org.uk_-_2697803.jpg",
+   "author": "Roger Templeman",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "via": "commons-search",
+   "w": 500,
+   "h": 750
+  }
+ },
+ "technology/coinage/3.jpg": {
+  "code": "O",
+  "reason": "Coinage Hall building in Truro, name coincidence",
+  "auto": false,
+  "note": "technology/coinage",
+  "credit": {
+   "file": "File:Coinage Hall, Truro - geograph.org.uk - 3072202.jpg",
+   "caption": "Coinage Hall, Truro - geograph.org.uk - 3072202",
+   "source": "https://commons.wikimedia.org/wiki/File:Coinage_Hall,_Truro_-_geograph.org.uk_-_3072202.jpg",
+   "author": "Stuart Shepherd",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "via": "commons-search",
+   "w": 720,
+   "h": 960
+  }
+ },
+ "technology/oldowan-stone-tools/1.jpg": {
+  "code": "Q",
+  "reason": "almost blank faint sketch",
+  "auto": false,
+  "note": "technology/oldowan-stone-tools",
+  "credit": {
+   "file": "File:Oldowan Chopper Stone Tool Sketch.jpeg",
+   "caption": "Oldowan Chopper Stone Tool Sketch",
+   "source": "https://commons.wikimedia.org/wiki/File:Oldowan_Chopper_Stone_Tool_Sketch.jpeg",
+   "author": "Me",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "commons-search",
+   "w": 960,
+   "h": 638
+  }
+ },
+ "technology/sanitation-and-sewers/1.jpg": {
+  "code": "Q",
+  "reason": "tiny flat diagram",
+  "auto": false,
+  "note": "technology/sanitation-and-sewers",
+  "credit": {
+   "file": "File:Sanitation Value Chain.jpg",
+   "caption": "Sanitation Value Chain",
+   "source": "https://commons.wikimedia.org/wiki/File:Sanitation_Value_Chain.jpg",
+   "author": "Bill and Melinda Gates Foundation (BMGF)",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "via": "wikipedia-lead",
+   "w": 960,
+   "h": 313
+  }
+ },
+ "species/archaeopteryx/1.jpg": {
+  "code": "O",
+  "reason": "Ambopteryx is a different dinosaur, not Archaeopteryx",
+  "auto": false,
+  "note": "species/archaeopteryx",
+  "credit": {
+   "file": "File:Ambopteryx restoration.png",
+   "caption": "Ambopteryx restoration",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambopteryx_restoration.png",
+   "author": "Audrey.m.horn",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 496
+  }
+ },
+ "species/homo-sapiens/1.jpg": {
+  "code": "O",
+  "reason": "portrait of two identifiable people of one ethnic group used to represent the species",
+  "auto": false,
+  "note": "species/homo-sapiens",
+  "credit": {
+   "file": "File:Akha cropped hires.JPG",
+   "caption": "Akha cropped hires",
+   "source": "https://commons.wikimedia.org/wiki/File:Akha_cropped_hires.JPG",
+   "author": "Weltenbummler84",
+   "license": "CC BY-SA 2.0 de",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+   "via": "wikipedia-lead",
+   "w": 330,
+   "h": 552
+  }
+ },
+ "species/homo-sapiens/3.jpg": {
+  "code": "O",
+  "reason": "portrait of an identifiable elderly man used to represent the species",
+  "auto": false,
+  "note": "species/homo-sapiens",
+  "credit": {
+   "file": "File:An old age.JPG",
+   "caption": "An old age",
+   "source": "https://commons.wikimedia.org/wiki/File:An_old_age.JPG",
+   "author": "Vedant Gulati",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "wikipedia-article",
+   "w": 644,
+   "h": 960
+  }
+ },
+ "region/amazon-basin-and-south-american-lowlands/1.jpg": {
+  "code": "O",
+  "reason": "sweet corn photo on the Amazon Basin region (borrowed)",
+  "auto": false,
+  "note": "region/amazon-basin-and-south-american-lowlands",
+  "credit": {
+   "file": "File:VegCorn (cropped).jpg",
+   "caption": "VegCorn (cropped)",
+   "source": "https://commons.wikimedia.org/wiki/File:VegCorn_(cropped).jpg",
+   "author": null,
+   "license": "Public domain",
+   "license_url": null,
+   "via": "borrowed from note: Columbian Exchange",
+   "w": 500,
+   "h": 363,
+   "borrowed_from": "event/columbian-exchange"
+  }
+ },
+ "region/caribbean-and-atlantic-world/2.jpg": {
+  "code": "O",
+  "reason": "French Revolution painting on the Caribbean and Atlantic World",
+  "auto": false,
+  "note": "region/caribbean-and-atlantic-world",
+  "credit": {
+   "file": "File:Carnavalet - Le serment de La Fayette 01.jpg",
+   "caption": "Carnavalet - Le serment de La Fayette 01",
+   "source": "https://commons.wikimedia.org/wiki/File:Carnavalet_-_Le_serment_de_La_Fayette_01.jpg",
+   "author": "Anonymous ( France ) Unknown author",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 772,
+   "h": 960
+  }
+ },
+ "region/east-asia/2.jpg": {
+  "code": "O",
+  "reason": "ethnographic portrait of identifiable people representing a region",
+  "auto": false,
+  "note": "region/east-asia",
+  "credit": {
+   "file": "File:AinuSan.jpg",
+   "caption": "AinuSan",
+   "source": "https://commons.wikimedia.org/wiki/File:AinuSan.jpg",
+   "author": "Torbenbrinker",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "wikipedia-article",
+   "w": 941,
+   "h": 960
+  }
+ },
+ "region/east-asia/3.jpg": {
+  "code": "O",
+  "reason": "portrait of an identifiable person in costume representing a region",
+  "auto": false,
+  "note": "region/east-asia",
+  "credit": {
+   "file": "File:Akšan.jpg",
+   "caption": "Akšan",
+   "source": "https://commons.wikimedia.org/wiki/File:Ak%C5%A1an.jpg",
+   "author": "Šolon",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "wikipedia-article",
+   "w": 330,
+   "h": 392
+  }
+ },
+ "region/east-asia/4.jpg": {
+  "code": "O",
+  "reason": "three women in costume representing a region",
+  "auto": false,
+  "note": "region/east-asia",
+  "credit": {
+   "file": "File:Bai 5.JPG",
+   "caption": "Bai 5",
+   "source": "https://commons.wikimedia.org/wiki/File:Bai_5.JPG",
+   "author": "Brücke-Osteuropa",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 540
+  }
+ },
+ "region/levant-and-anatolia/2.jpg": {
+  "code": "O",
+  "reason": "folklore costume group photo of identifiable people",
+  "auto": false,
+  "note": "region/levant-and-anatolia",
+  "credit": {
+   "file": "File:As Suqaylabiyah folklore costume.jpg",
+   "caption": "As Suqaylabiyah folklore costume",
+   "source": "https://commons.wikimedia.org/wiki/File:As_Suqaylabiyah_folklore_costume.jpg",
+   "author": "Geo7q",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 783
+  }
+ },
+ "region/planet-wide/1.jpg": {
+  "code": "X",
+  "reason": "video-game screenshot (Planetary Annihilation)",
+  "auto": false,
+  "note": "region/planet-wide",
+  "credit": {
+   "file": "File:A planet-wide base in Planetary Annihilation.png",
+   "caption": "A planet-wide base in Planetary Annihilation",
+   "source": "https://commons.wikimedia.org/wiki/File:A_planet-wide_base_in_Planetary_Annihilation.png",
+   "author": "Cucumberchester",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "via": "commons-search",
+   "w": 960,
+   "h": 540
+  }
+ },
+ "region/planet-wide/2.jpg": {
+  "code": "X",
+  "reason": "Hubble pixels of an exoplanet candidate, unrelated",
+  "auto": false,
+  "note": "region/planet-wide",
+  "credit": {
+   "file": "File:HST ACS-HRC wide view of Fomalhaut b planet in 2004 and 2006 (heic0821d).jpg",
+   "caption": "HST ACS-HRC wide view of Fomalhaut b planet in 2004 and 2006 (heic0821d)",
+   "source": "https://commons.wikimedia.org/wiki/File:HST_ACS-HRC_wide_view_of_Fomalhaut_b_planet_in_2004_and_2006_(heic0821d).jpg",
+   "author": "NASA, ESA and P. Kalas (University of California, Berkeley, USA)",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "commons-search",
+   "w": 500,
+   "h": 500
+  }
+ },
+ "region/planet-wide/3.jpg": {
+  "code": "D",
+  "reason": "same game screenshot as Planet-wide #1",
+  "auto": false,
+  "note": "region/planet-wide",
+  "credit": {
+   "file": "File:A planet-wide base in Planetary Annihilation.png",
+   "caption": "A planet-wide base in Planetary Annihilation",
+   "source": "https://commons.wikimedia.org/wiki/File:A_planet-wide_base_in_Planetary_Annihilation.png",
+   "author": "Cucumberchester",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "via": "commons-search",
+   "w": 960,
+   "h": 540
+  }
+ },
+ "region/planet-wide/4.jpg": {
+  "code": "D",
+  "reason": "same Hubble image as Planet-wide #2",
+  "auto": false,
+  "note": "region/planet-wide",
+  "credit": {
+   "file": "File:HST ACS-HRC wide view of Fomalhaut b planet in 2004 and 2006 (heic0821d).jpg",
+   "caption": "HST ACS-HRC wide view of Fomalhaut b planet in 2004 and 2006 (heic0821d)",
+   "source": "https://commons.wikimedia.org/wiki/File:HST_ACS-HRC_wide_view_of_Fomalhaut_b_planet_in_2004_and_2006_(heic0821d).jpg",
+   "author": "NASA, ESA and P. Kalas (University of California, Berkeley, USA)",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "commons-search",
+   "w": 500,
+   "h": 500
+  }
+ },
+ "region/south-asia/3.jpg": {
+  "code": "O",
+  "reason": "map of Central Asia definitions on the South Asia region",
+  "auto": false,
+  "note": "region/south-asia",
+  "credit": {
+   "file": "File:Central Asia definitions (orthographic).png",
+   "caption": "Central Asia definitions (orthographic)",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Asia_definitions_(orthographic).png",
+   "author": "Casperti",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 500
+  }
+ },
+ "theme/language-and-writing/2.jpg": {
+  "code": "Q",
+  "reason": "table of language forms, unreadable",
+  "auto": false,
+  "note": "theme/language-and-writing",
+  "credit": {
+   "file": "File:Comparison of Malay language, Jawi writing, and Khat Calligraphy with other Languages.jpg",
+   "caption": "Comparison of Malay language, Jawi writing, and Khat Calligraphy with other Languages",
+   "source": "https://commons.wikimedia.org/wiki/File:Comparison_of_Malay_language,_Jawi_writing,_and_Khat_Calligraphy_with_other_Languages.jpg",
+   "author": "Chin Huat, Wong and Robert Lip Seng Kee",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 678
+  }
+ },
+ "theme/language-and-writing/3.jpg": {
+  "code": "Q",
+  "reason": "language course cover page",
+  "auto": false,
+  "note": "theme/language-and-writing",
+  "credit": {
+   "file": "File:Adapting and Writing Language Lessons Cover.jpg",
+   "caption": "Adapting and Writing Language Lessons Cover",
+   "source": "https://commons.wikimedia.org/wiki/File:Adapting_and_Writing_Language_Lessons_Cover.jpg",
+   "author": "Earl W Stevick, Foreign Service Institute, US Department of State",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "commons-search",
+   "w": 721,
+   "h": 960
+  }
+ },
+ "theme/earth-systems-and-life/2.jpg": {
+  "code": "Q",
+  "reason": "almost blank starfield",
+  "auto": false,
+  "note": "theme/earth-systems-and-life",
+  "credit": {
+   "file": "File:PIA14949 - One Special Day in the Life of Planet Earth.tif",
+   "caption": "PIA14949 - One Special Day in the Life of Planet Earth",
+   "source": "https://commons.wikimedia.org/wiki/File:PIA14949_-_One_Special_Day_in_the_Life_of_Planet_Earth.tif",
+   "author": "NASA/JPL-Caltech/Space Science Institute",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "commons-search",
+   "w": 960,
+   "h": 960
+  }
+ },
+ "theme/religion-and-belief/2.jpg": {
+  "code": "X",
+  "reason": "portrait of a UN official, unrelated to the theme",
+  "auto": false,
+  "note": "theme/religion-and-belief",
+  "credit": {
+   "file": "File:Josephine Ojiambo Freedom of religion or belief.jpg",
+   "caption": "Josephine Ojiambo Freedom of religion or belief",
+   "source": "https://commons.wikimedia.org/wiki/File:Josephine_Ojiambo_Freedom_of_religion_or_belief.jpg",
+   "author": "Foreign and Commonwealth Office",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 640
+  }
+ },
+ "theme/religion-and-belief/3.jpg": {
+  "code": "X",
+  "reason": "conference audience, unrelated",
+  "auto": false,
+  "note": "theme/religion-and-belief",
+  "credit": {
+   "file": "File:Freedom of religion or belief (30308211192).jpg",
+   "caption": "Freedom of religion or belief (30308211192)",
+   "source": "https://commons.wikimedia.org/wiki/File:Freedom_of_religion_or_belief_(30308211192).jpg",
+   "author": "Foreign and Commonwealth Office",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 640
+  }
+ },
+ "theme/trade-and-economy/2.jpg": {
+  "code": "X",
+  "reason": "Japanese Ministry of Economy, Trade and Industry building, name coincidence",
+  "auto": false,
+  "note": "theme/trade-and-economy",
+  "credit": {
+   "file": "File:Ministry-of-Economy-Trade-and-Industry-01.jpg",
+   "caption": "Ministry-of-Economy-Trade-and-Industry-01",
+   "source": "https://commons.wikimedia.org/wiki/File:Ministry-of-Economy-Trade-and-Industry-01.jpg",
+   "author": "Rs1421",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "commons-search",
+   "w": 721,
+   "h": 960
+  }
+ },
+ "theme/trade-and-economy/3.jpg": {
+  "code": "X",
+  "reason": "Japanese ministry sign, name coincidence",
+  "auto": false,
+  "note": "theme/trade-and-economy",
+  "credit": {
+   "file": "File:Ministry of Economy trade and Industry sign.jpg",
+   "caption": "Ministry of Economy trade and Industry sign",
+   "source": "https://commons.wikimedia.org/wiki/File:Ministry_of_Economy_trade_and_Industry_sign.jpg",
+   "author": "Comessu",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 720
+  }
+ },
+ "theme/trade-and-economy/4.jpg": {
+  "code": "X",
+  "reason": "Japanese ministry building, name coincidence",
+  "auto": false,
+  "note": "theme/trade-and-economy",
+  "credit": {
+   "file": "File:Ministry-of-Economy-Trade-and-Industry-03.jpg",
+   "caption": "Ministry-of-Economy-Trade-and-Industry-03",
+   "source": "https://commons.wikimedia.org/wiki/File:Ministry-of-Economy-Trade-and-Industry-03.jpg",
+   "author": "Rs1421",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 640
+  }
+ },
+ "theme/war-and-conflict/3.jpg": {
+  "code": "X",
+  "reason": "crowd at a modern political protest, unrelated",
+  "auto": false,
+  "note": "theme/war-and-conflict",
+  "credit": {
+   "file": "File:Palestine-Hemas-Israel 2023 Conflict - Anti-War Demonstration in Amsterdam.jpg",
+   "caption": "Palestine-Hemas-Israel 2023 Conflict - Anti-War Demonstration in Amsterdam",
+   "source": "https://commons.wikimedia.org/wiki/File:Palestine-Hemas-Israel_2023_Conflict_-_Anti-War_Demonstration_in_Amsterdam.jpg",
+   "author": "PersianDutchNetwork",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 460
+  }
+ },
+ "source/britannica-on-abd-al-malik/1.jpg": {
+  "code": "X",
+  "reason": "photo of a modern man (a lecturer), not Abd al-Malik",
+  "auto": false,
+  "note": "source/britannica-on-abd-al-malik",
+  "credit": {
+   "file": "File:Abd al malik LSlaP 159670.JPG",
+   "caption": "Abd al malik LSlaP 159670",
+   "source": "https://commons.wikimedia.org/wiki/File:Abd_al_malik_LSlaP_159670.JPG",
+   "author": "G.Garitan",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 706
+  }
+ },
+ "source/maps-of-time-christian/1.jpg": {
+  "code": "O",
+  "reason": "Google Street View backpack photo for the book Maps of Time",
+  "auto": false,
+  "note": "source/maps-of-time-christian",
+  "credit": {
+   "file": "File:Google-Maps-Backpack-NYC.png",
+   "caption": "Google-Maps-Backpack-NYC",
+   "source": "https://commons.wikimedia.org/wiki/File:Google-Maps-Backpack-NYC.png",
+   "author": "Andrew Henkelman",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 768,
+   "h": 960
+  }
+ },
+ "source/mexican-revolution-search-summaries/1.jpg": {
+  "code": "S",
+  "reason": "photograph of Zapata's corpse, not for a card",
+  "auto": false,
+  "note": "source/mexican-revolution-search-summaries",
+  "credit": {
+   "file": "File:El cadáver de Emiliano Zapata, exhibido en Cuautla, Morelos.jpg",
+   "caption": "El cadáver de Emiliano Zapata, exhibido en Cuautla, Morelos",
+   "source": "https://commons.wikimedia.org/wiki/File:El_cad%C3%A1ver_de_Emiliano_Zapata,_exhibido_en_Cuautla,_Morelos.jpg",
+   "author": "Unknown author Unknown author",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 699,
+   "h": 960
+  }
+ },
+ "source/minority-rights-group-on-the-sakha/1.jpg": {
+  "code": "X",
+  "reason": "street photo with identifiable children, unrelated to the source",
+  "auto": false,
+  "note": "source/minority-rights-group-on-the-sakha",
+  "credit": {
+   "file": "File:078 Деревня Даппарай, Олекминский район.jpg",
+   "caption": "078 Деревня Даппарай, Олекминский район",
+   "source": "https://commons.wikimedia.org/wiki/File:078_%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F_%D0%94%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D0%B9,_%D0%9E%D0%BB%D0%B5%D0%BA%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD.jpg",
+   "author": "A. L. (loading)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 635
+  }
+ },
+ "source/nasa-on-the-dawn-of-the-space-age/1.jpg": {
+  "code": "O",
+  "reason": "1959 Cadillac, not the Dawn of the Space Age",
+  "auto": false,
+  "note": "source/nasa-on-the-dawn-of-the-space-age",
+  "credit": {
+   "file": "File:1959 Cadillac Coupe Deville3.jpg",
+   "caption": "1959 Cadillac Coupe Deville3",
+   "source": "https://commons.wikimedia.org/wiki/File:1959_Cadillac_Coupe_Deville3.jpg",
+   "author": "That Hartford Guy",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 375
+  }
+ },
+ "source/the-human-career-klein/1.jpg": {
+  "code": "X",
+  "reason": "students in a classroom (identifiable minors/adults), unrelated to the source",
+  "auto": false,
+  "note": "source/the-human-career-klein",
+  "credit": {
+   "file": "File:Human Services Career Program-7 (25105405121).jpg",
+   "caption": "Human Services Career Program-7 (25105405121)",
+   "source": "https://commons.wikimedia.org/wiki/File:Human_Services_Career_Program-7_(25105405121).jpg",
+   "author": "University of the Fraser Valley",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 641
+  }
+ },
+ "source/the-transformation-of-the-world-osterhammel/1.jpg": {
+  "code": "X",
+  "reason": "a pub building in England, name coincidence",
+  "auto": false,
+  "note": "source/the-transformation-of-the-world-osterhammel",
+  "credit": {
+   "file": "File:The transformation of Squires Bar into Nursery World - geograph.org.uk - 5487819.jpg",
+   "caption": "The transformation of Squires Bar into Nursery World - geograph.org.uk - 5487819",
+   "source": "https://commons.wikimedia.org/wiki/File:The_transformation_of_Squires_Bar_into_Nursery_World_-_geograph.org.uk_-_5487819.jpg",
+   "author": "Gary Rogers",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "via": "commons-search",
+   "w": 960,
+   "h": 720
+  }
+ },
+ "source/unsw-on-the-dresser-formation-stromatolites/1.jpg": {
+  "code": "O",
+  "reason": "butterfly, unrelated to the Dresser Formation (same file as Jack Hills #2)",
+  "auto": false,
+  "note": "source/unsw-on-the-dresser-formation-stromatolites",
+  "credit": {
+   "file": "File:Issoria lathonia.jpg",
+   "caption": "Issoria lathonia",
+   "source": "https://commons.wikimedia.org/wiki/File:Issoria_lathonia.jpg",
+   "author": null,
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "via": "wikipedia-article",
+   "w": 500,
+   "h": 354
+  }
+ },
+ "source/wikipedia-on-persepolis/1.jpg": {
+  "code": "O",
+  "reason": "concert audience photo (2025 orchestra), not the Persepolis site",
+  "auto": false,
+  "note": "source/wikipedia-on-persepolis",
+  "credit": {
+   "file": "File:2025 Armenian Philharmonic Orchestra Performs in Persepolis 26 Mehr.jpg",
+   "caption": "2025 Armenian Philharmonic Orchestra Performs in Persepolis 26 Mehr",
+   "source": "https://commons.wikimedia.org/wiki/File:2025_Armenian_Philharmonic_Orchestra_Performs_in_Persepolis_26_Mehr.jpg",
+   "author": "امین فائضی",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 640
+  }
+ },
+ "source/wikipedia-on-reform-and-opening-up/1.jpg": {
+  "code": "X",
+  "reason": "panel at the World Economic Forum, unrelated to Reform and Opening",
+  "auto": false,
+  "note": "source/wikipedia-on-reform-and-opening-up",
+  "credit": {
+   "file": "File:Chinas Next Global Agenda Panel World Economic Forum 2013 (2).jpg",
+   "caption": "Chinas Next Global Agenda Panel World Economic Forum 2013 (2)",
+   "source": "https://commons.wikimedia.org/wiki/File:Chinas_Next_Global_Agenda_Panel_World_Economic_Forum_2013_(2).jpg",
+   "author": "World Economic Forum from Cologny, Switzerland",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 427
+  }
+ },
+ "source/wikipedia-on-the-control-of-fire-by-early-humans/1.jpg": {
+  "code": "D",
+  "reason": "same file as event/control-of-fire (era/paleolithic #5)",
+  "auto": false,
+  "note": "source/wikipedia-on-the-control-of-fire-by-early-humans",
+  "credit": {
+   "file": "File:Font-de-Gaume.jpg",
+   "caption": "Font-de-Gaume",
+   "source": "https://commons.wikimedia.org/wiki/File:Font-de-Gaume.jpg",
+   "author": "Charles Robert Knight",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-lead",
+   "w": 960,
+   "h": 643
+  }
+ },
+ "source/wikipedia-on-the-battle-of-talas/1.jpg": {
+  "code": "D",
+  "reason": "same file as event/battle-of-talas #1",
+  "auto": false,
+  "note": "source/wikipedia-on-the-battle-of-talas",
+  "credit": {
+   "file": "File:Battle of Talas.png",
+   "caption": "Battle of Talas",
+   "source": "https://commons.wikimedia.org/wiki/File:Battle_of_Talas.png",
+   "author": "SY",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "via": "wikipedia-lead",
+   "w": 960,
+   "h": 655
+  }
+ },
+ "source/wikipedia-on-the-great-oxidation-event/1.jpg": {
+  "code": "D",
+  "reason": "same chart as event/great-oxidation-event #1",
+  "auto": false,
+  "note": "source/wikipedia-on-the-great-oxidation-event",
+  "credit": {
+   "file": "File:Precambrian Evolution of Life.png",
+   "caption": "Precambrian Evolution of Life",
+   "source": "https://commons.wikimedia.org/wiki/File:Precambrian_Evolution_of_Life.png",
+   "author": "Sciencia58",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "via": "wikipedia-lead",
+   "w": 808,
+   "h": 960
+  }
+ },
+ "source/wikipedia-on-the-french-revolution/1.jpg": {
+  "code": "D",
+  "reason": "same file as event/french-revolution #3",
+  "auto": false,
+  "note": "source/wikipedia-on-the-french-revolution",
+  "credit": {
+   "file": "File:Attaque de la Convention nationale, 1795.jpg",
+   "caption": "Attaque de la Convention nationale, 1795",
+   "source": "https://commons.wikimedia.org/wiki/File:Attaque_de_la_Convention_nationale,_1795.jpg",
+   "author": "Engraving by Abraham Girardet (1764-1823). Etching by Pierre Gabriel Berthault (1748-1819).",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-article",
+   "w": 960,
+   "h": 734
+  }
+ },
+ "source/unesco-on-kuk-early-agricultural-site/1.jpg": {
+  "code": "D",
+  "reason": "identical to place/kuk-early-agricultural-site/1.jpg",
+  "auto": true,
+  "note": "source/unesco-on-kuk-early-agricultural-site",
+  "credit": {
+   "file": "File:Kuk New Guinea 2002.jpg",
+   "caption": "Kuk New Guinea 2002",
+   "source": "https://commons.wikimedia.org/wiki/File:Kuk_New_Guinea_2002.jpg",
+   "author": "NASA: JPL",
+   "license": "Public domain",
+   "license_url": null,
+   "via": "wikipedia-lead",
+   "w": 960,
+   "h": 760
+  }
+ },
+ "event/polynesian-settlement-of-the-pacific/1.jpg": {
+  "code": "D",
+  "reason": "borrowed copy of removed image from culture/polynesians",
+  "auto": true,
+  "note": "event/polynesian-settlement-of-the-pacific",
+  "credit": {
+   "file": "File:Maori welkom.JPG",
+   "caption": "Maori welkom",
+   "source": "https://commons.wikimedia.org/wiki/File:Maori_welkom.JPG",
+   "author": "Original uploader was Ciell at nl.wikipedia",
+   "license": "CC BY-SA 2.5 nl",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5/nl/deed.en",
+   "via": "borrowed from note: Polynesians",
+   "w": 960,
+   "h": 720,
+   "borrowed_from": "culture/polynesians"
+  }
+ }
+}

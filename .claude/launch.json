@@ -1,0 +1,39 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "art-talk",
+      "runtimeExecutable": "C:\\Users\\utopi\\OneDrive\\Desktop\\Earth _WorldBuilding\\_RAG\\.venv\\Scripts\\python.exe",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8765",
+        "--directory",
+        "Art-Talk-main"
+      ],
+      "port": 8765
+    },
+    {
+      "name": "earth-chronicle",
+      "runtimeExecutable": "C:\\Users\\utopi\\OneDrive\\Desktop\\Earth _WorldBuilding\\_RAG\\.venv\\Scripts\\python.exe",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8766",
+        "--directory",
+        "_Site"
+      ],
+      "port": 8766
+    },
+    {
+      "name": "museum",
+      "runtimeExecutable": "C:\\Users\\utopi\\OneDrive\\Desktop\\Earth _WorldBuilding\\_RAG\\.venv\\Scripts\\python.exe",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8767"
+      ],
+      "port": 8767
+    }
+  ]
+}

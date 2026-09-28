@@ -1,0 +1,72 @@
+{
+  "_schema": {
+    "owner": "orchestrator (hand-maintained). tools/pack_textures.py READS this file and must never write it.",
+    "sets": "Keys are texture sets from V2_CONTRACT section 5: parquet, marble, plaster, metal. An entry here overrides the procedural placeholder for that set.",
+    "channels": "Paths are relative to _Museum/assets/. albedo = sRGB colour; normal_gl = OpenGL (+Y) normal; roughness / ao / metalness = single-channel greyscale; arm = pre-packed R=AO G=roughness B=metal (Poly Haven). A channel set to null is synthesised: ao=1.0, metalness=metal_default, roughness=roughness_default.",
+    "tile_m": "Real-world size in metres covered by ONE repeat of the packed square texture (after square_mode). The materials module writes it into the slot materials' custom prop tile_m.",
+    "square_mode": "How to make a non-square source square before resizing: 'none' (already square), 'stack' (repeat the source along its short axis until square; keeps aspect and stays seamless), 'crop' (centre crop).",
+    "albedo_mode": "'as_is' or 'neutralize' (divide the albedo by its mean colour and scale to the given target luminance, so tints come from baseColorFactor; used for the gold scan that serves gilt, brass and window_frame).",
+    "normal_strength": "Scale of the normal's XY deviation (1.0 = unchanged, <1 flattens) before re-normalising.",
+    "roughness_scale / roughness_offset": "Applied to the roughness channel: r' = clamp(r*scale + offset, 0.02, 1).",
+    "out_res": "Packed output resolution (square)."
+  },
+  "parquet": {
+    "source": "Poly Haven", "asset_id": "herringbone_parquet", "license": "CC0 1.0",
+    "page": "https://polyhaven.com/a/herringbone_parquet",
+    "downloaded": "2026-09-28",
+    "files": {
+      "albedo": "textures_src/herringbone_parquet/herringbone_parquet_diff_2k.jpg",
+      "normal_gl": "textures_src/herringbone_parquet/herringbone_parquet_nor_gl_2k.jpg",
+      "arm": "textures_src/herringbone_parquet/herringbone_parquet_arm_2k.jpg",
+      "roughness": null, "ao": null, "metalness": null
+    },
+    "real_size_m": 3.4, "tile_m": 3.4, "square_mode": "none", "albedo_mode": "as_is",
+    "normal_strength": 1.0, "roughness_scale": 0.85, "roughness_offset": 0.0,
+    "metal_default": 0.0, "roughness_default": 0.35, "out_res": 2048
+  },
+  "marble": {
+    "source": "ambientCG", "asset_id": "Marble012", "license": "CC0 1.0",
+    "page": "https://ambientcg.com/view?id=Marble012",
+    "downloaded": "2026-09-28",
+    "files": {
+      "albedo": "textures_src/Marble012/Marble012_2K-JPG_Color.jpg",
+      "normal_gl": "textures_src/Marble012/Marble012_2K-JPG_NormalGL.jpg",
+      "roughness": "textures_src/Marble012/Marble012_2K-JPG_Roughness.jpg",
+      "arm": null, "ao": null, "metalness": null
+    },
+    "real_size_m": null, "tile_m": 2.0, "square_mode": "none", "albedo_mode": "as_is",
+    "normal_strength": 0.6, "roughness_scale": 0.7, "roughness_offset": 0.0,
+    "metal_default": 0.0, "roughness_default": 0.18, "out_res": 2048
+  },
+  "plaster": {
+    "source": "ambientCG", "asset_id": "PaintedPlaster017", "license": "CC0 1.0",
+    "page": "https://ambientcg.com/view?id=PaintedPlaster017",
+    "downloaded": "2026-09-28",
+    "files": {
+      "albedo": "textures_src/PaintedPlaster017/PaintedPlaster017_1K-JPG_Color.jpg",
+      "normal_gl": "textures_src/PaintedPlaster017/PaintedPlaster017_1K-JPG_NormalGL.jpg",
+      "roughness": "textures_src/PaintedPlaster017/PaintedPlaster017_1K-JPG_Roughness.jpg",
+      "arm": null, "ao": null, "metalness": null
+    },
+    "real_size_m": null, "tile_m": 3.0, "square_mode": "stack", "albedo_mode": "as_is",
+    "_note": "Source is 1024x512 (2:1). 'stack' repeats it vertically to 1024x1024, so one packed repeat = 3.0 m wide x 3.0 m tall containing two vertical source repeats. The scan has faint hairline cracks; normal_strength 0.5 keeps the wall calm.",
+    "normal_strength": 0.5, "roughness_scale": 1.0, "roughness_offset": 0.0,
+    "metal_default": 0.0, "roughness_default": 0.6, "out_res": 1024
+  },
+  "metal": {
+    "source": "ambientCG", "asset_id": "Metal048A", "license": "CC0 1.0",
+    "page": "https://ambientcg.com/view?id=Metal048A",
+    "downloaded": "2026-09-28",
+    "files": {
+      "albedo": "textures_src/Metal048A/Metal048A_1K-JPG_Color.jpg",
+      "normal_gl": "textures_src/Metal048A/Metal048A_1K-JPG_NormalGL.jpg",
+      "roughness": "textures_src/Metal048A/Metal048A_1K-JPG_Roughness.jpg",
+      "metalness": "textures_src/Metal048A/Metal048A_1K-JPG_Metalness.jpg",
+      "arm": null, "ao": null
+    },
+    "real_size_m": null, "tile_m": 0.5, "square_mode": "none", "albedo_mode": "neutralize", "neutral_luminance": 0.9,
+    "_note": "Gold scan; albedo neutralised so gilt (1.0 .78 .34), brass (.90 .70 .40) and window_frame (.22 .18 .14) tints come from baseColorFactor.",
+    "normal_strength": 1.0, "roughness_scale": 1.0, "roughness_offset": 0.0,
+    "metal_default": 1.0, "roughness_default": 0.3, "out_res": 1024
+  }
+}

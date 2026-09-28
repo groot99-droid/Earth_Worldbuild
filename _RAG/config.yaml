@@ -1,0 +1,20 @@
+# RAG configuration for the Earth Chronicle vault.
+embedding:
+  model: BAAI/bge-small-en-v1.5   # 384-dim, CPU friendly (~130 MB download on first build)
+  cache_dir: index/model_cache    # relative to _RAG/
+chunking:
+  max_words: 300                  # split a section longer than this
+  overlap_words: 40               # overlap between split pieces
+  skip_section_prefixes:          # generated hub lists; not useful as retrieval chunks
+    - "Notes in This"
+    - "Notes Tagged"
+search:
+  default_k: 8
+  rrf_k: 60                       # reciprocal-rank-fusion constant
+  candidates: 50                  # candidates pulled from each retriever before fusion
+  heading_weights:                # down-weight sections that echo questions rather than answer them
+    "Open Questions": 0.7
+    "Context & Connections": 0.85
+    "Limits of This Reading": 0.85
+index:
+  db_path: index/vault.db         # relative to _RAG/

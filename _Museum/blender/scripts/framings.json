@@ -1,0 +1,153 @@
+{
+  "_doc": "Standard check framings. pos/target in BLENDER Z-up world metres. Camera = look_at(pos -> target), up = +Z. three.js equivalents: (x, z, -y). lens_mm is Blender focal length on a 36mm sensor; fov_deg is the matching three.js VERTICAL fov at 16:9 = 2*atan(10.125/lens_mm) (36 mm wide sensor; corrected 2026-09-28). Use these for every before/after render and every browser screenshot.",
+  "resolution": [
+    1280,
+    720
+  ],
+  "framings": {
+    "rotunda_wide": {
+      "pos": [
+        -5.2,
+        -3.4,
+        1.7
+      ],
+      "target": [
+        6.6,
+        0.0,
+        2.6
+      ],
+      "lens_mm": 18,
+      "fov_deg": 58.7,
+      "slice": true,
+      "desc": "Rotunda interior toward the east (grand) door, walls, drum, part of dome"
+    },
+    "rotunda_dome": {
+      "pos": [
+        0.0,
+        -3.5,
+        1.7
+      ],
+      "target": [
+        0.0,
+        0.6,
+        8.5
+      ],
+      "lens_mm": 16,
+      "fov_deg": 64.7,
+      "slice": true,
+      "desc": "Looking up at dome / oculus / chandelier"
+    },
+    "through_door": {
+      "pos": [
+        -3.0,
+        0.0,
+        1.7
+      ],
+      "target": [
+        22.0,
+        0.0,
+        1.9
+      ],
+      "lens_mm": 24,
+      "fov_deg": 45.7,
+      "slice": true,
+      "desc": "Rotunda through east door down Spine 1"
+    },
+    "spine1_west": {
+      "pos": [
+        8.6,
+        -2.2,
+        1.7
+      ],
+      "target": [
+        28.0,
+        2.2,
+        2.4
+      ],
+      "lens_mm": 20,
+      "fov_deg": 53.7,
+      "slice": true,
+      "desc": "West end of Spine 1: south windows, Gallery A doorway on north wall"
+    },
+    "gallery_a_north": {
+      "pos": [
+        20.0,
+        4.4,
+        1.7
+      ],
+      "target": [
+        20.0,
+        17.0,
+        2.8
+      ],
+      "lens_mm": 18,
+      "fov_deg": 58.7,
+      "slice": true,
+      "desc": "Gallery A facing its north wall (art hang + clerestory + ceiling edge)"
+    },
+    "gallery_a_corner": {
+      "pos": [
+        13.4,
+        4.2,
+        1.7
+      ],
+      "target": [
+        27.0,
+        16.0,
+        4.2
+      ],
+      "lens_mm": 16,
+      "fov_deg": 64.7,
+      "slice": true,
+      "desc": "Gallery A diagonal: two walls, clerestory, laylight"
+    },
+    "gallery_a_art": {
+      "pos": [
+        20.0,
+        13.6,
+        1.7
+      ],
+      "target": [
+        20.0,
+        17.0,
+        1.9
+      ],
+      "lens_mm": 28,
+      "fov_deg": 39.8,
+      "slice": true,
+      "desc": "Close-up of paintings, frames and picture lights on Gallery A north wall"
+    },
+    "stairs": {
+      "pos": [
+        86.4,
+        -4.6,
+        1.7
+      ],
+      "target": [
+        96.0,
+        0.5,
+        5.0
+      ],
+      "lens_mm": 18,
+      "fov_deg": 58.7,
+      "slice": false,
+      "desc": "Staircase Hall (Phase 3)"
+    },
+    "gallery_f": {
+      "pos": [
+        26.0,
+        -8.0,
+        8.7
+      ],
+      "target": [
+        9.0,
+        8.0,
+        9.4
+      ],
+      "lens_mm": 18,
+      "fov_deg": 58.7,
+      "slice": false,
+      "desc": "Upper Gallery F (Phase 3)"
+    }
+  }
+}

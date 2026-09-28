@@ -1,0 +1,903 @@
+{
+ "_doc": "Owned by blender/scripts/tools/pack_textures.py (regenerated each run; only sets.<set>.overrides is read back and deep-merged over the script defaults). Texture sets per V2_CONTRACT.md s5. Paths in 'files' are relative to M/assets/. albedo = sRGB; normal = OpenGL (+Y up), Non-Color; orm = R AO, G roughness, B metalness, Non-Color. UV = world metres / tile_m. 'slots' gives suggested glTF factors so that factor x texture-mean hits the contract table (factors clipped to <= 1 per glTF spec). Parquet herringbone spine runs along texture U.",
+ "generated_by": "blender/scripts/tools/pack_textures.py",
+ "generated_at": "2026-09-28T08:32:43",
+ "seed": 20260927,
+ "downloads_json": "assets/texture_downloads.json",
+ "downloads_used": true,
+ "budget_mb": 12.0,
+ "total_bytes": 5189656,
+ "sets": {
+  "parquet": {
+   "res": 2048,
+   "tile_m": 3.4,
+   "res_placeholder": 2048,
+   "tile_m_placeholder": 2.0,
+   "metal_default": 0.0,
+   "roughness_default": 0.35,
+   "files": {
+    "albedo": "textures/v2_parquet_albedo.jpg",
+    "normal": "textures/v2_parquet_normal.jpg",
+    "orm": "textures/v2_parquet_orm.jpg"
+   },
+   "blender_image_names": {
+    "albedo": "v2_parquet_albedo.jpg",
+    "normal": "v2_parquet_normal.jpg",
+    "orm": "v2_parquet_orm.jpg"
+   },
+   "colorspace": {
+    "albedo": "sRGB",
+    "normal": "Non-Color",
+    "orm": "Non-Color"
+   },
+   "jpeg_quality": {
+    "albedo": 88,
+    "normal": 92,
+    "orm": 88
+   },
+   "placeholder": {
+    "pattern": "herringbone",
+    "spine": "u",
+    "rows_per_tile": 3,
+    "plank_ratio": 6,
+    "chevron_cols": 6,
+    "chevron_planks_per_col": 18,
+    "chevron_angle_deg": 45.0,
+    "oak_light": [
+     196,
+     152,
+     104
+    ],
+    "oak_dark": [
+     136,
+     96,
+     60
+    ],
+    "oak_red": [
+     158,
+     104,
+     70
+    ],
+    "red_frac": 0.1,
+    "tone_sd": 0.085,
+    "quartersawn_frac": 0.4,
+    "ring_mm": [
+     1.8,
+     3.6
+    ],
+    "ring_contrast": 0.16,
+    "streak_contrast": 0.06,
+    "pore_contrast": 0.2,
+    "fleck_contrast": 0.07,
+    "wear_contrast": 0.035,
+    "gap_mm": 0.45,
+    "gap_rgb": [
+     52,
+     36,
+     24
+    ],
+    "bevel_mm": 1.1,
+    "bevel_depth_mm": 0.45,
+    "bevel_dirt": 0.16,
+    "plank_height_sd_mm": 0.08,
+    "cup_mm": 0.06,
+    "rough_base": 0.34,
+    "rough_plank_sd": 0.03,
+    "rough_wear": 0.04
+   },
+   "download_albedo_target_linear": null,
+   "overrides": {},
+   "last_run": {
+    "source": "download:herringbone_parquet",
+    "provenance": {
+     "channels": {
+      "albedo": "assets/textures_src/herringbone_parquet/herringbone_parquet_diff_2k.jpg",
+      "arm": "assets/textures_src/herringbone_parquet/herringbone_parquet_arm_2k.jpg",
+      "normal_gl": "assets/textures_src/herringbone_parquet/herringbone_parquet_nor_gl_2k.jpg"
+     },
+     "notes": [],
+     "albedo_source_mean_linear": [
+      0.2956,
+      0.164,
+      0.0759
+     ],
+     "albedo": "as_is",
+     "roughness_source_mean": 0.0982,
+     "roughness_after_scale_mean": 0.0834,
+     "guards_applied": [
+      "roughness mean 0.083 -> 0.350 (+0.267): below the glossiest slot target 0.35 of this set"
+     ],
+     "seam_score_source": 0.986,
+     "synthesised": [],
+     "source": "Poly Haven",
+     "asset_id": "herringbone_parquet",
+     "page": "https://polyhaven.com/a/herringbone_parquet",
+     "license": "CC0 1.0",
+     "downloaded": "2026-09-28",
+     "real_size_m": 3.4
+    },
+    "bytes": {
+     "albedo": 1094746,
+     "normal": 487164,
+     "orm": 593264
+    },
+    "rewritten": {
+     "albedo": false,
+     "normal": false,
+     "orm": true
+    },
+    "seconds": 15.3,
+    "previews": {
+     "tiled": "blender/renders/dev/textures/parquet_tiled.jpg",
+     "lit_tiled": "blender/renders/dev/textures/parquet_lit_tiled.jpg",
+     "maps_tiled": "blender/renders/dev/textures/parquet_maps_tiled.jpg",
+     "seam_crop": "blender/renders/dev/textures/parquet_seam_crop.jpg"
+    }
+   },
+   "stats": {
+    "albedo_mean_linear": [
+     0.2955,
+     0.1641,
+     0.0756
+    ],
+    "albedo_mean_srgb8": [
+     147,
+     112,
+     77
+    ],
+    "albedo_lum_srgb8_p1_p99": [
+     87,
+     146
+    ],
+    "albedo_min_max_srgb8": [
+     36,
+     209
+    ],
+    "normal_mean_z": 0.9999,
+    "normal_min_z": 0.5608,
+    "ao_mean": 0.9732,
+    "roughness_mean": 0.3501,
+    "roughness_p5_p95": [
+     0.322,
+     0.38
+    ],
+    "metal_mean": 0.0036,
+    "seam_score": {
+     "albedo": 0.986,
+     "normal": 0.969,
+     "orm": 0.959
+    }
+   }
+  },
+  "marble": {
+   "res": 2048,
+   "tile_m": 2.0,
+   "res_placeholder": 2048,
+   "tile_m_placeholder": 2.0,
+   "metal_default": 0.0,
+   "roughness_default": 0.22,
+   "files": {
+    "albedo": "textures/v2_marble_albedo.jpg",
+    "normal": "textures/v2_marble_normal.jpg",
+    "orm": "textures/v2_marble_orm.jpg"
+   },
+   "blender_image_names": {
+    "albedo": "v2_marble_albedo.jpg",
+    "normal": "v2_marble_normal.jpg",
+    "orm": "v2_marble_orm.jpg"
+   },
+   "colorspace": {
+    "albedo": "sRGB",
+    "normal": "Non-Color",
+    "orm": "Non-Color"
+   },
+   "jpeg_quality": {
+    "albedo": 88,
+    "normal": 92,
+    "orm": 88
+   },
+   "placeholder": {
+    "base": [
+     236,
+     234,
+     229
+    ],
+    "vein": [
+     112,
+     118,
+     128
+    ],
+    "cloud_rgb": [
+     196,
+     199,
+     203
+    ],
+    "warp": 0.045,
+    "fine_warp": 0.006,
+    "cloud": 0.1,
+    "grain": 0.01,
+    "veins": [
+     {
+      "f": [
+       1.2,
+       5.0
+      ],
+      "aniso": 3.0,
+      "angle": 32,
+      "beta": 2.2,
+      "core_px": 2.4,
+      "halo_px": 26,
+      "core": 0.55,
+      "halo": 0.22,
+      "width_var": 0.55,
+      "mask": [
+       -0.9,
+       0.9
+      ],
+      "warp_scale": 1.0
+     },
+     {
+      "f": [
+       3.0,
+       14.0
+      ],
+      "aniso": 2.0,
+      "angle": -18,
+      "beta": 2.0,
+      "core_px": 1.3,
+      "halo_px": 9,
+      "core": 0.35,
+      "halo": 0.12,
+      "width_var": 0.5,
+      "mask": [
+       -0.2,
+       1.2
+      ],
+      "warp_scale": 0.8
+     },
+     {
+      "f": [
+       10.0,
+       40.0
+      ],
+      "aniso": 1.4,
+      "angle": 60,
+      "beta": 1.8,
+      "core_px": 0.8,
+      "halo_px": 3,
+      "core": 0.22,
+      "halo": 0.05,
+      "width_var": 0.4,
+      "mask": [
+       0.4,
+       1.6
+      ],
+      "warp_scale": 0.5
+     }
+    ],
+    "rough_base": 0.21,
+    "rough_vein": 0.04,
+    "rough_var": 0.025,
+    "undulation_mm": 0.25
+   },
+   "download_albedo_target_linear": null,
+   "overrides": {},
+   "last_run": {
+    "source": "download:Marble012",
+    "provenance": {
+     "channels": {
+      "albedo": "assets/textures_src/Marble012/Marble012_2K-JPG_Color.jpg",
+      "normal_gl": "assets/textures_src/Marble012/Marble012_2K-JPG_NormalGL.jpg",
+      "roughness": "assets/textures_src/Marble012/Marble012_2K-JPG_Roughness.jpg"
+     },
+     "notes": [],
+     "albedo_source_mean_linear": [
+      0.4251,
+      0.4299,
+      0.4729
+     ],
+     "albedo": "as_is",
+     "roughness_source_mean": 0.0659,
+     "roughness_after_scale_mean": 0.0462,
+     "guards_applied": [
+      "roughness mean 0.046 -> 0.180 (+0.134): below the glossiest slot target 0.18 of this set"
+     ],
+     "seam_score_source": 1.261,
+     "synthesised": [
+      "ao=1",
+      "metal=0"
+     ],
+     "source": "ambientCG",
+     "asset_id": "Marble012",
+     "page": "https://ambientcg.com/view?id=Marble012",
+     "license": "CC0 1.0",
+     "downloaded": "2026-09-28",
+     "real_size_m": null
+    },
+    "bytes": {
+     "albedo": 1388148,
+     "normal": 55813,
+     "orm": 601780
+    },
+    "rewritten": {
+     "albedo": false,
+     "normal": false,
+     "orm": true
+    },
+    "seconds": 15.4,
+    "previews": {
+     "tiled": "blender/renders/dev/textures/marble_tiled.jpg",
+     "lit_tiled": "blender/renders/dev/textures/marble_lit_tiled.jpg",
+     "maps_tiled": "blender/renders/dev/textures/marble_maps_tiled.jpg",
+     "seam_crop": "blender/renders/dev/textures/marble_seam_crop.jpg"
+    }
+   },
+   "stats": {
+    "albedo_mean_linear": [
+     0.4222,
+     0.4273,
+     0.4757
+    ],
+    "albedo_mean_srgb8": [
+     172,
+     173,
+     182
+    ],
+    "albedo_lum_srgb8_p1_p99": [
+     114,
+     202
+    ],
+    "albedo_min_max_srgb8": [
+     42,
+     227
+    ],
+    "normal_mean_z": 1.0,
+    "normal_min_z": 1.0,
+    "ao_mean": 1.0,
+    "roughness_mean": 0.1801,
+    "roughness_p5_p95": [
+     0.157,
+     0.224
+    ],
+    "metal_mean": 0.0,
+    "seam_score": {
+     "albedo": 1.261,
+     "normal": 1.191,
+     "orm": 1.264
+    }
+   }
+  },
+  "plaster": {
+   "res": 1024,
+   "tile_m": 3.0,
+   "res_placeholder": 1024,
+   "tile_m_placeholder": 3.0,
+   "metal_default": 0.0,
+   "roughness_default": 0.65,
+   "files": {
+    "albedo": "textures/v2_plaster_albedo.jpg",
+    "normal": "textures/v2_plaster_normal.jpg",
+    "orm": "textures/v2_plaster_orm.jpg"
+   },
+   "blender_image_names": {
+    "albedo": "v2_plaster_albedo.jpg",
+    "normal": "v2_plaster_normal.jpg",
+    "orm": "v2_plaster_orm.jpg"
+   },
+   "colorspace": {
+    "albedo": "sRGB",
+    "normal": "Non-Color",
+    "orm": "Non-Color"
+   },
+   "jpeg_quality": {
+    "albedo": 88,
+    "normal": 92,
+    "orm": 88
+   },
+   "placeholder": {
+    "base": [
+     245,
+     243,
+     239
+    ],
+    "mottle": 0.022,
+    "mottle_fine": 0.008,
+    "tint": 0.01,
+    "grain": 0.006,
+    "trowel_layers": 4,
+    "trowel_mm": 0.3,
+    "grain_mm": 0.025,
+    "undulation_mm": 0.6,
+    "rough_base": 0.65,
+    "rough_var": 0.05
+   },
+   "download_albedo_target_linear": "placeholder_mean",
+   "overrides": {},
+   "last_run": {
+    "source": "download:PaintedPlaster017",
+    "provenance": {
+     "channels": {
+      "albedo": "assets/textures_src/PaintedPlaster017/PaintedPlaster017_1K-JPG_Color.jpg",
+      "normal_gl": "assets/textures_src/PaintedPlaster017/PaintedPlaster017_1K-JPG_NormalGL.jpg",
+      "roughness": "assets/textures_src/PaintedPlaster017/PaintedPlaster017_1K-JPG_Roughness.jpg"
+     },
+     "notes": [
+      "stacked x2 along the short axis"
+     ],
+     "albedo_source_mean_linear": [
+      0.514,
+      0.5184,
+      0.4959
+     ],
+     "albedo": "as_is",
+     "guards_applied": [
+      "albedo x1.75 (mean [0.514, 0.518, 0.496] -> [0.902, 0.91, 0.869]) so baseColorFactor<=1 reaches the slot table"
+     ],
+     "roughness_source_mean": 0.5152,
+     "roughness_after_scale_mean": 0.5152,
+     "seam_score_source": 1.164,
+     "synthesised": [
+      "ao=1",
+      "metal=0"
+     ],
+     "source": "ambientCG",
+     "asset_id": "PaintedPlaster017",
+     "page": "https://ambientcg.com/view?id=PaintedPlaster017",
+     "license": "CC0 1.0",
+     "downloaded": "2026-09-28",
+     "real_size_m": null
+    },
+    "bytes": {
+     "albedo": 147952,
+     "normal": 639646,
+     "orm": 78352
+    },
+    "rewritten": {
+     "albedo": true,
+     "normal": true,
+     "orm": true
+    },
+    "seconds": 3.7,
+    "previews": {
+     "tiled": "blender/renders/dev/textures/plaster_tiled.jpg",
+     "lit_tiled": "blender/renders/dev/textures/plaster_lit_tiled.jpg",
+     "maps_tiled": "blender/renders/dev/textures/plaster_maps_tiled.jpg",
+     "seam_crop": "blender/renders/dev/textures/plaster_seam_crop.jpg"
+    }
+   },
+   "stats": {
+    "albedo_mean_linear": [
+     0.903,
+     0.9105,
+     0.8701
+    ],
+    "albedo_mean_srgb8": [
+     244,
+     245,
+     240
+    ],
+    "albedo_lum_srgb8_p1_p99": [
+     234,
+     251
+    ],
+    "albedo_min_max_srgb8": [
+     162,
+     255
+    ],
+    "normal_mean_z": 0.9911,
+    "normal_min_z": 0.7961,
+    "ao_mean": 1.0,
+    "roughness_mean": 0.5152,
+    "roughness_p5_p95": [
+     0.482,
+     0.545
+    ],
+    "metal_mean": 0.0,
+    "seam_score": {
+     "albedo": 1.161,
+     "normal": 1.117,
+     "orm": 1.275
+    }
+   },
+   "placeholder_albedo_mean_linear": [
+    0.9129,
+    0.8958,
+    0.8641
+   ]
+  },
+  "metal": {
+   "res": 1024,
+   "tile_m": 0.5,
+   "res_placeholder": 1024,
+   "tile_m_placeholder": 0.5,
+   "metal_default": 1.0,
+   "roughness_default": 0.32,
+   "files": {
+    "albedo": "textures/v2_metal_albedo.jpg",
+    "normal": "textures/v2_metal_normal.jpg",
+    "orm": "textures/v2_metal_orm.jpg"
+   },
+   "blender_image_names": {
+    "albedo": "v2_metal_albedo.jpg",
+    "normal": "v2_metal_normal.jpg",
+    "orm": "v2_metal_orm.jpg"
+   },
+   "colorspace": {
+    "albedo": "sRGB",
+    "normal": "Non-Color",
+    "orm": "Non-Color"
+   },
+   "jpeg_quality": {
+    "albedo": 88,
+    "normal": 92,
+    "orm": 88
+   },
+   "placeholder": {
+    "base_lin": 0.9,
+    "albedo_var": 0.025,
+    "tarnish": 0.05,
+    "hammer_cells": 22,
+    "hammer_mm": 0.1,
+    "brush_mm": 0.0035,
+    "brush_coarse_mm": 0.006,
+    "rough_base": 0.3,
+    "rough_brush": 0.05,
+    "rough_var": 0.045
+   },
+   "download_albedo_target_linear": "placeholder_mean",
+   "overrides": {},
+   "last_run": {
+    "source": "download:Metal048A",
+    "provenance": {
+     "channels": {
+      "albedo": "assets/textures_src/Metal048A/Metal048A_1K-JPG_Color.jpg",
+      "metal": "assets/textures_src/Metal048A/Metal048A_1K-JPG_Metalness.jpg",
+      "normal_gl": "assets/textures_src/Metal048A/Metal048A_1K-JPG_NormalGL.jpg",
+      "roughness": "assets/textures_src/Metal048A/Metal048A_1K-JPG_Roughness.jpg"
+     },
+     "notes": [],
+     "albedo_source_mean_linear": [
+      0.9968,
+      0.7683,
+      0.3347
+     ],
+     "albedo": "neutralized to linear mean 0.900 (grey)",
+     "guards_applied": [
+      "albedo x1.01 (mean [0.889, 0.902, 0.9] -> [0.904, 0.912, 0.907]) so baseColorFactor<=1 reaches the slot table",
+      "roughness mean 0.090 -> 0.280 (+0.190): below the glossiest slot target 0.28 of this set"
+     ],
+     "roughness_source_mean": 0.0899,
+     "roughness_after_scale_mean": 0.0899,
+     "seam_score_source": 1.17,
+     "synthesised": [
+      "ao=1"
+     ],
+     "source": "ambientCG",
+     "asset_id": "Metal048A",
+     "page": "https://ambientcg.com/view?id=Metal048A",
+     "license": "CC0 1.0",
+     "downloaded": "2026-09-28",
+     "real_size_m": null
+    },
+    "bytes": {
+     "albedo": 62182,
+     "normal": 16398,
+     "orm": 24211
+    },
+    "rewritten": {
+     "albedo": true,
+     "normal": false,
+     "orm": true
+    },
+    "seconds": 3.8,
+    "previews": {
+     "tiled": "blender/renders/dev/textures/metal_tiled.jpg",
+     "lit_tiled": "blender/renders/dev/textures/metal_lit_tiled.jpg",
+     "maps_tiled": "blender/renders/dev/textures/metal_maps_tiled.jpg",
+     "seam_crop": "blender/renders/dev/textures/metal_seam_crop.jpg"
+    }
+   },
+   "stats": {
+    "albedo_mean_linear": [
+     0.9065,
+     0.9148,
+     0.9118
+    ],
+    "albedo_mean_srgb8": [
+     244,
+     245,
+     245
+    ],
+    "albedo_lum_srgb8_p1_p99": [
+     240,
+     249
+    ],
+    "albedo_min_max_srgb8": [
+     235,
+     253
+    ],
+    "normal_mean_z": 1.0,
+    "normal_min_z": 1.0,
+    "ao_mean": 1.0,
+    "roughness_mean": 0.2781,
+    "roughness_p5_p95": [
+     0.271,
+     0.286
+    ],
+    "metal_mean": 1.0,
+    "seam_score": {
+     "albedo": 1.176,
+     "normal": 1.262,
+     "orm": 1.611
+    }
+   },
+   "placeholder_albedo_mean_linear": [
+    0.8945,
+    0.8945,
+    0.8945
+   ]
+  }
+ },
+ "slots": {
+  "parquet": {
+   "set": "parquet",
+   "tile_m": 3.4,
+   "target_base_linear": [
+    0.36,
+    0.22,
+    0.12
+   ],
+   "target_roughness": 0.35,
+   "target_metallic": 0.0,
+   "baseColorFactor": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "baseColorFactor_clipped": true,
+   "roughnessFactor": 1.0,
+   "roughness_result_mean": 0.35,
+   "base_result_mean_linear": [
+    0.295,
+    0.164,
+    0.076
+   ],
+   "metallicFactor": 0.0
+  },
+  "marble_white": {
+   "set": "marble",
+   "tile_m": 2.0,
+   "target_base_linear": [
+    0.88,
+    0.86,
+    0.82
+   ],
+   "target_roughness": 0.18,
+   "target_metallic": 0.0,
+   "baseColorFactor": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "baseColorFactor_clipped": true,
+   "roughnessFactor": 0.999,
+   "roughness_result_mean": 0.18,
+   "base_result_mean_linear": [
+    0.422,
+    0.427,
+    0.476
+   ],
+   "metallicFactor": 0.0
+  },
+  "marble_dark": {
+   "set": "marble",
+   "tile_m": 2.0,
+   "target_base_linear": [
+    0.1,
+    0.09,
+    0.085
+   ],
+   "target_roughness": 0.2,
+   "target_metallic": 0.0,
+   "baseColorFactor": [
+    0.237,
+    0.211,
+    0.179,
+    1.0
+   ],
+   "baseColorFactor_clipped": false,
+   "roughnessFactor": 1.0,
+   "roughness_result_mean": 0.18,
+   "base_result_mean_linear": [
+    0.1,
+    0.09,
+    0.085
+   ],
+   "metallicFactor": 0.0
+  },
+  "marble_stair": {
+   "set": "marble",
+   "tile_m": 2.0,
+   "target_base_linear": [
+    0.8,
+    0.76,
+    0.68
+   ],
+   "target_roughness": 0.25,
+   "target_metallic": 0.0,
+   "baseColorFactor": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "baseColorFactor_clipped": true,
+   "roughnessFactor": 1.0,
+   "roughness_result_mean": 0.18,
+   "base_result_mean_linear": [
+    0.422,
+    0.427,
+    0.476
+   ],
+   "metallicFactor": 0.0
+  },
+  "plaster_wall": {
+   "set": "plaster",
+   "tile_m": 3.0,
+   "target_base_linear": [
+    0.86,
+    0.82,
+    0.72
+   ],
+   "target_roughness": 0.6,
+   "target_metallic": 0.0,
+   "baseColorFactor": [
+    0.952,
+    0.901,
+    0.827,
+    1.0
+   ],
+   "baseColorFactor_clipped": false,
+   "roughnessFactor": 1.0,
+   "roughness_result_mean": 0.515,
+   "base_result_mean_linear": [
+    0.86,
+    0.82,
+    0.72
+   ],
+   "metallicFactor": 0.0
+  },
+  "plaster_ceiling": {
+   "set": "plaster",
+   "tile_m": 3.0,
+   "target_base_linear": [
+    0.93,
+    0.91,
+    0.87
+   ],
+   "target_roughness": 0.65,
+   "target_metallic": 0.0,
+   "baseColorFactor": [
+    1.0,
+    0.999,
+    1.0,
+    1.0
+   ],
+   "baseColorFactor_clipped": true,
+   "roughnessFactor": 1.0,
+   "roughness_result_mean": 0.515,
+   "base_result_mean_linear": [
+    0.903,
+    0.91,
+    0.87
+   ],
+   "metallicFactor": 0.0
+  },
+  "painted_trim": {
+   "set": "plaster",
+   "tile_m": 1.0,
+   "target_base_linear": [
+    0.9,
+    0.88,
+    0.82
+   ],
+   "target_roughness": 0.45,
+   "target_metallic": 0.0,
+   "baseColorFactor": [
+    0.997,
+    0.967,
+    0.942,
+    1.0
+   ],
+   "baseColorFactor_clipped": false,
+   "roughnessFactor": 0.873,
+   "roughness_result_mean": 0.45,
+   "base_result_mean_linear": [
+    0.9,
+    0.88,
+    0.82
+   ],
+   "metallicFactor": 0.0
+  },
+  "gilt": {
+   "set": "metal",
+   "tile_m": 0.5,
+   "target_base_linear": [
+    1.0,
+    0.78,
+    0.34
+   ],
+   "target_roughness": 0.28,
+   "target_metallic": 1.0,
+   "baseColorFactor": [
+    1.0,
+    0.853,
+    0.373,
+    1.0
+   ],
+   "baseColorFactor_clipped": true,
+   "roughnessFactor": 1.0,
+   "roughness_result_mean": 0.278,
+   "base_result_mean_linear": [
+    0.906,
+    0.78,
+    0.34
+   ],
+   "metallicFactor": 1.0
+  },
+  "brass": {
+   "set": "metal",
+   "tile_m": 0.5,
+   "target_base_linear": [
+    0.9,
+    0.7,
+    0.4
+   ],
+   "target_roughness": 0.35,
+   "target_metallic": 1.0,
+   "baseColorFactor": [
+    0.993,
+    0.765,
+    0.439,
+    1.0
+   ],
+   "baseColorFactor_clipped": false,
+   "roughnessFactor": 1.0,
+   "roughness_result_mean": 0.278,
+   "base_result_mean_linear": [
+    0.9,
+    0.7,
+    0.4
+   ],
+   "metallicFactor": 1.0
+  },
+  "window_frame": {
+   "set": "metal",
+   "tile_m": 1.0,
+   "target_base_linear": [
+    0.22,
+    0.18,
+    0.14
+   ],
+   "target_roughness": 0.5,
+   "target_metallic": 0.6,
+   "baseColorFactor": [
+    0.243,
+    0.197,
+    0.154,
+    1.0
+   ],
+   "baseColorFactor_clipped": false,
+   "roughnessFactor": 1.0,
+   "roughness_result_mean": 0.278,
+   "base_result_mean_linear": [
+    0.22,
+    0.18,
+    0.14
+   ],
+   "metallicFactor": 0.6
+  }
+ }
+}

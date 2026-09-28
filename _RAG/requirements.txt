@@ -1,0 +1,6 @@
+pyyaml>=6.0
+numpy>=1.26
+fastembed>=0.4.0
+mcp>=1.2.0   # server auto-detects v2 (MCPServer) or v1 (FastMCP)
+requests>=2.31
+pypdf>=4.0

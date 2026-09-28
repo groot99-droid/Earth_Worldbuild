@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "earth-chronicle": {
+      "command": "C:\\Users\\utopi\\OneDrive\\Desktop\\Earth _WorldBuilding\\_RAG\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\utopi\\OneDrive\\Desktop\\Earth _WorldBuilding\\_RAG\\mcp_server.py"
+      ]
+    }
+  }
+}

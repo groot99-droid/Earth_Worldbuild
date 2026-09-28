@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Earth Chronicle</title>
+<meta name="description" content="An explorable, illustrated history of Earth from planetary formation to today, seen through an Observer's eyes.">
+<meta property="og:title" content="Earth Chronicle">
+<meta property="og:image" content="images/_hero/og.jpg">
+<meta property="og:description" content="Eras, events, people, places, cultures, species and technologies, with facts kept apart from interpretation.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=9">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top"><div class="wrap">
+  <div class="top-row">
+    <div>
+      <h1>Earth Chronicle</h1>
+      <p class="lede">The architecture of a planet, from its first cooling to this morning: eras, events, people, places, cultures, species and technologies. Every note is retold by AI in one of four voices, from the vault's own words. The facts still stand apart from the Observer's reading.</p>
+    </div>
+    <button class="icon-btn" id="themeBtn" aria-label="Toggle dark or light theme" title="Toggle theme">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+    </button>
+  </div>
+</div><span class="hero-credit" title="AI-generated illustration (Recraft V4.1 via Higgsfield)">AI illustration</span></header>
+
+<div class="controls" id="controls"><div class="wrap">
+  <div class="row top-controls">
+    <div class="tabs" role="tablist" aria-label="Views" id="tabs">
+      <button class="tab" role="tab" id="tab-timeline" data-view="timeline" aria-controls="main" aria-selected="true">Timeline</button>
+      <button class="tab" role="tab" id="tab-regions" data-view="regions" aria-controls="main" aria-selected="false" tabindex="-1">Regions</button>
+      <button class="tab" role="tab" id="tab-graph" data-view="graph" aria-controls="main" aria-selected="false" tabindex="-1">Graph</button>
+      <button class="tab" role="tab" id="tab-browse" data-view="browse" aria-controls="main" aria-selected="false" tabindex="-1">Browse</button>
+      <button class="tab" role="tab" id="tab-explore" data-view="explore" aria-controls="main" aria-selected="false" tabindex="-1">Explore</button>
+    </div>
+    <div class="searchbox">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input class="search" id="q" type="search" role="combobox" aria-label="Search all notes" aria-autocomplete="list" aria-expanded="false" aria-controls="suggest" autocomplete="off" spellcheck="false" enterkeyhint="search" placeholder="Search people, places, events, ideas…">
+      <div class="suggest" id="suggest" role="listbox" aria-label="Search suggestions" hidden></div>
+    </div>
+  </div>
+</div></div>
+
+<div class="wrap filter-bar">
+  <div class="row">
+    <button class="filters-toggle" id="filtersToggle" type="button" aria-expanded="false" aria-controls="filters">Filters <span class="n" hidden>0</span></button>
+    <span class="count" id="count" role="status" aria-live="polite"></span>
+    <button class="link-btn" id="reset" type="button">Reset filters</button>
+  </div>
+  <div class="filters" id="filters" hidden>
+    <div class="chips" id="typeChips" role="group" aria-label="Filter by type"></div>
+    <div class="row">
+      <select id="fEra" aria-label="Era"><option value="">All eras</option></select>
+      <select id="fRegion" aria-label="Region"><option value="">All regions</option></select>
+      <select id="fTheme" aria-label="Theme"><option value="">All themes</option></select>
+      <select id="fConf" aria-label="Confidence"><option value="">Any confidence</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select>
+    </div>
+  </div>
+  <div class="active-filters" id="active" aria-label="Active filters"></div>
+</div>
+
+<main class="wrap" id="main" tabindex="-1" role="tabpanel" aria-label="Notes"></main>
+
+<dialog class="note" id="note" aria-labelledby="noteTitle"></dialog>
+<dialog class="lb" id="lb" aria-label="Image viewer"></dialog>
+<div class="toast" id="toast" hidden></div>
+<div class="sr-only" id="live" role="status" aria-live="polite"></div>
+<noscript><p class="wrap">Earth Chronicle needs JavaScript to browse the notes.</p></noscript>
+<script type="module" src="js/main.js?v=9"></script>
+</body>
+</html>

@@ -1,0 +1,320 @@
+"""Hand-written parts of the Tier 2 patch: per-source Caveats additions and the note corrections."""
+import json
+from pathlib import Path
+
+import _paths
+
+# TEMPLATE: this is the Tier 2 content, kept as the pattern for tier3_manual.py. Running it rewrites
+# specs/tier2_manual.json and specs/tier2_extra.json only; it touches no note.
+SP = _paths.WORK
+SP.mkdir(parents=True, exist_ok=True)
+
+# ---------------------------------------------------------------- per-source additions to the Caveats / used-for text
+SRC = {
+    "Barboni et al. 2017 Early Formation of the Moon": {
+        "used": "A lunar zircon age of 4.51 Ga: uranium-lead and lutetium-hafnium data on Apollo 14 zircons require the Moon to have formed by 4.51 Ga, within the first 60 million years of the Solar System. The paper also reviews later estimates of 4.35 to 4.42 Ga, about 150 to 200 million years after the Solar System began.",
+        "extra": "The date of the Solar System itself (4.5673 Ga), which the Theia note used to cite here, is not in this paper.",
+    },
+    "Clarkson et al. 2017 Madjedbebe": {
+        "extra": "Only the abstract-level text of the Nature page was readable (the article body needs a subscription). The abstract gives the 65,000-year age from optical dating of the sediments; it does not discuss whether that date is disputed, so that hedge in the notes is not confirmed here.",
+    },
+    "Clarkson et al. 2020 Human Occupation Spans the Toba Eruption": {
+        "extra": "The paper concerns the Dhaba site in the Middle Son valley, India (an unchanging industry spanning the ~74 ka Toba eruption, bracketed by ages of 79.6 +/- 3.2 and 65.2 +/- 3.1 ka). Jwalapuram is mentioned only as a comparison; the Jwalapuram evidence and the no-bottleneck reading are checked against The Conversation on Stone Tools and the Toba Eruption.",
+    },
+    "Condron and Winsor 2012 Meltwater Routing and the Younger Dryas": {
+        "extra": "The paper dates the start of the Younger Dryas to 12.9 kya and calls it a 1,200-year cold episode; the 11,700-year end date used in the vault is that start minus the duration and is not stated in the text. Its own conclusion is that meltwater from the Arctic (Mackenzie Valley) rather than the St. Lawrence Valley more likely triggered the cooling, while treating a meltwater trigger as the generally held view.",
+    },
+    "Garcia-Castellanos et al. 2009 Mediterranean Megaflood": {
+        "extra": "The abstract puts the desiccation at about 5.6 Ma and the Zanclean flood at 5.33 Ma; the start date of the crisis in the notes comes from Wikipedia on the Messinian Salinity Crisis.",
+    },
+    "Gaunitz et al. 2018 Botai Horses": {
+        "extra": "The abstract confirms the Botai evidence for horse husbandry about 5,500 years ago, the descent of Przewalski's horses from horses herded at Botai, and the 2.7 percent of Botai-related ancestry in domestic horses from about 4,000 years ago. It does not mention mare's milk, which is checked against Outram et al. 2009 Earliest Horse Harnessing and Milking.",
+    },
+    "Goren-Inbar et al. 2004 Fire at Gesher Benot Ya'aqov": {
+        "extra": "The abstract says nearly 790,000 years ago and does not give 780,000, the figure the Control of Fire note used; the note was reworded.",
+    },
+    "Green et al. 2010 Neandertal Genome": {
+        "extra": "Only the journal summary and abstract on the Science page were readable: Science's free-access copy requires creating an account, which was not done. The summary dates the disappearance of Neandertals to about 30,000 years ago (the vault uses about 40,000, the more recent estimate) and gives no percentage of Neandertal ancestry, so the 1 to 2 percent figure is checked against Sankararaman et al. 2016 instead.",
+    },
+    "Gross and Zhao 2014 Origins of Domesticated Rice": {
+        "extra": "The text supports japonica rice cultivated in the Yangtze valley by about 8,000 BP from wild Oryza rufipogon, with the non-shattering trait fixed 1,000 years or more later, and indica arising through introgression from japonica; it does not give '7,000 years ago' as a domestication date, which an earlier check had claimed.",
+    },
+    "Henshilwood et al. 2009 Blombos Engraved Ochres": {
+        "extra": "ScienceDirect shows the abstract and short section snippets only; the full text needs institutional access.",
+    },
+    "Hershkovitz et al. 2018 Misliya Maxilla": {
+        "extra": "The abstract confirms the 177,000 to 194,000 year age and the 90,000 to 120,000 year age of Skhul and Qafzeh. The published comment in Science that argues for a much younger minimum age of roughly 60,000 to 70,000 years is not in the text read and remains unverified.",
+        "drop_old": True,
+    },
+    "Hublin et al. 2017 Jebel Irhoud": {
+        "used": "Description and interpretation of the Jebel Irhoud fossils: a mosaic of facial, mandibular and dental features aligned with early or recent modern humans and a more primitive braincase. It states the site's age as 300 to 350 thousand years, a figure it takes from the companion dating paper (Richter et al. 2017 Jebel Irhoud Age).",
+        "extra": "This is the author's accepted manuscript from the University of Kent repository, not the version of record. The specific date of 315 plus or minus 34 thousand years, which the notes used to cite here, is not in this paper; it comes from Richter et al. 2017 Jebel Irhoud Age.",
+    },
+    "IUGS Anthropocene Decision (2024)": {
+        "extra": "Only the first paragraph of this Nature news item was readable. It confirms that the IUGS announced on 20 March 2024 that it upheld the decision of a group of geoscientists, who voted on 4 March to reject the proposal to make the Anthropocene a formal epoch. The vote count of 12 against, 4 for and 3 abstentions was not in the text read.",
+    },
+    "Lambeck et al. 2014 Sea Level and Ice Volumes": {
+        "extra": "The paper places the fall of equivalent sea level to about 134 m below present at 29 to 21 ka BP and the glacial maximum at about 30,000 years ago; the wider Last Glacial Maximum window of about 26.5 to 19 thousand years ago and the range of 120 to 135 m in the Last Glacial Maximum note are not stated in it. The 26,500 to 19,000 year window in the note comes from Clark et al. (2009), which was seen only in search summaries and has not been read.",
+        "drop_old": True,
+    },
+    "Moody et al. 2024 Last Universal Common Ancestor": {
+        "used": "An estimate that the last universal common ancestor of all living cells lived about 4.2 billion years ago (95 percent interval 4.09 to 4.33 billion), as part of an ecosystem, with the route from the origin of life to that ancestor treated as an open question.",
+        "extra": "The url earlier in this note pointed to a short commentary in the same journal issue (8(9): 1573-1574), not the research article the citation names; it now points to the article. The estimate comes from a molecular clock calibrated on pre-LUCA gene duplicates and carries the interval given above.",
+        "drop_old": True,
+    },
+    "Nature Communications 2020 on the Origin of Amazonian Dark Earths": {
+        "citation": "Silva, L. C. R., Corrêa, R. S., Wright, J. L., Bomfim, B., Hendricks, L., Gavin, D. G., et al. 2021. 'A new hypothesis for the origin of Amazonian Dark Earths.' Nature Communications 12: 127 (the DOI carries 2020, the volume is 2021). Also Wikipedia, 'Terra preta.'",
+        "used": "Evidence from one well-studied site in the Brazilian Amazon that Amazonian Dark Earths, unusually fertile soils rich in microscopic charcoal and frequently found with pre-Columbian artefacts, may owe their phosphorus and calcium to alluvial deposition and natural processes that began several thousand years before the earliest evidence of soil management, so that Indigenous peoples used the soils without having created them.",
+        "extra": "The paper argues against, not for, the usual description of these soils as anthropic; an earlier check that cited it for 'anthropogenic soil with oldest layers about 5,000 years old' was not supported and was replaced. The study concerns one site, and the authors say the hypothesis must be corroborated elsewhere. The source note title says 2020 because of the DOI; the article is in volume 12 (2021).",
+    },
+    "Nature Communications 2025 PETM Vegetation Study": {
+        "extra": "The text gives about 56 Ma, a 5 to 6 degree C warming and a duration of about 200 kyr, plus a 70 to 100 kyr lagged recovery of carbon stocks; it does not state a carbon-isotope excursion of more than 2 per mil, which was removed from the check.",
+    },
+    "Nature on the Oldest Fossil Thylakoids": {
+        "extra": "Only the abstract on the Nature page was readable (the article body needs a subscription).",
+    },
+    "PMC on Tidally Driven Remelting and the Moon's Age": {
+        "citation": "'Tidally driven remelting around 4.35 billion years ago indicates the Moon is old.' Nature 636(8043): 598-602 (2024). PubMed Central (PMC11655352).",
+    },
+    "PNAS 2016 on Early Farmers Descended from Neolithic Aegeans": {
+        "extra": "The text supports farming reaching Europe from Anatolia by migration (an unbroken chain of ancestry from central and southwestern Europe back to Greece and northwestern Anatolia); it dates Anatolian farming communities to about 6,600 to 6,500 cal BCE but does not state that farming reached central Europe in the mid-6th millennium BCE, which an earlier check had claimed.",
+    },
+    "PNAS 2022 on Stature and Health of Early European Farmers": {
+        "used": "Evidence from 167 prehistoric Europeans that Neolithic individuals were shorter than their genetic scores predicted, by an average of 3.82 cm relative to the Upper Paleolithic and Mesolithic and 2.21 cm relative to post-Neolithic groups, read as a sign of poorer health with the adoption of agriculture.",
+        "extra": "The claim of shorter stature and worse health 'in 19 of 21 societies', which an earlier check cited here, is not in this paper and was removed. The paper uses stature as a proxy for health; the results are modest in statistical terms (P = 0.040 and 0.068) and were attenuated when genome-wide ancestry was also accounted for.",
+    },
+    "Paleoproterozoic Fossil Record Review (Earth-Science Reviews 2017)": {
+        "citation": "'The Paleoproterozoic fossil record: Implications for the evolution of the biosphere during Earth's middle-age.' Earth-Science Reviews 176: 68-86 (published online 2017, volume dated 2018).",
+        "extra": "The review calls large organic-walled vesicles (Valeria lophostriata, from the more than 1.65 Ga Mallapunyah Formation, Australia) the oldest unambiguous eukaryotic microfossils, and says younger coiled filaments called Grypania (about 1.45 Ga, India) are more convincingly eukaryotic than Grypania spiralis from the 1.87 Ga Negaunee Iron Formation.",
+    },
+    "Sankararaman et al. 2016 Neanderthal and Denisovan Ancestry Map": {
+        "extra": "The abstract gives about 2 percent Neanderthal ancestry and up to about 5 percent Denisovan ancestry in some present-day humans, with more in Oceanians; it does not say that most non-Africans carry under 1 percent Denisovan ancestry, so that detail in the Out of Africa Dispersal note was removed. Estimates of Denisovan ancestry differ between studies and methods, so the abstract's up to about 5 percent is used only as a figure for some Oceanians, not as a general one.",
+        "drop_old": True,
+    },
+    "Science News on the Monte Verde Age Debate": {
+        "blocked": "On 2026-09-26 no readable copy could be obtained: science.org returns HTTP 403 to automated requests, and the Wayback Machine has no HTTP 200 capture of this page (its closest-snapshot redirect loops). The page was therefore not read and the claims that cite it (a traditional age of about 14,500 years from a 1997 panel, and a recent much younger proposal that is disputed) remain unverified.",
+    },
+    "Stitzer and Ross-Ibarra 2018 Maize Domestication": {
+        "extra": "The abstract confirms that maize (Zea mays subsp. mays) was transformed from the teosinte Z. mays subsp. parviglumis, that five major morphological differences separate them and that regions throughout the genome contributed. It gives no domestication date, no site or microfossil age and no figure for highland teosinte ancestry, so those details in the Domestication of Maize note were removed. An earlier caveat said they had been confirmed only in search summaries of related sources.",
+        "drop_old": True,
+    },
+    "Zaremba-Niedzwiedzka et al. 2017 Asgard Archaea": {
+        "extra": "Only the abstract on the Nature page was readable (the article body needs a subscription).",
+    },
+    "Patterson et al. 2006 Complex Speciation of Humans and Chimpanzees": {
+        "extra": "Only the abstract on the Nature page was readable (the article body needs a subscription).",
+    },
+    "Rasmussen et al. 2008 First Appearance of Eukaryotes and Cyanobacteria": {
+        "extra": "Only the abstract on the Nature page was readable (the article body needs a subscription). It gives the oldest fossil evidence for eukaryotes as 1.78 to 1.68 Gyr ago, a slightly older range than the 1.65 Ga in the Origin of Eukaryotes note, which follows the 2017 Paleoproterozoic review.",
+    },
+    "Late Colonization of Easter Island (Science 2006)": {
+        "extra": "The abstract confirms radiocarbon dates for the earliest layers at Anakena implying colonization about 1200 CE. A 2024 Journal of Pacific Archaeology paper on re-dating sites at Rano Kau was seen only as a listing and not read, and earlier proposals for settlement as early as about 300 CE were not checked.",
+        "drop_old": True,
+    },
+    "Journal of Archaeological Research on Iron in the Near East": {
+        "extra": "The text confirms the two dating claims used in the Iron Age and Iron Smelting notes: extractive iron metallurgy began on a limited scale in Anatolia sometime in the early 2nd millennium BC, and expanded around the turn of the first millennium BC. The earlier caveat that their wording came from a search summary no longer applies.",
+        "drop_old": True,
+    },
+    "Sutikna et al. 2016 Homo floresiensis Chronology": {
+        "extra": "Only the abstract on the Nature page was readable (the article body needs a subscription).",
+    },
+}
+
+# ---------------------------------------------------------------------------------------------------- new source notes
+NEW = [
+    {
+        "title": "Richter et al. 2017 Jebel Irhoud Age",
+        "citation": "Richter, D., Grün, R., Joannes-Boyau, R., Steele, T. E., et al. 2017. 'The age of the hominin fossils from Jebel Irhoud, Morocco, and the origins of the Middle Stone Age.' Nature 546(7657): 293-296.",
+        "url": "https://www.nature.com/articles/nature22335",
+        "kind": "paper",
+        "reliability": "high",
+        "access": "abstract",
+        "access_route": "the Nature page fetched directly (abstract), with the PubMed abstract",
+        "read_on": "2026-09-26",
+        "used": "The weighted average age of 315 plus or minus 34 thousand years for the Middle Stone Age artefacts and hominin fossils at Jebel Irhoud, Morocco, with support from a recalculated uranium-series and electron spin resonance date of 286 plus or minus 32 thousand years.",
+        "caveats": "Only the abstract was read: the Nature page (fetched directly on 2026-09-26) shows the abstract and reference list behind a subscription, and the PubMed abstract matches. No open-access copy was found. This is the companion dating paper to Hublin et al. 2017 Jebel Irhoud, which describes the fossils and quotes the age as 300 to 350 thousand years. An abstract-only source never moves a note toward reviewed.",
+    },
+    {
+        "title": "Outram et al. 2009 Earliest Horse Harnessing and Milking",
+        "citation": "Outram, A. K., Stear, N. A., Bendrey, R., Olsen, S., Kasparov, A., Zaibert, V., Thorpe, N., and Evershed, R. P. 2009. 'The earliest horse harnessing and milking.' Science 323(5919): 1332-1335.",
+        "url": "https://www.science.org/doi/10.1126/science.1168594",
+        "kind": "paper",
+        "reliability": "high",
+        "access": "abstract",
+        "access_route": "PubMed abstract (PMID 19265018) through NCBI E-utilities, with OpenAlex and Crossref records",
+        "read_on": "2026-09-26",
+        "used": "Three lines of evidence for horse domestication in the Eneolithic Botai Culture of Kazakhstan, dated to about 3500 BCE: Botai horse metacarpals resemble Bronze Age domestic horses, some horses show signs of bridling, and organic residues in ceramics show processing of mare's milk and carcass products.",
+        "caveats": "Only the abstract was read (the PubMed record, fetched on 2026-09-26). science.org returns HTTP 403 to automated requests and no open-access copy was found. It confirms only what the abstract states, and it predates the 2018 genomic study (Gaunitz et al. 2018 Botai Horses) that shows Botai horses were ancestors of Przewalski's horses rather than of modern domestic horses. An abstract-only source never moves a note toward reviewed.",
+    },
+]
+
+# ------------------------------------------------------------------------------------------------------- note patches
+J = "Richter et al. 2017 Jebel Irhoud Age"
+H = "Hublin et al. 2017 Jebel Irhoud"
+NOTES = [
+    {"note": "Sub-Saharan Africa", "sources": [J],
+     "replace_checks": [["Oldest Homo sapiens fossils at Jebel Irhoud dated 315,000 years [Hublin et al. 2017 Jebel Irhoud]",
+                         f"Jebel Irhoud (Morocco) hominin fossils and Middle Stone Age artefacts have a weighted average age of 315 plus or minus 34 thousand years, and the site is called the oldest and richest African Middle Stone Age hominin site documenting early stages of the Homo sapiens clade [{J}; {H}]"]]},
+    {"note": "Origin of Homo sapiens", "sources": [J],
+     "replace_checks": [["Jebel Irhoud fossils 315 +/- 34 thousand years old [Hublin et al. 2017 Jebel Irhoud]",
+                         f"Jebel Irhoud fossils and artefacts have a weighted average age of 315 plus or minus 34 thousand years, with a modern face and teeth and a more primitive braincase [{J}; {H}]"]]},
+    {"note": "Homo sapiens", "sources": [J],
+     "replace_checks": [["Oldest fossils from Jebel Irhoud, Morocco, dated 315,000 +/- 34,000 years [Hublin et al. 2017 Jebel Irhoud]",
+                         f"Fossils from Jebel Irhoud, Morocco, dated to 315 plus or minus 34 thousand years (300 to 350 thousand years in the discovery paper), described as the oldest of the Homo sapiens clade in Africa [{J}; {H}]"]]},
+    {"note": "Anthropocene",
+     "replace": [["The Subcommission on Quaternary Stratigraphy voted 12 to 4 against formalization in March 2024 (with 3 abstentions), and the IUGS upheld the result on 20 March 2024.",
+                  "The Subcommission on Quaternary Stratigraphy voted on 4 March 2024 to reject formalization as an epoch, and the IUGS upheld the result on 20 March 2024."]],
+     "replace_checks": [["IUGS declined to formalize the Anthropocene as an epoch in March 2024; SQS vote 12 against, 4 for, 3 abstentions; ratified 20 March 2024 [IUGS Anthropocene Decision (2024)]",
+                         "The IUGS announced on 20 March 2024 that it upheld the 4 March 2024 vote of a group of geoscientists to reject the proposal to make the Anthropocene a formal epoch (first paragraph of the Nature news item only) [IUGS Anthropocene Decision (2024)]"]]},
+    {"note": "Amazonian Urbanism and Dark Earths",
+     "replace": [["- Dark, fertile anthropogenic soils (terra preta), enriched by charcoal, ceramics, and organic waste, occur across the basin and are associated with long settlement.",
+                  "- Dark, fertile soils (terra preta, or Amazonian Dark Earths), rich in charcoal and often found with pre-Columbian pottery, occur across the basin and are associated with settlement. Whether people created them or only used natural deposits is disputed; a 2021 study of one site in the Brazilian Amazon argued for a largely natural, alluvial origin."]],
+     "replace_checks": [["Terra preta is dark, charcoal- and pottery-rich anthropogenic soil with oldest layers about 5,000 years old [Nature Communications 2020 on the Origin of Amazonian Dark Earths]",
+                         "Amazonian Dark Earths are unusually fertile, charcoal-rich soils frequently found with pre-Columbian artefacts and long classed as anthropic soils; a 2021 study of one Brazilian Amazon site reported that their phosphorus, calcium and charcoal inputs were alluvial and began several thousand years before the earliest evidence of soil management, and proposed that Indigenous peoples used natural processes rather than creating the soils [Nature Communications 2020 on the Origin of Amazonian Dark Earths]"]]},
+    {"note": "The Agricultural Revolution",
+     "replace": [["- Some evidence shows early farmers were shorter, sicker, and more exposed to disease than foragers.",
+                  "- Some evidence suggests poorer health among early farmers: in a study of 167 prehistoric Europeans, Neolithic individuals were shorter than their genetic scores predicted, by about 2 to 4 cm relative to earlier and later groups."]],
+     "replace_checks": [["Early farmers had shorter stature and worse health (19 of 21 societies) [PNAS 2022 on Stature and Health of Early European Farmers]",
+                         "In 167 prehistoric Europeans, Neolithic individuals were shorter than their genetic scores predicted, by an average of 3.82 cm relative to the Upper Paleolithic and Mesolithic and 2.21 cm relative to post-Neolithic groups, read as a proxy for poorer health [PNAS 2022 on Stature and Health of Early European Farmers]"]]},
+    {"note": "Theia Impact and the Formation of the Moon",
+     "replace": [["with current estimates ranging from about 4.52 to 4.35 billion years ago, or roughly 50 to 220 million years after the Solar System formed.",
+                  "with estimates ranging from about 4.52 to 4.35 billion years ago: lunar zircons require the Moon to have formed within the first 60 million years of the Solar System, while the youngest estimates fall about 150 to 200 million years after it began."]],
+     "replace_checks": [["Moon zircon age of 4.51 Ga; Solar System at 4.5673 Ga; current Moon-age estimates of about 4.52 to 4.35 Ga; Moon and Earth isotopically nearly identical [Barboni et al. 2017 Early Formation of the Moon; PMC on Tidally Driven Remelting and the Moon's Age]",
+                         "Apollo zircon data require the Moon to have formed by 4.51 Ga, within the first 60 million years of the Solar System; estimates of the Moon's age range from 4.35 to 4.51 Ga, with a hafnium-tungsten model age of about 4.52 Ga, and the youngest lie about 150 to 200 million years after the Solar System began [Barboni et al. 2017 Early Formation of the Moon; PMC on Tidally Driven Remelting and the Moon's Age]"]]},
+    {"note": "Last Glacial Maximum",
+     "replace": [["- Sea level was roughly 120 to 135 meters below today's.",
+                  "- Sea level was about 134 meters below today's at its lowest, according to a 2014 global reconstruction."]],
+     "replace_checks": [["LGM about 26.5 to 19 thousand years ago; sea level 120 to 135 m lower [Lambeck et al. 2014 Sea Level and Ice Volumes]",
+                         "Equivalent sea level fell to about 134 m below present, staying near that minimum from about 29 to 21 thousand years ago, with grounded ice volume about 52 million cubic km greater than today [Lambeck et al. 2014 Sea Level and Ice Volumes]"]]},
+    {"note": "Control of Fire",
+     "replace": [["- Burned material at Gesher Benot Ya'aqov in Israel is about 780,000 years old.",
+                  "- Burned seeds, wood, and flint at Gesher Benot Ya'aqov in Israel suggest human control of fire nearly 790,000 years ago."]],
+     "replace_checks": [["Burned seeds, wood and flint at Gesher Benot Ya'aqov about 780,000-790,000 years ago [Goren-Inbar et al. 2004 Fire at Gesher Benot Ya'aqov]",
+                         "Burned seeds, wood and flint at the Acheulian site of Gesher Benot Ya'aqov, Israel, are suggestive of human control of fire nearly 790,000 years ago; wood of six taxa was burned [Goren-Inbar et al. 2004 Fire at Gesher Benot Ya'aqov]"]]},
+    {"note": "Domestication of Maize",
+     "replace": [["- Genetic studies point to the Balsas River valley as the origin.",
+                  "- Genetic studies trace maize to the wild teosinte Zea mays subsp. parviglumis."],
+                 ["- The oldest maize microfossils, about 8,700 years old, come from the Xihuatoxtla site in the Balsas valley. Early maize had tiny cobs; selection over thousands of years produced large ears. Roughly 15 to 25 percent of the genes in modern maize came from a highland teosinte (Zea mays mexicana) through later hybridization.",
+                  "- Five major morphological differences separate maize from teosinte, and regions throughout the genome contributed to the change. Early maize had tiny cobs; selection over thousands of years produced large ears."]],
+     "replace_checks": [["Domestication about 9,000 years ago from Balsas teosinte; oldest microfossils about 8,700 years; 15-25% highland teosinte ancestry [Stitzer and Ross-Ibarra 2018 Maize Domestication]",
+                         "Maize (Zea mays subsp. mays) was transformed from the teosinte Z. mays subsp. parviglumis; five major morphological differences separate the two subspecies and regions throughout the genome contributed (abstract only) [Stitzer and Ross-Ibarra 2018 Maize Domestication]"]]},
+    {"note": "Messinian Salinity Crisis",
+     "replace": [["- Restriction of the Gibraltar gateway caused the Mediterranean to evaporate and deposit evaporites over a kilometer thick in places.",
+                  "- Restriction of the Gibraltar gateway caused the Mediterranean to evaporate and deposit more than a million cubic kilometers of salt."]],
+     "replace_checks": [["Crisis about 5.97-5.33 Ma with kilometre-thick salt deposits, ending with the Zanclean flood through Gibraltar [Wikipedia on the Messinian Salinity Crisis; Garcia-Castellanos et al. 2009 Mediterranean Megaflood]",
+                         "Crisis from 5.96 to 5.33 Ma, beginning when the precursor of the Strait of Gibraltar closed about 5.96 Ma; salt deposits of more than 1 million cubic km; ended by the Zanclean flood through Gibraltar at 5.33 Ma [Wikipedia on the Messinian Salinity Crisis; Garcia-Castellanos et al. 2009 Mediterranean Megaflood]"]]},
+    {"note": "Paleocene-Eocene Thermal Maximum",
+     "replace_checks": [["PETM about 56 Ma, warming of about 5-6 degrees C lasting about 200,000 years, with a carbon-isotope excursion greater than 2 per mil [Nature Communications 2025 PETM Vegetation Study]",
+                         "PETM about 56 Ma, a 5 to 6 degree C global warming event lasting about 200 kyr, with a 70 to 100 kyr lagged recovery of biospheric carbon stocks [Nature Communications 2025 PETM Vegetation Study]"]]},
+    {"note": "Origin of Eukaryotes",
+     "replace": [["The oldest unambiguous eukaryote fossils, organic-walled microfossils, are about 1.65 billion years old; older candidates such as Grypania (about 1.87 billion years) are debated.",
+                  "The oldest unambiguous eukaryote fossils, large organic-walled microfossils, are more than 1.65 billion years old; older candidates such as Grypania (about 1.87 billion years) are less convincing than younger, larger forms."]],
+     "replace_checks": [["Oldest unambiguous eukaryote fossils about 1.65 billion years old; Grypania (about 1.87 Ga) is debated [Paleoproterozoic Fossil Record Review (Earth-Science Reviews 2017)]",
+                         "The oldest unambiguous eukaryotic microfossils are large organic-walled vesicles (acritarchs, Valeria lophostriata) from the more than 1.65 Ga Mallapunyah Formation, Australia; Grypania spiralis from the 1.87 Ga Negaunee Iron Formation is less convincingly eukaryotic than younger forms of about 1.45 Ga [Paleoproterozoic Fossil Record Review (Earth-Science Reviews 2017)]"]]},
+    {"note": "Botai Culture", "sources": ["Outram et al. 2009 Earliest Horse Harnessing and Milking"],
+     "replace_checks": [["Mare's milk use by about 3500 BCE; Botai horses ancestral to Przewalski's horses, not modern domestic horses (Science 2018) [Gaunitz et al. 2018 Botai Horses]",
+                         "The Botai culture provides the earliest archaeological evidence for horse husbandry, about 5,500 years ago; Przewalski's horses are the feral descendants of horses herded at Botai, and domestic horses from about 4,000 years ago to the present carry only about 2.7 percent Botai-related ancestry (Science 2018) [Gaunitz et al. 2018 Botai Horses]"]],
+     "checks": ["Botai horses (about 3500 BCE) resemble Bronze Age domestic horses, some show signs of bridling, and organic residues in ceramics show processing of mare's milk and carcass products [Outram et al. 2009 Earliest Horse Harnessing and Milking]"]},
+    {"note": "Out of Africa Dispersal",
+     "replace": [["Most carry under 1 percent Denisovan ancestry, and Oceanian populations carry much more.",
+                  "Oceanian populations carry much more Denisovan ancestry, up to about 5 percent in some."]],
+     "replace_checks": [
+         ["Misliya Cave maxilla dated in 2018 to 177,000 to 194,000 years ago; the age is disputed in a published comment; Skhul and Qafzeh fossils are about 90,000 to 120,000 years old [Hershkovitz et al. 2018 Misliya Maxilla]",
+          "Misliya Cave maxilla dated to 177,000 to 194,000 years ago (Science 2018), earlier than the Skhul and Qafzeh fossils dated to about 90,000 to 120,000 years ago (abstract only) [Hershkovitz et al. 2018 Misliya Maxilla]"],
+         ["Madjedbebe rock shelter dated to about 65,000 years ago by luminescence; the interpretation is debated [Clarkson et al. 2017 Madjedbebe]",
+          "Human occupation of the Madjedbebe rock shelter, northern Australia, began around 65,000 years ago according to optical dating of the sediments (abstract only) [Clarkson et al. 2017 Madjedbebe]"],
+         ["Non-Africans carry up to about 2 percent Neanderthal ancestry [Green et al. 2010 Neandertal Genome; Sankararaman et al. 2016 Neanderthal and Denisovan Ancestry Map]",
+          "Some present-day humans derive about 2 percent of their ancestry from Neanderthals; the draft Neandertal genome indicated gene flow from Neandertals to people of Eurasian descent but not to Africans [Green et al. 2010 Neandertal Genome; Sankararaman et al. 2016 Neanderthal and Denisovan Ancestry Map]"],
+         ["Most non-Africans carry under 1 percent Denisovan ancestry, with far higher levels in Oceanians [Sankararaman et al. 2016 Neanderthal and Denisovan Ancestry Map]",
+          "Some present-day humans, notably Oceanians, derive up to about 5 percent of their ancestry from Denisovans (abstract only) [Sankararaman et al. 2016 Neanderthal and Denisovan Ancestry Map]"]]},
+    {"note": "Peopling of Sahul",
+     "replace_checks": [["Madjedbebe occupation dated to about 65,000 years ago by luminescence dating; date debated [Clarkson et al. 2017 Madjedbebe]",
+                         "Human occupation of the Madjedbebe rock shelter began around 65,000 years ago according to optical dating of the sediments (abstract only) [Clarkson et al. 2017 Madjedbebe]"]]},
+    {"note": "Homo neanderthalensis",
+     "replace": [["- Non-African people today have about 1 to 2 percent Neanderthal DNA.",
+                  "- Non-African people today derive up to about 2 percent of their ancestry from Neanderthals."]],
+     "replace_checks": [["Genome first sequenced 2010; up to 2% Neanderthal DNA outside Africa; extinct about 40 ka [Green et al. 2010 Neandertal Genome]",
+                         "A draft Neandertal genome was first published in Science on 7 May 2010; some present-day humans derive about 2 percent of their ancestry from Neanderthals [Green et al. 2010 Neandertal Genome; Sankararaman et al. 2016 Neanderthal and Denisovan Ancestry Map]"]],
+     "sources": []},
+    {"note": "Breakup of Pangaea",
+     "replace": [["coincided with the Triassic-Jurassic extinction, about 201 million years ago.",
+                  "coincided with the Triassic-Jurassic extinction, about 200 million years ago."]],
+     "replace_checks": [["Rifting began about 200 million years ago with CAMP volcanism of similar age [Marzoli et al. 1999 Central Atlantic Magmatic Province]",
+                         "The Central Atlantic Magmatic Province, associated with the breakup of Pangea, extended over more than 7 million square km, with peak activity about 200 million years ago and a close timing with the Triassic-Jurassic mass extinction [Marzoli et al. 1999 Central Atlantic Magmatic Province]"]]},
+    {"note": "Europe",
+     "replace_checks": [["Farming spread into Europe from Anatolia by migration, reaching central Europe in the mid-6th millennium BCE [PNAS 2016 on Early Farmers Descended from Neolithic Aegeans]",
+                         "Farming was introduced to Europe from Anatolia by migration: ancient DNA from early farmers on both sides of the Aegean shows an unbroken chain of ancestry from central and southwestern Europe back to Greece and northwestern Anatolia [PNAS 2016 on Early Farmers Descended from Neolithic Aegeans]"]]},
+    {"note": "Domestication of Rice",
+     "replace_checks": [["Japonica rice domesticated in the Yangtze basin about 7,000 years ago from Oryza rufipogon; indica arose later through hybridization [Gross and Zhao 2014 Origins of Domesticated Rice]",
+                         "Japonica rice was domesticated in the Yangtze valley from wild Oryza rufipogon, cultivated there by about 8,000 BP with the key non-shattering trait fixed 1,000 years or more later; indica appears to result from introgression of alleles from japonica [Gross and Zhao 2014 Origins of Domesticated Rice]"]]},
+    {"note": "Younger Dryas",
+     "replace_checks": [["Younger Dryas about 12,900-11,700 years ago; meltwater disruption of the AMOC is the most widely accepted driver [Condron and Winsor 2012 Meltwater Routing and the Younger Dryas]",
+                         "The Younger Dryas began about 12.9 kya and was a cold episode about 1,200 years long; a meltwater flood into the North Atlantic that weakened the AMOC is generally considered its trigger, with the 2012 study favouring Arctic (Mackenzie Valley) rather than St. Lawrence routing [Condron and Winsor 2012 Meltwater Routing and the Younger Dryas]"]]},
+    {"note": "Origin of Life",
+     "replace_checks": [["The last universal common ancestor is estimated at about 4.2 billion years old and was not the first life [Moody et al. 2024 Last Universal Common Ancestor]",
+                         "The last universal common ancestor lived about 4.2 Ga (95 percent interval 4.09 to 4.33 Ga) as part of an ecosystem, and the paper treats the route from the origin of life to it as an open question [Moody et al. 2024 Last Universal Common Ancestor]"]]},
+]
+
+DISC = [
+    {"note": "Sub-Saharan Africa; Origin of Homo sapiens; Homo sapiens", "source": "Hublin et al. 2017 Jebel Irhoud",
+     "was": "Jebel Irhoud age of 315 plus or minus 34 thousand years cited to Hublin et al. 2017",
+     "text_says": "Hublin et al. give 300 to 350 ka and cite a companion paper for the date; 315 +/- 34 ka is in Richter et al. 2017 (abstract read).",
+     "action": "Added source note Richter et al. 2017 Jebel Irhoud Age and re-attributed the checks; note text unchanged."},
+    {"note": "Amazonian Urbanism and Dark Earths", "source": "Nature Communications 2020 on the Origin of Amazonian Dark Earths",
+     "was": "Terra preta is anthropogenic soil with oldest layers about 5,000 years old; bullet called the soils anthropogenic and associated with long settlement",
+     "text_says": "The paper argues, from one Brazilian site, that the dark earths may be largely natural alluvial deposits that people used but did not create; it gives no 5,000-year age.",
+     "action": "Facts bullet and fact_check rewritten to say the origin is disputed; source note title still says 2020 (DOI year) although the article is in volume 12 (2021)."},
+    {"note": "The Agricultural Revolution", "source": "PNAS 2022 on Stature and Health of Early European Farmers",
+     "was": "Early farmers were shorter, sicker and more exposed to disease (19 of 21 societies)",
+     "text_says": "Neolithic Europeans were shorter than their genetic scores predicted by 3.82 cm (vs Upper Paleolithic and Mesolithic) and 2.21 cm (vs post-Neolithic); stature is a proxy for health; the paper does not mention 19 of 21 societies or exposure to disease.",
+     "action": "Facts bullet and fact_check rewritten to what the paper shows."},
+    {"note": "Theia Impact and the Formation of the Moon", "source": "Barboni et al. 2017 Early Formation of the Moon; PMC on Tidally Driven Remelting and the Moon's Age",
+     "was": "Solar System at 4.5673 Ga; Moon and Earth isotopically nearly identical; 50 to 220 million years after the Solar System formed",
+     "text_says": "Neither paper gives 4.5673 Ga or states the Moon-Earth isotopic similarity; Barboni gives the first 60 My of the Solar System and 150 to 200 My after its start for the late estimates.",
+     "action": "Check and Facts bullet rewritten with figures from the papers. The qualitative bullet that the impact explains the Moon's isotopic similarity to Earth's mantle has no source read and is left as unverified."},
+    {"note": "Last Glacial Maximum", "source": "Lambeck et al. 2014 Sea Level and Ice Volumes",
+     "was": "LGM about 26.5 to 19 thousand years ago; sea level 120 to 135 m lower",
+     "text_says": "Lambeck: equivalent sea level fell to about 134 m below present, near that minimum from 29 to 21 ka BP; the LGM window of 26.5 to 19 ka and the figure of 120 m are not stated for the LGM.",
+     "action": "Facts bullet and fact_check rewritten to 134 m. The summary sentence giving 26,500 to 19,000 years ago is not covered by any source read and is left unchanged as unverified."},
+    {"note": "Control of Fire", "source": "Goren-Inbar et al. 2004 Fire at Gesher Benot Ya'aqov",
+     "was": "about 780,000 years old", "text_says": "Abstract: nearly 790,000 years ago.", "action": "Facts bullet and fact_check reworded to nearly 790,000 years ago."},
+    {"note": "Domestication of Maize", "source": "Stitzer and Ross-Ibarra 2018 Maize Domestication",
+     "was": "Balsas River valley origin; oldest microfossils about 8,700 years old at Xihuatoxtla; 15 to 25 percent highland teosinte ancestry; domestication about 9,000 years ago",
+     "text_says": "The abstract (the only readable part) says maize came from the teosinte Z. mays subsp. parviglumis, with five major morphological differences and genome-wide contributions; none of the listed figures or sites.",
+     "action": "Removed the unverified figures and site from the Facts bullets and narrowed the fact_check. Restore them with a source that gives them (probably correct: Balsas teosinte origin, Xihuatoxtla microfossils about 8,700 years, highland teosinte introgression)."},
+    {"note": "Messinian Salinity Crisis", "source": "Wikipedia on the Messinian Salinity Crisis",
+     "was": "Crisis about 5.97 to 5.33 Ma with kilometre-thick salt deposits",
+     "text_says": "Wikipedia (revision 1375619126): 5.96 to 5.33 Ma; more than 1 million cubic km of salt; 'some tens of metres thick' in one estimate; no kilometre-thick figure.",
+     "action": "Check and Facts bullet changed to 5.96 Ma (the source's figure) and the volume of salt."},
+    {"note": "Anthropocene", "source": "IUGS Anthropocene Decision (2024)",
+     "was": "SQS vote 12 against, 4 for, 3 abstentions", "text_says": "Only the first paragraph of the Nature news item was readable; it gives the 4 March vote and the 20 March IUGS decision but no counts.",
+     "action": "Vote counts removed from the Facts bullet pending a readable source (the counts are probably correct)."},
+    {"note": "Paleocene-Eocene Thermal Maximum", "source": "Nature Communications 2025 PETM Vegetation Study",
+     "was": "carbon-isotope excursion greater than 2 per mil", "text_says": "Paper text gives 56 Ma, 5-6 C, ~200 kyr and a 70-100 kyr lagged recovery; no excursion size.", "action": "Dropped from the fact_check; the Facts bullets did not state the size."},
+    {"note": "Origin of Eukaryotes", "source": "Paleoproterozoic Fossil Record Review (Earth-Science Reviews 2017)",
+     "was": "about 1.65 billion years old; Grypania is debated", "text_says": "Valeria lophostriata is from the more than 1.65 Ga Mallapunyah Formation; the 1.87 Ga Grypania is less convincingly eukaryotic than younger forms. (Rasmussen 2008 gives 1.78 to 1.68 Gyr for the oldest eukaryote fossils.)",
+     "action": "Wording changed to 'more than 1.65 billion' and 'less convincing than younger, larger forms'."},
+    {"note": "Botai Culture", "source": "Gaunitz et al. 2018 Botai Horses",
+     "was": "Mare's milk use by about 3500 BCE cited to Gaunitz 2018", "text_says": "Not in the Gaunitz abstract; it is in Outram et al. 2009 (abstract read).",
+     "action": "Added source note Outram et al. 2009 Earliest Horse Harnessing and Milking and split the fact_check."},
+    {"note": "Out of Africa Dispersal; Homo neanderthalensis", "source": "Sankararaman et al. 2016 Neanderthal and Denisovan Ancestry Map; Green et al. 2010 Neandertal Genome",
+     "was": "Most non-Africans carry under 1 percent Denisovan DNA; Neanderthal DNA is 1 to 2 percent; Neanderthals extinct about 40 ka (cited to Green 2010)",
+     "text_says": "Sankararaman abstract: about 2% Neanderthal and up to about 5% Denisovan in some people. Green's summary: Neandertals disappeared about 30,000 years ago and no percentage is given in the text read.",
+     "action": "Denisovan bullet and Neanderthal bullet reworded to the figures given; the 'under 1 percent' and 40 ka details are removed from checks (the note summary still says about 40,000 years, unverified)."},
+    {"note": "Out of Africa Dispersal; Peopling of Sahul", "source": "Hershkovitz et al. 2018 Misliya Maxilla; Clarkson et al. 2017 Madjedbebe",
+     "was": "checks stated that the Misliya age is disputed in a published comment and that the Madjedbebe date is debated",
+     "text_says": "The abstracts read do not mention either dispute.", "action": "Removed from the fact_checks; the hedges stay in the notes (they were only hedges) but are unverified here."},
+    {"note": "Breakup of Pangaea", "source": "Marzoli et al. 1999 Central Atlantic Magmatic Province",
+     "was": "CAMP coincided with the Triassic-Jurassic extinction about 201 million years ago", "text_says": "Abstract: peak activity 200 million years ago, more than 7 million km2, coinciding closely with the mass extinction.", "action": "Bullet changed to about 200 million years ago."},
+    {"note": "Europe", "source": "PNAS 2016 on Early Farmers Descended from Neolithic Aegeans",
+     "was": "reaching central Europe in the mid-6th millennium BCE", "text_says": "The text gives Anatolian farming at 6,600 to 6,500 cal BCE and a chain of ancestry to central Europe, but no mid-6th-millennium date.", "action": "Removed from the fact_check; the note text never made the claim."},
+    {"note": "Domestication of Rice", "source": "Gross and Zhao 2014 Origins of Domesticated Rice",
+     "was": "japonica domesticated about 7,000 years ago", "text_says": "Cultivated by about 8,000 BP with the non-shattering trait fixed 1,000 years or more later.", "action": "Fact_check reworded; note text does not give 7,000."},
+    {"note": "Younger Dryas", "source": "Condron and Winsor 2012 Meltwater Routing and the Younger Dryas",
+     "was": "about 12,900 to 11,700 years ago; AMOC meltwater disruption is the most widely accepted driver",
+     "text_says": "Starts at 12.9 kya and is 1,200 years long (11,700 is derived); a meltwater trigger is the generally held view, and the paper favours Arctic routing.", "action": "Fact_check reworded."},
+]
+
+Path(SP / "tier2_manual.json").write_text(json.dumps(SRC, indent=1, ensure_ascii=False), encoding="utf-8")
+Path(SP / "tier2_extra.json").write_text(json.dumps({"sources_new": NEW, "notes": NOTES, "discrepancies": DISC}, indent=1, ensure_ascii=False), encoding="utf-8")
+print(len(SRC), "source manual entries;", len(NEW), "new sources;", len(NOTES), "note patches;", len(DISC), "discrepancies")

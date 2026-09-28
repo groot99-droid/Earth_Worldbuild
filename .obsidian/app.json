@@ -1,0 +1,17 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "showFrontmatter": true,
+  "propertiesInDocument": "visible",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "03_Entities",
+  "attachmentFolderPath": "08_Canvas_Maps",
+  "userIgnoreFilters": [
+    "_RAG/",
+    "_Templates/",
+    "Art-Talk-main/",
+    "_Site/",
+    "_Museum/"
+  ]
+}

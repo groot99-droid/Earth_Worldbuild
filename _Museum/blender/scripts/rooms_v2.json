@@ -1,0 +1,686 @@
+{
+ "meta": {
+  "units": "metres, Blender Z-up world coords (x east, y north, z up). three.js = (x, z, -y).",
+  "wall_t": 0.4,
+  "note_const": "walls[side].const is the wall CENTRE-LINE coordinate; the interior face is const -/+ 0.2 toward the room centre.",
+  "slice": [
+   "rotunda",
+   "gallery_a",
+   "spine1"
+  ],
+  "slice_note": "Phase 2 vertical slice: whole rotunda, whole gallery_a, spine1 limited to x in [7,30] for trim/windows/fixtures (materials may cover the whole spine1 slab objects).",
+  "art_total": 299,
+  "art_by_collection": {
+   "Gallery_F": 70,
+   "Gallery_A": 27,
+   "Gallery_B": 52,
+   "Gallery_E": 62,
+   "Gallery_C": 59,
+   "Gallery_D": 29
+  }
+ },
+ "rooms": [
+  {
+   "id": "rotunda",
+   "manifest_id": "rotunda",
+   "collection": "Rotunda",
+   "style": "hero",
+   "kind": "rotunda",
+   "center": [
+    0,
+    0
+   ],
+   "z0": 0.0,
+   "height": 7.0,
+   "r_outer": 7.0,
+   "r_inner_vertex": 6.6,
+   "v1_segments": 16,
+   "doors": [
+    {
+     "to": "spine1",
+     "side": "east",
+     "angle_deg": 0,
+     "width": 3.6,
+     "height": 4.0,
+     "v1_frame": "GEO-df_rotunda_east"
+    },
+    {
+     "to": "futurewing",
+     "side": "west",
+     "angle_deg": 180,
+     "width": 3.2,
+     "height": 3.8,
+     "v1_frame": "GEO-df_rotunda_west"
+    }
+   ],
+   "v1_dome": {
+    "rings": [
+     "GEO-rotunda_dome_ring1",
+     "GEO-rotunda_dome_ring2",
+     "GEO-rotunda_dome_ring3"
+    ],
+    "ring_z": [
+     7.0,
+     7.9
+    ],
+    "oculus_rim": "GEO-rotunda_oculus_rim",
+    "oculus_glass": "GEO-rotunda_oculus_glass",
+    "oculus_r": 1.4,
+    "oculus_z": 8.05
+   },
+   "exterior": "all facets except door facets",
+   "notes": "No art in rotunda. v1 wall is a 16-gon boolean shell (GEO-rotunda_outer, collision via \"outer\")."
+  },
+  {
+   "id": "gallery_a",
+   "manifest_id": "gallery-a",
+   "collection": "Gallery_A",
+   "style": "refined",
+   "kind": "gallery",
+   "x": [
+    12,
+    28
+   ],
+   "y": [
+    3,
+    17
+   ],
+   "z0": 0.0,
+   "height": 7.0,
+   "walls": {
+    "north": {
+     "const": 17,
+     "exterior": [
+      [
+       12,
+       28
+      ]
+     ]
+    },
+    "east": {
+     "const": 28,
+     "exterior": [
+      [
+       3,
+       17
+      ]
+     ]
+    },
+    "west": {
+     "const": 12,
+     "exterior": [
+      [
+       3,
+       17
+      ]
+     ]
+    }
+   },
+   "open_side": "south",
+   "entry": {
+    "wall_owner": "spine1",
+    "side": "north",
+    "center": 20.0,
+    "width": 3.2,
+    "height": 3.8
+   },
+   "art_count": 27
+  },
+  {
+   "id": "gallery_b",
+   "manifest_id": "gallery-b",
+   "collection": "Gallery_B",
+   "style": "refined",
+   "kind": "gallery",
+   "x": [
+    28,
+    44
+   ],
+   "y": [
+    -19,
+    -3
+   ],
+   "z0": 0.0,
+   "height": 7.0,
+   "walls": {
+    "south": {
+     "const": -19,
+     "exterior": [
+      [
+       28,
+       44
+      ]
+     ]
+    },
+    "east": {
+     "const": 44,
+     "exterior": [
+      [
+       -19,
+       -3
+      ]
+     ]
+    },
+    "west": {
+     "const": 28,
+     "exterior": [
+      [
+       -19,
+       -3
+      ]
+     ]
+    }
+   },
+   "open_side": "north",
+   "entry": {
+    "wall_owner": "spine1",
+    "side": "south",
+    "center": 36.0,
+    "width": 3.2,
+    "height": 3.8
+   },
+   "art_count": 52
+  },
+  {
+   "id": "gallery_c",
+   "manifest_id": "gallery-c",
+   "collection": "Gallery_C",
+   "style": "refined",
+   "kind": "gallery",
+   "x": [
+    45,
+    63
+   ],
+   "y": [
+    3,
+    21
+   ],
+   "z0": 0.0,
+   "height": 7.0,
+   "walls": {
+    "north": {
+     "const": 21,
+     "exterior": [
+      [
+       45,
+       63
+      ]
+     ]
+    },
+    "east": {
+     "const": 63,
+     "exterior": [
+      [
+       3,
+       21
+      ]
+     ]
+    },
+    "west": {
+     "const": 45,
+     "exterior": [
+      [
+       3,
+       21
+      ]
+     ]
+    }
+   },
+   "open_side": "south",
+   "entry": {
+    "wall_owner": "spine1",
+    "side": "north",
+    "center": 54.0,
+    "width": 3.2,
+    "height": 3.8
+   },
+   "art_count": 59
+  },
+  {
+   "id": "gallery_d",
+   "manifest_id": "gallery-d",
+   "collection": "Gallery_D",
+   "style": "refined",
+   "kind": "gallery",
+   "x": [
+    63,
+    77
+   ],
+   "y": [
+    -15,
+    -3
+   ],
+   "z0": 0.0,
+   "height": 7.0,
+   "walls": {
+    "south": {
+     "const": -15,
+     "exterior": [
+      [
+       63,
+       77
+      ]
+     ]
+    },
+    "east": {
+     "const": 77,
+     "exterior": [
+      [
+       -15,
+       -3
+      ]
+     ]
+    },
+    "west": {
+     "const": 63,
+     "exterior": [
+      [
+       -15,
+       -3
+      ]
+     ]
+    }
+   },
+   "open_side": "north",
+   "entry": {
+    "wall_owner": "spine1",
+    "side": "south",
+    "center": 70.0,
+    "width": 3.2,
+    "height": 3.8
+   },
+   "art_count": 29
+  },
+  {
+   "id": "gallery_e",
+   "manifest_id": "gallery-e",
+   "collection": "Gallery_E",
+   "style": "refined",
+   "kind": "gallery",
+   "x": [
+    55,
+    73
+   ],
+   "y": [
+    3,
+    21
+   ],
+   "z0": 7.0,
+   "height": 7.0,
+   "walls": {
+    "north": {
+     "const": 21,
+     "exterior": [
+      [
+       55,
+       73
+      ]
+     ]
+    },
+    "east": {
+     "const": 73,
+     "exterior": [
+      [
+       3,
+       21
+      ]
+     ]
+    },
+    "west": {
+     "const": 55,
+     "exterior": [
+      [
+       3,
+       21
+      ]
+     ]
+    }
+   },
+   "open_side": "south",
+   "entry": {
+    "wall_owner": "spine2",
+    "side": "north",
+    "center": 64.0,
+    "width": 3.2,
+    "height": 3.8
+   },
+   "art_count": 62
+  },
+  {
+   "id": "gallery_f",
+   "manifest_id": "gallery-f",
+   "collection": "Gallery_F",
+   "style": "refined",
+   "kind": "gallery",
+   "x": [
+    8,
+    28
+   ],
+   "y": [
+    -10,
+    10
+   ],
+   "z0": 7.0,
+   "height": 7.0,
+   "walls": {
+    "north": {
+     "const": 10,
+     "exterior": [
+      [
+       8,
+       28
+      ]
+     ]
+    },
+    "south": {
+     "const": -10,
+     "exterior": [
+      [
+       8,
+       28
+      ]
+     ]
+    },
+    "west": {
+     "const": 8,
+     "exterior": [
+      [
+       -10,
+       10
+      ]
+     ]
+    }
+   },
+   "open_side": "east",
+   "entry": {
+    "wall_owner": "spine2",
+    "side": "west",
+    "center": 0.0,
+    "width": 3.6,
+    "height": 4.0
+   },
+   "art_count": 70
+  },
+  {
+   "id": "spine1",
+   "manifest_id": null,
+   "collection": "SpineHall_1",
+   "style": "refined",
+   "kind": "spine",
+   "x": [
+    7,
+    84
+   ],
+   "y": [
+    -3,
+    3
+   ],
+   "z0": 0.0,
+   "height": 7.0,
+   "walls": {
+    "north": {
+     "const": 3,
+     "exterior": [
+      [
+       7,
+       12
+      ],
+      [
+       28,
+       45
+      ],
+      [
+       63,
+       84
+      ]
+     ],
+     "doors": [
+      {
+       "to": "gallery_a",
+       "center": 20.0,
+       "width": 3.2,
+       "height": 3.8
+      },
+      {
+       "to": "gallery_c",
+       "center": 54.0,
+       "width": 3.2,
+       "height": 3.8
+      }
+     ]
+    },
+    "south": {
+     "const": -3,
+     "exterior": [
+      [
+       7,
+       28
+      ],
+      [
+       44,
+       63
+      ],
+      [
+       77,
+       84
+      ]
+     ],
+     "doors": [
+      {
+       "to": "gallery_b",
+       "center": 36.0,
+       "width": 3.2,
+       "height": 3.8
+      },
+      {
+       "to": "gallery_d",
+       "center": 70.0,
+       "width": 3.2,
+       "height": 3.8
+      }
+     ]
+    },
+    "east": {
+     "const": 84,
+     "exterior": [],
+     "doors": [
+      {
+       "to": "stairhall",
+       "center": 0.0,
+       "width": 3.6,
+       "height": 4.0
+      }
+     ]
+    }
+   },
+   "open_side": "west (to rotunda east door at x=7)",
+   "slice_extent_x": [
+    7,
+    30
+   ]
+  },
+  {
+   "id": "spine2",
+   "manifest_id": null,
+   "collection": "SpineHall_2",
+   "style": "refined",
+   "kind": "spine",
+   "x": [
+    28,
+    84
+   ],
+   "y": [
+    -3,
+    3
+   ],
+   "z0": 7.0,
+   "height": 7.0,
+   "walls": {
+    "north": {
+     "const": 3,
+     "exterior": [
+      [
+       28,
+       55
+      ],
+      [
+       73,
+       84
+      ]
+     ],
+     "doors": [
+      {
+       "to": "gallery_e",
+       "center": 64.0,
+       "width": 3.2,
+       "height": 3.8
+      }
+     ]
+    },
+    "south": {
+     "const": -3,
+     "exterior": [
+      [
+       28,
+       84
+      ]
+     ]
+    },
+    "west": {
+     "const": 28,
+     "exterior": [],
+     "doors": [
+      {
+       "to": "gallery_f",
+       "center": 0.0,
+       "width": 3.6,
+       "height": 4.0
+      }
+     ]
+    }
+   },
+   "open_side": "east (to stairhall)"
+  },
+  {
+   "id": "stairhall",
+   "manifest_id": "mezzanine",
+   "collection": "Staircase_Hall",
+   "style": "hero",
+   "kind": "stairhall",
+   "x": [
+    84,
+    98
+   ],
+   "y": [
+    -6,
+    6
+   ],
+   "z0": 0.0,
+   "height": 14.0,
+   "walls": {
+    "north": {
+     "const": 6,
+     "exterior": [
+      [
+       84,
+       98
+      ]
+     ]
+    },
+    "south": {
+     "const": -6,
+     "exterior": [
+      [
+       84,
+       98
+      ]
+     ]
+    },
+    "east": {
+     "const": 98,
+     "exterior": [
+      [
+       -6,
+       6
+      ]
+     ]
+    }
+   },
+   "stairs": {
+    "object": "GEO-staircase_step",
+    "x": [
+     85.85,
+     96.65
+    ],
+    "y": [
+     -1.6,
+     1.6
+    ],
+    "z": [
+     0,
+     7
+    ]
+   },
+   "landing": {
+    "object": "GEO-stairhall_landing",
+    "x": [
+     96.5,
+     98
+    ],
+    "y": [
+     -6,
+     6
+    ],
+    "z": 7.0
+   },
+   "open_side": "west (spine1 east wall door at z0-4; spine2 open at z7-14)"
+  },
+  {
+   "id": "futurewing",
+   "manifest_id": "future-wing-1",
+   "collection": "Future_Wing_Stub",
+   "style": "refined",
+   "kind": "stub",
+   "x": [
+    -16,
+    -7
+   ],
+   "y": [
+    -2,
+    2
+   ],
+   "z0": 0.0,
+   "height": 7.0,
+   "walls": {
+    "north": {
+     "const": 2,
+     "exterior": [
+      [
+       -16,
+       -7
+      ]
+     ]
+    },
+    "south": {
+     "const": -2,
+     "exterior": [
+      [
+       -16,
+       -7
+      ]
+     ]
+    },
+    "west": {
+     "const": -16,
+     "exterior": [
+      [
+       -2,
+       2
+      ]
+     ]
+    }
+   },
+   "open_side": "east (rotunda west door)"
+  }
+ ]
+}

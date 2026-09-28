@@ -1,0 +1,14 @@
+_RAG/.venv/
+_RAG/index/
+_RAG/__pycache__/
+_RAG/tools/__pycache__/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/
+*.pyc
+_RAG/source_cache/
+_RAG/fetch_config.local.json
+
+# Stray Windows cache dir created by an unexpanded %SystemDrive% path
+%SystemDrive%/

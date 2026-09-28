@@ -1,0 +1,104 @@
+{
+ "Hispaniola": [
+  "The note says Pico Duarte is 3,098 meters high, but Wikipedia on Pico Duarte gives 3,101.1 m (with a margin of error of 0.3 m) as the most recent measurement, and Wikipedia on Hispaniola gives 3,101 m in its geography text and 3,175 m in its infobox; the note's 3,098 m was not found in any page read.",
+  "The note says the Spanish founded Santo Domingo in 1496, but Wikipedia on Hispaniola lists Santo Domingo as 1498 to present and Wikipedia on Santo Domingo gives an official date of 5 August 1498; no page read supports 1496.",
+  "The note says Lake Enriquillo lies about 40 meters below sea level, but Wikipedia on Hispaniola gives no depth figure, only that it is the lowest point of the island; this figure is unverified from the pages read."
+ ],
+ "Sarai": [
+  "The note says a second city, Sarai Berke, was built upstream near present-day Volgograd and that the chronology of the two is debated; Wikipedia on Sarai (city) says it is doubtful there was ever an entirely separate city called Sarai of Berke, and the standard pairing is Old Sarai (Batu's) and New Sarai (founded or inaugurated by Öz Beg c. 1334-1335).",
+  "The note says Batu's Sarai of about 1250 stood near Selitrennoye in Astrakhan Oblast; Wikipedia on Sarai (city) says the present general consensus identifies Selitrennoye as New Sarai (14th century), that there is no consensus on the location of Old Sarai, and that the Tsarevskoye site near Volgograd is now thought to be Gülistan rather than a Sarai.",
+  "The note dates the founding to about 1250 (date_start 1250); Wikipedia on Sarai (city) gives William of Rubruck's account of 1253-1254 as the first historical reference, describing the town as still being built, so about 1250 is an approximation and not a sourced date.",
+  "The note says Timur sacked Sarai in 1395 and it did not recover its former status (date_end 1395); Wikipedia on Sarai (city) dates the sack to the winter of 1395-1396 and says the city had partially recovered by 1402 and minted coins again by the 1420s, and Wikipedia on Golden Horde dates Timur's invasion to around 1396."
+ ],
+ "Mogao Caves": [
+  "The note says murals cover about 45,000 square meters; Wikipedia on Mogao Caves gives 490,000 square feet (46,000 square metres), so the figure varies slightly by source (the note's figure may come from UNESCO, which was not read here).",
+  "The note says Dunhuang was under Tibetan rule from about 786; Wikipedia on Mogao Caves dates Tibetan domination as 787-848, so the start year differs by one year depending on source (the note's 'about' hedge covers this).",
+  "The note says roughly 735 caves, about 490 with murals or painted sculptures; Wikipedia on Mogao Caves opens with 500 temples and mentions 487 caves known since the early 1900s plus a further 248 found to the north between 1988 and 1995, and does not give a count of caves with murals, so the 490 figure is not confirmed by it.",
+  "The note says the Tangut state of Western Xia took Dunhuang in about 1036; Wikipedia on Dunhuang says 1036, but Wikipedia on Mogao Caves says Xi Xia invaded in 1035, so the date is a one-year variance and the note's 'about 1036' is acceptable."
+ ],
+ "Issyk-Kul": [
+  "The note says the name means \"warm lake\" in Kyrgyz; Wikipedia on Issyk-Kul gives the literal meaning as 'Hot Lake' (a translation nuance, warm and hot both being used for the Kyrgyz word).",
+  "The note says the lake \"does not freeze in winter\"; Wikipedia on Issyk-Kul says that despite the elevation and low winter temperatures it rarely freezes, so the note should hedge to 'rarely freezes'."
+ ],
+ "Bukhara": [
+  "The note says Bukhara was a Russian protectorate from 1868; Wikipedia on Emirate of Bukhara says Russia conquered key territories in 1868 and that the remainder became a Russian protectorate by 1873.",
+  "The frontmatter has date_start -300; Wikipedia on Bukhara dates the city's founding to the 6th century BC and Wikipedia on History of Bukhara says the Sogdian settlements were walled by 500 BCE, so -300 is later than the sources suggest.",
+  "The note says the Ark was damaged in the 1920 Red Army assault; Wikipedia on Bukhara says the emir's citadel (the Ark) was destroyed on 2 September 1920 after four days of fighting."
+ ],
+ "Merv": [
+  "The note says Abu Muslim launched the Abbasid Revolution from Merv in 747. Wikipedia on Abbasid Revolution dates the open revolt to 9 June 747 and his control of Merv to 14 February 748, and Wikipedia on Merv says he declared the new dynasty at Merv in February 748, so 747 is the revolt start and 748 is the Merv declaration.",
+  "The note says the walled city of Erk Kala dates from about the 6th century BCE. Wikipedia on Merv gives the 7th century BC for Erk Kala, built as a Persian fortress under Achaemenid expansion.",
+  "The note says Yaqut visited Merv in 1219 and described its libraries. Wikipedia on Merv says Yaqut (1179 to 1229) studied in its libraries and counted as many as 10 large libraries there, one holding 12,000 volumes, and does not give 1219."
+ ],
+ "Kolyma": [
+  "The note says estimates of deaths range 'from more than 100,000 to several hundred thousand'; Wikipedia on Kolyma gives 'between 250,000 and over a million' for 1930 to the mid-1950s, so the note's lower bound and upper range look too low.",
+  "The note says gold was found on the Kolyma River 'in the late 1920s'; Wikipedia on Kolyma says only that gold and platinum were discovered 'in the early 20th century', so the late-1920s date is not confirmed by the pages read.",
+  "The note says 'hundreds of thousands' passed through the camps; Wikipedia on Kolyma cites local secret-police records of about two million people shipped there in 1930 to 1955, and Wikipedia on Dalstroy gives a peak camp population of 199,726 in 1952, so the note's figure is unverified and possibly understated.",
+  "The note says winter temperatures 'fall below minus 40 degrees Celsius'; Wikipedia on Kolyma gives average winter temperatures of minus 19 to minus 38 degrees Celsius, 'even lower in the interior', so the minus 40 figure holds only for interior extremes, not as a general winter level."
+ ],
+ "Lake Baikal": [
+  "Note says more than 1,700 species of plants and animals live in and around Lake Baikal, about two thirds endemic; Wikipedia on Lake Baikal says more than 1,000 species of plants and 2,500 species of animals based on current knowledge, with actual figures believed significantly higher, and gives endemism per group (for example about 90 percent of ostracods, more than half of fish) rather than one overall two-thirds figure. The 1,700 and two-thirds figures could not be checked here (UNESCO page returned 403), so treat them as unverified.",
+  "Note says the mill discharged waste into the lake from 1966 until it closed in 2013; Wikipedia on Lake Baikal says the mill was built in 1966, closed in November 2008, resumed production on 4 January 2010, and went through final bankruptcy in September 2013, so operation was interrupted 2008 to 2010."
+ ],
+ "Pasargadae": [
+  "The note says Pasargadae lies about 90 kilometers northeast of Persepolis; Wikipedia on Pasargadae says it lies about 90 kilometres northeast of Shiraz and about 40 kilometres from Persepolis."
+ ],
+ "Jerusalem": [
+  "The note says the Bar Kokhba revolt ran 132 to 135 CE; Wikipedia on Jerusalem and Wikipedia on History of Jerusalem both give 132 to 136 CE (scholars vary on the end year, so 135 is defensible but should be hedged, for example 132 to 135 or 136).",
+  "The note says Muslim forces took the city in 637 to 638; Wikipedia on History of Jerusalem gives 638 CE and Wikipedia on Jerusalem also says 638 CE (637 is the alternative date some sources use), so hedge or use 638.",
+  "The note says the Egyptian texts of the early 2nd millennium BCE name Jerusalem; Wikipedia on Jerusalem says only that the Middle Kingdom Execration Texts (c. 19th century BCE) may refer to it and that the Amarna letters (1330s BCE) may be the earliest mention, so add a hedge.",
+  "The frontmatter has date_start -3000 with precision approx, while Wikipedia on Jerusalem places first settlement in the 4th millennium BCE (roughly -4000 to -3001); -3000 is only the very end of that range, so consider -3500 or noting the range."
+ ],
+ "Babylon": [
+  "Frontmatter date_start is -2300 (approx); Wikipedia on Babylon dates the earliest known mention to the reign of Shar-Kali-Sharri (2217 to 2193 BCE), so roughly -2200 fits the source better, though the note's own late 3rd millennium wording is consistent.",
+  "The note gives Nebuchadnezzar II as reigning 605 to 562 BCE; Wikipedia on Babylon gives 604 to 561 BCE, a one-year difference of dating convention rather than a clear error, so treat these dates as approximate."
+ ],
+ "Baghdad": [
+  "The note says chronicles report 200,000 to a million dead in 1258; Wikipedia on Siege of Baghdad gives about 200,000 as Hulagu's own estimate and 800,000 to 2,000,000 from Muslim sources, and says the true total is unknown (likely increased by later epidemics), so the upper end of the range should be up to 2 million rather than a million."
+ ],
+ "Valley of the Kings": [
+  "The note (Facts) says the Deir el-Medina strike over unpaid rations happened in about 1157 BCE; Wikipedia on Deir el-Medina dates it to about the 25th year of Ramesses III (c. 1170 BC), and Wikipedia on Valley of the Kings gives no date for it, so the 1157 BCE figure was not confirmed by anything read and should be hedged or given without a precise year."
+ ],
+ "Nile River": [
+  "Summary says the Nile is about 6,650 kilometers long; Wikipedia on Nile gives 7,088 kilometers (4,404 mi), measured in 2009 along the centerline using satellite imagery, and does not mention the 6,650 km figure. The length depends on the measurement method, so the note should hedge or cite the figure it uses."
+ ],
+ "Aksum": [
+  "The note says King Ezana adopted Christianity around 330 CE; Wikipedia on Kingdom of Aksum gives around 325 for the conversion and around 340 for the change in coins and inscriptions to Christian symbolism, Wikipedia on Axum dates his reign 330-356 and Wikipedia on Ezana of Axum gives 320s to c. 360 with no conversion date, so the year should be hedged (roughly 325 to 340)."
+ ],
+ "Kilwa Kisiwani": [
+  "The note says the Great Mosque dates from the 11th or 12th century and was enlarged in the 14th; Wikipedia on Kilwa Kisiwani dates the earliest section to between 1131 and 1170 (12th century) with the major expansion in the early 14th century, so the 11th-century option is not supported (the Shirazi founding purchase is placed in the 11th century only by local oral tradition)."
+ ],
+ "Robben Island": [
+  "Note says the leprosy colony operated from 1846 to 1931; Wikipedia on Robben Island says lepers were moved to the island starting in 1845 and does not state a closure date, so the 1846 start conflicts with the source and the 1931 end is unverified.",
+  "Note says Robben Island was a maximum-security prison for political prisoners from 1961 to 1996; Wikipedia on Robben Island says the maximum security political prison closed in 1991 and the medium security prison for criminal prisoners closed in 1996, so 1996 marks the end of the criminal prison rather than of the political one."
+ ],
+ "Gorée Island": [
+  "The note says Gorée lies about 3 kilometers off Dakar; Wikipedia on Gorée says two kilometres (1.2 mi) at sea from the main harbour of Dakar.",
+  "The note says the Dutch took the island in 1617 as settled fact; Wikipedia on Gorée says it is unknown when and how the Dutch replaced the Portuguese, calls the 1617 gift claim (Olfert Dapper) problematic because the Dutch West India Company was only established in 1621, and gives 1628 as the first documented Dutch presence.",
+  "The note says the House of Slaves was built in 1776; Wikipedia on House of Slaves gives about 1776 but Wikipedia on Gorée gives 1780-1784 (both by Nicolas Pépin), so the date should be hedged as circa 1776 to 1784.",
+  "The note says the island changed hands between Britain and France until 1817; Wikipedia on Gorée lists British control 1758-1763, 1779-1783 and a French capture in January 1804 retaken by Britain in March 1804, and does not mention 1817, so the 1817 end date is unverified from the pages read.",
+  "The note lists visits by Nelson Mandela in 1991 and Pope John Paul II in 1992; Wikipedia on Gorée mentions only Barack Obama's June 2013 visit to the House of Slaves, so those two visits are unverified from the pages read."
+ ],
+ "Harappa": [
+  "The note's Facts line says Harappa's population was about 20,000 to 40,000; the Harappa article says as many as 23,500 residents on about 150 hectares (Wikipedia on Harappa), so the 40,000 upper bound is not supported and the figure should be hedged or lowered, though the Indus Valley Civilisation article gives a wider 30,000 to 60,000 for the major cities such as Mohenjo-daro and Harappa (Wikipedia on Indus Valley Civilisation)."
+ ],
+ "Ayutthaya": [
+  "The note (frontmatter date_start: 1350, plus Summary and Facts saying traditionally founded in 1350) gives 1350; Wikipedia on Ayutthaya Kingdom gives 4 March 1351 as the conventional foundation date and Wikipedia on Ayutthaya Historical Park says founded in 1351 (both add that the settlement may be older).",
+  "The note says Ayutthaya's forces took Angkor in 1431, after which the Khmer court moved away; Wikipedia on Ayutthaya Kingdom says only that in the 1430s Ayutthaya attacked Angkor but did not sack the city, installing a short-lived puppet ruler, with no 1431 date and no court move stated."
+ ],
+ "Mekong River": [
+  "The note says the Mekong is about 4,350 kilometers long; Wikipedia on Mekong gives an estimated length of 4,909 km (with a 795,000 km2 drainage area), so the length is contested and should be hedged or updated.",
+  "The note (Facts and date_start -2000, era Bronze Age) says rice-farming and fishing communities lived along the middle and lower Mekong from about the 3rd to 2nd millennia BCE; Wikipedia on Mekong says the earliest known settlements date to 210 BCE and calls Ban Chiang an early Iron Age culture, so the -2000 date_start is not supported by the source read and should be treated as unverified."
+ ],
+ "Newgrange": [
+  "The note (frontmatter date_start -3200, Summary and Facts) puts construction at about 3200 BCE, but Wikipedia on Newgrange says it was built around 3100 BC (some put it later, 3000 to 2500 BC) while Wikipedia on Brú na Bóinne says the 32nd century BC (3200 to 3101 BC), so 3200 is the early edge and about 3200-3100 BCE would be safer.",
+  "The note says the mound is roughly 80 meters across, but Wikipedia on Newgrange gives 85 metres at its widest point (height 12 m and passage 19 m match)."
+ ],
+ "Paris": [
+  "The note says Paris grew from a settlement of the Parisii on the Île de la Cité in about the 3rd century BCE; Wikipedia on History of Paris says the Parisii settled on the banks of the Seine between 250 and 225 BC and that the location of their oppidum is disputed, possibly the Île de la Cité or Nanterre, so the Île de la Cité should be hedged.",
+  "The note gives Commune deaths as estimates of about 10,000 to 20,000; Wikipedia on Paris Commune gives an estimated 10,000 to 15,000 with 20,000 only as an unconfirmed 1876 estimate, and Wikipedia on History of Paris says nearly 7,000 Communards were killed in combat or summarily executed, so the range should be presented as contested."
+ ],
+ "London": [
+  "The note says Londinium later became the capital of Roman Britain; Wikipedia on History of London says some sources claim it replaced Colchester as capital in the 2nd century, but there is no surviving evidence to prove it was ever the capital, so the claim should be hedged."
+ ]
+}

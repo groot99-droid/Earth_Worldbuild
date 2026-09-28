@@ -1,0 +1,253 @@
+{
+ "nodes": [
+  {
+   "id": "c",
+   "type": "file",
+   "file": "00_Meta/Observer's Charter.md",
+   "x": 0,
+   "y": 0,
+   "width": 400,
+   "height": 280
+  },
+  {
+   "id": "t0",
+   "type": "file",
+   "file": "04_Themes/Art and Ritual.md",
+   "x": 720,
+   "y": -120,
+   "width": 360,
+   "height": 240
+  },
+  {
+   "id": "t1",
+   "type": "file",
+   "file": "04_Themes/Earth Systems and Life.md",
+   "x": 509,
+   "y": 329,
+   "width": 360,
+   "height": 240
+  },
+  {
+   "id": "t2",
+   "type": "file",
+   "file": "04_Themes/Kinship and Society.md",
+   "x": -24,
+   "y": 569,
+   "width": 360,
+   "height": 240
+  },
+  {
+   "id": "t3",
+   "type": "file",
+   "file": "04_Themes/Language and Writing.md",
+   "x": -629,
+   "y": 486,
+   "width": 360,
+   "height": 240
+  },
+  {
+   "id": "t4",
+   "type": "file",
+   "file": "04_Themes/Religion and Belief.md",
+   "x": -1025,
+   "y": 119,
+   "width": 360,
+   "height": 240
+  },
+  {
+   "id": "t5",
+   "type": "file",
+   "file": "04_Themes/Science.md",
+   "x": -1025,
+   "y": -359,
+   "width": 360,
+   "height": 240
+  },
+  {
+   "id": "t6",
+   "type": "file",
+   "file": "04_Themes/Technology.md",
+   "x": -630,
+   "y": -726,
+   "width": 360,
+   "height": 240
+  },
+  {
+   "id": "t7",
+   "type": "file",
+   "file": "04_Themes/Trade and Economy.md",
+   "x": -24,
+   "y": -809,
+   "width": 360,
+   "height": 240
+  },
+  {
+   "id": "t8",
+   "type": "file",
+   "file": "04_Themes/War and Conflict.md",
+   "x": 509,
+   "y": -569,
+   "width": 360,
+   "height": 240
+  },
+  {
+   "id": "o0",
+   "type": "file",
+   "file": "05_Observer_Notes/Fire, Then Everything.md",
+   "x": 270,
+   "y": -100,
+   "width": 300,
+   "height": 200
+  },
+  {
+   "id": "o1",
+   "type": "file",
+   "file": "05_Observer_Notes/Sanctioned Harm.md",
+   "x": 146,
+   "y": 140,
+   "width": 300,
+   "height": 200
+  },
+  {
+   "id": "o2",
+   "type": "file",
+   "file": "05_Observer_Notes/Story-Glue - How Strangers Cooperate at Scale.md",
+   "x": -150,
+   "y": 240,
+   "width": 300,
+   "height": 200
+  },
+  {
+   "id": "o3",
+   "type": "file",
+   "file": "05_Observer_Notes/The Fiction of Claim-Lines.md",
+   "x": -446,
+   "y": 140,
+   "width": 300,
+   "height": 200
+  },
+  {
+   "id": "o4",
+   "type": "file",
+   "file": "05_Observer_Notes/The Great Outsourcing of Memory.md",
+   "x": -570,
+   "y": -100,
+   "width": 300,
+   "height": 200
+  },
+  {
+   "id": "o5",
+   "type": "file",
+   "file": "05_Observer_Notes/The Settling and Its Bargain.md",
+   "x": -446,
+   "y": -340,
+   "width": 300,
+   "height": 200
+  },
+  {
+   "id": "o6",
+   "type": "file",
+   "file": "05_Observer_Notes/The Species as a Geological Force.md",
+   "x": -150,
+   "y": -440,
+   "width": 300,
+   "height": 200
+  },
+  {
+   "id": "o7",
+   "type": "file",
+   "file": "05_Observer_Notes/Why the Species Buries Its Dead.md",
+   "x": 146,
+   "y": -340,
+   "width": 300,
+   "height": 200
+  }
+ ],
+ "edges": [
+  {
+   "id": "te0",
+   "fromNode": "c",
+   "toNode": "t0"
+  },
+  {
+   "id": "te1",
+   "fromNode": "c",
+   "toNode": "t1"
+  },
+  {
+   "id": "te2",
+   "fromNode": "c",
+   "toNode": "t2"
+  },
+  {
+   "id": "te3",
+   "fromNode": "c",
+   "toNode": "t3"
+  },
+  {
+   "id": "te4",
+   "fromNode": "c",
+   "toNode": "t4"
+  },
+  {
+   "id": "te5",
+   "fromNode": "c",
+   "toNode": "t5"
+  },
+  {
+   "id": "te6",
+   "fromNode": "c",
+   "toNode": "t6"
+  },
+  {
+   "id": "te7",
+   "fromNode": "c",
+   "toNode": "t7"
+  },
+  {
+   "id": "te8",
+   "fromNode": "c",
+   "toNode": "t8"
+  },
+  {
+   "id": "oe0",
+   "fromNode": "c",
+   "toNode": "o0"
+  },
+  {
+   "id": "oe1",
+   "fromNode": "c",
+   "toNode": "o1"
+  },
+  {
+   "id": "oe2",
+   "fromNode": "c",
+   "toNode": "o2"
+  },
+  {
+   "id": "oe3",
+   "fromNode": "c",
+   "toNode": "o3"
+  },
+  {
+   "id": "oe4",
+   "fromNode": "c",
+   "toNode": "o4"
+  },
+  {
+   "id": "oe5",
+   "fromNode": "c",
+   "toNode": "o5"
+  },
+  {
+   "id": "oe6",
+   "fromNode": "c",
+   "toNode": "o6"
+  },
+  {
+   "id": "oe7",
+   "fromNode": "c",
+   "toNode": "o7"
+  }
+ ]
+}

@@ -1,0 +1,1410 @@
+{
+ "era/cenozoic-era/1.jpg": {
+  "code": "O",
+  "reason": "coastline, not illustrative of the Cenozoic"
+ },
+ "era/classical-antiquity/4.jpg": {
+  "code": "W",
+  "reason": "Etruscan map, tangential to Classical Antiquity"
+ },
+ "era/early-modern-period/2.jpg": {
+  "code": "O",
+  "reason": "Beijing pagoda, unrelated to Early Modern Period"
+ },
+ "era/early-modern-period/3.jpg": {
+  "code": "D",
+  "reason": "same file as event/american-revolution/1"
+ },
+ "era/epipaleolithic/2.jpg": {
+  "code": "L",
+  "reason": "climate chart, weak"
+ },
+ "era/holocene-epoch/1.jpg": {
+  "code": "Q",
+  "reason": "generic world map, not about the Holocene"
+ },
+ "era/industrial-age/3.jpg": {
+  "code": "Q",
+  "reason": "dark unreadable diagram"
+ },
+ "era/industrial-age/2.jpg": {
+  "code": "W",
+  "reason": "cottage street, tangential"
+ },
+ "era/industrial-age/4.jpg": {
+  "code": "O",
+  "reason": "Bronze Age site shown for the Industrial Age"
+ },
+ "era/industrial-age/5.jpg": {
+  "code": "W",
+  "reason": "disused chimney, tangential"
+ },
+ "era/information-age/1.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "era/information-age/3.jpg": {
+  "code": "W",
+  "reason": "computer lab, generic"
+ },
+ "era/iron-age/3.jpg": {
+  "code": "L",
+  "reason": "diagram"
+ },
+ "era/mesoproterozoic-era/2.jpg": {
+  "code": "O",
+  "reason": "generic Blue Marble, not Mesoproterozoic"
+ },
+ "era/mesozoic-era/3.jpg": {
+  "code": "O",
+  "reason": "random forest photo (Mesozoic)"
+ },
+ "era/middle-paleolithic/1.jpg": {
+  "code": "O",
+  "reason": "Jurassic ammonite on the Middle Paleolithic note"
+ },
+ "era/middle-paleolithic/3.jpg": {
+  "code": "W",
+  "reason": "information signboard photo"
+ },
+ "era/neogene-period/2.jpg": {
+  "code": "W",
+  "reason": "museum case, weak"
+ },
+ "era/neoproterozoic-era/2.jpg": {
+  "code": "L",
+  "reason": "unreadable diagram"
+ },
+ "era/paleogene-period/2.jpg": {
+  "code": "W",
+  "reason": "basalt columns, tangential"
+ },
+ "era/paleolithic/2.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "era/paleozoic-era/4.jpg": {
+  "code": "L",
+  "reason": "old text etching"
+ },
+ "era/pleistocene-epoch/2.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "era/pleistocene-epoch/3.jpg": {
+  "code": "D",
+  "reason": "duplicate of event/the-agricultural-revolution/4, tiny chart"
+ },
+ "era/pleistocene-epoch/4.jpg": {
+  "code": "L",
+  "reason": "stratigraphy chart"
+ },
+ "era/proterozoic-eon/2.jpg": {
+  "code": "O",
+  "reason": "Gondwana at 420 Ma is Silurian, not Proterozoic"
+ },
+ "era/proterozoic-eon/3.jpg": {
+  "code": "D",
+  "reason": "duplicate of event/assembly-of-rodinia/1"
+ },
+ "era/quaternary-period/2.jpg": {
+  "code": "W",
+  "reason": "generic Earth composite"
+ },
+ "era/triassic-period/2.jpg": {
+  "code": "W",
+  "reason": "quarry wall, tangential"
+ },
+ "era/upper-paleolithic/3.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/1918-influenza-pandemic/3.jpg": {
+  "code": "W",
+  "reason": "newspaper page"
+ },
+ "event/1918-influenza-pandemic/4.jpg": {
+  "code": "W",
+  "reason": "newspaper page"
+ },
+ "event/abolition-of-slavery/2.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "event/amazonian-urbanism-and-dark-earths/1.jpg": {
+  "code": "X",
+  "reason": "photo of two private individuals matched by the name Urban (Commons search false positive); also the donor image"
+ },
+ "event/american-civil-war/3.jpg": {
+  "code": "W",
+  "reason": "newspaper page"
+ },
+ "event/american-civil-war/4.jpg": {
+  "code": "W",
+  "reason": "newspaper page"
+ },
+ "event/armenian-genocide/3.jpg": {
+  "code": "S",
+  "reason": "graphic photograph of the dead, not suitable as a card image"
+ },
+ "event/armenian-genocide/4.jpg": {
+  "code": "S",
+  "reason": "distressing photograph, not for a card"
+ },
+ "event/assembly-of-pangaea/4.jpg": {
+  "code": "L",
+  "reason": "diagram"
+ },
+ "event/austronesian-expansion/2.jpg": {
+  "code": "W",
+  "reason": "generic festival photo"
+ },
+ "event/austronesian-expansion/3.jpg": {
+  "code": "W",
+  "reason": "generic village photo"
+ },
+ "event/banded-iron-formations/2.jpg": {
+  "code": "O",
+  "reason": "amethyst crystal unrelated to banded iron formations"
+ },
+ "event/bantu-expansion/1.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "event/bengal-famine-of-1943/1.jpg": {
+  "code": "S",
+  "reason": "distressing photograph, not for a card"
+ },
+ "event/bengal-famine-of-1943/2.jpg": {
+  "code": "O",
+  "reason": "RAF Hurricanes unrelated to the famine"
+ },
+ "event/black-death/1.jpg": {
+  "code": "S",
+  "reason": "medical photo of gangrene, poor card image"
+ },
+ "event/black-death/2.jpg": {
+  "code": "W",
+  "reason": "mass grave photo"
+ },
+ "event/bronze-age-collapse/1.jpg": {
+  "code": "W",
+  "reason": "Greek vase from c.500 BC, not the Late Bronze Age collapse"
+ },
+ "event/carboniferous-coal-forests/1.jpg": {
+  "code": "O",
+  "reason": "powerloom weaving photo on the Carboniferous coal forests note (borrowed)"
+ },
+ "event/chinese-reform-and-opening/2.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "event/chinese-reform-and-opening/3.jpg": {
+  "code": "Q",
+  "reason": "tiny chart, unrelated"
+ },
+ "event/classic-maya-collapse/2.jpg": {
+  "code": "W",
+  "reason": "small carving"
+ },
+ "event/closure-of-the-isthmus-of-panama/1.jpg": {
+  "code": "O",
+  "reason": "Balboa voyage map is not the geological closure of the isthmus"
+ },
+ "event/cold-war/1.jpg": {
+  "code": "Q",
+  "reason": "logo of the Pan-European Picnic"
+ },
+ "event/cold-war/3.jpg": {
+  "code": "W",
+  "reason": "postage stamp, tangential"
+ },
+ "event/collapse-of-the-soviet-union/1.jpg": {
+  "code": "O",
+  "reason": "1730 map of the Russian Empire, not the Soviet collapse"
+ },
+ "event/collision-of-india-and-asia/1.jpg": {
+  "code": "L",
+  "reason": "diagram"
+ },
+ "event/collision-of-india-and-asia/2.jpg": {
+  "code": "W",
+  "reason": "microscope image, tangential"
+ },
+ "event/colonization-of-land/1.jpg": {
+  "code": "O",
+  "reason": "political decolonization map on a note about life colonizing land"
+ },
+ "event/colonization-of-land/2.jpg": {
+  "code": "O",
+  "reason": "1550 human colonization map, wrong subject"
+ },
+ "event/cretaceous-paleogene-extinction/2.jpg": {
+  "code": "W",
+  "reason": "Deccan scenery, tangential"
+ },
+ "event/cretaceous-paleogene-extinction/3.jpg": {
+  "code": "O",
+  "reason": "golden toad, unrelated to the K-Pg extinction"
+ },
+ "event/crusades/2.jpg": {
+  "code": "O",
+  "reason": "St Peter's dome, not the Crusades"
+ },
+ "event/crusades/3.jpg": {
+  "code": "O",
+  "reason": "Last Judgment fresco, not the Crusades"
+ },
+ "event/deccan-traps-eruptions/2.jpg": {
+  "code": "W",
+  "reason": "Ajanta gorge, tangential"
+ },
+ "event/decolonization/2.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "event/decolonization/3.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "event/decolonization/4.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "event/digital-revolution/1.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/digital-revolution/2.jpg": {
+  "code": "Q",
+  "reason": "unclear graphic"
+ },
+ "event/digital-revolution/3.jpg": {
+  "code": "Q",
+  "reason": "tiny flowchart"
+ },
+ "event/divergence-of-the-hominin-lineage/1.jpg": {
+  "code": "O",
+  "reason": "Torre Sant'Andrea coast, unrelated to hominin divergence (borrowed)"
+ },
+ "event/domestication-of-maize/1.jpg": {
+  "code": "O",
+  "reason": "insects, unrelated to maize"
+ },
+ "event/domestication-of-maize/2.jpg": {
+  "code": "O",
+  "reason": "rice planting, not maize"
+ },
+ "event/domestication-of-maize/3.jpg": {
+  "code": "O",
+  "reason": "mushrooms, not maize"
+ },
+ "event/domestication-of-maize/4.jpg": {
+  "code": "O",
+  "reason": "termites, unrelated to maize"
+ },
+ "event/earliest-continental-crust/1.jpg": {
+  "code": "W",
+  "reason": "same artwork as era/archean-eon/1 (borrowed)"
+ },
+ "event/emergence-of-symbolic-art/1.jpg": {
+  "code": "O",
+  "reason": "Glyptodon drawing, not symbolic art (borrowed)"
+ },
+ "event/emergence-of-the-genus-homo/1.jpg": {
+  "code": "O",
+  "reason": "Torre Sant'Andrea coast, unrelated to genus Homo (borrowed)"
+ },
+ "event/enlightenment/2.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/eocene-oligocene-transition/1.jpg": {
+  "code": "L",
+  "reason": "diagram"
+ },
+ "event/fall-of-constantinople/4.jpg": {
+  "code": "L",
+  "reason": "flag"
+ },
+ "event/fall-of-the-western-roman-empire/1.jpg": {
+  "code": "W",
+  "reason": "pendant, tangential"
+ },
+ "event/fish-to-tetrapod-transition/1.jpg": {
+  "code": "L",
+  "reason": "phylogeny diagram"
+ },
+ "event/fish-to-tetrapod-transition/2.jpg": {
+  "code": "D",
+  "reason": "same diagram as Fish-to-Tetrapod #1 in Russian"
+ },
+ "event/formation-of-the-oceans/1.jpg": {
+  "code": "O",
+  "reason": "ocean salinity map, not the formation of the oceans"
+ },
+ "event/genomic-revolution/1.jpg": {
+  "code": "O",
+  "reason": "wild cereals photo on the Genomic Revolution note"
+ },
+ "event/genomic-revolution/2.jpg": {
+  "code": "O",
+  "reason": "sickles, wrong topic"
+ },
+ "event/great-acceleration/1.jpg": {
+  "code": "W",
+  "reason": "wildfire, tangential"
+ },
+ "event/great-acceleration/3.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/great-oxidation-event/1.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/great-oxidation-event/3.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/green-revolution/1.jpg": {
+  "code": "W",
+  "reason": "small map"
+ },
+ "event/incense-trade/4.jpg": {
+  "code": "W",
+  "reason": "ancient galley drawing, tangential"
+ },
+ "event/indian-ocean-trade-network/1.jpg": {
+  "code": "W",
+  "reason": "orientalist painting, tangential"
+ },
+ "event/indian-ocean-trade-network/5.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "event/industrial-revolution/5.jpg": {
+  "code": "L",
+  "reason": "political map 1754, tangential"
+ },
+ "event/invention-of-writing/4.jpg": {
+  "code": "O",
+  "reason": "Queen Maya's dream relief, unrelated to the invention of writing"
+ },
+ "event/last-glacial-maximum/4.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "event/last-glacial-maximum/5.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "event/late-heavy-bombardment/1.jpg": {
+  "code": "O",
+  "reason": "Crab Nebula, unrelated to the Late Heavy Bombardment"
+ },
+ "event/late-ordovician-extinction/1.jpg": {
+  "code": "O",
+  "reason": "cyanobacteria bloom, unrelated to the Late Ordovician extinction"
+ },
+ "event/latin-american-wars-of-independence/1.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "event/latin-american-wars-of-independence/2.jpg": {
+  "code": "L",
+  "reason": "flag"
+ },
+ "event/meiji-restoration/2.jpg": {
+  "code": "W",
+  "reason": "samurai print, tangential"
+ },
+ "event/mexican-revolution/3.jpg": {
+  "code": "S",
+  "reason": "dead bodies in a street, not for a card"
+ },
+ "event/middle-pleistocene-transition/1.jpg": {
+  "code": "D",
+  "reason": "same CLIMAP map as event/last-glacial-maximum/1, wrong for this note"
+ },
+ "event/milankovitch-cycles-and-the-ice-ages/1.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/milankovitch-cycles-and-the-ice-ages/4.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/miocene-great-ape-radiation/1.jpg": {
+  "code": "W",
+  "reason": "map"
+ },
+ "event/modern-climate-change/1.jpg": {
+  "code": "L",
+  "reason": "document"
+ },
+ "event/modern-climate-change/2.jpg": {
+  "code": "L",
+  "reason": "newspaper"
+ },
+ "event/modern-climate-change/3.jpg": {
+  "code": "W",
+  "reason": "green roof, tangential"
+ },
+ "event/modern-climate-change/4.jpg": {
+  "code": "O",
+  "reason": "pearl millet breeding photo, not climate change"
+ },
+ "event/napoleonic-wars/3.jpg": {
+  "code": "L",
+  "reason": "political map"
+ },
+ "event/neanderthal-extinction/5.jpg": {
+  "code": "W",
+  "reason": "relief map of Iberia, tangential"
+ },
+ "event/onset-of-northern-hemisphere-glaciation/1.jpg": {
+  "code": "W",
+  "reason": "same image as era/quaternary-period/1 (borrowed)"
+ },
+ "event/opening-of-the-silk-roads/1.jpg": {
+  "code": "W",
+  "reason": "museum text board"
+ },
+ "event/opening-of-the-silk-roads/2.jpg": {
+  "code": "O",
+  "reason": "a British road named A523 Silk Road (name coincidence)"
+ },
+ "event/origin-of-bipedalism/2.jpg": {
+  "code": "O",
+  "reason": "Asimo robot, not the origin of bipedalism"
+ },
+ "event/origin-of-bipedalism/3.jpg": {
+  "code": "O",
+  "reason": "children running, not the origin of bipedalism"
+ },
+ "event/origin-of-birds/2.jpg": {
+  "code": "L",
+  "reason": "diagram"
+ },
+ "event/origin-of-eukaryotes/1.jpg": {
+  "code": "L",
+  "reason": "diagram"
+ },
+ "event/origin-of-eukaryotes/2.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/origin-of-homo-sapiens/1.jpg": {
+  "code": "Q",
+  "reason": "dark unreadable diagram"
+ },
+ "event/origin-of-life/2.jpg": {
+  "code": "L",
+  "reason": "diagram"
+ },
+ "event/origin-of-multicellularity/1.jpg": {
+  "code": "O",
+  "reason": "Blue Marble, not multicellularity"
+ },
+ "event/origin-of-multicellularity/2.jpg": {
+  "code": "O",
+  "reason": "meteorite slab, not multicellularity"
+ },
+ "event/out-of-africa-dispersal/1.jpg": {
+  "code": "W",
+  "reason": "same figure as Interbreeding #1"
+ },
+ "event/paleocene-eocene-thermal-maximum/1.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/peopling-of-europe-by-homo-sapiens/1.jpg": {
+  "code": "O",
+  "reason": "South American Glyptodon drawing on the peopling of Europe (borrowed)"
+ },
+ "event/peopling-of-sahul/2.jpg": {
+  "code": "O",
+  "reason": "Atayal portrait (Taiwan), not the peopling of Sahul"
+ },
+ "event/peopling-of-the-americas/2.jpg": {
+  "code": "W",
+  "reason": "glacial lakes map, tangential"
+ },
+ "event/peopling-of-the-americas/3.jpg": {
+  "code": "L",
+  "reason": "diagram"
+ },
+ "event/peopling-of-the-americas/4.jpg": {
+  "code": "W",
+  "reason": "Teotihuacan is far later than the peopling"
+ },
+ "event/permian-triassic-extinction/1.jpg": {
+  "code": "O",
+  "reason": "Carboniferous crinoid on the Permian-Triassic extinction"
+ },
+ "event/portuguese-sea-route-to-india/4.jpg": {
+  "code": "W",
+  "reason": "medieval Prester John map, tangential"
+ },
+ "event/protestant-reformation/1.jpg": {
+  "code": "W",
+  "reason": "Henry VIII, English Reformation only"
+ },
+ "event/quaternary-megafauna-extinctions/1.jpg": {
+  "code": "D",
+  "reason": "same White Sands footprints as peopling of the Americas #1, tangential here (borrowed)"
+ },
+ "event/radiation-of-placental-mammals/1.jpg": {
+  "code": "W",
+  "reason": "same impact art as K-Pg (borrowed)"
+ },
+ "event/renaissance/2.jpg": {
+  "code": "W",
+  "reason": "poet portrait, tangential"
+ },
+ "event/scramble-for-africa/2.jpg": {
+  "code": "S",
+  "reason": "colonial ethnographic photograph captioned 'African Pigmies', demeaning framing, not for a card"
+ },
+ "event/scramble-for-africa/3.jpg": {
+  "code": "W",
+  "reason": "colonial-era troop photo"
+ },
+ "event/siberian-traps-eruptions/2.jpg": {
+  "code": "W",
+  "reason": "winter landscape, tangential"
+ },
+ "event/siberian-traps-eruptions/3.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/spanish-conquest-of-the-aztec-empire/2.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/spread-of-grasslands/1.jpg": {
+  "code": "O",
+  "reason": "insect plate, unrelated to grasslands"
+ },
+ "event/tanzimat-reforms/2.jpg": {
+  "code": "W",
+  "reason": "beer factory, tangential"
+ },
+ "event/the-agricultural-revolution/3.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/the-agricultural-revolution/4.jpg": {
+  "code": "D",
+  "reason": "duplicate of era/pleistocene-epoch/3, tiny chart"
+ },
+ "event/the-boring-billion/1.jpg": {
+  "code": "L",
+  "reason": "diagram"
+ },
+ "event/the-boring-billion/2.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "event/the-urban-revolution/1.jpg": {
+  "code": "X",
+  "reason": "private individuals at a restaurant, name coincidence Urban Revolution; remove for privacy"
+ },
+ "event/the-urban-revolution/2.jpg": {
+  "code": "X",
+  "reason": "private individuals at a restaurant, name coincidence"
+ },
+ "event/the-urban-revolution/3.jpg": {
+  "code": "X",
+  "reason": "private individuals at a restaurant, name coincidence"
+ },
+ "event/the-urban-revolution/4.jpg": {
+  "code": "X",
+  "reason": "art exhibition named Urban, not the Urban Revolution"
+ },
+ "event/the-urban-revolution/5.jpg": {
+  "code": "X",
+  "reason": "private individuals at a restaurant, name coincidence"
+ },
+ "event/tunguska-event/2.jpg": {
+  "code": "W",
+  "reason": "mineral thin section, tangential"
+ },
+ "event/turkish-war-of-independence/2.jpg": {
+  "code": "W",
+  "reason": "1918 group photo, tangential"
+ },
+ "event/unification-of-egypt/1.jpg": {
+  "code": "W",
+  "reason": "Abu Simbel relief is Ramesses II, far later than the unification"
+ },
+ "event/vedic-period/2.jpg": {
+  "code": "W",
+  "reason": "small cosmology painting"
+ },
+ "event/world-war-ii/5.jpg": {
+  "code": "S",
+  "reason": "photograph of a hanging, not for a card"
+ },
+ "event/younger-dryas/2.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "person/al-biruni/2.jpg": {
+  "code": "L",
+  "reason": "diagram"
+ },
+ "person/al-biruni/3.jpg": {
+  "code": "O",
+  "reason": "mathematical flower art by an unrelated artist"
+ },
+ "person/ban-zhao/1.jpg": {
+  "code": "Q",
+  "reason": "almost invisible faint sketch"
+ },
+ "person/behzad/1.jpg": {
+  "code": "X",
+  "reason": "photo of Behzad Farahani (a living Iranian actor), not the miniaturist Kamal ud-Din Behzad"
+ },
+ "person/behzad/3.jpg": {
+  "code": "X",
+  "reason": "photo of Behzad Bolour, a different person, not the miniaturist"
+ },
+ "person/frida-kahlo/2.jpg": {
+  "code": "W",
+  "reason": "death mask photo on a shawl, odd"
+ },
+ "person/funmilayo-ransome-kuti/1.jpg": {
+  "code": "W",
+  "reason": "palace photo, not the person"
+ },
+ "person/hypatia/1.jpg": {
+  "code": "W",
+  "reason": "a chronicle manuscript, not Hypatia herself"
+ },
+ "person/johannes-vermeer/1.jpg": {
+  "code": "W",
+  "reason": "tight crop of a painting, poor thumbnail"
+ },
+ "person/jose-rizal/2.jpg": {
+  "code": "W",
+  "reason": "1912 burial march, tangential"
+ },
+ "person/katsushika-hokusai/3.jpg": {
+  "code": "W",
+  "reason": "music score cover using Hokusai's wave"
+ },
+ "person/khadija-bint-khuwaylid/2.jpg": {
+  "code": "L",
+  "reason": "family tree diagram, hard to read"
+ },
+ "person/leo-tolstoy/2.jpg": {
+  "code": "W",
+  "reason": "modern stage production photo"
+ },
+ "person/leo-tolstoy/3.jpg": {
+  "code": "W",
+  "reason": "modern stage production photo"
+ },
+ "person/leonardo-da-vinci/3.jpg": {
+  "code": "O",
+  "reason": "modern anatomy pose figure unrelated to Leonardo"
+ },
+ "person/liliuokalani/3.jpg": {
+  "code": "W",
+  "reason": "residence painting, tangential"
+ },
+ "person/queen-amina-of-zazzau/1.jpg": {
+  "code": "X",
+  "reason": "Ottoman miniature of the birth of Muhammad, name mix-up with Amina (mother of Muhammad)"
+ },
+ "person/queen-amina-of-zazzau/2.jpg": {
+  "code": "X",
+  "reason": "Halima, nurse of Muhammad, wrong Amina"
+ },
+ "person/rumi/2.jpg": {
+  "code": "W",
+  "reason": "banknote reverse"
+ },
+ "person/rumi/3.jpg": {
+  "code": "W",
+  "reason": "manuscript page, tangential"
+ },
+ "person/sappho/1.jpg": {
+  "code": "O",
+  "reason": "vase by the Sappho Painter, a different Sappho"
+ },
+ "person/sitting-bull/2.jpg": {
+  "code": "W",
+  "reason": "telegram"
+ },
+ "person/sofonisba-anguissola/3.jpg": {
+  "code": "L",
+  "reason": "signature"
+ },
+ "person/sor-juana-ines-de-la-cruz/2.jpg": {
+  "code": "W",
+  "reason": "modern painting, unclear"
+ },
+ "person/sundiata-keita/1.jpg": {
+  "code": "W",
+  "reason": "balafon instrument, tangential"
+ },
+ "person/truganini/1.jpg": {
+  "code": "W",
+  "reason": "relief map in wrong colours"
+ },
+ "place/arkaim/2.jpg": {
+  "code": "W",
+  "reason": "relief map of a province, weak"
+ },
+ "place/ayutthaya/1.jpg": {
+  "code": "L",
+  "reason": "architectural sketch"
+ },
+ "place/ayutthaya/2.jpg": {
+  "code": "L",
+  "reason": "architectural sketch"
+ },
+ "place/ayutthaya/4.jpg": {
+  "code": "L",
+  "reason": "sketch"
+ },
+ "place/babylon/3.jpg": {
+  "code": "W",
+  "reason": "Book of Revelation illumination, tangential"
+ },
+ "place/cusco/3.jpg": {
+  "code": "W",
+  "reason": "airport photo, tangential"
+ },
+ "place/cordoba/2.jpg": {
+  "code": "O",
+  "reason": "football stadium in Cordoba, Spain, not the historic city"
+ },
+ "place/ganges-river/2.jpg": {
+  "code": "O",
+  "reason": "street photo of a girl selling containers (identifiable minor), not about the Ganges"
+ },
+ "place/havana/2.jpg": {
+  "code": "O",
+  "reason": "photo of schoolchildren in Havana (identifiable minors), generic"
+ },
+ "place/hegra/2.jpg": {
+  "code": "W",
+  "reason": "inscription, small"
+ },
+ "place/hispaniola/2.jpg": {
+  "code": "W",
+  "reason": "beach, tangential"
+ },
+ "place/isfahan/3.jpg": {
+  "code": "Q",
+  "reason": "unrelated bar chart"
+ },
+ "place/isfahan/4.jpg": {
+  "code": "W",
+  "reason": "night shot, weak"
+ },
+ "place/jack-hills-zircons/2.jpg": {
+  "code": "O",
+  "reason": "butterfly, unrelated to Jack Hills zircons (also on a source note)"
+ },
+ "place/jamestown/4.jpg": {
+  "code": "W",
+  "reason": "stamps"
+ },
+ "place/jericho/2.jpg": {
+  "code": "L",
+  "reason": "modern map"
+ },
+ "place/jerusalem/3.jpg": {
+  "code": "W",
+  "reason": "modern villa, not Jerusalem"
+ },
+ "place/jerusalem/4.jpg": {
+  "code": "O",
+  "reason": "museum corridor about Abu Jihad, unrelated"
+ },
+ "place/karakorum/2.jpg": {
+  "code": "O",
+  "reason": "Beiyue Temple in Hebei, China, not Karakorum"
+ },
+ "place/knossos/4.jpg": {
+  "code": "W",
+  "reason": "small artifact"
+ },
+ "place/kyoto/4.jpg": {
+  "code": "W",
+  "reason": "university campus, tangential"
+ },
+ "place/london/2.jpg": {
+  "code": "W",
+  "reason": "recording studio, tangential"
+ },
+ "place/london/4.jpg": {
+  "code": "W",
+  "reason": "tube station, tangential"
+ },
+ "place/medina/2.jpg": {
+  "code": "W",
+  "reason": "token, small"
+ },
+ "place/merv/4.jpg": {
+  "code": "W",
+  "reason": "dark 3D scan"
+ },
+ "place/mesa-verde/2.jpg": {
+  "code": "W",
+  "reason": "small artifact photo"
+ },
+ "place/mexico-city/2.jpg": {
+  "code": "W",
+  "reason": "modern building, tangential"
+ },
+ "place/mexico-city/3.jpg": {
+  "code": "W",
+  "reason": "airport, tangential"
+ },
+ "place/paris/4.jpg": {
+  "code": "W",
+  "reason": "ring road, tangential"
+ },
+ "place/pasargadae/3.jpg": {
+  "code": "W",
+  "reason": "banknote"
+ },
+ "place/port-royal/4.jpg": {
+  "code": "W",
+  "reason": "boats, tangential"
+ },
+ "place/potosi/1.jpg": {
+  "code": "W",
+  "reason": "brewery, not the silver-mining story"
+ },
+ "place/potosi/2.jpg": {
+  "code": "L",
+  "reason": "coat of arms"
+ },
+ "place/robben-island/3.jpg": {
+  "code": "W",
+  "reason": "vegetation photo, unclear relevance"
+ },
+ "place/santo-domingo/2.jpg": {
+  "code": "W",
+  "reason": "modern avenue"
+ },
+ "place/santo-domingo/4.jpg": {
+  "code": "W",
+  "reason": "museum facade, tangential"
+ },
+ "place/sarai/1.jpg": {
+  "code": "W",
+  "reason": "unclear building"
+ },
+ "place/tenochtitlan/2.jpg": {
+  "code": "W",
+  "reason": "monument in Mexico City, tangential"
+ },
+ "place/troy/2.jpg": {
+  "code": "W",
+  "reason": "Alexandria Troas, a different site"
+ },
+ "place/varanasi/2.jpg": {
+  "code": "W",
+  "reason": "colourful arch photo, unclear"
+ },
+ "place/venice/3.jpg": {
+  "code": "W",
+  "reason": "cruise terminal"
+ },
+ "place/venice/4.jpg": {
+  "code": "W",
+  "reason": "film festival building"
+ },
+ "place/xingu-garden-cities/1.jpg": {
+  "code": "X",
+  "reason": "private individuals at a restaurant, name coincidence (borrowed from the Urban Revolution note)"
+ },
+ "culture/aboriginal-australians/1.jpg": {
+  "code": "W",
+  "reason": "modern dance photo"
+ },
+ "culture/ancient-egyptians/3.jpg": {
+  "code": "W",
+  "reason": "19th-century Orientalist painting"
+ },
+ "culture/botai-culture/1.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "culture/chinchorro-culture/1.jpg": {
+  "code": "W",
+  "reason": "desert landscape, tangential"
+ },
+ "culture/haudenosaunee-confederacy/1.jpg": {
+  "code": "W",
+  "reason": "thin panorama strip"
+ },
+ "culture/inuit-and-the-thule-expansion/1.jpg": {
+  "code": "O",
+  "reason": "map of Turkic languages on the Inuit and Thule note (borrowed)"
+ },
+ "culture/kingdom-of-benin/1.jpg": {
+  "code": "O",
+  "reason": "photo of a python snake, not a depiction of the Kingdom of Benin"
+ },
+ "culture/kingdom-of-kush/2.jpg": {
+  "code": "W",
+  "reason": "Ezana stele, belongs to Aksum"
+ },
+ "culture/kingdom-of-mapungubwe/2.jpg": {
+  "code": "O",
+  "reason": "bateleur eagle photo, unrelated to Mapungubwe"
+ },
+ "culture/kingdom-of-mapungubwe/3.jpg": {
+  "code": "W",
+  "reason": "tourists at an excavation"
+ },
+ "culture/lapita-culture/2.jpg": {
+  "code": "L",
+  "reason": "pottery typology chart"
+ },
+ "culture/lapita-culture/3.jpg": {
+  "code": "W",
+  "reason": "modern sailboats"
+ },
+ "culture/majapahit/2.jpg": {
+  "code": "W",
+  "reason": "fruit photo, name-origin only"
+ },
+ "culture/ming-dynasty/2.jpg": {
+  "code": "W",
+  "reason": "Tibetan thangka, tangential"
+ },
+ "culture/mughal-empire/1.jpg": {
+  "code": "O",
+  "reason": "aerial view of a park in Dhaka, not the Mughal Empire"
+ },
+ "culture/ottoman-empire/2.jpg": {
+  "code": "W",
+  "reason": "calendar"
+ },
+ "culture/polynesians/1.jpg": {
+  "code": "D",
+  "reason": "same performers photo as event/polynesian-settlement-of-the-pacific/1"
+ },
+ "culture/romans/1.jpg": {
+  "code": "O",
+  "reason": "Holy Roman Empire coat of arms, not the ancient Romans"
+ },
+ "culture/romans/4.jpg": {
+  "code": "O",
+  "reason": "postcard of the French town of Romans, name coincidence"
+ },
+ "culture/swahili-coast-city-states/1.jpg": {
+  "code": "W",
+  "reason": "African language families map, tangential to the Swahili coast"
+ },
+ "technology/calendars/1.jpg": {
+  "code": "W",
+  "reason": "wall calendar photo"
+ },
+ "technology/calendars/2.jpg": {
+  "code": "W",
+  "reason": "date line map, tangential"
+ },
+ "technology/calendars/3.jpg": {
+  "code": "O",
+  "reason": "jewelled pendant titled Calendar, not a calendar"
+ },
+ "technology/chariot/1.jpg": {
+  "code": "W",
+  "reason": "festival photo of a modern chariot"
+ },
+ "technology/coinage/2.jpg": {
+  "code": "O",
+  "reason": "Coinage Hall building in Cornwall, name coincidence"
+ },
+ "technology/coinage/3.jpg": {
+  "code": "O",
+  "reason": "Coinage Hall building in Truro, name coincidence"
+ },
+ "technology/crucible-steel/1.jpg": {
+  "code": "W",
+  "reason": "Sheffield hillside, tangential"
+ },
+ "technology/digital-computer/2.jpg": {
+  "code": "L",
+  "reason": "line drawing, unclear"
+ },
+ "technology/electrical-power-grid/1.jpg": {
+  "code": "W",
+  "reason": "Tokyo Tower at night, not a power grid"
+ },
+ "technology/iron-smelting/1.jpg": {
+  "code": "W",
+  "reason": "phosphate furnace"
+ },
+ "technology/iron-smelting/2.jpg": {
+  "code": "L",
+  "reason": "engraving"
+ },
+ "technology/iron-smelting/3.jpg": {
+  "code": "W",
+  "reason": "copper smelter"
+ },
+ "technology/oldowan-stone-tools/1.jpg": {
+  "code": "Q",
+  "reason": "almost blank faint sketch"
+ },
+ "technology/paper/1.jpg": {
+  "code": "W",
+  "reason": "household paper products photo"
+ },
+ "technology/paper/2.jpg": {
+  "code": "W",
+  "reason": "page of text"
+ },
+ "technology/railways/1.jpg": {
+  "code": "W",
+  "reason": "oil train"
+ },
+ "technology/sanitation-and-sewers/1.jpg": {
+  "code": "Q",
+  "reason": "tiny flat diagram"
+ },
+ "technology/sanitation-and-sewers/2.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "technology/sanitation-and-sewers/3.jpg": {
+  "code": "W",
+  "reason": "emergency pit kit"
+ },
+ "technology/sericulture/1.jpg": {
+  "code": "W",
+  "reason": "snack photo"
+ },
+ "species/archaeopteryx/1.jpg": {
+  "code": "O",
+  "reason": "Ambopteryx is a different dinosaur, not Archaeopteryx"
+ },
+ "species/archaeopteryx/2.jpg": {
+  "code": "W",
+  "reason": "Anchiornis, a different feathered dinosaur"
+ },
+ "species/australopithecus-afarensis/2.jpg": {
+  "code": "L",
+  "reason": "diagram"
+ },
+ "species/homo-neanderthalensis/2.jpg": {
+  "code": "W",
+  "reason": "comic book cover"
+ },
+ "species/homo-sapiens/1.jpg": {
+  "code": "O",
+  "reason": "portrait of two identifiable people of one ethnic group used to represent the species"
+ },
+ "species/homo-sapiens/2.jpg": {
+  "code": "W",
+  "reason": "Apollo 11 astronaut, quirky choice"
+ },
+ "species/homo-sapiens/3.jpg": {
+  "code": "O",
+  "reason": "portrait of an identifiable elderly man used to represent the species"
+ },
+ "species/trilobites/2.jpg": {
+  "code": "L",
+  "reason": "engraving"
+ },
+ "region/amazon-basin-and-south-american-lowlands/1.jpg": {
+  "code": "O",
+  "reason": "sweet corn photo on the Amazon Basin region (borrowed)"
+ },
+ "region/andes/2.jpg": {
+  "code": "W",
+  "reason": "woodland photo"
+ },
+ "region/caribbean-and-atlantic-world/1.jpg": {
+  "code": "W",
+  "reason": "Virginia plantation print, not the Caribbean"
+ },
+ "region/caribbean-and-atlantic-world/2.jpg": {
+  "code": "O",
+  "reason": "French Revolution painting on the Caribbean and Atlantic World"
+ },
+ "region/central-asian-oases/1.jpg": {
+  "code": "W",
+  "reason": "museum text board (also on Opening of the Silk Roads)"
+ },
+ "region/east-asia/2.jpg": {
+  "code": "O",
+  "reason": "ethnographic portrait of identifiable people representing a region"
+ },
+ "region/east-asia/3.jpg": {
+  "code": "O",
+  "reason": "portrait of an identifiable person in costume representing a region"
+ },
+ "region/east-asia/4.jpg": {
+  "code": "O",
+  "reason": "three women in costume representing a region"
+ },
+ "region/europe/2.jpg": {
+  "code": "W",
+  "reason": "business district, odd"
+ },
+ "region/europe/3.jpg": {
+  "code": "L",
+  "reason": "political colonization map, tangential"
+ },
+ "region/levant-and-anatolia/2.jpg": {
+  "code": "O",
+  "reason": "folklore costume group photo of identifiable people"
+ },
+ "region/mesopotamia/3.jpg": {
+  "code": "W",
+  "reason": "pattern plate"
+ },
+ "region/north-america/2.jpg": {
+  "code": "W",
+  "reason": "city skyline"
+ },
+ "region/north-america/3.jpg": {
+  "code": "W",
+  "reason": "street crowd photo"
+ },
+ "region/oceania/1.jpg": {
+  "code": "L",
+  "reason": "political map"
+ },
+ "region/planet-wide/1.jpg": {
+  "code": "X",
+  "reason": "video-game screenshot (Planetary Annihilation)"
+ },
+ "region/planet-wide/2.jpg": {
+  "code": "X",
+  "reason": "Hubble pixels of an exoplanet candidate, unrelated"
+ },
+ "region/planet-wide/3.jpg": {
+  "code": "D",
+  "reason": "same game screenshot as Planet-wide #1"
+ },
+ "region/planet-wide/4.jpg": {
+  "code": "D",
+  "reason": "same Hubble image as Planet-wide #2"
+ },
+ "region/siberia-and-the-arctic/2.jpg": {
+  "code": "W",
+  "reason": "camel photo, tangential"
+ },
+ "region/south-asia/1.jpg": {
+  "code": "W",
+  "reason": "city skyline"
+ },
+ "region/south-asia/3.jpg": {
+  "code": "O",
+  "reason": "map of Central Asia definitions on the South Asia region"
+ },
+ "region/south-asia/4.jpg": {
+  "code": "W",
+  "reason": "city skyline"
+ },
+ "region/southeast-asia/1.jpg": {
+  "code": "W",
+  "reason": "bridge skyline"
+ },
+ "region/sub-saharan-africa/1.jpg": {
+  "code": "W",
+  "reason": "plantation photo, unclear"
+ },
+ "theme/language-and-writing/2.jpg": {
+  "code": "Q",
+  "reason": "table of language forms, unreadable"
+ },
+ "theme/language-and-writing/3.jpg": {
+  "code": "Q",
+  "reason": "language course cover page"
+ },
+ "theme/earth-systems-and-life/2.jpg": {
+  "code": "Q",
+  "reason": "almost blank starfield"
+ },
+ "theme/religion-and-belief/2.jpg": {
+  "code": "X",
+  "reason": "portrait of a UN official, unrelated to the theme"
+ },
+ "theme/religion-and-belief/3.jpg": {
+  "code": "X",
+  "reason": "conference audience, unrelated"
+ },
+ "theme/science/2.jpg": {
+  "code": "W",
+  "reason": "group photo, tangential"
+ },
+ "theme/technology/4.jpg": {
+  "code": "W",
+  "reason": "lab photo, tangential"
+ },
+ "theme/trade-and-economy/2.jpg": {
+  "code": "X",
+  "reason": "Japanese Ministry of Economy, Trade and Industry building, name coincidence"
+ },
+ "theme/trade-and-economy/3.jpg": {
+  "code": "X",
+  "reason": "Japanese ministry sign, name coincidence"
+ },
+ "theme/trade-and-economy/4.jpg": {
+  "code": "X",
+  "reason": "Japanese ministry building, name coincidence"
+ },
+ "theme/war-and-conflict/2.jpg": {
+  "code": "L",
+  "reason": "conflict incidents map"
+ },
+ "theme/war-and-conflict/3.jpg": {
+  "code": "X",
+  "reason": "crowd at a modern political protest, unrelated"
+ },
+ "theme/war-and-conflict/4.jpg": {
+  "code": "W",
+  "reason": "1900s railcar photo"
+ },
+ "source/britannica-on-abd-al-malik/1.jpg": {
+  "code": "X",
+  "reason": "photo of a modern man (a lecturer), not Abd al-Malik"
+ },
+ "source/britannica-on-carolingian-minuscule/1.jpg": {
+  "code": "W",
+  "reason": "letterforms, fine but flat"
+ },
+ "source/britannica-on-the-columbian-exchange/1.jpg": {
+  "code": "W",
+  "reason": "cow photo for Columbian Exchange, weak"
+ },
+ "source/britannica-on-the-coronation-of-charlemagne/1.jpg": {
+  "code": "W",
+  "reason": "sarcophagus relief, weak for coronation"
+ },
+ "source/britannica-on-the-dutch-east-india-company/1.jpg": {
+  "code": "W",
+  "reason": "small map"
+ },
+ "source/double-helix-and-human-genome-project-dates-search-summaries/1.jpg": {
+  "code": "W",
+  "reason": "Huxley ape-skeleton frontispiece, not the double helix"
+ },
+ "source/british-raj-search-summaries/1.jpg": {
+  "code": "W",
+  "reason": "unclear group portrait"
+ },
+ "source/britannica-on-the-taiping-rebellion/1.jpg": {
+  "code": "W",
+  "reason": "throne"
+ },
+ "source/encyclopaedia-britannica/1.jpg": {
+  "code": "L",
+  "reason": "book spines"
+ },
+ "source/end-of-the-soviet-union-dates-search-summaries/1.jpg": {
+  "code": "W",
+  "reason": "memorial photo wall of victims' portraits, sensitive"
+ },
+ "source/maps-of-time-christian/1.jpg": {
+  "code": "O",
+  "reason": "Google Street View backpack photo for the book Maps of Time"
+ },
+ "source/mexican-revolution-search-summaries/1.jpg": {
+  "code": "S",
+  "reason": "photograph of Zapata's corpse, not for a card"
+ },
+ "source/minority-rights-group-on-the-sakha/1.jpg": {
+  "code": "X",
+  "reason": "street photo with identifiable children, unrelated to the source"
+ },
+ "source/nasa-on-the-dawn-of-the-space-age/1.jpg": {
+  "code": "O",
+  "reason": "1959 Cadillac, not the Dawn of the Space Age"
+ },
+ "source/nasa-on-apollo-11/1.jpg": {
+  "code": "L",
+  "reason": "document"
+ },
+ "source/the-human-career-klein/1.jpg": {
+  "code": "X",
+  "reason": "students in a classroom (identifiable minors/adults), unrelated to the source"
+ },
+ "source/the-transformation-of-the-world-osterhammel/1.jpg": {
+  "code": "X",
+  "reason": "a pub building in England, name coincidence"
+ },
+ "source/uk-national-archives-on-hong-kong-and-the-opium-wars/1.jpg": {
+  "code": "W",
+  "reason": "old computer photo"
+ },
+ "source/unsw-on-the-dresser-formation-stromatolites/1.jpg": {
+  "code": "O",
+  "reason": "butterfly, unrelated to the Dresser Formation (same file as Jack Hills #2)"
+ },
+ "source/who-covid-19-mortality-data/1.jpg": {
+  "code": "L",
+  "reason": "chart"
+ },
+ "source/second-italo-ethiopian-war-search-summaries/1.jpg": {
+  "code": "W",
+  "reason": "Mussolini portrait as lead for a source card, sensitive"
+ },
+ "source/penn-museum-on-herodotus-and-the-scythians/1.jpg": {
+  "code": "W",
+  "reason": "tiny artifact"
+ },
+ "source/slave-voyages-database/1.jpg": {
+  "code": "W",
+  "reason": "woodcut, tiny"
+ },
+ "source/wikipedia-on-persepolis/1.jpg": {
+  "code": "O",
+  "reason": "concert audience photo (2025 orchestra), not the Persepolis site"
+ },
+ "source/wikipedia-on-reform-and-opening-up/1.jpg": {
+  "code": "X",
+  "reason": "panel at the World Economic Forum, unrelated to Reform and Opening"
+ },
+ "source/wikipedia-on-the-control-of-fire-by-early-humans/1.jpg": {
+  "code": "D",
+  "reason": "same file as event/control-of-fire (era/paleolithic #5)"
+ },
+ "source/wikipedia-on-the-battle-of-talas/1.jpg": {
+  "code": "D",
+  "reason": "same file as event/battle-of-talas #1"
+ },
+ "source/wikipedia-on-the-dissolution-of-the-soviet-union/1.jpg": {
+  "code": "W",
+  "reason": "border change map"
+ },
+ "source/wikipedia-on-the-great-oxidation-event/1.jpg": {
+  "code": "D",
+  "reason": "same chart as event/great-oxidation-event #1"
+ },
+ "source/wikipedia-on-the-french-revolution/1.jpg": {
+  "code": "D",
+  "reason": "same file as event/french-revolution #3"
+ },
+ "source/wikipedia-on-the-settlement-of-the-americas/1.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "source/wikipedia-on-tin-sources-and-trade-during-antiquity/1.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "source/world-history-encyclopedia/1.jpg": {
+  "code": "L",
+  "reason": "map"
+ },
+ "source/world-history-encyclopedia-on-the-swahili-coast/1.jpg": {
+  "code": "W",
+  "reason": "historic photograph of an enslaved person, sensitive for a card lead"
+ }
+}
