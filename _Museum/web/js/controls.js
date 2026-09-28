@@ -12,13 +12,20 @@ const DOWN = new THREE.Vector3(0, -1, 0);
 const STEP_UP = 0.5;
 const STEP_DOWN = 1.0;
 
+function isEditable(t) {
+  return !!t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.tagName === 'SELECT' || t.isContentEditable);
+}
+
 export function createControls(camera, domElement, getCollidables) {
   const keys = { forward: false, back: false, left: false, right: false };
+  const axis = { x: 0, y: 0 };  // analog move (touch joystick): x = strafe right, y = forward
   let yaw = 0;
   let pitch = 0;
-  let engaged = false;      // WASD movement is active
+  let engaged = false;       // WASD movement is active
   let pointerLocked = false; // true pointer-lock look (mouse always rotates)
   let dragLooking = false;   // fallback: rotate only while a mouse button is held
+  let collision = true;      // walls block movement (the guided tour turns this off)
+  let lastPointerType = 'mouse';
 
   const euler = new THREE.Euler(0, 0, 0, 'YXZ');
   const raycaster = new THREE.Raycaster();
@@ -26,8 +33,10 @@ export function createControls(camera, domElement, getCollidables) {
   const rightVec = new THREE.Vector3();
   const moveVec = new THREE.Vector3();
   const rayOrigin = new THREE.Vector3();
+  const axisDir = new THREE.Vector3();
 
   function onKeyDown(e) {
+    if (isEditable(e.target)) return;
     switch (e.code) {
       case 'KeyW': case 'ArrowUp': keys.forward = true; break;
       case 'KeyS': case 'ArrowDown': keys.back = true; break;
@@ -60,18 +69,25 @@ export function createControls(camera, domElement, getCollidables) {
     engaged = engaged || pointerLocked;
   }
   function onPointerDown(e) {
+    lastPointerType = e.pointerType || 'mouse';
     if (e.button !== 0) return;
     engaged = true;
-    if (!pointerLocked) dragLooking = true;
+    if (!pointerLocked && lastPointerType !== 'touch') dragLooking = true;
   }
   function onPointerUp() { dragLooking = false; }
 
+  function requestLock() {
+    if (lastPointerType === 'touch') return;
+    const p = domElement.requestPointerLock && domElement.requestPointerLock();
+    if (p && typeof p.catch === 'function') p.catch(() => {});
+  }
+
   domElement.addEventListener('click', () => {
     engaged = true;
-    const p = domElement.requestPointerLock();
-    if (p && typeof p.catch === 'function') p.catch(() => {});
+    requestLock();
   });
   domElement.addEventListener('pointerdown', onPointerDown);
+  document.addEventListener('pointerdown', (e) => { lastPointerType = e.pointerType || 'mouse'; }, true);
   document.addEventListener('pointerup', onPointerUp);
   document.addEventListener('pointerlockchange', onLockChange);
   document.addEventListener('keydown', onKeyDown);
@@ -87,8 +103,15 @@ export function createControls(camera, domElement, getCollidables) {
   }
 
   function tryMove(delta) {
-    if (moveVec.lengthSq() === 0) return;
-    moveVec.normalize().multiplyScalar(MOVE_SPEED * delta);
+    const len = moveVec.length();
+    if (len === 0) return;
+    if (len > 1) moveVec.divideScalar(len);
+    moveVec.multiplyScalar(MOVE_SPEED * delta);
+    if (!collision) {
+      camera.position.x += moveVec.x;
+      camera.position.z += moveVec.z;
+      return;
+    }
     const { walls } = getCollidables();
 
     // Move on each horizontal axis independently so sliding along a wall works.
@@ -97,15 +120,15 @@ export function createControls(camera, domElement, getCollidables) {
     const rayY = camera.position.y - EYE_HEIGHT + 1.2;
     if (Math.abs(moveVec.x) > 0) {
       rayOrigin.set(camera.position.x, rayY, camera.position.z);
-      const d = new THREE.Vector3(Math.sign(moveVec.x), 0, 0);
-      if (!blocked(rayOrigin, d, Math.abs(moveVec.x) + COLLIDE_RADIUS, walls)) {
+      axisDir.set(Math.sign(moveVec.x), 0, 0);
+      if (!blocked(rayOrigin, axisDir, Math.abs(moveVec.x) + COLLIDE_RADIUS, walls)) {
         camera.position.x += moveVec.x;
       }
     }
     if (Math.abs(moveVec.z) > 0) {
       rayOrigin.set(camera.position.x, rayY, camera.position.z);
-      const d = new THREE.Vector3(0, 0, Math.sign(moveVec.z));
-      if (!blocked(rayOrigin, d, Math.abs(moveVec.z) + COLLIDE_RADIUS, walls)) {
+      axisDir.set(0, 0, Math.sign(moveVec.z));
+      if (!blocked(rayOrigin, axisDir, Math.abs(moveVec.z) + COLLIDE_RADIUS, walls)) {
         camera.position.z += moveVec.z;
       }
     }
@@ -124,6 +147,17 @@ export function createControls(camera, domElement, getCollidables) {
     }
   }
 
+  // Height of the floor under (x, z), searched from nearY+up down to nearY-down. null when none.
+  function groundY(x, z, nearY, { up = 1.0, down = 4.0 } = {}) {
+    const { floors } = getCollidables();
+    if (!floors || floors.length === 0) return null;
+    rayOrigin.set(x, nearY + up, z);
+    raycaster.set(rayOrigin, DOWN);
+    raycaster.far = up + down;
+    const hits = raycaster.intersectObjects(floors, false);
+    return hits.length ? hits[0].point.y : null;
+  }
+
   function update(delta) {
     camera.getWorldDirection(forwardVec);
     forwardVec.y = 0;
@@ -135,17 +169,76 @@ export function createControls(camera, domElement, getCollidables) {
     if (keys.back) moveVec.sub(forwardVec);
     if (keys.right) moveVec.add(rightVec);
     if (keys.left) moveVec.sub(rightVec);
+    if (axis.x || axis.y) {
+      moveVec.addScaledVector(forwardVec, axis.y);
+      moveVec.addScaledVector(rightVec, axis.x);
+    }
 
     tryMove(delta);
     followFloor();
   }
 
+  // ---- look state -------------------------------------------------------------------
+  function syncLook() {
+    // Re-read yaw/pitch from the camera after something else (framing, lookAt, tour) rotated it,
+    // so the next mouse movement continues from the current view instead of snapping back.
+    euler.setFromQuaternion(camera.quaternion, 'YXZ');
+    yaw = euler.y;
+    pitch = Math.max(-Math.PI / 2 + 0.05, Math.min(Math.PI / 2 - 0.05, euler.x));
+    euler.set(pitch, yaw, 0);
+    camera.quaternion.setFromEuler(euler);
+  }
+  function setLook(y, p = 0) {
+    yaw = y;
+    pitch = Math.max(-Math.PI / 2 + 0.05, Math.min(Math.PI / 2 - 0.05, p));
+    euler.set(pitch, yaw, 0);
+    camera.quaternion.setFromEuler(euler);
+  }
+  function getLook() { return { yaw, pitch }; }
+  function lookAt(target) {
+    camera.lookAt(target);
+    syncLook();
+  }
+  function rotateBy(dx, dy) { applyLook(dx, dy); }
+
+  // ---- movement state / test hooks -------------------------------------------------
+  function setKeys(next = {}) {
+    keys.forward = !!next.forward;
+    keys.back = !!next.back;
+    keys.left = !!next.left;
+    keys.right = !!next.right;
+  }
+  function setMoveAxis(x, y) {
+    const len = Math.hypot(x, y);
+    const s = len > 1 ? 1 / len : 1;
+    axis.x = x * s;
+    axis.y = y * s;
+  }
+  function setCollision(on) { collision = !!on; }
+  function getCollision() { return collision; }
   function isLocked() { return engaged; }
+  function isPointerLocked() { return pointerLocked; }
   function setPosition(x, y, z) { camera.position.set(x, y, z); }
-  function engage() {
+
+  // Place the player: snap to the floor under the point when there is one, then look.
+  function teleport(pos, { yaw: y, pitch: p, lookAt: target } = {}) {
+    camera.position.copy(pos);
+    const g = groundY(pos.x, pos.z, pos.y - EYE_HEIGHT, { up: 1.0, down: 3.0 });
+    if (g !== null) camera.position.y = g + EYE_HEIGHT;
+    if (target) lookAt(target);
+    else if (y !== undefined) setLook(y, p || 0);
+  }
+
+  function engage({ pointerLock = true } = {}) {
     engaged = true;
-    const p = domElement.requestPointerLock();
-    if (p && typeof p.catch === 'function') p.catch(() => {});
+    if (pointerLock) requestLock();
+  }
+  function release() {
+    if (pointerLocked && document.exitPointerLock) document.exitPointerLock();
+  }
+
+  function state() {
+    return { position: camera.position.toArray(), yaw, pitch, engaged, pointerLocked, collision };
   }
 
   function dispose() {
@@ -157,5 +250,9 @@ export function createControls(camera, domElement, getCollidables) {
     domElement.removeEventListener('pointerdown', onPointerDown);
   }
 
-  return { update, isLocked, setPosition, engage, dispose, EYE_HEIGHT };
+  return {
+    update, isLocked, isPointerLocked, setPosition, engage, release, dispose, EYE_HEIGHT,
+    syncLook, setLook, getLook, lookAt, rotateBy,
+    setKeys, setMoveAxis, setCollision, getCollision, groundY, teleport, state,
+  };
 }

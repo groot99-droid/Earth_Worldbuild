@@ -65,7 +65,7 @@ function ownerName(obj) {
 }
 
 // Rooms from the floor / ceiling meshes of the model (works for v1 and v2 names).
-function collectRooms(root) {
+export function collectRooms(root) {
   const rooms = new Map();
   const box = new THREE.Box3();
   const ceilings = new Map();
@@ -101,7 +101,7 @@ function collectRooms(root) {
   return rooms;
 }
 
-function makeRoomAt(rooms) {
+export function makeRoomAt(rooms) {
   const list = [...rooms.values()];
   return function roomAt(pos, eyeHeight = EYE_HEIGHT) {
     const feet = pos.y - eyeHeight;
@@ -201,9 +201,9 @@ function fallbackAnchors(rooms) {
   return out;
 }
 
-export function createLightRig(scene, renderer, { root, eyeHeight = EYE_HEIGHT, lightGain = 1 } = {}) {
+export function createLightRig(scene, renderer, { root, eyeHeight = EYE_HEIGHT, lightGain = 1, rooms: roomsIn = null } = {}) {
   const D = LIGHT_DEFAULTS;
-  const rooms = collectRooms(root);
+  const rooms = roomsIn || collectRooms(root);
   const roomAt = makeRoomAt(rooms);
   const fx = collectFx(root, rooms, roomAt);
   const pointFx = fx.filter((a) => POINT_TYPES.has(a.type));

@@ -1,4 +1,5 @@
-"""Build _Museum/data/museum-manifest.json from Art-Talk-main artist profiles.
+"""Build _Museum/data/museum-manifest.json from Art-Talk-main artist profiles
+(and the procedural Earth Chronicle "People" wing, see build_people_wing.py).
 
 Parses each Art-Talk-main/artists/*.md frontmatter (name, lifespan, region,
 movements, discipline, works[]) plus Art-Talk-main/data/image-credits.json,
@@ -20,7 +21,9 @@ ROOT = MUSEUM.parent
 ART_TALK = ROOT / "Art-Talk-main"
 
 sys.path.insert(0, str(ROOT / "_RAG"))
+sys.path.insert(0, str(MUSEUM))
 import vault  # noqa: E402 (reused, not modified)
+import build_people_wing  # noqa: E402
 
 # Gallery grouping by birth-year order, per Art-Talk-main/TIMELINE.md.
 ROOM_PLAN = [
@@ -87,10 +90,17 @@ ROOMS = [
      "connects_to": ["gallery-c", "mezzanine"],
      "position": [70.0, -9.0, 0.05],
      "doors": {"gallery-c": [70.0, -3.0, 0.05], "mezzanine": [70.0, -3.0, 0.05]}},
+    # `spawn` is where a teleport lands (the mezzanine's centre is the stairwell void);
+    # `through` lists the walkable route between two neighbours when a straight line
+    # through the room centre is not one (here: up the stairs, around the balcony ring
+    # that the viewer adds procedurally, and out west along the upper spine).
     {"id": "mezzanine", "name": "Grand Staircase & Mezzanine", "kind": "level",
      "connects_to": ["gallery-d", "gallery-e"],
      "position": [91.0, 0.0, 7.05],
-     "doors": {"gallery-d": [84.0, 0.0, 0.05], "gallery-e": [64.0, 3.0, 7.05]}},
+     "spawn": [97.0, 0.0, 7.05],
+     "doors": {"gallery-d": [84.0, 0.0, 0.05], "gallery-e": [64.0, 3.0, 7.05]},
+     "through": {"gallery-d>gallery-e": [[84.0, 0.0, 0.05], [86.0, 0.0, 0.05], [97.0, 0.0, 7.05],
+                                        [97.0, 4.0, 7.05], [85.0, 4.0, 7.05], [83.0, 0.8, 7.05]]}},
     {"id": "gallery-e", "name": "19th-Century Movements", "era": "1800s (core)", "kind": "gallery",
      "connects_to": ["mezzanine", "gallery-f"],
      "position": [64.0, 12.0, 7.05],
@@ -172,16 +182,46 @@ def build() -> dict:
         })
     artists.sort(key=lambda a: a["order"])
 
-    return {"rooms": ROOMS, "artists": artists}
+    rooms = [dict(r) for r in ROOMS]
+    manifest = {
+        "rooms": rooms,
+        "artists": artists,
+        # Wings group rooms for the viewer's menus and give each its image base
+        # (paths in `work.image` are relative to it, from the project root).
+        "wings": [{"id": "art-talk", "name": "Art-Talk Wing", "image_base": "Art-Talk-main/",
+                   "rooms": [r["id"] for r in ROOMS]}],
+    }
+
+    # The Earth Chronicle "People" wing is procedural (no Blender): build_people_wing.py
+    # derives its rooms, entries and geometry from _Site/data/notes-person.json and the
+    # viewer builds the meshes at load time from data/people-wing.json.
+    people_wing = build_people_wing.build(rooms)
+    errors = build_people_wing.lint(people_wing, build_people_wing.load_rooms_v2(),
+                                    {w["id"] for a in artists for w in a["works"]})
+    if errors:
+        raise SystemExit("People wing lint failed:\n  " + "\n  ".join(errors))
+    stub = next(r for r in rooms if r["id"] == "future-wing-1")
+    patch = dict(people_wing["stub_patch"])
+    stub["doors"] = {**stub.get("doors", {}), **patch.pop("doors", {})}
+    stub.update(patch)
+    rooms.extend(people_wing["rooms"])
+    artists.extend(people_wing["artists"])
+    manifest["wings"].append(people_wing["wing"])
+    manifest["_people_wing"] = people_wing  # consumed by main(), not written
+    return manifest
 
 
 def main() -> None:
     manifest = build()
+    people_wing = manifest.pop("_people_wing")
     out = MUSEUM / "data" / "museum-manifest.json"
     out.write_text(json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
+    layout_out = build_people_wing.write_layout(people_wing)
     n_artists = len(manifest["artists"])
     n_works = sum(len(a["works"]) for a in manifest["artists"])
-    print(f"Wrote {out} — {n_artists} artists, {n_works} works, {len(manifest['rooms'])} rooms.")
+    print(f"Wrote {out} — {n_artists} artists, {n_works} works, {len(manifest['rooms'])} rooms, {len(manifest['wings'])} wings.")
+    print(build_people_wing.report(people_wing))
+    print(f"Wrote {layout_out} — {len(people_wing['layout']['boxes'])} boxes, {len(people_wing['layout']['hangs'])} hangs.")
     refresh_rewrite_layer()
 
 

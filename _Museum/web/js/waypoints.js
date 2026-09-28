@@ -1,52 +1,72 @@
 import * as THREE from 'three';
+import { blenderToThree } from './coords.js';
 
 const TRAIL_COLOR = 0xd9a839;
 
-// Manifest positions are authored in Blender's Z-up convention; the glTF
-// export (export_yup=True) converts Blender (x, y, z) -> (x, z, -y). Convert
-// every point pulled from the manifest before using it in the Three.js scene.
-function blenderToThree([x, y, z]) {
-  return new THREE.Vector3(x, z, -y);
+// BFS over the manifest's room graph (room.connects_to).
+export function findPath(roomsById, fromId, toId) {
+  if (!roomsById.has(fromId)) fromId = roomsById.keys().next().value;
+  if (fromId === toId) return [fromId];
+  const visited = new Set([fromId]);
+  const queue = [[fromId]];
+  while (queue.length) {
+    const path = queue.shift();
+    const last = path[path.length - 1];
+    const room = roomsById.get(last);
+    for (const n of (room && room.connects_to) || []) {
+      if (n === toId) return [...path, n];
+      if (!visited.has(n)) {
+        visited.add(n);
+        queue.push([...path, n]);
+      }
+    }
+  }
+  return [fromId, toId];
 }
 
-export function createWaypointTrail(scene, manifest) {
+// Points (three.js coords) that walk a room path without cutting through walls:
+//   start -> [A's door to B -> B's door to A] -> B's interior -> ... -> end.
+// Both doors of a shared doorway are pushed (they differ when the doorway is a
+// corridor segment, e.g. gallery-a (20,3) -> gallery-b (36,-3) along the spine).
+// Intermediate rooms contribute room.through["prev>next"] (or the reverse of
+// "next>prev") when present, nothing when they are a spine/corridor (kind 'spine'),
+// else their centre. fromPoint/toPoint replace the first/last room centres.
+export function routePoints(roomsById, roomPath, { fromPoint = null, toPoint = null } = {}) {
+  const pts = [];
+  const push = (v) => {
+    if (!pts.length || pts[pts.length - 1].distanceTo(v) > 0.05) pts.push(v);
+  };
+  for (let i = 0; i < roomPath.length; i++) {
+    const room = roomsById.get(roomPath[i]);
+    if (!room) continue;
+    const prevId = i > 0 ? roomPath[i - 1] : null;
+    const nextId = i < roomPath.length - 1 ? roomPath[i + 1] : null;
+    if (i === 0) {
+      push(fromPoint ? fromPoint.clone() : blenderToThree(room.position));
+    } else if (i === roomPath.length - 1) {
+      push(toPoint ? toPoint.clone() : blenderToThree(room.position));
+    } else {
+      const th = room.through || {};
+      const key = `${prevId}>${nextId}`;
+      const rkey = `${nextId}>${prevId}`;
+      if (th[key]) th[key].forEach((p) => push(blenderToThree(p)));
+      else if (th[rkey]) [...th[rkey]].reverse().forEach((p) => push(blenderToThree(p)));
+      else if (room.kind !== 'spine') push(blenderToThree(room.position));
+    }
+    if (nextId) {
+      const next = roomsById.get(nextId);
+      const d1 = room.doors && room.doors[nextId];
+      if (d1) push(blenderToThree(d1));
+      const d2 = next && next.doors && next.doors[roomPath[i]];
+      if (d2) push(blenderToThree(d2));
+    }
+  }
+  return pts;
+}
+
+export function createWaypointTrail(scene, manifest, camera = null) {
   const roomsById = new Map(manifest.rooms.map((r) => [r.id, r]));
   let trailMesh = null;
-
-  function findPath(fromId, toId) {
-    if (!roomsById.has(fromId)) fromId = manifest.rooms[0].id;
-    if (fromId === toId) return [fromId];
-    const visited = new Set([fromId]);
-    const queue = [[fromId]];
-    while (queue.length) {
-      const path = queue.shift();
-      const last = path[path.length - 1];
-      const room = roomsById.get(last);
-      for (const n of room.connects_to || []) {
-        if (n === toId) return [...path, n];
-        if (!visited.has(n)) {
-          visited.add(n);
-          queue.push([...path, n]);
-        }
-      }
-    }
-    return [fromId, toId];
-  }
-
-  function pointsForPath(roomPath) {
-    const pts = [];
-    for (let i = 0; i < roomPath.length; i++) {
-      const room = roomsById.get(roomPath[i]);
-      if (!room) continue;
-      pts.push(blenderToThree(room.position));
-      if (i < roomPath.length - 1) {
-        const nextId = roomPath[i + 1];
-        const doorPos = room.doors && room.doors[nextId];
-        if (doorPos) pts.push(blenderToThree(doorPos));
-      }
-    }
-    return pts;
-  }
 
   function clear() {
     if (trailMesh) {
@@ -57,10 +77,15 @@ export function createWaypointTrail(scene, manifest) {
     }
   }
 
-  function showPathTo(fromRoomId, toRoomId) {
+  function showPathTo(fromRoomId, toRoomId, fromPoint = null) {
     clear();
-    const roomPath = findPath(fromRoomId, toRoomId);
-    const pts = pointsForPath(roomPath);
+    const roomPath = findPath(roomsById, fromRoomId, toRoomId);
+    let start = fromPoint || (camera ? camera.position : null);
+    if (start) {
+      const feet = camera ? camera.position.y - 1.7 : start.y;
+      start = new THREE.Vector3(start.x, feet + 0.05, start.z);
+    }
+    const pts = routePoints(roomsById, roomPath, { fromPoint: start });
     if (pts.length < 2) return;
 
     const curve = new THREE.CatmullRomCurve3(pts, false, 'catmullrom', 0.15);
@@ -84,5 +109,5 @@ export function createWaypointTrail(scene, manifest) {
     }
   }
 
-  return { showPathTo, clear, update };
+  return { showPathTo, clear, update, hasTrail: () => trailMesh !== null, findPath: (a, b) => findPath(roomsById, a, b) };
 }
