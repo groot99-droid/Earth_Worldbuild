@@ -48,13 +48,13 @@ Loose English adaptations from the late 20th century onward made him, by some me
 --- context
 Rumi's family left the east in the years of the [[event/mongol-conquests|Mongol Conquests]], and he lived in [[region/levant-and-anatolia|Levant and Anatolia]] during the [[era/medieval-period|Medieval Period]]. See [[theme/religion-and-belief|Religion and Belief]], [[theme/language-and-writing|Language and Writing]] and [[theme/art-and-ritual|Art and Ritual]].
 --- observer
-I think of a personal loss that became a body of verse, and of a community that turned that verse into ritual, the whirling of the Mevlevi order, and then into a lineage. I see one relationship carried across centuries by sound-code and by practice both. I wonder how much later followers shaped the story of Shams and of Rumi's own life, since either way the biography cannot be called settled.
+I think of a personal loss that became a body of verse, and of a community that turned that verse into ritual, the whirling of the Mevlevi order, and then into a lineage. I see one relationship carried across centuries by sound-code and by practice both. I wonder whether a specialist could argue that later followers shaped the account of Shams and of Rumi's own life, which would weaken any reading that treats the biography as settled.
 --- question 1
 How much of the standard biography comes from accounts written by his followers after his death?
 
 === person/sacagawea
 title: Sacagawea
-src: cd6b0934d591
+src: d670ee9f8e58
 mode: essay-self-help
 observer_mode: confessional-poetry
 --- summary
@@ -70,11 +70,11 @@ Historians describe her chiefly as an interpreter and a sign of peaceful intent,
 --- fact 5
 A fur-trade clerk recorded in 1812 that Charbonneau's wife had died, but Shoshone oral tradition holds she lived until 1884 on the Wind River Reservation in Wyoming; historians disagree.
 --- fact 6
-Her name is spelled Sacagawea, Sacajawea and Sakakawea, the last from Hidatsa and favored by specialists.
+Her name is spelled Sacagawea, Sacajawea and Sakakawea, the last form drawn from Hidatsa and used in North Dakota.
 --- context
 Sacagawea lived in [[region/north-america|North America]] on the eve of the westward expansion that led to events such as [[event/indian-removal-and-the-trail-of-tears|Indian Removal and the Trail of Tears]]. See [[theme/language-and-writing|Language and Writing]] and [[theme/trade-and-economy|Trade and Economy]].
 --- observer
-I think of a teenage mother with little say over her own life, who became one of the most commemorated women in the country, while the record was written almost entirely by the men she traveled with. I remember that later suffragists made her story-glue for women's independence, a use she left no writing of her own to confirm. I wonder whether her origin or her death can be settled from what survives, and I doubt either can be told with confidence.
+I think of a teenage mother with little say over her own life, who became one of the most commemorated women in the country, while the record was written almost entirely by the men she traveled with. I remember that later suffragists made her story-glue for women's independence, a use she left no writing of her own to confirm. I wonder whether a specialist could argue that neither her origin nor her death can be settled from the documents that survive, which would weaken any confident telling of her life.
 --- question 1
 Was the woman who died in 1812 the same person as the woman buried in 1884?
 --- question 2

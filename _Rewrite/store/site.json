@@ -16144,5 +16144,268 @@
   "date": "2026-09-28",
   "observer_mode": "essay-self-help",
   "batch": "site-052.part2"
+ },
+ "person/william-morris": {
+  "src": "520a9032f997",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "William Morris, who lived from 1834 to 1896, was an English designer, writer and socialist, and the central figure of the Arts and Crafts movement. He rejected cheap mechanised ornament in favour of patterns drawn from nature and made by traditional craft methods.",
+   "facts": [
+    "Morris was born in Walthamstow in 1834, into a family that had grown wealthy through copper mining. At Oxford he met the painter Edward Burne-Jones, and, through him, the circle around Dante Gabriel Rossetti.",
+    "He built Red House between 1859 and 1860 and, unable to find furnishings he considered well made, founded a decorative arts firm in 1861 with Burne-Jones, Rossetti, Philip Webb and others. It was reorganised in 1875 as Morris & Co.",
+    "He founded the Socialist League in 1884 and wrote extensively on politics and utopian fiction. In 1891 he founded the Kelmscott Press; its illustrated Chaucer was finished only months before his death in 1896.",
+    "He designed from real plants, disciplining them into flattened repeating patterns. He revived hand block-printing, indigo-discharge dyeing, and letterpress printing from hand-cut type, choosing all three over faster industrial methods.",
+    "His principle was \"have nothing in your house that you do not know to be useful or believe to be beautiful.\" His own goods were luxuries that generally only the wealthy could afford.",
+    "Morris & Co. wallpapers and textiles, including Strawberry Thief (1883) and Willow Bough (1887), remain in production today. The Kelmscott Chaucer launched the private-press movement."
+   ],
+   "context": "Morris worked within [[region/europe|Europe]] in the [[era/industrial-age|Industrial Age]], in reaction to the [[event/industrial-revolution|Industrial Revolution]], and his machine-averse approach stands in contrast to that of [[person/christopher-dresser|Christopher Dresser]]. See [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I find a socialist whose luxury goods mostly the wealthy could buy — the record itself admits the irony — so that an ethic of honest labour ran straight through a mark of status. I find his refusal of the machine was itself a claim: that the hand-made line was the honest one.\n\nA pattern can outlive the case made for it. His still do, more than a century on.",
+   "questions": [
+    "How far did the movement he founded go on to shape later industrial design, rather than simply reacting against it?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-053.part3"
+ },
+ "person/wu-zetian": {
+  "src": "3a7ce9247b9b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Wu Zetian, who lived from 624 to 705 CE, was the only woman ever to rule China in her own name as emperor, founding the short-lived Zhou dynasty, which ran from 690 to 705.",
+   "facts": [
+    "She entered the palace as a concubine of the Tang emperor and later rose to become empress consort.",
+    "She ruled effectively for decades before finally taking the throne herself in 690.",
+    "She expanded the civil service examination system to draw talent in from beyond the aristocracy.",
+    "She gave her support to Buddhism."
+   ],
+   "context": "Wu Zetian ruled in [[region/east-asia|East Asia]] during the [[era/medieval-period|Medieval Period]], before the [[culture/song-dynasty|Song Dynasty]] made the examination system central to governance.",
+   "observer": "The Observer notes that hostile male officials wrote most of the historical record about her. How power looks on the page depends heavily on who holds the pen.",
+   "questions": [
+    "How biased are the traditional histories written about her?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-053.part3"
+ },
+ "person/xuanzang": {
+  "src": "e85ca0a33c7b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Xuanzang, who lived from 602 to 664, was a Chinese Buddhist monk who traveled overland to India from 629 to 645 in search of authentic scriptures, studied for years at the monastery of Nalanda, and returned home to translate texts and record his journey.",
+   "facts": [
+    "Xuanzang was born in 602 and ordained as a monk while still young. In 629 he left China without imperial permission, traveling west through Central Asia toward India.",
+    "He spent years studying at Nalanda, a major center of Buddhist learning, under the scholar Silabhadra, and traveled to Buddhist sites across the subcontinent.",
+    "He returned to China in 645 bearing Buddhist texts, images and relics, and the Tang court welcomed him despite his earlier unauthorized departure.",
+    "With official support he led a translation effort that produced more than a thousand fascicles of Buddhist texts, rendered from Sanskrit into Chinese.",
+    "He also wrote the Great Tang Records on the Western Regions, a travel account whose distances and descriptions later helped archaeologists locate sites, Nalanda itself among them.",
+    "Centuries later his journey was reworked into the folk novel Journey to the West, which added a fantastical cast around a lightly fictionalized version of him."
+   ],
+   "context": "Xuanzang traveled out of [[region/east-asia|East Asia]] during the [[era/medieval-period|Medieval Period]], under the [[culture/tang-dynasty|Tang Dynasty]], reaching [[place/nalanda|Nalanda]] in India. See [[theme/religion-and-belief|Religion and Belief]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "I trace one monk's disobedience of a travel ban forward sixteen years, to a body of translated texts and a travelogue precise enough to guide excavations a thousand years later — memory carried outward and made literal. I hold his own record apart from the legendary version that grew up around him in later folk fiction.\n\nWhich Xuanzang do most people actually picture: the monk who wrote, or the character a novel made of him? A specialist could argue it is the second, and that would weaken any reading of the historical monk as the man now pictured.",
+   "questions": [
+    "How much of Silabhadra's teaching, rather than Xuanzang's own synthesis, shaped the texts he brought home?",
+    "How did the Tang court's welcome square with its earlier ban on his leaving?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-053.part3"
+ },
+ "person/yaa-asantewaa": {
+  "src": "7de16c2f9b09",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Yaa Asantewaa, born about 1840 and dead in 1921, was the queen mother of Ejisu in the Asante kingdom, in present-day Ghana, who led an Asante uprising against British rule in 1900. She died in exile in the Seychelles.",
+   "facts": [
+    "Yaa Asantewaa was born about 1840 and held the title of queen mother, ohemaa, of Ejisu — a title carried by a woman who advises the ruler and helps choose him.",
+    "The British had exiled the Asante king Prempeh I in 1896. In March 1900 the governor, Frederick Hodgson, demanded the Golden Stool, the Asante symbol of national unity, so that he might sit on it himself.",
+    "According to tradition, she then urged the Asante chiefs at a council to resist, and became a leader of the uprising sometimes called the War of the Golden Stool.",
+    "Asante forces besieged the British fort at Kumasi for several months in 1900. British reinforcements relieved it, and the fighting ended that same year in a British victory.",
+    "She was captured in 1901 and exiled to the Seychelles, where she died on 17 October 1921.",
+    "The British annexed Asante in 1902 but never obtained the Golden Stool itself."
+   ],
+   "context": "Yaa Asantewaa's revolt formed part of the resistance to colonial conquest during the [[event/scramble-for-africa|Scramble for Africa]], in [[region/sub-saharan-africa|Sub-Saharan Africa]] in the [[era/industrial-age|Industrial Age]]. See [[theme/war-and-conflict|War and Conflict]], [[theme/kinship-and-society|Kinship and Society]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that the war turned on a shared object — a stool in which Asante tradition holds the nation's spirit — so that the governor's demand to sit on it was heard as a demand on the whole people's shared meaning. The queen mother's office within the web of kinship gave her the standing to call men to fight. A specialist could argue that later nationalist memory has reshaped the accounts of her council speech, which would weaken any reading that leans on the exact words she is said to have spoken.",
+   "questions": [
+    "How do Asante oral histories and British records differ on what her role in the war actually was?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-053.part3"
+ },
+ "person/yermak-timofeyevich": {
+  "src": "56809db1f35f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Yermak Timofeyevich, born about 1532 and dead in 1585, was a Cossack leader whose expedition across the Urals in 1581 and 1582 overthrew the Khanate of Sibir and opened the Russian conquest of Siberia. Little is known of his early life.",
+   "facts": [
+    "Yermak's birth year remains uncertain, though about 1532 is often given. Most accounts describe him as a Volga Cossack, and some say he was a wanted man, sought for piracy.",
+    "In 1581 he set out from the Ural lands of the Stroganov merchant family with several hundred men armed with firearms, though accounts of the year and the numbers disagree.",
+    "In 1582 his force defeated the army of Khan Kuchum of Sibir and seized the khanate's capital, Qashliq, also called Isker, on 26 October.",
+    "He sent word of the conquest to Tsar Ivan IV, who reportedly pardoned him and sent gifts in return.",
+    "Yermak died in August 1585, though some sources say 1584, in an ambush by Kuchum's forces. Tradition says he drowned in the Irtysh River, weighed down by chain mail the tsar had sent him.",
+    "Russian forts followed, among them Tyumen in 1586 and Tobolsk in 1587."
+   ],
+   "context": "Yermak's campaign began the [[event/russian-expansion-into-siberia|Russian Expansion into Siberia]] in [[region/siberia-and-the-arctic|Siberia and the Arctic]] during the [[era/early-modern-period|Early Modern Period]]. See [[theme/war-and-conflict|War and Conflict]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "The Observer notes that a few hundred armed men, working for a merchant family rather than the state directly, opened a path across a continent, and that the state simply adopted the result afterward. In Russian tradition he stands as a national hero, while for the peoples he conquered the campaign began tribute-taking and the loss of independence; both accounts can be true at once. The reading of the venture as private rather than state-directed would weaken if court records showed it had been planned in Moscow.",
+   "questions": [
+    "How much did Moscow actually direct the expedition, and how much did it merely adopt afterward?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-053.part3"
+ },
+ "person/yongle-emperor": {
+  "src": "7bf57e464e1b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Yongle Emperor, Zhu Di, who lived from 1360 to 1424, was the third emperor of China's Ming dynasty, whose reign moved the capital to Beijing and sponsored the ocean voyages of Zheng He.",
+   "facts": [
+    "He seized the throne from his nephew, the Jianwen Emperor, in a civil war that ran from 1399 to 1402, after his father, the dynasty's founder, had passed over him in the succession.",
+    "He moved the imperial capital from Nanjing to Beijing and began building the Forbidden City in 1405; most of its palaces were finished by the end of 1417, and Beijing was officially declared the principal capital in 1420.",
+    "He commissioned [[person/zheng-he|Zheng He]]'s treasure-fleet voyages: six of the seven fell within his reign, while the seventh came under the Xuande Emperor. The first of them departed in 1405, reaching as far as the coasts of East Africa and Arabia and projecting Ming naval power across the Indian Ocean.",
+    "He also sponsored the Yongle Encyclopedia, an enormous compilation of Chinese knowledge completed in 1408 that ran to more than 11,000 volumes, most of which were later lost."
+   ],
+   "context": "The Yongle Emperor ruled the [[culture/ming-dynasty|Ming Dynasty]] in [[region/east-asia|East Asia]] during the [[era/medieval-period|Medieval Period]], and his patronage of Zheng He's fleets tied Ming China directly into trade networks spanning the Indian Ocean. See [[theme/trade-and-economy|Trade and Economy]], [[theme/technology|Technology]] and [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that Yongle's successors abruptly ended the treasure fleets he sponsored within decades of his death, destroying most of their records, while the European voyages that followed half a century later, on a fraction of the scale, are remembered as the start of an age of exploration. The difference lies less in capability than in which government chose to keep looking outward.",
+   "questions": [
+    "Why did the Ming court end the treasure fleet voyages so decisively after Yongle's death, instead of simply continuing them at a reduced scale?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-053.part3"
+ },
+ "person/rosalind-franklin": {
+  "src": "523c001fef02",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Rosalind Franklin (1920 to 1958) was a British chemist whose X-ray images of DNA were crucial to the discovery of its double-helix structure.",
+   "facts": [
+    "'Photo 51', an X-ray image of DNA, was taken in 1952 by Franklin and her student Raymond Gosling.",
+    "Her data were shown to James Watson without her knowledge, and helped him and Francis Crick propose the structure in 1953.",
+    "She died of ovarian cancer at 37, four years before Watson, Crick, and Maurice Wilkins received the 1962 Nobel Prize.",
+    "She also did important work on coal and on viruses."
+   ],
+   "context": "Franklin's work underlies the [[event/genomic-revolution|Genomic Revolution]]. Compare the career of [[person/marie-curie|Marie Curie]].",
+   "observer": "I keep coming back to how credit in science is itself a social system, one that has not always distributed fairly. I remember that the record of who found what depends on who told the story. Whose hands held the evidence, and whose names got spoken first?",
+   "questions": [
+    "How much credit did Franklin receive in her lifetime?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-051.part4"
+ },
+ "person/rumi": {
+  "src": "0e3591ed9601",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Rumi (Jalal ad-Din Muhammad Rumi, 1207 to 1273) was a Persian-language poet and Sufi teacher who spent his adult life in Konya, in Anatolia. His long poem, the Masnavi, and his lyric poems are among the most widely read works of Persian literature.",
+   "facts": [
+    "Rumi was born in 1207 in Balkh or nearby Wakhsh, in present-day Afghanistan or Tajikistan, sources differing; his family moved west, and he was living in Konya, in the Seljuk Sultanate of Rum, by about 1228.",
+    "He trained as a scholar and preacher like his father, Baha ad-Din Walad, and taught in Konya.",
+    "In 1244 he met a wandering mystic, Shams of Tabriz, and their friendship changed his life and set him to writing poetry. Shams disappeared about 1248, and accounts differ, some saying he was killed and others that he simply moved on.",
+    "He wrote the Masnavi, a long poem in six books, and thousands of lyric poems collected in the Divan of Shams, mostly in Persian.",
+    "The Masnavi runs to some 25,000 to 27,000 couplets, with counts differing by source, composed over his last decade or so at the request of his disciple Husam al-Din Chalabi, who wrote the verses down as Rumi recited them; some later readers called it \"the Quran in Persian\".",
+    "Fihi Ma Fihi (\"In It What Is In It\") is a prose collection of his informal talks to disciples, valued as the clearest record of how he taught.",
+    "He died in Konya on 17 December 1273, and his followers founded the Mevlevi order, known for a ritual of whirling.",
+    "Loose English adaptations from the late 20th century onward made him, by some measures, one of the best-selling poets in the United States."
+   ],
+   "context": "Rumi's family left the east in the years of the [[event/mongol-conquests|Mongol Conquests]], and he lived in [[region/levant-and-anatolia|Levant and Anatolia]] during the [[era/medieval-period|Medieval Period]]. See [[theme/religion-and-belief|Religion and Belief]], [[theme/language-and-writing|Language and Writing]] and [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I think of a personal loss that became a body of verse, and of a community that turned that verse into ritual, the whirling of the Mevlevi order, and then into a lineage. I see one relationship carried across centuries by sound-code and by practice both. I wonder whether a specialist could argue that later followers shaped the account of Shams and of Rumi's own life, which would weaken any reading that treats the biography as settled.",
+   "questions": [
+    "How much of the standard biography comes from accounts written by his followers after his death?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-051.part4"
+ },
+ "person/sacagawea": {
+  "src": "d670ee9f8e58",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Sacagawea (about 1788 to 1812, or by another account 1884) was a young woman of disputed Shoshone or Hidatsa birth who traveled with the Lewis and Clark expedition from 1804 to 1806 as an interpreter, and later became one of the most commemorated women in the United States.",
+   "facts": [
+    "Sacagawea was born about 1788, by tradition among the Lemhi Shoshone in present-day Idaho, though some recent work argues she was born Hidatsa.",
+    "About 1800 she was taken by a Hidatsa raiding party. As a teenager she married the trader Toussaint Charbonneau, and her son Jean Baptiste was born on 11 February 1805.",
+    "Charbonneau and Sacagawea joined the Lewis and Clark expedition at Fort Mandan in 1804. In August 1805 she met her brother Cameahwait, a Shoshone leader, whose horses the party needed to cross the Rockies.",
+    "Historians describe her chiefly as an interpreter and a sign of peaceful intent, more than a guide, though she gave directions in a few places.",
+    "A fur-trade clerk recorded in 1812 that Charbonneau's wife had died, but Shoshone oral tradition holds she lived until 1884 on the Wind River Reservation in Wyoming; historians disagree.",
+    "Her name is spelled Sacagawea, Sacajawea and Sakakawea, the last form drawn from Hidatsa and used in North Dakota."
+   ],
+   "context": "Sacagawea lived in [[region/north-america|North America]] on the eve of the westward expansion that led to events such as [[event/indian-removal-and-the-trail-of-tears|Indian Removal and the Trail of Tears]]. See [[theme/language-and-writing|Language and Writing]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "I think of a teenage mother with little say over her own life, who became one of the most commemorated women in the country, while the record was written almost entirely by the men she traveled with. I remember that later suffragists made her story-glue for women's independence, a use she left no writing of her own to confirm. I wonder whether a specialist could argue that neither her origin nor her death can be settled from the documents that survive, which would weaken any confident telling of her life.",
+   "questions": [
+    "Was the woman who died in 1812 the same person as the woman buried in 1884?",
+    "What did she think of the journey, given no account in her own words survives?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-051.part4"
+ },
+ "person/saladin": {
+  "src": "260fbf01b46b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Saladin (Salah ad-Din Yusuf ibn Ayyub, about 1137 to 1193) was a Kurdish-born Muslim commander who founded the Ayyubid dynasty, ruled Egypt and much of Syria, and recaptured Jerusalem from the Crusaders in 1187.",
+   "facts": [
+    "Saladin was born about 1137 in Tikrit, in present-day Iraq, to a Kurdish family, and died in Damascus on 4 March 1193.",
+    "He rose in the service of the Zengid ruler Nur ad-Din, and became vizier of Fatimid Egypt in 1169.",
+    "In 1171 he ended the Fatimid Caliphate and restored Egypt's allegiance to the Abbasid caliph; his family, the Ayyubids, went on to rule Egypt and Syria.",
+    "After Nur ad-Din died in 1174 he took Damascus and brought much of Syria and northern Mesopotamia under his rule.",
+    "On 4 July 1187 his army destroyed a Crusader army at the Battle of Hattin. Jerusalem surrendered on 2 October 1187, and its Latin inhabitants could ransom themselves, though many who could not pay were enslaved.",
+    "In the Third Crusade he fought Richard I of England. The Treaty of Ramla, in September 1192, left the Crusaders a coastal strip and allowed Christian pilgrims to visit Jerusalem."
+   ],
+   "context": "Saladin's wars took place in [[region/levant-and-anatolia|Levant and Anatolia]] during the [[era/medieval-period|Medieval Period]]; see [[event/crusades|Crusades]]. See [[theme/war-and-conflict|War and Conflict]], [[theme/religion-and-belief|Religion and Belief]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that Jerusalem, sacred to three traditions, was taken by force in 1099 and again in 1187, with very different treatment of the defeated, and that Saladin's reputation for restraint rests largely on his own court biographers and on Crusader writers who admired it. The war against the Crusaders also served as story-glue that let him unite rival Muslim rulers under his command. A specialist could argue that the terms of 1187 reflect a negotiated surrender rather than his character, which would weaken the reading of restraint as a personal trait.",
+   "questions": [
+    "How much of his reputation for restraint comes from his own court biographers?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-051.part4"
+ },
+ "person/sappho": {
+  "src": "11bb1105ca3a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Sappho (about 630 to about 570 BCE) was a Greek lyric poet from the island of Lesbos whose songs of love, longing and ritual were collected in at least eight books, possibly nine, in antiquity. Only fragments survive, plus one complete poem.",
+   "facts": [
+    "Sappho was born about 630 BCE on Lesbos in the eastern Aegean, in Mytilene or Eresos according to ancient sources; her dates are approximate.",
+    "She composed songs in Aeolic Greek to be sung with a lyre, and the Sapphic stanza is named after her.",
+    "Ancient scholars gathered her poems in at least eight books, possibly nine. Only fragments survive, apart from one complete poem, a prayer to Aphrodite (Fragment 1).",
+    "New papyrus fragments published in 2004 and 2014 added lines, including a poem that mentions her brothers.",
+    "Many surviving poems express desire for women. Scholars debate whether her circle on Lesbos was a religious association, a school for girls, or a social group.",
+    "Ancient sources say she spent time in exile in Sicily and had a daughter, Cleis, though the biography is largely unreliable.",
+    "The words \"sapphic\" and \"lesbian\" derive from her name and her island."
+   ],
+   "context": "Sappho wrote in Greek, in the [[technology/alphabet|Alphabet]], among the [[culture/ancient-greeks|Ancient Greeks]] of the [[region/mediterranean-basin|Mediterranean Basin]] during the [[era/iron-age|Iron Age]]. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "I think of a poet copied for centuries and then largely lost, so that the Sappho I read today is a set of quotations and scraps, some of them recovered on papyri from Egyptian sites. I remember that most claims about her life come from writers centuries later, who read her poems as autobiography. What survives is never the whole of what was written, and any portrait of her reflects what later readers wanted from a story of desire and grief. New papyri could still change the picture, so I hold this one loosely.",
+   "questions": [
+    "What was the purpose of the circle of women around her?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-051.part4"
  }
 }
