@@ -187,6 +187,7 @@ The Observer treats the planet as the frame for everything else, and the species
 **Peoples and cultures**
 - [[Mal'ta and the Ancient North Eurasians]] (22 ka)
 - [[Ancestral Puebloans]] (700 CE)
+- [[Yanomami]] (1940 CE)
 
 **Places**
 - [[Jack Hills Zircons]] (4.4 Ga)

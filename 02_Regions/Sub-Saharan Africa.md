@@ -60,6 +60,7 @@ The Observer notes that the species' longest history happened here. Every non-Af
 - [[Wangari Maathai]] (1940 CE)
 
 **Peoples and cultures**
+- [[Nok Culture]] (900 BCE)
 - [[Kingdom of Aksum]] (100 CE)
 - [[Ghana Empire]] (800 CE)
 - [[Swahili Coast City-States]] (800 CE)

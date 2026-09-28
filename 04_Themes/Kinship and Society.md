@@ -203,6 +203,7 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 - [[Chinchorro Culture]] (5450 BCE)
 - [[Botai Culture]] (3700 BCE)
 - [[Yamnaya Culture]] (3300 BCE)
+- [[Tupi-Guarani]] (3000 BCE)
 - [[Sintashta Culture]] (2100 BCE)
 - [[Polynesians]] (1300 BCE)
 - [[Confucianism]] (551 BCE)
@@ -211,6 +212,7 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 - [[Marajoara Culture]] (400 CE)
 - [[Anglo-Saxons]] (450 CE)
 - [[Casarabe Culture]] (500 CE)
+- [[Holy Roman Empire]] (962 CE)
 - [[Inuit and the Thule Expansion]] (1000 CE)
 - [[Mississippian Culture]] (1000 CE)
 - [[Taino]] (1000 CE)
@@ -227,6 +229,7 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 - [[Lakota]] (1760 CE)
 - [[Hawaiian Kingdom]] (1795 CE)
 - [[Zulu Kingdom]] (1816 CE)
+- [[Yanomami]] (1940 CE)
 
 **Places**
 - [[Beringia]] (30 ka)

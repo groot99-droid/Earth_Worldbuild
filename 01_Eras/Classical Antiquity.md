@@ -68,6 +68,7 @@ The Observer notes that several distant societies, largely out of contact, devel
 - [[Zapotec Civilization]] (500 BCE)
 - [[Maurya Empire]] (322 BCE)
 - [[Nabataeans]] (312 BCE)
+- [[Ptolemaic Kingdom]] (305 BCE)
 - [[Xiongnu]] (209 BCE)
 - [[Han Dynasty]] (206 BCE)
 - [[Hopewell Tradition]] (200 BCE)

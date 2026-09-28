@@ -81,6 +81,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 3000 BCE | [[Jerusalem]] | place | [[Bronze Age]] |
 | 3000 BCE | [[Stonehenge]] | place | [[Neolithic]] |
 | 3000 BCE | [[Troy]] | place | [[Bronze Age]] |
+| 3000 BCE | [[Tupi-Guarani]] | culture | [[Neolithic]] |
 | 2900 BCE | [[Papyrus]] | technology | [[Bronze Age]] |
 | 2800 BCE to 2500 BCE | [[Gilgamesh]] | person | [[Bronze Age]] |
 | 2700 BCE | [[Calendars]] | technology | [[Bronze Age]] |
@@ -134,6 +135,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1000 BCE | [[Zoroastrianism]] | culture | [[Iron Age]] |
 | 911 BCE to 609 BCE | [[Neo-Assyrian Empire]] | culture | [[Iron Age]] |
 | 900 BCE to 250 BCE | [[Chavín Culture]] | culture | [[Iron Age]] |
+| 900 BCE to 1 CE | [[Nok Culture]] | culture | [[Iron Age]] |
 | 900 BCE to 200 BCE | [[Scythians]] | culture | [[Iron Age]] |
 | 814 BCE to 146 BCE | [[Carthage]] | place | [[Iron Age]] |
 | 814 BCE to 760 BCE | [[Dido]] | person | [[Iron Age]] |
@@ -189,6 +191,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 322 BCE to 185 BCE | [[Maurya Empire]] | culture | [[Classical Antiquity]] |
 | 312 BCE to 106 CE | [[Nabataeans]] | culture | [[Classical Antiquity]] |
 | 312 BCE | [[Petra]] | place | [[Classical Antiquity]] |
+| 305 BCE to 30 BCE | [[Ptolemaic Kingdom]] | culture | [[Classical Antiquity]] |
 | 304 BCE to 232 BCE | [[Ashoka]] | person | [[Classical Antiquity]] |
 | 300 BCE | [[Crucible Steel]] | technology | [[Classical Antiquity]] |
 | 300 BCE | [[Shinto]] | culture | [[Iron Age]] |
@@ -250,6 +253,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 450 CE to 1066 CE | [[Anglo-Saxons]] | culture | [[Medieval Period]] |
 | 476 CE | [[Fall of the Western Roman Empire]] | event | [[Classical Antiquity]] |
 | 500 CE to 1400 CE | [[Casarabe Culture]] | culture | [[Medieval Period]] |
+| 500 CE to 1365 CE | [[Kingdom of Makuria]] | culture | [[Medieval Period]] |
 | 500 CE | [[Mecca]] | place | [[Medieval Period]] |
 | 500 CE | [[Venice]] | place | [[Medieval Period]] |
 | 550 CE to 1300 CE | [[Mesa Verde]] | place | [[Medieval Period]] |
@@ -294,14 +298,17 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 850 CE to 1150 CE | [[Chaco Canyon]] | place | [[Medieval Period]] |
 | 850 CE to 1279 CE | [[Chola Dynasty]] | culture | [[Medieval Period]] |
 | 850 CE | [[Gunpowder]] | technology | [[Medieval Period]] |
+| 882 CE to 1240 CE | [[Kievan Rus]] | culture | [[Medieval Period]] |
 | 900 CE to 1893 CE | [[Kanem-Bornu Empire]] | culture | [[Medieval Period]] |
 | 900 CE to 1100 CE | [[Kupe]] | person | [[Medieval Period]] |
 | 900 CE to 1628 CE | [[Nan Madol]] | place | [[Medieval Period]] |
 | 900 CE | [[Windmill]] | technology | [[Medieval Period]] |
 | 911 CE to 1194 CE | [[Normans]] | culture | [[Medieval Period]] |
 | 927 CE | [[Astrolabe]] | technology | [[Medieval Period]] |
+| 950 CE to 1500 CE | [[Tui Tonga Empire]] | culture | [[Medieval Period]] |
 | 958 CE to 1025 CE | [[Basil II]] | person | [[Medieval Period]] |
 | 960 CE to 1279 CE | [[Song Dynasty]] | culture | [[Medieval Period]] |
+| 962 CE to 1806 CE | [[Holy Roman Empire]] | culture | [[Medieval Period]] |
 | 973 CE to 1048 CE | [[Al-Biruni]] | person | [[Medieval Period]] |
 | 973 CE to 1014 CE | [[Murasaki Shikibu]] | person | [[Medieval Period]] |
 | 980 CE to 1037 CE | [[Ibn Sina]] | person | [[Medieval Period]] |
@@ -618,6 +625,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1939 CE to 1945 CE | [[World War II]] | event | [[Industrial Age]] |
 | 1940 CE to 1945 CE | [[Auschwitz-Birkenau]] | place | [[Industrial Age]] |
 | 1940 CE to 2011 CE | [[Wangari Maathai]] | person | [[Information Age]] |
+| 1940 CE | [[Yanomami]] | culture | [[Industrial Age]] |
 | 1943 CE to 1944 CE | [[Bengal Famine of 1943]] | event | [[Industrial Age]] |
 | 1944 CE to 1988 CE | [[Chico Mendes]] | person | [[Information Age]] |
 | 1944 CE to 1970 CE | [[Green Revolution]] | event | [[Information Age]] |
