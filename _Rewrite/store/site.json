@@ -8224,5 +8224,325 @@
   "date": "2026-09-28",
   "observer_mode": "confessional-poetry",
   "batch": "site-039.part5"
+ },
+ "event/earliest-continental-crust": {
+  "src": "59b5945ccf72",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The earliest continental crust was the young world's first raft of stone light enough to ride above the sea — a granite-kin skin, buoyant against the ocean floor's darker basalt. It may have formed before 4.0 billion years ago, but the crust of that age has almost entirely been swallowed back into the mantle's slow currents, leaving its extent and timing as uncertain as a shoreline erased by tide.",
+   "facts": [
+    "Some readers of the rock hear, in the chemistry of the Jack Hills zircons, grains up to about 4.4 billion years old, an echo of granite-like magmas — a sign, they argue, of crust already evolved from the world's first stone; others hear no such echo and dispute the reading. See [[place/jack-hills-zircons|Jack Hills Zircons]].",
+    "In northwestern Canada the Acasta Gneiss, some 4.0 billion years old, stands as the oldest intact body of rock the world still holds. Some studies would set stones of the Nuvvuagittuq belt in Quebec older still, as much as about 4.3 billion years, but that great age is disputed.",
+    "Continental crust is lighter than the crust beneath the seas, born of the partial melting of older stone, and because it floats, it escapes the mantle's slow recycling far longer than the ocean floor ever does.",
+    "How swiftly the continents grew remains debated: some models hold that most of today's crust already stood by about 3 billion years ago, while others favor a slower, more patient rise."
+   ],
+   "context": "The earliest continental crust belongs to the [[era/hadean-eon|Hadean Eon]] and carries forward into the [[era/archean-eon|Archean Eon]], when the first stable cores of continent took shape. It is bound to the [[event/formation-of-the-oceans|Formation of the Oceans]] and to the still-open question of the [[event/onset-of-plate-tectonics|Onset of Plate Tectonics]]. It belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "You inherit this history almost entirely through survivors: tiny zircon grains that outlasted billions of years of the planet's own recycling. Think of an archive that kept only its smallest, hardest fragments — the first half billion years of the record is thin by nature, not by absence of an event. An empty ledger is not proof of an empty world. The Observer holds this reading loosely: it would weaken if new rock, older and more complete, told a different story.",
+   "questions": [
+    "How much continental crust existed during the Hadean Eon?",
+    "Do the oldest claimed rock ages, such as those from Nuvvuagittuq, truly hold?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part1"
+ },
+ "event/early-hominin-dispersals-from-africa": {
+  "src": "90d7376a2d67",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Hominins first stepped beyond Africa's borders between about 2.1 and 1.8 million years ago, and in the million years that followed they spread across Eurasia in wave after wave. The oldest hominin bones found outside Africa lie at Dmanisi in Georgia, some 1.85 to 1.78 million years old, while stone tools from the Loess Plateau of China reach back about 2.1 million years.",
+   "facts": [
+    "Dmanisi has given up five well-preserved skulls and many bones of the body, dated to about 1.85 to 1.77 million years ago, alongside simple, Oldowan-style tools of stone.",
+    "Those skulls carried small brains, cupping about 546 to 775 cubic centimeters. A 2013 study argued that their variation fits within a single population, casting doubt on the notion of separate early Homo species.",
+    "At Shangchen on the Chinese Loess Plateau, stone tools date from about 2.1 to 1.3 million years ago, yet no hominin bones were ever found beside them, so the hands that shaped them remain unnamed.",
+    "Homo erectus walked Java by about 1.5 to 1.3 million years ago, and hominins had reached Spain by about 1.4 to 1.2 million years ago and England by about 0.9 million years ago.",
+    "Whether the first to leave were truly Homo erectus is debated; the small brains and simple tools at Dmanisi suggest the dispersal began before that form became typical."
+   ],
+   "context": "The early dispersals follow the [[event/emergence-of-the-genus-homo|Emergence of the Genus Homo]] and the making of the [[technology/oldowan-stone-tools|Oldowan Stone Tools]], and they belong to the [[era/lower-paleolithic|Lower Paleolithic]]. Their central figure is [[species/homo-erectus|Homo erectus]]. On Flores, [[species/homo-floresiensis|Homo floresiensis]] may descend from one of these early dispersals, though its ancestry is debated. Later movements out of Africa are a separate chapter; see [[event/out-of-africa-dispersal|Out of Africa Dispersal]]. See also [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/technology|Technology]].",
+   "observer": "Consider what the Dmanisi evidence tells you: hominins with small brains and simple tools had already crossed a continent, which suggests that leaving Africa never required the large brain later humans would carry. Read this way, dispersal becomes an old architecture repeating itself — a lineage's habit of pushing into new ground, and the species' own later spread is only its most recent instance. The Observer holds the reading loosely: it would weaken if the Dmanisi hominins proved an isolated dead end, a branch that went nowhere.",
+   "questions": [
+    "Who shaped the 2.1-million-year-old stone tools found at Shangchen?",
+    "Did the first hominins to leave Africa belong to Homo erectus, or to some earlier form?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part1"
+ },
+ "event/emergence-of-symbolic-art": {
+  "src": "8f82c1471115",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Symbolic behavior — ochre carved with pattern, beads strung and worn, paintings laid on stone — enters the record of the deep past from about 100,000 years onward, like the first faint light before a long dawn.",
+   "facts": [
+    "At Blombos Cave in South Africa, engraved ochre carries markings dated to about 75,000 to 100,000 years ago.",
+    "In the caves of Sulawesi, Indonesia, a painting of a warty pig stands at least 45,500 years old, and narrative scenes reported in 2024 reach back at least 51,200 years.",
+    "The European painted walls of Chauvet and Lascaux date to about 36,000 and 17,000 years ago.",
+    "Some evidence suggests that the Neanderthals, too, shaped objects touched with symbol, though the claim remains debated."
+   ],
+   "context": "Symbolic art belongs to the [[era/paleolithic|Paleolithic]] and likely walks hand in hand with the spread of language and belief; see [[theme/language-and-writing|Language and Writing]] and [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I read this as the first clear sign: a species that lives partly in worlds it only imagines. I see a painted animal on a wall, ochre pressed into stone, a bead strung and carried — and I ask what kind of mind needs a picture to stand for something no longer there. A shape can hold an absence. That is the whole of it.",
+   "questions": [
+    "Was the origin of symbolic behavior gradual, or did it arrive all at once?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-041.part1"
+ },
+ "event/last-glacial-maximum": {
+  "src": "2e2ad842c679",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Last Glacial Maximum was the latest hour in which the world's ice sheets stood at their widest reach, a cold and lasting reign that held from about 26,500 to 19,000 years ago.",
+   "facts": [
+    "At its lowest ebb, the sea stood about 134 meters beneath its present shore, according to a 2014 global reconstruction.",
+    "Great sheets of ice lay heavy over much of northern North America and Europe.",
+    "Where the seas withdrew, dry land rose to join Siberia to Alaska — the bridge called Beringia — and to knit New Guinea to Australia.",
+    "In some lands, human peoples withdrew into refuges; in others, they bent and endured."
+   ],
+   "context": "This age of ice sits within the [[era/pleistocene-epoch|Pleistocene Epoch]], just before the great thaw that opens the [[era/holocene-epoch|Holocene Epoch]], and its cold shaped the [[event/peopling-of-the-americas|Peopling of the Americas]].",
+   "observer": "The Observer reads this as the species' bottleneck: the coldest, driest chapter of its history, arriving just before the warm stability that let farming and cities take root.",
+   "questions": [
+    "By what means did human folk endure that long winter, region by region?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part1"
+ },
+ "event/late-devonian-extinction": {
+  "src": "73a4be58332e",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "The Late Devonian extinction was no single blow. Over a long, grinding stretch — about 372 to 359 million years ago — life in the seas thinned out. The reef builders took the worst of it.",
+   "facts": [
+    "Two pulses, at least. Kellwasser first. Hangenberg after.",
+    "Around 75 percent of species, gone. That is the estimate.",
+    "Proposed causes: ocean anoxia. Climate change. And land plants, newly spread, changing what fed the water."
+   ],
+   "context": "This belongs to the [[era/paleozoic-era|Paleozoic Era]]. It comes after the forests rose. See [[event/colonization-of-land|Colonization of Land]].",
+   "observer": "The Observer treats this as a caution: the spread of one group, land plants, stands as a candidate cause of the extinction. Success, left unchecked, can destabilize the very architecture that supports it.",
+   "questions": [
+    "How much of this did the plants cause?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part1"
+ },
+ "event/late-heavy-bombardment": {
+  "src": "52d8480da0b5",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "The Late Heavy Bombardment: a hypothesized spike, asteroids battering the inner Solar System, roughly 4.1 to 3.8 billion years ago. The evidence comes mostly from lunar rock — radiometric ages, read like scars.",
+   "facts": [
+    "The hypothesis started with Apollo-era rock: impact-melt ages, clustering near 3.8 to 3.9 billion years. A pattern in the numbers.",
+    "Some researchers argue otherwise: the cluster is sampling bias, a few huge basin impacts, not a true surge across the whole Solar System.",
+    "The Moon kept its scars. Earth did not — its earliest crust ground away by plate tectonics, worn down by erosion.",
+    "Some models — the Nice model among them — propose that a shift in the giant planets' orbits could have triggered such a surge.",
+    "Whether it happened at all. Whether it would have sterilized early life. Both remain debated."
+   ],
+   "context": "If it truly happened, the Late Heavy Bombardment falls at the close of the [[era/hadean-eon|Hadean Eon]], overlapping the earliest evidence for life — which bears on the [[event/origin-of-life|Origin of Life]]. It follows the [[event/theia-impact-and-the-formation-of-the-moon|Theia Impact and the Formation of the Moon]] and the [[event/formation-of-the-solar-system-and-earth|Formation of the Solar System and Earth]]. It sits within the [[era/hadean-eon|Hadean Eon]], across the [[region/planet-wide|Planet-wide]] region, in the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that Earth's first chapter survives mostly as another world's scars: the Moon holds the record that Earth's own architecture erased. Here is a history-keeping species piecing together its planet's beginning from its neighbor's surface. The reading would weaken if that impact-age cluster proved to be a sampling artifact.",
+   "questions": [
+    "Was this a sudden spike, or only a long, declining tail of accretion?",
+    "Could life have survived the peak of it, or even arisen there?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part1"
+ },
+ "event/late-ordovician-extinction": {
+  "src": "7c5ff1ddff67",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "The Late Ordovician extinction — about 445 to 443 million years ago — was first. First of the 'Big Five.' It erased an estimated 85 to 86 percent of species, most of them from the sea.",
+   "facts": [
+    "Two pulses. That is how it came.",
+    "Glaciation. Falling seas. These lead the list of proposed causes. Then rising seas again, and ocean anoxia close behind.",
+    "The sea took the worst of it. Almost everything still lived there, back then."
+   ],
+   "context": "This is one of the [[era/paleozoic-era|Paleozoic Era]]'s extinctions — one of the five, the 'Big Five.'",
+   "observer": "The Observer counts mass extinctions among the planet's oldest editing processes: each one strips away most of a biosphere, and the survivors inherit the room to expand.",
+   "questions": [
+    "What mix of forces caused the two pulses, stacked one after the other?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part1"
+ },
+ "event/latin-american-wars-of-independence": {
+  "src": "ee949a542aa1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Between about 1808 and 1826, the Latin American wars of independence dismantled Spanish rule across most of the Americas and raised in its place a series of new republics.",
+   "facts": [
+    "These wars followed Napoleon's invasion of Spain in 1808, an event that weakened Spanish authority and set off a crisis across the empire — though it was not their only cause.",
+    "Simón Bolívar and José de San Martín met at Guayaquil on 26 and 27 July 1822. On how the new states should be governed, the two could not agree, and San Martín then withdrew from the campaigns.",
+    "At Ayacucho, on 9 December 1824, Antonio José de Sucre's victory ended effective Spanish resistance in South America.",
+    "Bolívar's Gran Colombia was proclaimed in December 1819, spanning what is now Venezuela, Colombia, Panama, and Ecuador. About a decade later, in 1830 and 1831, it dissolved into Venezuela, Ecuador, and New Granada."
+   ],
+   "context": "These wars belong to the wider [[event/age-of-revolutions|Age of Revolutions]], with the [[event/haitian-revolution|Haitian Revolution]] as an earlier instance of the same pattern. See [[person/simon-bolivar|Simón Bolívar]].",
+   "observer": "The Observer notes that independence in Latin America was won largely by colonial elites, and that much of the colonial era's architecture of hierarchy outlasted the mere change of flags.",
+   "questions": [
+    "How far did independence actually change the position of Indigenous people and of those enslaved?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part1"
+ },
+ "event/manila-galleon-trade": {
+  "src": "04da3121c350",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "From 1565 to 1815, Spanish galleons crossed each year between Manila and Acapulco, carrying Chinese goods to the Americas and American silver to Asia — the first regular trans-Pacific trade the world had seen.",
+   "facts": [
+    "It was Andres de Urdaneta who found the return route across the North Pacific, in 1565.",
+    "At Manila, the exchange happened: Chinese merchants sold silk and porcelain there, for silver.",
+    "Silver flowed to China from the Americas — much of it out of Potosi.",
+    "From Acapulco the goods went overland across Mexico, then were reshipped on to Spain.",
+    "When Mexico won its independence, the trade came to an end."
+   ],
+   "context": "This route tied the economy of the [[culture/ming-dynasty|Ming Dynasty]] to Spanish American silver out of [[place/potosi|Potosi]], part of the wider [[event/columbian-exchange|Columbian Exchange]]. It sits within the [[era/early-modern-period|Early Modern Period]] and the region of [[region/southeast-asia|Southeast Asia]], within the theme thread of [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "The Observer notes a metal, dug from mountains in the Andes, carried clear across an ocean to pay for silk in China — tying together two peoples who never once dealt with each other directly. The exchange-web, by then, had become planetary.",
+   "questions": [
+    "How much of Ming China's silver actually came from the Americas?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part1"
+ },
+ "event/bronze-age-collapse": {
+  "src": "3a409052ddf4",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "Around 1200 BCE, the eastern Mediterranean and the Near East came apart. State after state, within a few decades. The palace economies of the Late Bronze Age did not slow. They stopped.",
+   "facts": [
+    "The Hittite Empire fell. Mycenaean palaces were destroyed. Ugarit burned.",
+    "Egyptian inscriptions record attacks by the 'Sea Peoples', around 1177 BCE.",
+    "Proposed causes: drought. Earthquakes. Migrations. The breakdown of trade networks.",
+    "Egypt survived. But weakened."
+   ],
+   "context": "The [[era/bronze-age|Bronze Age]] ends here. The [[era/iron-age|Iron Age]] follows. The [[culture/minoans|Minoans]]' successors did not escape it. Neither did the Aegean world.",
+   "observer": "The Observer reads the Bronze Age collapse as a lesson in architecture: when many states lean on the same trade routes and the same diplomatic ties, that structure can fail all at once rather than state by state. History keeps returning to this lesson, era after era.",
+   "questions": [
+    "Which factor mattered most?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part1"
+ },
+ "event/blling-allerd-warming": {
+  "src": "41c31808cb2d",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The world warmed like a held breath released: the Bølling-Allerød was an abrupt warm interval that began about 14,700 years ago and lasted until about 12,900 years ago, the first great thaw after the Last Glacial Maximum. It ended as swiftly as it came, giving way to the cold that took the name Younger Dryas.",
+   "facts": [
+    "The warm interval ran from about 14,700 to 12,900 years ago, rising out of the Oldest Dryas, the last cold stage in the long retreat from the Last Glacial Maximum.",
+    "In the north the warming came on abrupt and strong; in the south, the same years brought a slight cooling, a pattern later seen again in other sudden swings of climate.",
+    "Boreal forest and birch woodland crept across Western Europe and the North European Plain, over Doggerland itself, and the tundra retreated before them.",
+    "Within this interval the ice itself gave way: a pulse of rapid sea-level rise called Meltwater Pulse 1A began as the Laurentide and Eurasian ice sheets shed their mass quickly, raising the seas by roughly 10 to 20 meters over a few centuries.",
+    "The interval broke once, briefly: the Older Dryas, a cold spell of one to two centuries whose signal is strongest in northern Europe, and scholars still debate whether it touched the whole world or only a region of it.",
+    "It closed as abruptly as it opened, with the onset of the [[event/younger-dryas|Younger Dryas]], a cold spell that held until about 11,700 years ago, when the Holocene began."
+   ],
+   "context": "The Bølling-Allerød lies within the [[era/pleistocene-epoch|Pleistocene Epoch]], after the [[event/last-glacial-maximum|Last Glacial Maximum]] and before the [[event/younger-dryas|Younger Dryas]] and the dawn of the [[era/holocene-epoch|Holocene Epoch]]. See [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that the climate you inherited did not warm the way a room warms: a sharp rise, then a cold interruption lasting a century, then a second abrupt swing back toward near-glacial cold, all inside about three thousand years. The steadiness that later made farming and cities possible had to wait for these swings to end. This reading would weaken if closer dating showed the Older Dryas was only a local signal, without wider reach.",
+   "questions": [
+    "Was the Older Dryas a global cooling event, or only a regional one?",
+    "Which ice sheet contributed most to Meltwater Pulse 1A?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part1"
+ },
+ "event/cambrian-explosion": {
+  "src": "fe783ed5d992",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "In a span the fossil record reads as a heartbeat, roughly 13 to 25 million years beginning 538.8 million years ago, the Cambrian Explosion brought forth most of the major animal body plans that would ever appear.",
+   "facts": [
+    "Creatures armored themselves: shells and exoskeletons appearing widely among the animals of the age.",
+    "The Burgess Shale in Canada and Chengjiang in China are the famous windows into this menagerie.",
+    "Yet the Ediacaran came before, its precursors showing that animals already existed before the Cambrian dawned.",
+    "Oxygen's rise, an arms race between predator and prey, and the deep grammar of developmental genetics are all named among the possible causes."
+   ],
+   "context": "The event defines the base of the [[era/paleozoic-era|Paleozoic Era]]. Its signature animals include the [[species/trilobites|Trilobites]].",
+   "observer": "The Observer reads this as a burst of experimentation with body design, followed by a long conservatism that has held ever since. Innovation seems to arrive in clusters, and its aftermath clusters too.",
+   "questions": [
+    "Is the 'explosion' partly a trick of what the fossil record happened to preserve?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part1"
+ },
+ "event/campanian-ignimbrite-eruption": {
+  "src": "26f30ebec050",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "Near Naples, Italy, the Campi Flegrei caldera let go. About 39,850 years ago. The Campanian Ignimbrite eruption — the largest explosive blast Europe had seen in roughly the last 200,000 years. Its ash reached the Mediterranean. It reached Eastern Europe. Its role in the Neanderthal decline around the same time is debated.",
+   "facts": [
+    "A 2017 study fixed the date. Radiocarbon. Argon. A synchronized varve chronology, layer counted against layer. The eruption: about 39,850 years ago. Precise.",
+    "Roughly 181 to 265 cubic kilometers of magma. A Volcanic Explosivity Index of 7. The largest eruption Europe had produced in about 200,000 years.",
+    "Its ash — the Y-5 layer — spread over about 3 million square kilometers. It still marks time in sediment cores, from the Mediterranean to the Russian Plain.",
+    "It fell close to the onset of Heinrich Event 4, a severe cold phase. But the ash postdates that onset — by roughly 700 to 800 years. The simple story, eruption triggers cooling, does not hold cleanly.",
+    "Climate models found the cooling and the acid deposition lasted only one to two years. And the worst of the cold largely missed Western Europe — the ground where the last Neanderthal populations still lived.",
+    "At several Italian sites, modern-human-associated stone tools appear stratigraphically before the ash layer. Some recalibrated Neanderthal extinction dates predate the eruption, too. Still, some researchers argue it shaped cultural change further east, where the modeled cooling was stronger."
+   ],
+   "context": "It falls within the [[era/paleolithic|Paleolithic]], near the start of the [[era/upper-paleolithic|Upper Paleolithic]]. It is often discussed alongside the [[event/neanderthal-extinction|Neanderthal Extinction]] and the decline of [[species/homo-neanderthalensis|Homo neanderthalensis]] — though a direct link is contested. See [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer names this pairing — a great eruption beside a Neanderthal decline near it in time — an old temptation: reach for one dramatic cause to explain a slow disappearance. The dating and the modeling done since have mostly weakened that story rather than confirmed it, and the Observer reads that as a caution against single-cause explanations for extinctions generally. This reading would weaken if new modeling showed that the strongest cooling did, after all, reach the last Neanderthal populations.",
+   "questions": [
+    "Did the eruption meaningfully affect Neanderthal populations anywhere, even where its coldest effects missed the west?",
+    "How exactly does its timing relate to the onset of Heinrich Event 4?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part1"
+ },
+ "event/carboniferous-coal-forests": {
+  "src": "2d1da0273c7d",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "In the wet tropical lowlands of the later Carboniferous, roughly 323 to 299 million years ago, swamp forests rose and rotted and rose again, and their buried remains became much of the world's coal.",
+   "facts": [
+    "They grew chiefly across the lowlands of the northern continent of Euramerica and in parts of China: club-mosses grown tall as trees, among them Lepidodendron, alongside tree ferns, giant horsetails, and the first conifers.",
+    "The sea rose and fell again and again, bound to the Late Paleozoic Ice Age, drowning the swamps and baring them once more, and layering coal seam upon coal seam.",
+    "At Joggins in Nova Scotia, hollow fossil tree stumps still hold the remains of early amphibians and reptiles within them.",
+    "The burial of so much plant carbon lowered the air's carbon dioxide and probably raised its oxygen. Long after, coal drawn from these very rocks fuelled the [[event/industrial-revolution|Industrial Revolution]] in Britain and other regions.",
+    "About 305 million years ago the wet tropical forests broke apart into isolated patches as the climate turned drier and cooler — an event linked to declines among amphibians and the rise of reptiles."
+   ],
+   "context": "These forests follow the [[event/devonian-forests-and-the-rise-of-trees|Devonian Forests and the Rise of Trees]] and belong to the [[era/carboniferous-period|Carboniferous Period]]. Their end coincides with the [[event/assembly-of-pangaea|Assembly of Pangaea]]. The event belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer marks a difference in rates: these forests stored their carbon across tens of millions of years, and you have burned much of it back out in a few centuries. This reading concerns rates alone, and it would not change no matter how the debate over why so much coal formed here is settled.",
+   "questions": [
+    "Why did so much coal accumulate in this period and not in others?",
+    "What caused the collapse of the tropical forests about 305 million years ago?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-040.part1"
  }
 }
