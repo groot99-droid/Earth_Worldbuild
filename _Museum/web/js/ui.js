@@ -89,12 +89,33 @@ export function createUI({ manifest, manifestIndex, controls, interactions, hud,
   };
   mk('Map', 'Floor plan (M)', () => hud.toggleMap());
   mk('Go to', 'Artists and works (Tab)', () => navigate.toggle());
-  const tourBtn = mk('Tour', 'Guided tour', () => { if (tour.active()) tour.stop(); else tour.start(); });
+  const tourBtn = mk('Tour', 'Guided tour', () => { if (tour.active()) tour.stop(); else tour.start({ works: tourWorks() }); });
   mk('?', 'Help (?)', toggleHelp);
   document.body.appendChild(hudButtons);
 
   // ---- blocker buttons --------------------------------------------------------------------
-  if (btnTour) btnTour.addEventListener('click', (e) => { e.stopPropagation(); tour.start(); });
+  const tourWing = document.getElementById('tour-wing');
+  if (tourWing) {
+    tourWing.innerHTML = '';
+    const all = document.createElement('option');
+    all.value = '';
+    all.textContent = 'whole museum';
+    tourWing.appendChild(all);
+    if (manifestIndex.wings.length > 1) {
+      for (const w of manifestIndex.wings) {
+        const o = document.createElement('option');
+        o.value = w.id;
+        o.textContent = w.name || w.id;
+        tourWing.appendChild(o);
+      }
+    } else tourWing.hidden = true;
+    tourWing.addEventListener('click', (e) => e.stopPropagation());
+  }
+  function tourWorks() {
+    const id = tourWing ? tourWing.value : '';
+    return id ? manifestIndex.flatWorks.filter((e) => e.wing === id) : manifestIndex.flatWorks;
+  }
+  if (btnTour) btnTour.addEventListener('click', (e) => { e.stopPropagation(); tour.start({ works: tourWorks() }); });
   if (btnResume) {
     btnResume.hidden = !(persist && persist.hasSave());
     btnResume.addEventListener('click', (e) => {

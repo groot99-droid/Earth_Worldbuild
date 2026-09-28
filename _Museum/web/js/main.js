@@ -15,6 +15,7 @@ import { createTour } from './tour.js';
 import { createUI } from './ui.js';
 import { createTouchControls } from './touch.js';
 import { createPersist } from './persist.js';
+import { buildProceduralWing } from './procwing.js';
 
 const MANIFEST_URL = '../data/museum-manifest.json';
 const MODEL_URL = '../export/museum.gltf';
@@ -116,6 +117,7 @@ async function main() {
   // collision, floor-following, materials, lights and placards treat it like exported geometry.
   const geoFactory = createGeoFactory(gltf.scene);
   if (!RENDER_OPTS.nopatch) applyMezzaninePatch(geoFactory);
+  const procwing = RENDER_OPTS.wing ? await buildProceduralWing(manifest, gltf.scene, { camera, renderer }) : null; // ?wing=0 skips it
   gltf.scene.updateMatrixWorld(true);
 
   gltf.scene.traverse((obj) => {
@@ -216,6 +218,7 @@ async function main() {
     hud.update(delta);
     persist.tick(delta);
     ui.update(delta);
+    if (procwing) procwing.update(delta);
 
     const currentRoomId = getCurrentRoomId();
     if (currentRoomId !== lastRoomId) {
@@ -280,7 +283,7 @@ async function main() {
   window.museumDebug = {
     THREE, camera, scene, wallMeshes, floorMeshes, artMeshes, manifest, manifestIndex, roomsById,
     rooms: geoRooms, roomAt, controls, renderer, pipeline, lights, renderOnce, renderOptions: RENDER_OPTS,
-    materialStats, modelUrl, interactions, waypointTrail, geoFactory, hud, navigate, tour, persist, ui, touch,
+    materialStats, modelUrl, interactions, waypointTrail, geoFactory, hud, navigate, tour, persist, ui, touch, procwing,
     simulate, frame, step, snapshot, probeArt, setAutoLoop, getCurrentRoomId, enter,
     setView: (name) => debug.setView(name).then((ok) => { renderOnce(); return ok; }),
     applyFraming: (f) => { applyFraming(camera, f); controls.syncLook(); if (lights) lights.update(camera, 0, true); renderOnce(); },

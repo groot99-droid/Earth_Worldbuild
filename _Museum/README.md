@@ -1,16 +1,17 @@
 # The Chronicle Museum
 
 A walkable 3D museum built in Blender and exported to a Three.js web viewer.
-The first wing (**Art-Talk**: 53 artists, 299 works, 973–1968) is built and
-populated. This doc explains how the pipeline works, what the walkthrough offers,
-how it is tested, and how to add the next wing without rebuilding anything that
-already exists.
+Two wings are open: **Art-Talk** (53 artists, 299 works, 973–1968, built in
+Blender) and **Earth Chronicle People** (203 people, 387 portraits, generated
+procedurally in the viewer). This doc explains how the pipeline works, what the
+walkthrough offers, how it is tested, and how to add another wing without
+rebuilding anything that already exists.
 
 ## How to view it
 
 1. Start a static file server rooted at the **project root** (not `_Museum/`
    itself — the web app reads `../../Art-Talk-main/` and `../../_Site/` for
-   full-resolution placard images). The repo already has a launch config for this:
+   placard images and portrait textures). The repo already has a launch config for this:
    ```
    python -m http.server 8767
    ```
@@ -44,7 +45,8 @@ room) and **Teleport**.
 ### URL flags
 
 `?room=<room-id>` and `?work=<work-id>` open the museum at that place (skipping
-the entrance screen); `?resume=1` restores the last saved position. Look-dev
+the entrance screen); `?resume=1` restores the last saved position; `?wing=0`
+leaves the People wing out. Look-dev
 flags: `?classic` (v1 look: no tone mapping / bloom / shadows), `?exposure=`,
 `?bloom=`, `?env=`, `?lights=`, `?shadows=0`, `?debug` (overlay), `?view=<framing>`
 (a camera from `blender/scripts/framings.json`), `?tourDwell=<s>`, `?nopatch`
@@ -97,6 +99,7 @@ corridors: routes pass door to door without visiting their centre.
 | `waypoints.js` | room-graph BFS, `routePoints` (door-to-door routing), the glowing trail |
 | `artgeom.js` | art plane centre / facing / viewing spot (works for glTF and procedural planes) |
 | `procgeo.js` | Blender-extent box factory for procedural geometry; the mezzanine balcony patch |
+| `procwing.js` | the People wing: boxes and portrait planes from `data/people-wing.json`, texture streaming |
 | `hud.js` | minimap and large floor plan, room teleports |
 | `navigate.js` | the "Go to" panel |
 | `tour.js` | guided tour path building and motion |
@@ -156,18 +159,57 @@ of the stairs never met the upper spine hall; the viewer adds the balcony ring
 around the stairwell, gilt balustrades, and closes the stair hall's open west
 side. `?nopatch` shows the bare export.
 
-## Adding the next wing
+## The Earth Chronicle People wing (procedural, no Blender)
+
+The second wing hangs the vault's people: 203 of them, 387 credited portraits
+from `_Site/data/notes-person.json`, in ten era rooms off a 100 m hall that
+opens west of the rotunda through the former "future wing" stub (now the
+vestibule). It exists as data, not as Blender geometry:
+
+```
+_Site/data/notes-person.json (+ notes-era.json, notes-region.json)
+        │  build_people_wing.py  (called by build_manifest.py; pure Python)
+        ▼
+museum-manifest.json  ← rooms (people-spine, people-<era>[-n]), a "people" wing,
+        │               one artist-shaped entry per person, one work per image
+        │               (ids people--<slug>--<n>, image paths relative to _Site/)
+data/people-wing.json ← geometry: every wall/floor/ceiling/trim box and every
+        │               hang (position, facing, size), Blender coords
+        ▼
+web/js/procwing.js    ← builds the meshes at load time under the glTF scene,
+                        named by the classification contract; streams portrait
+                        thumbnails by room distance (?wing=0 skips the wing)
+```
+
+Layout rules (`build_people_wing.py`): rooms alternate north/south of the hall
+like the Art-Talk enfilade; each era's people are sorted by birth year and split
+into contiguous rooms (Medieval, Early Modern and Industrial have two each);
+every person gets one **salon column** — their 1–3 images stacked at 1.7 m, or
+1.2/2.5 m, or 0.95/2.15/3.35 m — across the room's three art walls in reading
+order (turn left at the door), images ≤ 1.1 m tall and ≤ 1.4 m wide, gaps
+0.5–1.2 m. `lint()` fails the build if columns overlap or leave the wall span,
+stacks overlap, a door opening is blocked, a room overlaps another (including
+the exported building), or a decorative box is named like structure. Room sizes
+live in `ROOM_PLAN`; if the vault gains people, widen a room or add one there.
+
+Placards show the person's summary and facts (the rewrite layer lists the 387
+new placards as pending; the viewer shows the original text until the
+`chronicle-rewriter` agent has done "pending museum"), the caption as the
+"medium", era and region on the artist line, and the image credit with the AI
+flag when the site used an illustration.
+
+## Adding another wing
 
 Two routes. **With Blender** (the original recipe): build the rooms with
 `room_shell()` / `wall_run()` from the `museum_lib` text block, hang works with
 `build_gallery_exhibits()`, add the rooms and doors to `ROOMS` in
-`build_manifest.py`, re-export. **Without Blender** (what the viewer supports
-now): generate the rooms and hangs as data and let `procgeo.js` build them — the
-Earth Chronicle People wing is the worked example; see the "People wing" section
-below once it lands. In both cases the manifest gets the new rooms (`position`,
-`doors`, `connects_to`) and artist-shaped entries whose works have globally
-unique ids, and the viewer needs no code changes for placards, minimap, go-to or
-the tour: they iterate the manifest.
+`build_manifest.py`, re-export. **Without Blender**: follow
+`build_people_wing.py` — emit rooms, entries, boxes and hangs as data and let
+`procwing.js`/`procgeo.js` build them. In both cases the manifest gets the new
+rooms (`position`, `doors`, `connects_to`, a `wing`) and artist-shaped entries
+whose works have globally unique ids, plus an entry in `manifest.wings`
+(`image_base`, `nouns`, `years`); the viewer needs no code changes for placards,
+minimap, go-to or the tour: they iterate the manifest.
 
 ## Placard rewrite layer
 

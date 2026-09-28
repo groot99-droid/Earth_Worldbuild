@@ -184,39 +184,59 @@ test('wall_blocks', async (c) => {
 
 test('doors_passable', async (c) => {
   await c.load('test');
-  const rooms = await c.ev(() => window.museumDebug.manifest.rooms);
-  const byId = new Map(rooms.map((r) => [r.id, r]));
-  const axisOverride = { 'mezzanine>gallery-e': 'y', 'gallery-e>mezzanine': 'y' };
-  const failures = [];
-  let checked = 0;
-  for (const room of rooms) {
-    for (const [otherId, door] of Object.entries(room.doors || {})) {
-      const other = byId.get(otherId);
-      if (!other) continue;
-      // direction of travel: from this room's side of the door into the neighbour
-      const dx = door[0] - room.position[0];
-      const dy = door[1] - room.position[1];
-      let axis = axisOverride[`${room.id}>${otherId}`] || (Math.abs(dx) >= Math.abs(dy) ? 'x' : 'y');
-      let sign = axis === 'x' ? Math.sign(dx) || 1 : Math.sign(dy) || 1;
-      if (Math.abs(axis === 'x' ? dx : dy) < 0.5) {
-        // the door sits on the room centre line (e.g. a door listed at the room's own edge): head toward the neighbour
-        const ox = other.position[0] - door[0];
-        const oy = other.position[1] - door[1];
-        axis = Math.abs(ox) >= Math.abs(oy) ? 'x' : 'y';
-        sign = Math.sign(axis === 'x' ? ox : oy) || 1;
+  // For every manifest door (both directions): stand 1.5 m before it on the owner's side, walk
+  // 4.2 m through. The travel axis is the one perpendicular to the wall the door sits in, found
+  // from the geometry room boxes (owner's box first, then the neighbour's).
+  const plan = await c.ev(() => {
+    const D = window.museumDebug;
+    const rooms = D.manifest.rooms;
+    const byId = new Map(rooms.map((r) => [r.id, r]));
+    const b2t = (p) => new D.THREE.Vector3(p[0], p[2], -p[1]);
+    const geoFor = (room) => D.roomAt(b2t(room.position).add(new D.THREE.Vector3(0, 1.7, 0)));
+    const onEdge = (door, g) => {
+      if (!g) return null;
+      const bx = g.box, x = door[0], z = -door[1];
+      const inX = x > bx.min.x - 0.7 && x < bx.max.x + 0.7, inZ = z > bx.min.z - 0.7 && z < bx.max.z + 0.7;
+      if (inZ && Math.abs(x - bx.min.x) < 0.7) return { axis: 'x', edge: -1 };
+      if (inZ && Math.abs(x - bx.max.x) < 0.7) return { axis: 'x', edge: 1 };
+      if (inX && Math.abs(z - bx.min.z) < 0.7) return { axis: 'y', edge: 1 };  // three -z = Blender +y
+      if (inX && Math.abs(z - bx.max.z) < 0.7) return { axis: 'y', edge: -1 };
+      return null;
+    };
+    const out = [];
+    for (const room of rooms) {
+      for (const [otherId, door] of Object.entries(room.doors || {})) {
+        const other = byId.get(otherId);
+        if (!other) continue;
+        let axis, sign;
+        const own = onEdge(door, geoFor(room));
+        if (own) { axis = own.axis; sign = own.edge; }
+        else {
+          const theirs = onEdge(door, geoFor(other));
+          if (theirs) { axis = theirs.axis; sign = -theirs.edge; }
+          else {
+            const dx = door[0] - room.position[0], dy = door[1] - room.position[1];
+            axis = Math.abs(dx) >= Math.abs(dy) ? 'x' : 'y';
+            sign = Math.sign(axis === 'x' ? dx : dy) || 1;
+          }
+        }
+        out.push({ from: room.id, to: otherId, door, axis, sign });
       }
-      const heading = axis === 'x' ? (sign > 0 ? 0 : 180) : (sign > 0 ? 90 : 270);
-      const start = [door[0], door[1], door[2] - 0.05];
-      if (axis === 'x') start[0] -= sign * 1.5; else start[1] -= sign * 1.5;
-      await c.at(start[0], start[1], start[2], heading);
-      const s = await c.walk('forward', 1.0); // 4.2 m
-      const travelled = axis === 'x' ? (s.blender[0] - start[0]) * sign : (s.blender[1] - start[1]) * sign;
-      checked++;
-      if (travelled < 2.7) failures.push(`${room.id}>${otherId} at ${fmt(door)}: moved ${travelled.toFixed(2)} m (${fmt(s.blender)})`);
     }
+    return out;
+  });
+  const failures = [];
+  for (const d of plan) {
+    const heading = d.axis === 'x' ? (d.sign > 0 ? 0 : 180) : (d.sign > 0 ? 90 : 270);
+    const start = [d.door[0], d.door[1], d.door[2] - 0.05];
+    if (d.axis === 'x') start[0] -= d.sign * 1.5; else start[1] -= d.sign * 1.5;
+    await c.at(start[0], start[1], start[2], heading);
+    const s = await c.walk('forward', 1.0); // 4.2 m
+    const travelled = d.axis === 'x' ? (s.blender[0] - start[0]) * d.sign : (s.blender[1] - start[1]) * d.sign;
+    if (travelled < 2.7) failures.push(`${d.from}>${d.to} at ${fmt(d.door)} heading ${heading}: moved ${travelled.toFixed(2)} m (${fmt(s.blender)})`);
   }
-  assert(failures.length === 0, `${failures.length}/${checked} doors blocked:\n    ${failures.join('\n    ')}`);
-  return { checked };
+  assert(failures.length === 0, `${failures.length}/${plan.length} doors blocked:\n    ${failures.join('\n    ')}`);
+  return { checked: plan.length };
 });
 
 test('stairs_to_mezzanine', async (c) => {
@@ -335,6 +355,7 @@ test('framing_views', async (c) => {
     mezzanine_balcony: { pos: [97, 4, 8.7], target: [84, 0, 8.5], fov_deg: 58.7, desc: 'Balcony ring around the stairwell (procedural)' },
   };
   const results = {};
+  await c.ev(() => { const D = window.museumDebug; D.interactions.closePlacard(); if (D.tour.active()) D.tour.stop(); });
   for (const [name, f] of Object.entries({ ...framings, ...extra })) {
     await c.ev((fr) => window.museumDebug.applyFraming(fr), f);
     const s = await c.snap();
@@ -527,11 +548,11 @@ test('tour_runs_inside_rooms', async (c) => {
 
 test('tour_long_route', async (c) => {
   await c.load('test');
-  // a leg that crosses the whole building: from the rotunda to the last work (upper floor, gallery F)
+  // a leg that crosses the whole building: from the rotunda to the Art-Talk wing's last work (upper floor, gallery F)
   const r = await c.ev(() => {
     const D = window.museumDebug;
     D.hud.teleportToRoom('rotunda');
-    const list = D.manifestIndex.flatWorks;
+    const list = D.manifestIndex.flatWorks.filter((e) => e.wing === 'art-talk');
     D.tour.start({ works: [list[list.length - 1]], from: 0, dwell: 0.5 });
     const outside = [];
     let arrived = null;
@@ -618,6 +639,143 @@ test('touch_tap_reads', async (c) => {
   } finally {
     await context.close();
   }
+});
+
+// ---- Phase 2: the procedural People wing --------------------------------------------------
+test('wing_counts', async (c) => {
+  await c.load('test');
+  const n = await c.ev(() => {
+    const D = window.museumDebug;
+    const hiddenOk = (D.procwing ? D.procwing.hidden : []).every((name) => {
+      const o = D.scene.getObjectByName(name);
+      return o && !o.visible && !D.wallMeshes.includes(o);
+    });
+    return {
+      art: D.artMeshes.length, rooms: D.rooms.size, wing: !!D.procwing, wingRooms: D.procwing ? D.procwing.rooms.length : 0,
+      boxes: D.procwing ? D.procwing.boxes.length : 0, hiddenOk, subtitle: document.getElementById('blocker-subtitle').textContent,
+      manifestRooms: D.manifest.rooms.length, wings: D.manifestIndex.wings.map((w) => w.id),
+    };
+  });
+  assert(n.wing && n.wingRooms === 10, `procedural wing missing: ${JSON.stringify(n)}`);
+  assert(n.art === 686, `expected 686 ART meshes (299 + 387), got ${n.art}`);
+  assert(n.rooms >= 22, `expected >= 22 geometry rooms, got ${n.rooms}`);
+  assert(n.hiddenOk, 'the vestibule west wall pieces should be hidden and non-colliding');
+  assert(/Earth Chronicle People — 203 people, 387 portraits/.test(n.subtitle), `subtitle: ${n.subtitle}`);
+  assert(c.errors.length === 0, `console errors: ${c.errors.join(' | ')}`);
+  return n;
+});
+
+test('walk_into_wing', async (c) => {
+  await c.load('test');
+  await c.at(-3, 0, 0, 180); // rotunda, heading west through the vestibule
+  let s = await c.walk('forward', 4.5);
+  assert(s.blender[0] < -16.5, `expected to pass the vestibule into the hall (x < -16.5), got ${fmt(s.blender)}`);
+  assert(s.room === 'people-spine', `expected room people-spine, got ${s.room} (geo ${s.geoRoom})`);
+  await c.at(-23, 0, 0, 90); // under the Bronze Age door, heading north
+  s = await c.walk('forward', 1.5);
+  assert(s.blender[1] > 4 && s.room === 'people-bronze-age', `expected to enter people-bronze-age, got ${s.room} at ${fmt(s.blender)}`);
+  await c.at(-23, 9, 0, 90); // its north wall (y = 11) must stop us
+  s = await c.walk('forward', 1.5);
+  assert(between(s.blender[1], 10.0, 10.8), `wing wall should block at y 10.0-10.8, got ${fmt(s.blender)}`);
+  return s.blender;
+});
+
+test('people_placard', async (c) => {
+  await c.load('test');
+  const r = await c.ev(() => {
+    const D = window.museumDebug;
+    const ok = D.navigate.goToWork('people--ada-lovelace--1');
+    const s = D.step(1 / 60, 2);
+    return {
+      ok, s, probe: D.probeArt(),
+      title: document.getElementById('placard-title').textContent,
+      artist: document.getElementById('placard-artist').textContent,
+      meta: document.getElementById('placard-meta').textContent,
+      credit: document.getElementById('placard-credit').textContent,
+      desc: document.getElementById('placard-description').textContent,
+      img: document.getElementById('placard-image').getAttribute('src'),
+      suggestions: [...document.querySelectorAll('#suggested-list img')].map((i) => i.getAttribute('src')),
+    };
+  });
+  assert(r.ok && r.title === 'Ada Lovelace', `placard: ${JSON.stringify(r)}`);
+  assert(/Ada Lovelace \(1815–1852\)/.test(r.artist) && /Industrial Age/.test(r.artist), `artist line: ${r.artist}`);
+  assert(/Antoine Claudet/.test(r.credit), `credit: ${r.credit}`);
+  assert(/Analytical Engine/.test(r.desc), 'description should carry the person summary');
+  assert(r.img.endsWith('_Site/images/person/ada-lovelace/1.jpg'), `image: ${r.img}`);
+  assert(r.probe === 'ART-ada-lovelace__people--ada-lovelace--1', `crosshair: ${r.probe} at ${fmt(r.s.blender)}`);
+  assert(/^people-industrial-age/.test(r.s.room), `room: ${r.s.room}`);
+  assert(r.suggestions.every((u) => /_Site\/images\//.test(u)), `suggestion thumbs: ${r.suggestions}`);
+  await c.ev(async () => { const D = window.museumDebug; await D.procwing.whenLoaded(D.getCurrentRoomId()); });
+  await c.shot('feature_people_placard');
+  await c.ev(() => window.museumDebug.interactions.closePlacard());
+  return r;
+});
+
+test('people_textures', async (c) => {
+  await c.load('test');
+  const r = await c.ev(async () => {
+    const D = window.museumDebug;
+    const room = D.manifestIndex.byWorkId.get('people--ada-lovelace--1').room;
+    await D.procwing.whenLoaded(room);
+    const meshes = D.artMeshes.filter((m) => m.userData.room === room);
+    return { room, n: meshes.length, mapped: meshes.filter((m) => m.material.map && m.material.map.image).length, state: D.procwing.state() };
+  });
+  assert(r.n > 0 && r.mapped === r.n, `textures: ${JSON.stringify({ ...r, state: undefined })}`);
+  assert(r.state.failures === 0, `texture failures: ${r.state.failures}`);
+  return r;
+});
+
+test('people_tour', async (c) => {
+  await c.load('test');
+  const r = await c.ev(() => {
+    const D = window.museumDebug;
+    D.interactions.closePlacard();
+    D.hud.teleportToRoom('future-wing-1');
+    const works = D.manifestIndex.flatWorks.filter((e) => e.wing === 'people');
+    D.tour.start({ works, from: 0, dwell: 0.3 });
+    const outside = [];
+    let maxIndex = 0;
+    for (let i = 0; i < 2400; i += 10) {
+      D.step(1 / 60, 10);
+      maxIndex = Math.max(maxIndex, D.tour.state().index);
+      if (!D.roomAt(D.camera.position)) outside.push({ i, pos: D.snapshot().blender });
+    }
+    const st = D.tour.state();
+    D.tour.stop();
+    return { works: works.length, maxIndex, nOutside: outside.length, outside: outside.slice(0, 4), room: st.room };
+  });
+  assert(r.works === 387, `expected 387 people works, got ${r.works}`);
+  assert(r.maxIndex >= 2, `tour should reach the third portrait, index ${r.maxIndex}`);
+  assert(r.nOutside === 0, `${r.nOutside} samples outside any room: ${JSON.stringify(r.outside)}`);
+  assert(/^people-/.test(r.room || ''), `tour should be in the wing, room ${r.room}`);
+  return r;
+});
+
+test('wing_framings', async (c) => {
+  await c.load('test');
+  const extra = {
+    vestibule_door: { pos: [-3, 0, 1.7], target: [-20, 0, 2.0], fov_deg: 58.7 },
+    people_hall: { pos: [-18, 0, 1.7], target: [-60, 0, 2.2], fov_deg: 58.7 },
+    people_industrial: { pos: [-91, -5, 1.7], target: [-91, -22, 2.2], fov_deg: 58.7 },
+    people_bronze: { pos: [-23, 4, 1.7], target: [-23, 11, 2.0], fov_deg: 58.7 },
+  };
+  const out = {};
+  await c.ev(() => { const D = window.museumDebug; D.interactions.closePlacard(); if (D.tour.active()) D.tour.stop(); });
+  for (const [name, f] of Object.entries(extra)) {
+    await c.ev(async (fr) => { const D = window.museumDebug; D.applyFraming(fr); await D.procwing.whenLoaded(D.getCurrentRoomId()); }, f);
+    await c.ev(async () => { const D = window.museumDebug; for (const r of D.procwing.rooms) { const s = D.procwing.state().rooms[r]; if (s === 'loading') await D.procwing.whenLoaded(r); } });
+    out[name] = (await c.snap()).blender.map((v) => +v.toFixed(2));
+    await c.shot(`view_${name}`);
+  }
+  return out;
+});
+
+test('wing_off_flag', async (c) => {
+  await c.load('test&wing=0', { fresh: true });
+  const n = await c.ev(() => ({ art: window.museumDebug.artMeshes.length, wing: !!window.museumDebug.procwing }));
+  assert(!n.wing && n.art === 299, `?wing=0 should skip the wing: ${JSON.stringify(n)}`);
+  assert(c.errors.length === 0, `console errors: ${c.errors.join(' | ')}`);
+  return n;
 });
 
 test('classic_mode_loads', async (c) => {

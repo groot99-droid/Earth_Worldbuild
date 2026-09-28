@@ -138,19 +138,22 @@ export function createNavigate({ manifest, manifestIndex, camera, controls, inte
   function open() {
     isOpen = true;
     panel.classList.add('open');
-    setTimeout(() => input.focus({ preventScroll: true }), 50);
+    // focus once the slide-in has started; never grab it if the panel was closed meanwhile
+    // (a focused hidden input would swallow every hotkey)
+    setTimeout(() => { if (isOpen) input.focus({ preventScroll: true }); }, 50);
   }
   function close() {
     isOpen = false;
     panel.classList.remove('open');
-    input.blur();
+    if (document.activeElement === input) input.blur();
   }
   function toggle() { if (isOpen) close(); else open(); }
 
   input.addEventListener('input', () => filter(input.value));
   input.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') { e.preventDefault(); close(); }
-    e.stopPropagation();
+    if (isOpen) e.stopPropagation(); // typing in the filter never triggers viewer hotkeys
+    else input.blur();
   });
   panel.querySelector('.nav-close').addEventListener('click', close);
   panel.addEventListener('click', (e) => e.stopPropagation());

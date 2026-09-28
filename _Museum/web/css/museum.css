@@ -513,3 +513,14 @@ canvas { touch-action: none; }
 body.touch #joystick { display: block; }
 body.touch #crosshair { display: none; }
 body.touch #look-prompt { display: none; }
+
+#tour-wing {
+  background: rgba(40, 32, 22, 0.9);
+  color: var(--cream);
+  border: 1px solid #6b5a3a;
+  border-radius: 3px;
+  padding: 0.45rem 0.6rem;
+  font-family: inherit;
+  font-size: 0.9rem;
+}
+#tour-wing[hidden] { display: none; }
