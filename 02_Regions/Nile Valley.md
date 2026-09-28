@@ -59,6 +59,8 @@ The Observer sees the Nile as a natural clock: predictable flooding produced pre
 
 **Species**
 - [[Donkey]] (4000 BCE)
+- [[Honeybee]] (2450 BCE)
+- [[Variola Virus]] (1157 BCE)
 
 **Technologies**
 - [[Papyrus]] (2900 BCE)

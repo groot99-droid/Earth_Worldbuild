@@ -66,9 +66,11 @@ The Observer sees the Neolithic as a bargain with consequences: more food, more 
 - [[Sheep]] (9000 BCE)
 - [[Cattle]] (8500 BCE)
 - [[Goat]] (8000 BCE)
+- [[Plasmodium falciparum]] (8000 BCE)
 - [[Potato]] (8000 BCE)
 - [[Domestic Cat]] (7500 BCE)
 - [[Maize]] (7000 BCE)
+- [[Mycobacterium tuberculosis]] (7000 BCE)
 - [[Rice]] (7000 BCE)
 - [[Soybean]] (7000 BCE)
 - [[Cassava]] (4600 BCE)
@@ -76,6 +78,7 @@ The Observer sees the Neolithic as a bargain with consequences: more food, more 
 - [[Llama and Alpaca]] (4000 BCE)
 - [[Sugarcane]] (4000 BCE)
 - [[Sorghum]] (3500 BCE)
+- [[Yersinia pestis]] (3500 BCE)
 
 **Technologies**
 - [[Brewing and Fermentation]] (7000 BCE)

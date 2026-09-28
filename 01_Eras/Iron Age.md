@@ -83,6 +83,9 @@ The Observer sees the Iron Age as a democratization of tools and, therefore, of 
 - [[Marajó Island]] (400 BCE)
 - [[Nazca Lines]] (400 BCE)
 
+**Species**
+- [[Variola Virus]] (1157 BCE)
+
 **Technologies**
 - [[Iron Smelting]] (1200 BCE)
 - [[Qanat]] (714 BCE)

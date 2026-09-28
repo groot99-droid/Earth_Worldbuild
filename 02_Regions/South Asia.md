@@ -80,6 +80,8 @@ The Observer notes the extraordinary density of meaning-engines and mathematics 
 
 **Species**
 - [[Cotton]] (3000 BCE)
+- [[Black Rat]] (100 BCE)
+- [[Vibrio cholerae]] (1817 CE)
 
 **Technologies**
 - [[Sanitation and Sewers]] (2600 BCE)

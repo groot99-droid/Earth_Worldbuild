@@ -50,6 +50,9 @@ The Observer notes that the coldest lands of the planet hold some of the best re
 - [[Lake Baikal]] (5000 BCE)
 - [[Kolyma]] (1932 CE)
 
+**Species**
+- [[Yersinia pestis]] (3500 BCE)
+
 **Technologies**
 - [[Trans-Siberian Railway]] (1891 CE)
 

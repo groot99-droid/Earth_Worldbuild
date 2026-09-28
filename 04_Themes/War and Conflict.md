@@ -341,7 +341,9 @@ The Observer calls this sanctioned harm: violence that a group approves through 
 - [[Sugarcane]] (4000 BCE)
 - [[Dromedary and Bactrian Camels]] (2500 BCE)
 - [[Horse]] (2200 BCE)
+- [[Variola Virus]] (1157 BCE)
 - [[Tea Plant]] (200 BCE)
+- [[Influenza A Virus]] (1580 CE)
 
 **Technologies**
 - [[The Wheel]] (3400 BCE)

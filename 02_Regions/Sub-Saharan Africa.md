@@ -88,6 +88,7 @@ The Observer notes that the species' longest history happened here. Every non-Af
 - [[Australopithecus afarensis]] (3.85 Ma)
 - [[Homo habilis]] (2.4 Ma)
 - [[Homo naledi]] (335 ka)
+- [[Plasmodium falciparum]] (8000 BCE)
 - [[Sorghum]] (3500 BCE)
 
 **Technologies**

@@ -115,6 +115,9 @@ The Observer notes that for the first time, every inhabited continent was in con
 - [[Robben Island]] (1658 CE)
 - [[Botany Bay]] (1770 CE)
 
+**Species**
+- [[Influenza A Virus]] (1580 CE)
+
 **Technologies**
 - [[Variolation]] (1549 CE)
 - [[Telescope]] (1608 CE)

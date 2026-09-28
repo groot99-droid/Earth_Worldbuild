@@ -235,10 +235,18 @@ The Observer treats the planet as the frame for everything else, and the species
 - [[Homo naledi]] (335 ka)
 - [[Homo floresiensis]] (100 ka)
 - [[Cattle]] (8500 BCE)
+- [[Plasmodium falciparum]] (8000 BCE)
 - [[Potato]] (8000 BCE)
 - [[Domestic Cat]] (7500 BCE)
+- [[Mycobacterium tuberculosis]] (7000 BCE)
 - [[Sorghum]] (3500 BCE)
+- [[Yersinia pestis]] (3500 BCE)
+- [[Honeybee]] (2450 BCE)
 - [[Chicken]] (1250 BCE)
+- [[Variola Virus]] (1157 BCE)
+- [[Black Rat]] (100 BCE)
+- [[Influenza A Virus]] (1580 CE)
+- [[Vibrio cholerae]] (1817 CE)
 
 **Technologies**
 - [[Irrigation Canals]] (5500 BCE)

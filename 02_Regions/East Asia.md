@@ -94,6 +94,7 @@ The Observer notes a distinctive continuity: a written language and administrati
 - [[Rice]] (7000 BCE)
 - [[Soybean]] (7000 BCE)
 - [[Tea Plant]] (200 BCE)
+- [[Influenza A Virus]] (1580 CE)
 
 **Technologies**
 - [[Pottery]] (18 ka)

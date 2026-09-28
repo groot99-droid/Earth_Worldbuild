@@ -103,6 +103,7 @@ The Observer notes that several distant societies, largely out of contact, devel
 
 **Species**
 - [[Tea Plant]] (200 BCE)
+- [[Black Rat]] (100 BCE)
 
 **Technologies**
 - [[Crossbow]] (500 BCE)

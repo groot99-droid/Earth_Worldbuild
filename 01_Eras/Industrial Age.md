@@ -152,6 +152,9 @@ The Observer sees a species learning to release ancient stored sunlight as fuel.
 - [[Kolyma]] (1932 CE)
 - [[Auschwitz-Birkenau]] (1940 CE)
 
+**Species**
+- [[Vibrio cholerae]] (1817 CE)
+
 **Technologies**
 - [[Battery]] (1800 CE)
 - [[Railways]] (1825 CE)

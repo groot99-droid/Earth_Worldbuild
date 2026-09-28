@@ -90,6 +90,7 @@ The Observer notes that the first states and the first writing arrived together.
 - [[Cacao]] (3300 BCE)
 - [[Cotton]] (3000 BCE)
 - [[Dromedary and Bactrian Camels]] (2500 BCE)
+- [[Honeybee]] (2450 BCE)
 - [[Horse]] (2200 BCE)
 - [[Tobacco]] (1400 BCE)
 - [[Chicken]] (1250 BCE)
