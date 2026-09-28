@@ -18,11 +18,11 @@ fact_checks: ["2026-09-27: The City of David part of Jerusalem shows first signs
 Jerusalem is a city in the Judean hills of the southern Levant, settled since about the 4th millennium BCE and holy to Jews, Christians and Muslims, whose political status is disputed today.
 
 ## Facts
-- Settlement on the spur above the Gihon spring dates from about the 4th millennium BCE, and Jerusalem is named in Egyptian texts of the early 2nd millennium BCE and in the Amarna letters of the 14th century BCE.
+- Settlement on the spur above the Gihon spring dates from about the 4th millennium BCE, and Egyptian Execration Texts of the 19th century BCE and the Amarna letters of the 14th century BCE may contain the earliest mentions of the city, though this is debated.
 - According to the Hebrew Bible, King David captured the city about 1000 BCE and his son Solomon built the First Temple; archaeologists debate the size of Jerusalem in the 10th century BCE, and the city grew markedly by the 8th century BCE.
 - Babylonian forces destroyed Jerusalem and the First Temple in 586 BCE and deported part of its population; the Second Temple was dedicated in 516 BCE.
-- Roman forces destroyed the city and the Second Temple in 70 CE; after the Bar Kokhba revolt (132 to 135 CE) the Romans refounded it as Aelia Capitolina and barred Jews from entering.
-- The Church of the Holy Sepulchre was built in the 4th century under Constantine; Muslim forces took the city in 637 to 638, and the Umayyad caliph Abd al-Malik completed the Dome of the Rock in 691 to 692.
+- Roman forces destroyed the city and the Second Temple in 70 CE; after the Bar Kokhba revolt (132 to 135 or 136 CE, sources vary on the end year) the Romans refounded it as Aelia Capitolina and barred Jews from entering.
+- The Church of the Holy Sepulchre was built in the 4th century under Constantine; Muslim forces took the city in 638 (some sources give 637), and the Umayyad caliph Abd al-Malik completed the Dome of the Rock in 691 to 692.
 - Crusaders captured Jerusalem in 1099 and killed many of its Muslim and Jewish inhabitants, with estimates of the dead varying widely; Saladin retook it in 1187, and it was under Ottoman rule from 1517 to 1917.
 - UNESCO inscribed the Old City of Jerusalem and its walls in 1981. The city was divided between Israel and Jordan in 1948 and has been under Israeli control since 1967, and its status remains disputed between Israelis and Palestinians.
 

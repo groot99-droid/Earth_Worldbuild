@@ -18,9 +18,9 @@ fact_checks: ["2026-09-27: Hispaniola covers about 76,192 square kilometers and 
 Hispaniola is the second-largest island of the Caribbean, in the Greater Antilles, divided between Haiti in the west and the Dominican Republic in the east, and the site of the first lasting European settlement in the Americas.
 
 ## Facts
-- Hispaniola covers about 76,000 square kilometers; its features include Pico Duarte, at 3,098 meters the highest peak in the Caribbean, and Lake Enriquillo, a saline lake about 40 meters below sea level.
+- Hispaniola covers about 76,000 square kilometers; its features include Pico Duarte, reported at about 3,101 meters, the highest peak in the Caribbean, and Lake Enriquillo, a saline lake whose depth below sea level is not firmly established by the sources consulted.
 - The earliest evidence of human presence on Hispaniola is dated by many archaeologists to about 4000 BCE, though estimates vary; by 1492 the island was home to Taíno societies organized into several chiefdoms, and Spanish chroniclers report the names Ayiti, Quisqueya and Bohío for it.
-- Columbus reached Hispaniola in December 1492, and the Spanish founded La Navidad (destroyed in 1493), La Isabela (1493) and Santo Domingo (1496).
+- Columbus reached Hispaniola in December 1492, and the Spanish founded La Navidad (destroyed in 1493), La Isabela (1493) and Santo Domingo (1498).
 - The Taíno population of Hispaniola declined sharply after 1492 under forced labor, violence and disease.
 - In 1697 Spain ceded the western third of Hispaniola to France, which developed the sugar and slave colony of Saint-Domingue; the Haitian Revolution (1791 to 1804) ended slavery and French rule there.
 - The Dominican Republic became independent in 1844, after Haitian rule over the whole island from 1822.

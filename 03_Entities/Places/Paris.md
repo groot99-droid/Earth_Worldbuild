@@ -18,12 +18,12 @@ fact_checks: ["2026-09-27: The Parisii settled on the banks of the Seine between
 Paris is the capital of France, on the Seine River, which grew from a settlement of the Gaulish Parisii on the Île de la Cité in about the 3rd century BCE into a Roman town, a medieval capital, a center of revolutions and one of Europe's largest cities.
 
 ## Facts
-- Paris grew from a settlement of the Parisii on the Île de la Cité in about the 3rd century BCE; Rome took the area in 52 BCE and built the town of Lutetia.
+- Paris grew from a settlement of the Parisii on the banks of the Seine between about 250 and 225 BCE, though the exact location of their oppidum, whether the Île de la Cité or Nanterre, is disputed; Rome took the area in 52 BCE and built the town of Lutetia.
 - Clovis made Paris his capital in about 508, and the Capetian kings made it the center of the French kingdom from 987; Notre-Dame was begun in 1163, and the University of Paris had developed by about 1200.
 - Paris had perhaps 200,000 inhabitants around 1300, among the largest cities in Europe, and lost a large share of its people to the Black Death in 1348.
 - The Bastille fell on 14 July 1789 during the French Revolution, and thousands of people were executed in Paris in the Reign of Terror of 1793 to 1794.
 - Baron Haussmann rebuilt central Paris in the 1850s and 1860s with wide boulevards, sewers and parks.
-- The suppression of the Paris Commune in 1871 killed many thousands of people in a week of fighting and executions, with estimates of about 10,000 to 20,000.
+- The suppression of the Paris Commune in 1871 killed many thousands of people in a week of fighting and executions; estimates are contested, ranging from about 7,000 killed in combat or summary execution to a commonly cited 10,000 to 15,000, with a single unconfirmed 1876 estimate as high as 20,000.
 - Germany occupied Paris from June 1940 to August 1944; in July 1942 French police arrested about 13,000 Jews in the Vel' d'Hiv roundup, most of whom were later deported to Auschwitz.
 - UNESCO inscribed Paris, Banks of the Seine, in 1991.
 

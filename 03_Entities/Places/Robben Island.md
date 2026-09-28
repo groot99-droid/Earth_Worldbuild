@@ -21,10 +21,10 @@ Robben Island is a small island in Table Bay, about 7 kilometers off Cape Town, 
 ## Facts
 - Robben Island lies in Table Bay about 7 kilometers from Cape Town and covers about 5 square kilometers; its name comes from the Dutch word for seals.
 - The Dutch East India Company began using Robben Island as a place of banishment in the 1650s; among those sent there was the Khoikhoi interpreter Autshumato, in 1658.
-- A leprosy colony operated on the island from 1846 to 1931, and it served as a military base in the Second World War.
-- From 1961 to 1996 Robben Island was a maximum-security prison where the apartheid state held political prisoners, including Nelson Mandela (imprisoned on the island for 18 of his 27 years, from 1964), Robert Sobukwe, Walter Sisulu and Govan Mbeki.
+- A leprosy colony operated on the island from 1845, with no firmly documented closure date, and it served as a military base in the Second World War.
+- From 1961 Robben Island held political prisoners under apartheid, including Nelson Mandela (imprisoned on the island for 18 of his 27 years, from 1964), Robert Sobukwe, Walter Sisulu and Govan Mbeki.
 - Prisoners worked in a limestone quarry, and the glare damaged Mandela's eyes; prisoners organized study and debate among themselves, and the prison was nicknamed a "university".
-- The last political prisoners were released in 1991 and the prison closed in 1996.
+- The maximum-security political prison closed in 1991; a separate medium-security prison on the island for criminal prisoners closed in 1996.
 - UNESCO inscribed Robben Island in 1999, and former prisoners lead tours of the island today.
 
 ## Context & Connections

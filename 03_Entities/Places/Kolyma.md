@@ -19,10 +19,10 @@ fact_checks: ["2026-09-27: The Soviet government established Dalstroy on 13 Nove
 Kolyma is a remote region of northeastern Siberia, Russia, that from 1932 until the 1950s held the Soviet Union's largest system of forced-labor camps, where prisoners mined gold and other metals in extreme cold and many died.
 
 ## Facts
-- Kolyma lies along the Kolyma River in the far northeast of Siberia, where winter temperatures fall below minus 40 degrees Celsius.
-- Gold was found on the Kolyma River in the late 1920s, and in 1931 the Soviet state created Dalstroy, a state trust that developed the region with prisoners from the Gulag system, the first of whom arrived in 1932.
-- Prisoners included people convicted of ordinary crimes and of political offenses, and many were sent during the Great Terror of 1937 to 1938; hundreds of thousands of people passed through the Kolyma camps.
-- Estimates of deaths in the Kolyma camps range from more than 100,000 to several hundred thousand, from hunger, cold, disease, overwork and executions; the full toll is uncertain.
+- Kolyma lies along the Kolyma River in the far northeast of Siberia, where average winter temperatures run from about minus 19 to minus 38 degrees Celsius, colder still in the interior.
+- Gold was found on the Kolyma River in the early 20th century, and in 1931 the Soviet state created Dalstroy, a state trust that developed the region with prisoners from the Gulag system, the first of whom arrived in 1932.
+- Prisoners included people convicted of ordinary crimes and of political offenses, and many were sent during the Great Terror of 1937 to 1938; secret-police records cited by historians put about two million people shipped to the Kolyma camps between 1930 and 1955, with a recorded peak camp population of about 200,000 in 1952.
+- Estimates of deaths in the Kolyma camps range from about 250,000 to over a million, from hunger, cold, disease, overwork and executions; the full toll is uncertain.
 - Prisoners built the Kolyma Highway between Magadan and Yakutsk, known as the "Road of Bones" because of the deaths among its builders.
 - Varlam Shalamov, who was imprisoned in the Kolyma camps, wrote the short stories known as the Kolyma Tales about them.
 - Dalstroy was dissolved in 1957, and a memorial, the Mask of Sorrow, was unveiled in Magadan in 1996.

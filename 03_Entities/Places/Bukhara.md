@@ -4,7 +4,7 @@ type: place
 era: "[[Classical Antiquity]]"
 region: "[[Central Asian Oases]]"
 themes: [trade, religion, science]
-date_start: -300
+date_start: -500
 date_precision: approx
 related: ["[[Sogdians]]", "[[Samarkand]]", "[[Mongol Conquests]]", "[[Rise of Islam]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
@@ -18,12 +18,12 @@ fact_checks: ["2026-09-27: Genghis Khan besieged Bukhara for fifteen days in 122
 Bukhara is a city in the Zarafshan oasis of Uzbekistan, a Sogdian trading city, capital of the Samanid dynasty, and for more than a thousand years a center of Islamic learning on the Silk Roads.
 
 ## Facts
-- Bukhara has been settled for a long time; the city celebrated 2,500 years in 1997 on a traditional dating, while archaeological evidence for its walled center is generally placed several centuries BCE.
+- Bukhara has been settled for a long time; the city celebrated 2,500 years in 1997 on a traditional dating, while archaeological evidence places its walled Sogdian settlement by about the 6th century BCE.
 - Bukhara was a Sogdian city when Arab armies took it in 709 to 710, and the scholar Muhammad al-Bukhari, compiler of a major collection of hadith, was born there in 810.
 - Under the Samanid dynasty (819 to 999), Bukhara was a capital of learning and of Persian literature; the physician and philosopher Ibn Sina was born near it in 980, and the Samanid mausoleum was built in the late 9th to 10th century.
 - The Mongol army under Chinggis Khan took Bukhara in 1220; the city was burned and many of its people were killed or enslaved, though the number is unknown.
-- The Kalyan Minaret, built in 1127, still stands, and Bukhara was the capital of the Emirate of Bukhara (1785 to 1920), a Russian protectorate from 1868.
-- The Red Army took Bukhara in 1920, and the citadel (Ark) was damaged in the assault.
+- The Kalyan Minaret, built in 1127, still stands, and Bukhara was the capital of the Emirate of Bukhara (1785 to 1920), which became a Russian protectorate by 1873 after Russia conquered key Bukharan territories in 1868.
+- The Red Army took Bukhara in 1920, and the citadel (Ark) was destroyed after four days of fighting.
 - UNESCO inscribed the Historic Centre of Bukhara in 1993.
 
 ## Context & Connections

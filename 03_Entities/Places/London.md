@@ -18,7 +18,7 @@ fact_checks: ["2026-09-27: Londinium was established as a civilian town by the R
 London is the capital of the United Kingdom, on the Thames River, founded as the Roman town of Londinium in about 47 CE and grown into a leading center of trade, finance and empire and, in the 19th century, the largest city in the world.
 
 ## Facts
-- Londinium was founded by the Romans in about 47 CE near a crossing of the Thames; Boudica's revolt destroyed it in 60 or 61, and it later became the capital of Roman Britain, until Roman rule ended around 410.
+- Londinium was founded by the Romans in about 47 CE near a crossing of the Thames; Boudica's revolt destroyed it in 60 or 61, and it grew into the largest town in Roman Britain, though clear evidence that it was ever formally the province's capital is lacking, until Roman rule ended around 410.
 - William I was crowned at Westminster in 1066 and began the Tower of London in about 1078.
 - The Black Death of 1348 to 1349 killed a large share of London's people, and the Great Plague of 1665 killed tens of thousands; the Great Fire of 1666 destroyed about 13,000 houses and 87 parish churches.
 - London was probably the largest city in the world from the 1830s to the 1920s, and the world's first underground railway opened there in 1863.
