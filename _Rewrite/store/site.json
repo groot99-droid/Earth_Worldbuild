@@ -18690,5 +18690,310 @@
   },
   "date": "2026-09-28",
   "batch": "site-060.part9"
+ },
+ "source/britannica-on-archaefructus": {
+  "src": "8d2163f30e1f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Archaefructus, from the Yixian Formation in China, dated about 125 Ma.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2025-11-10 of britannica.com; the snapshot may differ from the current page (4,913 characters)."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-060.part10"
+ },
+ "source/britannica-on-aristotle": {
+  "src": "ea1665e00e3a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Aristotle's dates (384-322 BCE), his two decades at Plato's Academy, his tutoring of Alexander, his work on Lesbos, and his founding of the Lyceum after 335 BCE.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-06 of britannica.com; the snapshot may differ from the current page (17,873 characters). The earlier citation also named the Stanford Encyclopedia of Philosophy, 'Aristotle'; that page was not read here, so nothing taken from it is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-060.part10"
+ },
+ "source/britannica-on-bedrich-hrozny": {
+  "src": "3d488f6f3f4e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "In 1915, Hrozny demonstrated that Hittite is Indo-European.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-03-24 of britannica.com; the snapshot may differ from the current page (4,050 characters)."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-060.part10"
+ },
+ "source/britannica-on-beringia": {
+  "src": "457785bd62f3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Beringia served as an intermittent Pleistocene land connection between northeastern Asia and northwestern North America: the most recent one began to appear about 38,000 years ago, reached its greatest extent about 20,000 years ago, when sea level had dropped by as much as about 120 m, ran some 1,600 km from north to south, and stayed largely dry and unglaciated, covered in tundra vegetation; it is also named as at least one route by which humans reached the Americas.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-02-25 of britannica.com; the snapshot may differ from the current page (7,980 characters). The page does not mention mammoths or bison, the Beringian standstill hypothesis, or a flooding date of about 11,000 years ago; it says only that the Bering Strait opened at the end of the Pleistocene, about 11,700 years ago. Those details in the Beringia note are not confirmed here."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-060.part10"
+ },
+ "source/britannica-on-carolingian-minuscule": {
+  "src": "9e08bcf79b46",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Carolingian minuscule stands as a clear script, established through Charlemagne's educational reforms and promoted by Alcuin.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-06-09 of britannica.com; the snapshot may differ from the current page (3,531 characters)."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-060.part10"
+ },
+ "source/britannica-on-chauvet-pont-d-arc": {
+  "src": "5ba4ca4c700f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The discovery in 1994 (Jean Clottes visited the cave on 29 December 1994), radiocarbon ages showing a majority of samples about 35,500 years old and a smaller group 30,000 to 31,000 years old, the UNESCO listing in 2014, and the replica's opening in 2015.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-02 of britannica.com; the snapshot may differ from the current page (14,581 characters). The page gives about 35,500 years for most samples, not the 37,000 to 33,500 year phase found in the Chauvet Cave note, and it does not give the day of discovery (18 December 1994); the Chauvet Cave check also cites LSCE on Chauvet Cave Radiocarbon Dating (Tier 5), so that note is left unchanged until that page is read."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-060.part10"
+ },
+ "theme/art-and-ritual": {
+  "src": "5719dfb38818",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Art and ritual name a wide architecture of symbolic and expressive practice: painting, carving, ornament, music and dance, storytelling, monumental building, and ceremony, including the rites held for the dead. You find them in every human society, and they reach back at least to the Paleolithic, evidenced by engraved ochre, beads, and cave paintings tens of thousands of years old. The vault follows this lineage from cave painting and prehistoric monuments, through the temple and court arts of ancient empires and medieval kingdoms, to Renaissance and Mughal building, and onward to objects taken in conquest, such as the Benin Bronzes. It treats art and ritual as evidence of what societies valued, and of how they marked power, belonging, and mortality.",
+   "facts": [],
+   "context": "",
+   "observer": "I look at art and ritual and find behavior with no obvious use for survival, and yet it swallows enormous time and enormous resources in every culture I study. This is one of the deepest puzzles of the species, and I do not pretend to have solved it. I read three roles, again and again: story-glue that binds strangers together, a status-signal for rulers and for groups, and a shape given to the grief-rite. I have stood before a single monument that did all three at once. What is a monument, if not a species talking to itself across time? I would revise this reading if the cost of art and ritual could be shown to buy some hidden advantage, cooperation, or shared memory the record now keeps from me; then the puzzle would dissolve rather than deepen.",
+   "questions": [
+    "What adaptive role, if any, does art and ritual actually serve?",
+    "When did symbolic art begin, and did other human species, such as Neanderthals, make it too?",
+    "Did ritual and monumental building come before settled life, as [[place/gobekli-tepe|Göbekli Tepe]] has been read to suggest, or only after it?",
+    "How can perishable arts, such as music, dance, textiles, and wood carving, be studied at all where none survive?",
+    "How did patronage by courts, temples, and merchant families shape which art actually survives?"
+   ],
+   "extra": [
+    {
+     "title": "Key Threads",
+     "text": "- Symbolic behavior reaches back early. Engraved ochre at Blombos Cave in South Africa dates to about 75,000 to 100,000 years ago; a warty-pig painting in Sulawesi is at least 45,500 years old; and the painted animals of [[place/chauvet-cave|Chauvet Cave]], made about 36,000 years ago, include horses, lions, mammoths, rhinoceroses, and bears. See [[event/emergence-of-symbolic-art|Emergence of Symbolic Art]]. Whether Neanderthals also made symbolic objects remains debated ([[species/homo-neanderthalensis|Homo neanderthalensis]]).\n- Ice Age peoples worked in bone, tusk, and clay. Humans hunted the [[species/woolly-mammoth|Woolly Mammoth]] and used its bones and tusks for shelters and art, [[technology/pottery|Pottery]] appears in East Asia at least 20,000 years ago, and the [[culture/jomon-culture|Jomon Culture]] made cord-marked pottery and clay figurines called dogu.\n- Oral tradition and performance carry knowledge and identity forward. [[culture/aboriginal-australians|Aboriginal Australians]] pass on knowledge through oral traditions, songlines, and ceremony, and Australian rock art includes some of the oldest known paintings; griots perform the epic of [[person/sundiata-keita|Sundiata Keita]] and preserve the history of the [[culture/mali-empire|Mali Empire]].\n- Monumental building came before cities in some places. [[place/gobekli-tepe|Göbekli Tepe]] has carved pillars up to about 5.5 meters tall, [[place/catalhoyuk|Çatalhöyük]] has painted walls, [[place/stonehenge|Stonehenge]] was raised and rebuilt over several centuries from about 3000 BCE, and [[place/poverty-point|Poverty Point]] in Louisiana was built by hunter-gatherer-fishers, with six concentric earthen ridges and mounds.\n- Egypt bound art to kingship and to the afterlife. The [[culture/ancient-egyptians|Ancient Egyptians]] built pyramids and temples and mummified their elite, and tombs such as those of the [[place/giza-necropolis|Giza Necropolis]] show just how many resources were committed. [[person/akhenaten|Akhenaten]]'s reign carries a distinctive, naturalistic style, and many images of [[person/hatshepsut|Hatshepsut]], whose mortuary temple at Deir el-Bahari stands as a major monument, were later removed or defaced.\n- Craft traditions carried identity across wide areas. The [[culture/minoans|Minoans]] painted vivid frescoes in palaces such as Knossos, the [[culture/lapita-culture|Lapita Culture]] decorated pottery with fine stamped geometric patterns, the [[culture/olmecs|Olmecs]] carved colossal heads from basalt more than three meters tall, the [[culture/scythians|Scythians]] made gold work and left textiles and tattoos preserved in frozen tombs at Pazyryk, and Polynesian carvers made the moai of [[place/rapa-nui|Rapa Nui]].\n- Classical and Byzantine art served city and empire alike. [[place/athens|Athens]] built the Parthenon between 447 and 432 BCE and produced drama and philosophy ([[culture/ancient-greeks|Ancient Greeks]]); [[place/rome|Rome]] completed the Colosseum in 80 CE; the Apadana reliefs of [[place/persepolis|Persepolis]] show delegations from across the empire bringing gifts; the [[culture/nabataeans|Nabataeans]] cut tombs and temples into the cliffs of Petra; and the [[culture/byzantine-empire|Byzantine Empire]] built the Hagia Sophia under Justinian I.\n- Buddhist, Hindu, and court arts flourished across South and East Asia. Gandhara art under the [[culture/kushan-empire|Kushan Empire]] blended Greek and Indian styles and produced some of the earliest images of the Buddha in human form; the [[culture/gupta-empire|Gupta Empire]] is associated with a flowering of the arts, though \"Golden Age\" is a later label; the [[culture/chola-dynasty|Chola Dynasty]] made celebrated bronzes, including the dancing Shiva, and built the Brihadisvara Temple about 1010; the [[culture/tang-dynasty|Tang Dynasty]] marks a high point of Chinese poetry and art; and the [[culture/ming-dynasty|Ming Dynasty]] completed the Forbidden City in 1420.\n- Southeast Asian states raised vast religious monuments. [[place/borobudur|Borobudur]] in Java has 2,672 relief panels and originally 504 Buddha statues, [[place/angkor|Angkor]] holds Angkor Wat, the largest religious monument in the world by area, built by the [[culture/khmer-empire|Khmer Empire]], and the [[culture/pagan-kingdom|Pagan Kingdom]] built thousands of temples. [[culture/champa|Champa]] built temples at My Son.\n- Islamic and Central Asian courts patronized architecture and learning both. [[culture/al-andalus|Al-Andalus]] produced the Alhambra, built mainly in the 13th and 14th centuries; the [[culture/timurid-empire|Timurid Empire]] and [[place/samarkand|Samarkand]] are remembered for architecture and science under [[person/timur|Timur]] and [[person/ulugh-beg|Ulugh Beg]]; the [[culture/safavid-empire|Safavid Empire]] made Isfahan known for its mosques, squares, and gardens; and the [[culture/mughal-empire|Mughal Empire]] produced the [[place/taj-mahal|Taj Mahal]], built from about 1632 to 1653 by Shah Jahan for his wife Mumtaz Mahal, with about 20,000 workers.\n- African states built in stone and cast in bronze. [[place/great-zimbabwe|Great Zimbabwe]] has dry-stone walls up to about 11 meters high, the [[culture/zagwe-dynasty|Zagwe Dynasty]] carved churches from living rock, the [[culture/kingdom-of-benin|Kingdom of Benin]] organized craft guilds, and the elite graves of the [[culture/kingdom-of-mapungubwe|Kingdom of Mapungubwe]] held gold and imported glass beads. In 1897, British forces removed the Benin Bronzes and sold them to defray the costs of their expedition, during the age of the [[event/scramble-for-africa|Scramble for Africa]].\n- The Americas built ceremonial centers at a large scale. [[place/teotihuacan|Teotihuacan]] laid out the Pyramids of the Sun and Moon along the Avenue of the Dead, [[place/chichen-itza|Chichen Itza]] has El Castillo, where the equinox sun casts a serpent-like shadow, [[place/cahokia|Cahokia]] built Monks Mound, and the Inca built [[place/machu-picchu|Machu Picchu]] about 1450. The [[culture/marajoara-culture|Marajoara Culture]] made richly decorated ceramics and burial urns, and the [[culture/muisca|Muisca]] held gold rituals.\n- The [[event/renaissance|Renaissance]] shows art shaped directly by patronage. Brunelleschi developed linear perspective in Florence through experiments of about 1415 to 1420, and Leonardo da Vinci, Michelangelo, and Raphael worked under the patronage of wealthy families and the Church, with the Medici financing artists through banking.\n- Rites for the dead shaped much of the art that survives. The [[culture/chinchorro-culture|Chinchorro Culture]] reconstructed bodies with clay, wigs, and mineral pigments; the Egyptians mummified their elite; the dead of Çatalhöyük lay under house floors; and burial goods appear in graves across cultures. See [[observer-note/why-the-species-buries-its-dead|Why the Species Buries Its Dead]].\n- Named individual artists appear once art becomes a named profession rather than an anonymous craft, from [[person/murasaki-shikibu|Murasaki Shikibu]]'s court novel and [[person/giotto|Giotto]]'s frescoes through the workshops of the [[event/renaissance|Renaissance]] and the Mughal court ([[person/behzad|Behzad]], [[person/basawan|Basawan]]) to European academies and, by the 19th century, an international gallery and print market. Painting, architecture, design, film, and literature all appear among these named figures ([[person/katsushika-hokusai|Katsushika Hokusai]], [[person/mimar-sinan|Mimar Sinan]], [[person/william-morris|William Morris]], [[person/georges-melies|Georges Méliès]], [[person/jane-austen|Jane Austen]]), and images could travel by mass reproduction, as [[person/utagawa-hiroshige|Utagawa Hiroshige]]'s and [[person/raja-ravi-varma|Raja Ravi Varma]]'s prints did, long before broadcast or digital media."
+    },
+    {
+     "title": "Through the Eras",
+     "text": "- **Paleolithic:** [[event/emergence-of-symbolic-art|Emergence of Symbolic Art]], [[place/chauvet-cave|Chauvet Cave]], the use of mammoth bone and tusk ([[species/woolly-mammoth|Woolly Mammoth]]), the rock art and songlines of [[culture/aboriginal-australians|Aboriginal Australians]], and [[technology/pottery|Pottery]] in East Asia; see [[era/paleolithic|Paleolithic]].\n- **Neolithic:** [[place/gobekli-tepe|Göbekli Tepe]], [[place/catalhoyuk|Çatalhöyük]], [[place/stonehenge|Stonehenge]], and the [[culture/jomon-culture|Jomon Culture]]'s pottery and figurines.\n- **Bronze Age:** The [[culture/ancient-egyptians|Ancient Egyptians]] and [[place/giza-necropolis|Giza Necropolis]], [[person/hatshepsut|Hatshepsut]], [[person/akhenaten|Akhenaten]], the [[culture/minoans|Minoans]], the [[culture/indus-valley-civilization|Indus Valley Civilization]], [[place/poverty-point|Poverty Point]], and the [[culture/lapita-culture|Lapita Culture]].\n- **Iron Age:** The [[culture/olmecs|Olmecs]], the [[culture/scythians|Scythians]], [[place/persepolis|Persepolis]], and [[place/samarkand|Samarkand]].\n- **Classical Antiquity:** [[place/athens|Athens]] and the [[culture/ancient-greeks|Ancient Greeks]], [[place/rome|Rome]] and [[person/augustus|Augustus]], the [[culture/nabataeans|Nabataeans]], [[place/teotihuacan|Teotihuacan]], the [[culture/kushan-empire|Kushan Empire]], the [[culture/gupta-empire|Gupta Empire]], the [[culture/byzantine-empire|Byzantine Empire]], and the [[culture/marajoara-culture|Marajoara Culture]].\n- **Medieval Period:** The [[culture/tang-dynasty|Tang Dynasty]], [[culture/al-andalus|Al-Andalus]], [[place/borobudur|Borobudur]], [[place/angkor|Angkor]], the [[culture/khmer-empire|Khmer Empire]], the [[culture/chola-dynasty|Chola Dynasty]], the [[culture/pagan-kingdom|Pagan Kingdom]], [[place/chichen-itza|Chichen Itza]], [[place/cahokia|Cahokia]], [[place/great-zimbabwe|Great Zimbabwe]], the [[culture/zagwe-dynasty|Zagwe Dynasty]], the [[culture/kingdom-of-benin|Kingdom of Benin]], [[place/rapa-nui|Rapa Nui]], the [[culture/mali-empire|Mali Empire]] and [[person/mansa-musa|Mansa Musa]], the [[culture/timurid-empire|Timurid Empire]], [[person/timur|Timur]], [[person/ulugh-beg|Ulugh Beg]], the [[culture/ming-dynasty|Ming Dynasty]], [[place/machu-picchu|Machu Picchu]], and the [[event/renaissance|Renaissance]]; named artists include [[person/murasaki-shikibu|Murasaki Shikibu]], [[person/rumi|Rumi]], [[person/amir-khusrau|Amir Khusrau]], [[person/giotto|Giotto]], [[person/jan-van-eyck|Jan van Eyck]], [[person/sesshu-toyo|Sesshū Tōyō]], [[person/shen-zhou|Shen Zhou]], and [[person/behzad|Behzad]].\n- **Early Modern Period:** The [[culture/safavid-empire|Safavid Empire]], the [[culture/mughal-empire|Mughal Empire]] and the [[place/taj-mahal|Taj Mahal]], and the [[culture/tokugawa-shogunate|Tokugawa Shogunate]]; named artists span painting, architecture, and literature, from [[person/leonardo-da-vinci|Leonardo da Vinci]], [[person/michelangelo|Michelangelo]], and [[person/caravaggio|Caravaggio]] to [[person/mimar-sinan|Mimar Sinan]], [[person/basawan|Basawan]], [[person/rembrandt-van-rijn|Rembrandt van Rijn]], and [[person/jane-austen|Jane Austen]].\n- **Industrial Age:** The removal of the Benin Bronzes in 1897 ([[culture/kingdom-of-benin|Kingdom of Benin]]) belongs to the age of the [[event/scramble-for-africa|Scramble for Africa]]. This era also holds most of the vault's named artists, from painters such as [[person/francisco-goya|Francisco Goya]], [[person/vincent-van-gogh|Vincent van Gogh]], and [[person/gustav-klimt|Gustav Klimt]] to architects and designers ([[person/antoni-gaudi|Antoni Gaudí]], [[person/william-morris|William Morris]], [[person/frank-lloyd-wright|Frank Lloyd Wright]]) and the first filmmakers ([[person/lumiere-brothers|Lumière Brothers]], [[person/georges-melies|Georges Méliès]], [[person/alice-guy-blache|Alice Guy-Blaché]]).\n- **Information Age:** The vault has no dedicated notes yet on art after the Second World War; digital media appear only through the [[event/digital-revolution|Digital Revolution]]."
+    },
+    {
+     "title": "Regional Patterns",
+     "text": "- **[[region/oceania|Oceania]]:** [[culture/aboriginal-australians|Aboriginal Australians]] made some of the oldest known paintings, the [[culture/lapita-culture|Lapita Culture]] decorated pottery with stamped patterns, and Polynesian carvers made the moai of [[place/rapa-nui|Rapa Nui]], about 95 percent of the island's monolithic statues carved from the volcanic tuff of a single quarry.\n- **[[region/andes|Andes]] and the [[region/amazon-basin-and-south-american-lowlands|Amazon Basin and South American Lowlands]]:** The [[culture/chinchorro-culture|Chinchorro Culture]] reconstructed and preserved its dead, the Inca built in stone at [[place/machu-picchu|Machu Picchu]], the [[culture/muisca|Muisca]] held gold rituals, and the [[culture/marajoara-culture|Marajoara Culture]] made painted and incised ceramics.\n- **[[region/sub-saharan-africa|Sub-Saharan Africa]]:** Dry-stone building at [[place/great-zimbabwe|Great Zimbabwe]], rock-hewn churches under the [[culture/zagwe-dynasty|Zagwe Dynasty]], guild-made bronzes in the [[culture/kingdom-of-benin|Kingdom of Benin]], and the oral art of griots in the [[culture/mali-empire|Mali Empire]].\n- **[[region/central-asian-steppe|Central Asian Steppe]] and [[region/central-asian-oases|Central Asian Oases]]:** The [[culture/scythians|Scythians]] made gold ornaments and preserved textiles, and the oases of [[place/samarkand|Samarkand]] under the [[culture/timurid-empire|Timurid Empire]] became a center of monumental architecture; Gandhara art under the [[culture/kushan-empire|Kushan Empire]] joined Greek and Indian styles.\n- **[[region/mesoamerica|Mesoamerica]] and [[region/north-america|North America]]:** The [[culture/olmecs|Olmecs]] carved colossal heads, [[place/teotihuacan|Teotihuacan]] and [[place/chichen-itza|Chichen Itza]] built pyramids, and Chichen Itza has the largest known Mesoamerican ball court; in North America, [[place/poverty-point|Poverty Point]] and [[place/cahokia|Cahokia]] raised earthworks at large scale, and [[place/chaco-canyon|Chaco Canyon]] built great houses with hundreds of rooms.\n- **[[region/southeast-asia|Southeast Asia]]:** [[place/borobudur|Borobudur]], [[place/angkor|Angkor]], the [[culture/pagan-kingdom|Pagan Kingdom]], and [[culture/champa|Champa]] show Buddhist and Hindu art carried by sea and by court patronage.\n- **[[region/south-asia|South Asia]] and [[region/east-asia|East Asia]]:** Gandhara, Gupta, and Chola art in the south, and Tang poetry and Ming palace building in the east, show state and temple patronage on a large scale; the [[culture/mughal-empire|Mughal Empire]] added the [[place/taj-mahal|Taj Mahal]].\n- **[[region/europe|Europe]], the [[region/mediterranean-basin|Mediterranean Basin]], and the [[region/levant-and-anatolia|Levant and Anatolia]]:** From [[place/chauvet-cave|Chauvet Cave]] and [[place/stonehenge|Stonehenge]] to Athens, Rome, Byzantium, and the Renaissance, art in these regions is tied to city, church, and court."
+    },
+    {
+     "title": "Debates and Limits",
+     "text": "- The categories of art and ritual are themselves modern, not universal. Many objects in the vault, such as pillars, urns, masks, and statues, were made for religious, political, or social purposes rather than as art in the modern sense, so this hub treats art broadly.\n- The meaning and function of prehistoric art are inferred, never known outright. Whether [[place/gobekli-tepe|Göbekli Tepe]] and [[place/stonehenge|Stonehenge]] were ritual sites is argued from their form and context, the purposes of cave paintings remain debated, and the dates of the oldest art keep being revised, as in the 2024 report of Sulawesi narrative scenes at least 51,200 years old.\n- The record itself is biased toward durable materials. Stone, pottery, and metal survive, while music, dance, wood carving, and most textiles rarely do, except in exceptional finds such as the frozen tombs at Pazyryk and in living traditions such as songlines and griot performance.\n- Ownership, attribution, and erasure all shape what is known. The Benin Bronzes were removed and sold in 1897, attribution of the Taj Mahal's chief architect remains debated, images of [[person/hatshepsut|Hatshepsut]] were defaced, and colonial-era writers denied that [[place/great-zimbabwe|Great Zimbabwe]] was built by Africans, a claim archaeology has since overturned.\n- The vault's coverage stays uneven. It holds 53 named artists (painting, sculpture, architecture, design, film, and literature, added from a compiled source, [[source/art-talk-artist-profiles|Art-Talk (Artist Profiles)]], not yet independently fact-checked), but still has no notes on music, dance, or theater as topics, none on textiles, and almost none on art after 1945; the artists themselves also skew toward Europe and toward painting, since the source selected only public-domain-licensed figures."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-056.part5"
+ },
+ "theme/language-and-writing": {
+  "src": "f8bec47ba049",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Language and writing are the twin systems through which people communicate and store what they know: speech, writing systems, numerals, record-keeping devices such as knotted cords, and the media that copy and carry all of it forward. Spoken language is universal and very old, though exactly when it arose stays uncertain; writing appeared much later, invented independently in only a few places, and then spread by contact, conquest, religion, and trade. This hub follows them from the symbolic behavior of early Homo sapiens, through clay tablets, alphabets, paper, and printing, to the telegraph and digital networks, and it also traces the spread of language families across continents. It gives equal weight to peoples who kept their records without alphabets at all.",
+   "facts": [],
+   "context": "",
+   "observer": "The Observer names these the sound-code and the mark-code. It notes that language is the species' main means of piling up knowledge across generations, and that the mark-code turns that accumulation into memory-outsourcing on a scale no single lifetime could ever hold; see [[observer-note/the-great-outsourcing-of-memory|The Great Outsourcing of Memory]]. The record shows the sound-code as universal and old, and the mark-code as late — independently invented in only a few places, and unevenly adopted, with some peoples running large states on cords, oral epics, and memorized texts instead. What gets written also shapes what actually gets remembered; see [[observer-note/who-writes-the-record|Who Writes the Record]]. This reading would weaken if unwritten systems such as oral epics and cord records turn out to preserve knowledge across centuries just as reliably as writing does.",
+   "questions": [
+    "When, and by what path, did spoken language first arise?",
+    "Can the Indus script, Linear A, and Cretan hieroglyphs ever be deciphered, and what would they actually add to the record?",
+    "Did the [[technology/quipu|Quipu]] record narrative, and not only numbers?",
+    "Why did writing arise independently in some places and not others, such as the Andes, where cords served the purpose instead?",
+    "What actually decides whether a language spreads or disappears: conquest, trade, religion, prestige, or technology?",
+    "How is digital media reshaping the ways people speak, write, and store records?"
+   ],
+   "extra": [
+    {
+     "title": "Key Threads",
+     "text": "- Spoken language runs back at least many tens of thousands of years and stands universal in [[species/homo-sapiens|Homo sapiens]], a species marked out by language, symbolic thought, and cumulative culture. Speech leaves no direct fossil trace, so its date has to be inferred from indirect evidence such as symbolic behavior; see [[event/emergence-of-symbolic-art|Emergence of Symbolic Art]].\n- Writing itself was invented independently at least three or four times. The first came in Mesopotamia about 3400 to 3200 BCE, where the earliest proto-cuneiform tablets from [[place/uruk|Uruk]] are simple accounting records ([[event/invention-of-writing|Invention of Writing]], [[culture/sumerians|Sumerians]]). Egyptian hieroglyphs appear by about 3200 BCE ([[culture/ancient-egyptians|Ancient Egyptians]]), and Chinese writing stands securely attested by about 1250 BCE in the oracle-bone inscriptions of the [[culture/shang-dynasty|Shang Dynasty]].\n- Bronze Age states left behind archives in scripts that took long ages to read, or that remain unread still. The [[culture/hittites|Hittites]] wrote in cuneiform at Hattusa and spoke the oldest recorded Indo-European language; the [[culture/mycenaean-greeks|Mycenaean Greeks]] wrote Linear B, an early form of Greek, deciphered only in 1952; the [[culture/minoans|Minoans]] used Linear A and Cretan hieroglyphs, neither of which has been deciphered; and the script of the [[culture/indus-valley-civilization|Indus Valley Civilization]] has not been deciphered either.\n- The [[technology/alphabet|Alphabet]] then put literacy within easier reach. The first alphabet, Proto-Sinaitic, appeared about 1800 BCE, adapted by Semitic-speaking workers from Egyptian hieroglyphs. The [[culture/phoenicians|Phoenicians]] spread an alphabet of about 22 letters, the Greeks added vowels in the 8th century BCE, and Latin, Cyrillic, Hebrew, Arabic, and many Indian scripts descend from or stand related to those early alphabets. The Nabataean script is widely considered an ancestor of the Arabic script ([[culture/nabataeans|Nabataeans]]), and the [[culture/kingdom-of-saba|Kingdom of Saba]] wrote in the South Arabian script.\n- Mesoamerican writing appears by roughly 600 BCE, and possibly even earlier than that. [[culture/maya|Maya]] writing combines signs for words and syllables and stands largely deciphered, and the Danzantes carvings at [[place/monte-alban|Monte Alban]] show glyphs from an early Mesoamerican writing tradition.\n- Not every complex society leaned on writing at all. The [[technology/quipu|Quipu]] recorded numbers on knotted cords in the Andes, and whether the cords also encoded other information stays debated; the Vedas were transmitted orally for centuries through elaborate memorization ([[event/vedic-period|Vedic Period]]); griots preserved the epic of [[person/sundiata-keita|Sundiata Keita]]; and [[culture/aboriginal-australians|Aboriginal Australians]] passed on knowledge through oral traditions, songlines, and ceremony.\n- Rulers leaned on writing and standard scripts to govern. The [[event/unification-of-china-under-qin|Unification of China under Qin]] standardized the script, [[person/ashoka|Ashoka]] had edicts inscribed on rocks and pillars, [[person/hammurabi|Hammurabi]]'s law code was carved on a stone stele and put on public display, the [[culture/neo-assyrian-empire|Neo-Assyrian Empire]] kept a library at Nineveh with tens of thousands of clay tablets, and the [[place/library-of-alexandria|Library of Alexandria]] supported scholarship across the Hellenistic world.\n- Decipherment has always depended on bilingual texts and on chance finds. The [[technology/rosetta-stone|Rosetta Stone]], inscribed in 196 BCE in hieroglyphs, Demotic, and Greek, was found in 1799, and Champollion announced his decipherment of hieroglyphs in 1822. The Orkhon inscriptions of the [[culture/gokturk-khaganate|Göktürk Khaganate]], erected in 732 to 735 in Mongolia and discovered in 1889, stand as the oldest known Turkic writing, and the Meroitic script of the [[culture/kingdom-of-kush|Kingdom of Kush]] has been read phonetically even though the language itself is not well understood.\n- Paper and print together lowered the cost of copying. [[technology/paper|Paper]] was developed in China by the 2nd century CE, [[technology/woodblock-printing|Woodblock Printing]] produced the Diamond Sutra of 868, and [[person/johannes-gutenberg|Johannes Gutenberg]]'s [[technology/movable-type-printing-press|Movable-Type Printing Press]] of about 1440 spread across Europe within just a few decades. Printing then helped carry Reformation pamphlets, and Luther's German New Testament appeared in 1522 and the whole Bible in 1534 ([[event/protestant-reformation|Protestant Reformation]]).\n- Languages spread as administrative tongues and as lingua francas. Greek spread widely through [[event/alexander-s-conquests|Alexander's Conquests]] and blended with local traditions; Latin and Greek together tied the [[culture/romans|Romans]]' world together; the language of the [[culture/sogdians|Sogdians]] served as a lingua franca all along the Silk Roads; Abd al-Malik made Arabic the language of government under the [[culture/umayyad-caliphate|Umayyad Caliphate]]; and Swahili, a Bantu language carrying many Arabic loanwords, grew up on the East African coast ([[culture/swahili-coast-city-states|Swahili Coast City-States]]).\n- Translation carried knowledge across languages. The [[event/translation-movement-and-the-house-of-wisdom|Translation Movement and the House of Wisdom]] rendered Greek, Persian, Syriac, and Indian works into Arabic, and scholars such as [[person/al-khwarizmi|Al-Khwarizmi]] carried the decimal place-value system with zero further west ([[technology/zero-and-place-value-notation|Zero and Place-Value Notation]]); Fibonacci's 1202 book then popularized it across Europe.\n- Language families spread right alongside migrations. The [[event/indo-european-language-spread|Indo-European Language Spread]] carried a family now spoken as a first language by roughly 40 to 46 percent of the world's population, though its homeland stays disputed; Austronesian languages spread from Taiwan from about 5,000 to 5,500 years ago as far as Madagascar and Rapa Nui, and the family now holds well over a thousand languages ([[event/austronesian-expansion|Austronesian Expansion]]); and the [[event/bantu-expansion|Bantu Expansion]], over about four thousand years, gave rise to roughly 500 languages spoken today by about 350 million people.\n- Language and law also meet in modern treaties. The English and Maori texts of the [[event/treaty-of-waitangi|Treaty of Waitangi]] differ in key words about sovereignty and chieftainship, and te reo Maori became an official language of New Zealand in 1987 ([[culture/maori|Maori]]); Article 17 of the Treaty of Wuchale read differently in Amharic and Italian, and that dispute led to war ([[event/battle-of-adwa|Battle of Adwa]]).\n- The telegraph and digital media stand as the latest forms of all. [[technology/telegraph-and-submarine-cables|Telegraph and Submarine Cables]] let messages cross whole oceans in minutes from the 1840s, and the [[technology/digital-computer|Digital Computer]] and the [[event/digital-revolution|Digital Revolution]] brought the internet (1969), the World Wide Web (1989 to 1991), and more than five billion internet users; see also [[observer-note/who-writes-the-record|Who Writes the Record]]."
+    },
+    {
+     "title": "Through the Eras",
+     "text": "- **Paleolithic:** [[species/homo-sapiens|Homo sapiens]] and the symbolic behavior of [[event/emergence-of-symbolic-art|Emergence of Symbolic Art]]. Speech has to be inferred rather than preserved, and the earliest evidence comes as engraved ochre, beads, and cave paintings; see [[era/paleolithic|Paleolithic]].\n- **Neolithic:** There was no writing yet, but farming itself may have carried language families along with it. The [[event/austronesian-expansion|Austronesian Expansion]] relied on a crop package that included rice, and one hypothesis links the origin of Indo-European to Anatolia and the spread of farming, though this stays debated ([[event/indo-european-language-spread|Indo-European Language Spread]], [[event/the-agricultural-revolution|The Agricultural Revolution]]).\n- **Bronze Age:** [[event/invention-of-writing|Invention of Writing]], the [[culture/sumerians|Sumerians]], [[place/uruk|Uruk]], [[person/hammurabi|Hammurabi]], the [[culture/hittites|Hittites]], the [[culture/mycenaean-greeks|Mycenaean Greeks]], the [[culture/minoans|Minoans]], the [[culture/shang-dynasty|Shang Dynasty]], the [[technology/alphabet|Alphabet]], the oral [[event/vedic-period|Vedic Period]], and the [[culture/indus-valley-civilization|Indus Valley Civilization]].\n- **Iron Age:** The [[culture/phoenicians|Phoenicians]], the [[culture/kingdom-of-saba|Kingdom of Saba]], the [[culture/neo-assyrian-empire|Neo-Assyrian Empire]], and the [[event/bantu-expansion|Bantu Expansion]].\n- **Classical Antiquity:** [[person/aristotle|Aristotle]], [[event/alexander-s-conquests|Alexander's Conquests]], the [[culture/romans|Romans]], the [[place/library-of-alexandria|Library of Alexandria]], the [[technology/rosetta-stone|Rosetta Stone]], [[technology/paper|Paper]], the [[event/unification-of-china-under-qin|Unification of China under Qin]] and [[person/qin-shi-huang|Qin Shi Huang]], [[person/ashoka|Ashoka]], [[place/monte-alban|Monte Alban]], the [[culture/sogdians|Sogdians]], and [[technology/zero-and-place-value-notation|Zero and Place-Value Notation]].\n- **Medieval Period:** The [[culture/maya|Maya]], the [[culture/umayyad-caliphate|Umayyad Caliphate]], [[technology/woodblock-printing|Woodblock Printing]], the [[event/translation-movement-and-the-house-of-wisdom|Translation Movement and the House of Wisdom]], [[person/al-khwarizmi|Al-Khwarizmi]], the [[culture/gokturk-khaganate|Göktürk Khaganate]], the [[culture/swahili-coast-city-states|Swahili Coast City-States]], the [[technology/quipu|Quipu]], [[person/sundiata-keita|Sundiata Keita]], [[person/ibn-battuta|Ibn Battuta]], whose account was dictated to the scholar Ibn Juzayy, and [[person/johannes-gutenberg|Johannes Gutenberg]] and the [[technology/movable-type-printing-press|Movable-Type Printing Press]].\n- **Early Modern Period:** The [[event/protestant-reformation|Protestant Reformation]] and the spread of print across the whole of Europe. English words including canoe, hammock, hurricane, and barbecue all come from [[culture/taino|Taino]].\n- **Industrial Age:** The [[technology/rosetta-stone|Rosetta Stone]] was found in 1799 and hieroglyphs were deciphered in 1822; [[person/usman-dan-fodio|Usman dan Fodio]] wrote widely in Arabic and Fulfulde; and the [[technology/telegraph-and-submarine-cables|Telegraph and Submarine Cables]] (from 1844), the differing English and Maori texts of the [[event/treaty-of-waitangi|Treaty of Waitangi]] (1840), and the differing Amharic and Italian texts behind the [[event/battle-of-adwa|Battle of Adwa]] (1896) show how both wording and the speed of transmission together shaped politics.\n- **Information Age:** The [[technology/digital-computer|Digital Computer]], the [[event/digital-revolution|Digital Revolution]], and the questions about authorship and archives raised in [[observer-note/who-writes-the-record|Who Writes the Record]]."
+    },
+    {
+     "title": "Regional Patterns",
+     "text": "- **[[region/mesopotamia|Mesopotamia]], the [[region/nile-valley|Nile Valley]], and the [[region/levant-and-anatolia|Levant and Anatolia]]:** Writing began here, in Mesopotamia and Egypt, and the alphabet arose among Semitic-speaking workers in the Levant; the Hittites and Mycenaeans show writing systems carried by different language families.\n- **[[region/east-asia|East Asia]]:** Oracle-bone writing under the Shang, script standardization under Qin, and the invention of paper, woodblock printing, and movable type (in China about 1040 and in Korea in metal in 1377) together made East Asia a true center of the written word; see [[technology/paper|Paper]] and [[technology/woodblock-printing|Woodblock Printing]].\n- **[[region/south-asia|South Asia]]:** The Vedas were transmitted purely orally, the decimal place-value system with zero developed here, Ashoka's edicts were inscribed clear across the subcontinent, and the Indus script remains undeciphered to this day.\n- **[[region/mesoamerica|Mesoamerica]] and the [[region/andes|Andes]]:** Mesoamerica developed full writing systems, of which Maya writing stands as the best known, and the Andes developed cord records in the [[technology/quipu|Quipu]] without any conventional writing at all; the two show entirely different routes to keeping records.\n- **[[region/sub-saharan-africa|Sub-Saharan Africa]]:** The [[event/bantu-expansion|Bantu Expansion]] spread roughly 500 languages, Swahili developed along the coast, griots kept the oral epics alive, and [[place/timbuktu|Timbuktu]] still holds hundreds of thousands of historical manuscripts.\n- **[[region/oceania|Oceania]] and [[region/southeast-asia|Southeast Asia]]:** Austronesian languages spread from Taiwan through the islands to Rapa Nui ([[event/austronesian-expansion|Austronesian Expansion]]), [[culture/aboriginal-australians|Aboriginal Australians]] spoke more than 250 languages before 1788, and te reo Maori became an official language of New Zealand ([[culture/maori|Maori]]).\n- **[[region/central-asian-oases|Central Asian Oases]] and the [[region/central-asian-steppe|Central Asian Steppe]]:** The [[culture/sogdians|Sogdians]] spread a lingua franca along the Silk Roads, the Orkhon inscriptions preserve early Turkic writing, and paper mills were already operating in [[place/samarkand|Samarkand]] and Baghdad by the later 8th century.\n- **[[region/siberia-and-the-arctic|Siberia and the Arctic]]:** The [[culture/yakut-sakha|Yakut (Sakha)]] are a Turkic-speaking people of northeastern Siberia, a region that came under Russian rule from the 17th century ([[event/russian-expansion-into-siberia|Russian Expansion into Siberia]])."
+    },
+    {
+     "title": "Debates and Limits",
+     "text": "- When and how spoken language actually arose remains unknown. Speech leaves no fossil at all, and estimates rest on indirect evidence from anatomy, symbolic behavior, and genetics, so they range widely.\n- Scholars agree that writing arose independently in more than one place, but not on exactly how many. This hub counts at least three or four, and whether Egyptian hieroglyphs arose independently of Mesopotamian writing has long been debated; the date of the earliest Mesoamerican writing stays uncertain too.\n- Several scripts remain undeciphered or only partly understood: the Indus script, Linear A, and Cretan hieroglyphs stay unread, the language behind Meroitic is not well understood, and whether the quipu encode more than numbers is still debated ([[technology/quipu|Quipu]]).\n- Language families, genes, and archaeology never map neatly onto one another. The homeland of Indo-European is disputed, the [[event/bantu-expansion|Bantu Expansion]] involved intermarriage and language shift as well as outright migration, and counts of languages depend heavily on how a language is even defined (estimates of the Bantu languages range from about 440 to 680).\n- This hub's coverage stays uneven. It has no notes yet on the Chinese, Arabic, or Cyrillic scripts as topics in their own right, on language endangerment and loss, or on signed languages, and it has few notes on the languages of Oceania, the Americas, and Siberia."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-058.part1"
+ },
+ "source/britannica-on-chichen-itza": {
+  "src": "3e1057050483",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "El Castillo's 365 steps — 91 on each of four stairways, plus the top platform — the equinox serpent shadow, the largest ball court in the Americas at 545 feet (about 166 m) long, and Chichen Itza's UNESCO listing in 1988.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-07-09 of britannica.com; the snapshot may differ from the current page (15,919 characters). The used-for text had credited this page with Monte Alban facts (founded about 500 BCE, Zapotec capital, Danzantes, UNESCO 1987), none of which appear here; those are now checked against EBSCO Research Starters on Monte Alban instead. The page gives the ball court as 545 feet (166 m), not 168 m. The earlier citation also named EBSCO Research Starters, 'Monte Alban'; that page was not read here, so nothing taken from it is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-060.part11"
+ },
+ "source/britannica-on-christopher-dresser": {
+  "src": "249faedca31c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source supports Dresser's birth and death dates, his years of study at the School of Design (1847-54), his 1855 professorship of artistic botany, his 1859 doctorate from Jena, and his book The Art of Decorative Design (1862).",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This is a short entry: it says the doctorate was awarded on submission of books and a paper, without calling it honorary, and it does not cover Linthorpe or the Tiffany commission."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-060.part11"
+ },
+ "source/britannica-on-continental-drift": {
+  "src": "6746ccdbafab",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Wegener proposed a detailed theory of continental drift in 1912, which later found support from seafloor spreading (Harry Hess, in the early 1960s) and from plate tectonic theory, formulated by the late 1960s.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-05-31 of britannica.com; the snapshot may differ from the current page (11,370 characters). The page does not give 1915 for Wegener's book. The earlier citation also named the Britannica 'Alfred Wegener' entry; that page was not read here, so nothing taken from it is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-060.part11"
+ },
+ "source/britannica-on-emperor-meiji": {
+  "src": "d919dabb9cd7",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Birth on 3 November 1852 at Kyoto, accession to the throne in 1867 after his father's death, the coronation ceremony and Charter Oath of Five Principles in 1868, the Meiji Constitution of 1889, and death on 30 July 1912 at age 59.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-07-20 of britannica.com; the snapshot may differ from the current page (5,268 characters). The page gives death on 30 July 1912, not 29 July; it gives no day for the accession (the earlier text said 30 January 1867 at age 14) or for the Charter Oath (6 April 1868). The earlier citation also named Wikipedia, 'Emperor Meiji' and 'Charter Oath'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-060.part11"
+ },
+ "source/britannica-on-ferdinand-de-lesseps-and-the-suez-canal": {
+  "src": "7cf366958566",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The building of the Suez Canal (1859-69) under Ferdinand de Lesseps, its official inauguration on 17 November 1869, and the British government's purchase of the khedive's canal shares in 1875.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-02-04 of britannica.com; the snapshot may differ from the current page (8,861 characters). The page does not give a length of 193 km, conscripted Egyptian labour, or the 1882 invasion; those details in the Suez Canal note are not confirmed here. The earlier citation also named HISTORY, 'Suez Canal opens,' and Wikipedia, 'Suez Canal'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-060.part11"
+ },
+ "source/britannica-on-filippo-brunelleschi": {
+  "src": "34456a99da83",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Brunelleschi's rediscovery of linear perspective, about 1410 to 1415, Alberti's codification of it in 1435, the dome of Florence Cathedral (1420-36), and the patronage of the Medici bank.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-23 of britannica.com; the snapshot may differ from the current page (22,428 characters). The page dates the perspective experiments c. 1410-15, not about 1415 alone. It does not give Burckhardt's 1860 book, or the lifespans of Leonardo, Michelangelo, and Raphael; those details in the Renaissance note are not confirmed here. The earlier citation also named Wikipedia, 'Jacob Burckhardt'; that page was not read here, so nothing taken from it is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-060.part11"
  }
 }
