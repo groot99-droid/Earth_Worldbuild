@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Earth Worldbuild</title>
+<meta name="description" content="Three ways into the vault: an illustrated history explorer, a self-contained art history timeline, and a 3D museum.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f6f2ea; --surface: #fffdf8; --text: #221d16; --muted: #6b6255; --line: #d9cfbd;
+    --accent: #9a3b1f; --shadow: 0 1px 2px rgba(40,30,10,.06), 0 8px 24px rgba(40,30,10,.08);
+    --serif: "Fraunces", Georgia, "Times New Roman", serif;
+    --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #15130f; --surface: #1f1c17; --text: #efe8dc; --muted: #a79d8e; --line: #3a342b;
+      --accent: #e08a62; --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.35);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text); font-family: var(--sans);
+    min-height: 100vh; display: flex; flex-direction: column; align-items: center;
+  }
+  .wrap { width: 100%; max-width: 880px; padding: 56px 16px 64px; }
+  h1 { font-family: var(--serif); font-size: clamp(2rem, 5vw, 2.75rem); font-weight: 600; margin: 0 0 8px; }
+  .lede { color: var(--muted); font-size: 1.05rem; line-height: 1.5; max-width: 60ch; margin: 0 0 40px; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 20px; }
+  a.card {
+    display: block; background: var(--surface); border: 1px solid var(--line); border-radius: 16px;
+    padding: 24px; text-decoration: none; color: inherit; box-shadow: var(--shadow);
+    transition: transform 160ms cubic-bezier(.2,.7,.2,1), border-color 160ms;
+  }
+  a.card:hover, a.card:focus-visible { transform: translateY(-2px); border-color: var(--accent); }
+  .card h2 { font-family: var(--serif); font-size: 1.3rem; font-weight: 600; margin: 0 0 8px; color: var(--accent); }
+  .card p { margin: 0; color: var(--muted); font-size: 0.95rem; line-height: 1.5; }
+  footer { color: var(--muted); font-size: 0.85rem; margin-top: 48px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Earth Worldbuild</h1>
+  <p class="lede">Three ways into the same vault: an illustrated history explorer, a self-contained art history timeline, and a 3D museum of paintings and buildings from across it.</p>
+  <div class="cards">
+    <a class="card" href="_Site/">
+      <h2>Earth Chronicle</h2>
+      <p>Eras, events, people, places, cultures, species and technologies &mdash; timeline, regions, graph and browse views over 963 notes.</p>
+    </a>
+    <a class="card" href="Art-Talk-main/">
+      <h2>Art Talk</h2>
+      <p>A self-contained timeline of art history figures and works drawn from the vault.</p>
+    </a>
+    <a class="card" href="_Museum/web/">
+      <h2>Chronicle Museum</h2>
+      <p>Walk through a 3D museum built from the vault's paintings and architecture.</p>
+    </a>
+  </div>
+  <footer>Earth Worldbuild &middot; groot99-droid/Earth_Worldbuild</footer>
+</div>
+</body>
+</html>
