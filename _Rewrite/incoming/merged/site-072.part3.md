@@ -77,7 +77,7 @@ I see how chiefly families marked their claim with mounds raised over generation
 
 Much of that order is gone. The mounds remain. The living nations remain.
 
-A specialist could tell me the shared imagery grew up in separate places, by separate choices, not one tradition — and if that is so, I cannot call it one meaning shared by all.
+A specialist could tell me the shared imagery reflects separate local choices more than one connected tradition — and if that is so, I cannot call it one meaning shared by all.
 --- question 1
 Did the Mississippian culture spread through migration out of Cahokia, or through neighbors adopting its practices?
 --- question 2
