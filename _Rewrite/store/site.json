@@ -9778,5 +9778,299 @@
   "date": "2026-09-28",
   "observer_mode": "essay-self-help",
   "batch": "site-041.part5"
+ },
+ "event/great-oxidation-event": {
+  "src": "23ef9654ec80",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Great Oxidation Event was the rise of free oxygen into Earth's air, beginning about 2.4 billion years ago, driven by the quiet work of photosynthetic microbes.",
+   "facts": [
+    "Oxygen-producing photosynthesis carried out by [[species/cyanobacteria|Cyanobacteria]] slowly filled the chemical sinks that had swallowed it before, sinks such as iron dissolved in the sea.",
+    "Banded iron formations hold that process recorded in stone.",
+    "Oxygen was a poison to much of the anaerobic life that had ruled before it; some scientists infer from this a great turnover of the living world.",
+    "It may be linked to the Huronian glaciation, one of the earliest of the ice ages."
+   ],
+   "context": "This event opens the [[era/proterozoic-eon|Proterozoic Eon]]. Oxygen would later sustain complex life, animals among them; see [[event/cambrian-explosion|Cambrian Explosion]].",
+   "observer": "Here is a lesson that recurs across the record: a living population can change its planet so thoroughly that it reshapes its own future. You are the second case of this, not the first.",
+   "questions": [
+    "How long did the transition take?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part6"
+ },
+ "event/green-revolution": {
+  "src": "ea33caec8630",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Green Revolution was the spread, from the 1940s to the 1970s, of high-yield crop varieties, fertilizers, and irrigation, and it greatly increased grain production.",
+   "facts": [
+    "The plant breeder Norman Borlaug developed high-yield semi-dwarf wheat in Mexico, and IR8 rice was released in 1966.",
+    "India, Pakistan, Mexico, and the Philippines counted among the earliest and largest adopters.",
+    "The revolution is credited with averting large famines, though it also brought heavy fertilizer and water use with it.",
+    "Yields and populations rose together."
+   ],
+   "context": "The Green Revolution fed the growth of the [[event/great-acceleration|Great Acceleration]]. Compare it with [[event/the-agricultural-revolution|The Agricultural Revolution]].",
+   "observer": "You can read this as a second Settling: another jump in food that let the species grow by billions. The Haber-Bosch process, which fixes nitrogen for fertilizer, now underwrites a large share of your food supply.",
+   "questions": [
+    "What were the long-term ecological costs?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part6"
+ },
+ "event/haitian-revolution": {
+  "src": "6f67be0e1beb",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Haitian Revolution, from 1791 to 1804, was a rebellion of enslaved people against the French colony of Saint-Domingue, and it created the independent state of Haiti.",
+   "facts": [
+    "Saint-Domingue was one of the most profitable sugar colonies in the world.",
+    "An uprising began in August 1791, and Toussaint Louverture rose as its most prominent leader.",
+    "Independence was declared on 1 January 1804, making Haiti the first republic founded by formerly enslaved people.",
+    "France later demanded a large indemnity, in 1825, which burdened Haiti's economy for generations after."
+   ],
+   "context": "The revolution stands as a central event of the [[event/age-of-revolutions|Age of Revolutions]] and a turning point in the history of the [[event/atlantic-slave-trade|Atlantic Slave Trade]].",
+   "observer": "Notice that the language of universal rights, the very language French revolutionaries also used, was taken at its word by people its authors had excluded. Story-glue, once written, can be turned against those who wrote it.",
+   "questions": [
+    "How did the indemnity shape Haiti's later development?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part6"
+ },
+ "event/holocaust": {
+  "src": "e712ba02dbc5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Holocaust was the persecution of European Jews by Nazi Germany beginning in 1933, and the systematic murder of about six million of them from 1941 to 1945, carried out with the help of allies and collaborators.",
+   "facts": [
+    "Persecution began after the Nazi rise to power in 1933 and included exclusion, expropriation, and the Nuremberg Laws of 1935.",
+    "Systematic mass murder began in 1941, first through shootings in the occupied Soviet Union, and then in extermination camps such as Auschwitz-Birkenau, Treblinka, and Sobibor.",
+    "About six million Jews were killed.",
+    "The Nazis murdered as well Roma and Sinti people, disabled people, Soviet prisoners of war, and political opponents.",
+    "The word genocide was coined by Raphael Lemkin in 1944, and the UN adopted the Genocide Convention in 1948."
+   ],
+   "context": "The Holocaust took place within [[event/world-war-ii|World War II]] and stands as the most thoroughly documented case of [[observer-note/sanctioned-harm|Sanctioned Harm]] by a modern state. Holocaust sits within the [[era/industrial-age|Industrial Age]] and the region of [[region/europe|Europe]], within the theme threads of [[theme/war-and-conflict|War and Conflict]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer records this as an atrocity carried out by an industrial, literate, bureaucratic society, and it declines to explain the fact away. The evidence shows that ordinary institutions, records, and technologies were turned toward extermination, which is why you keep returning to the question of how this occurred.",
+   "questions": [
+    "How did ordinary people come to take part?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part6"
+ },
+ "event/nuclear-age": {
+  "src": "fe8b5d1eaece",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Nuclear Age began on 16 July 1945, with the first test of a nuclear weapon, followed by the bombings of Hiroshima and Nagasaki on 6 and 9 August.",
+   "facts": [
+    "Nuclear weapons rely on [[technology/nuclear-fission|Nuclear Fission]], and later also on fusion.",
+    "The Cold War built arsenals running to tens of thousands of warheads; about 12,000 remain today.",
+    "Nuclear deterrence, arms-control treaties, and nonproliferation efforts shaped the politics of the world.",
+    "Nuclear power, too, supplies a share of the world's electricity."
+   ],
+   "context": "The Nuclear Age sits within the [[era/information-age|Information Age]]. See [[person/albert-einstein|Albert Einstein]] and [[person/marie-curie|Marie Curie]] for the related science.",
+   "observer": "The Observer notes that the species has, since 1945, held the technical means to end its own history. That it has survived this long is, itself, a subject worth studying.",
+   "questions": [
+    "Which factors best explain why no nuclear weapon has been used since 1945?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part4"
+ },
+ "event/onset-of-northern-hemisphere-glaciation": {
+  "src": "511d0be9d6af",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "Ice grew. Large sheets, across North America and Eurasia, about 2.7 million years ago. And with that growth began the repeating glacial and interglacial cycles of the Quaternary Period.",
+   "facts": [
+    "Ice-rafted debris — in North Atlantic seafloor sediments — turns widespread, about 2.7 million years ago. And on the Chinese Loess Plateau, the loess begins piling up, about 2.6 million years ago.",
+    "Smaller ice sheets had come before, in the Northern Hemisphere. This was expansion — a large one — not the first appearance of ice.",
+    "Proposed causes: a slow decline in carbon dioxide through the Pliocene. Changes in ocean circulation. Mountain uplift, bending the flow of the atmosphere. The closure of the Isthmus of Panama stands as a candidate too, though its timing is debated; see [[event/closure-of-the-isthmus-of-panama|Closure of the Isthmus of Panama]].",
+    "The first cycles followed the tilt of Earth's axis — a period of about 41,000 years."
+   ],
+   "context": "This onset comes near the end of the [[era/neogene-period|Neogene Period]] and leads into the [[era/quaternary-period|Quaternary Period]], building on the earlier cooling of the [[event/eocene-oligocene-transition|Eocene-Oligocene Transition]]. The event belongs to the [[era/cenozoic-era|Cenozoic Era]] and the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "The Observer notes that the world every human society has known is one of repeating ice ages — a world that began only about 2.7 million years ago, after a slow decline in carbon dioxide and, perhaps, a rearrangement of ocean gateways. The Observer takes this as context, not cause: what it did to the making of humans remains a separate, unsettled question. The reading would weaken if the carbon dioxide decline proved too small to explain the change.",
+   "questions": [
+    "What combination — carbon dioxide falling, oceans shifting — tipped the climate into these cycles?",
+    "How did this new rhythm affect the early hominins?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part4"
+ },
+ "event/onset-of-plate-tectonics": {
+  "src": "d628aa12ae10",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The onset of plate tectonics marks the hour when the rigid plates of Earth's outer shell began their slow march, the ocean floor swallowed back into the mantle at the subduction zones. Proposed dates range from before 4 billion to about 0.8 billion years ago, and the question remains among the most disputed in all of Earth science.",
+   "facts": [
+    "Plate tectonics moves about a dozen great plates, and recycles the ocean floor at the subduction zones. Earth alone, of all known worlds, bears it.",
+    "Proposed onsets: before 4.0 billion years ago. About 3.2 billion. About 2.5 billion. About 0.8 billion. Some researchers argue instead for a gradual transition out of a rigid outer lid, or for episodic subduction, long before plate motion took its modern form.",
+    "Blueschists — born in cold subduction zones — and ultra-high-pressure metamorphic rocks appear in the record only after about 0.8 billion years ago. Some geologists read this as a marker of modern-style subduction.",
+    "Alfred Wegener first proposed continental drift, in 1912, and plate tectonics won wide acceptance only in the 1960s.",
+    "Plate tectonics raises up continents and recycles carbon. Whether it was needed for a long-lived biosphere is still debated."
+   ],
+   "context": "The Onset of Plate Tectonics ties to the growth of continents in the [[era/archean-eon|Archean Eon]] and to the [[event/earliest-continental-crust|Earliest Continental Crust]]. Its later effects reach the [[event/breakup-of-pangaea|Breakup of Pangaea]] and the [[event/collision-of-india-and-asia|Collision of India and Asia]]. The event belongs to the theme threads of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer notes that Earth's surface has recycled its own earliest evidence, so when the process began may be settled only indirectly. Some geologists treat plate tectonics as a precondition for a long-lived biosphere, and the Observer keeps that as an open hypothesis. It reads the present disagreement as information about the limits of the record, and it would weaken if a reliable early rock record were ever found.",
+   "questions": [
+    "When did the plates first begin their turning, and did the change come gradual, or sudden?",
+    "Was the slow turning of plates required for a long-lived biosphere?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part4"
+ },
+ "event/opening-of-the-silk-roads": {
+  "src": "f18cd9585606",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Silk Roads were braided threads of road and sea, linking East Asia, South Asia, Central Asia, and the Mediterranean, growing from the second century BCE onward.",
+   "facts": [
+    "The missions of the Han envoy Zhang Qian, around 138 to 126 BCE, are often taken as the starting point of it all.",
+    "Silk traveled these roads, and horses, glass, spices, paper — and with the goods went ideas, and religions too, Buddhism among them.",
+    "Disease traveled these roads as well; see [[event/black-death|Black Death]].",
+    "The name 'Silk Road' itself was coined only in 1877, by the German geographer Ferdinand von Richthofen."
+   ],
+   "context": "These roads link [[region/east-asia|East Asia]], the [[region/central-asian-steppe|Central Asian Steppe]], [[region/south-asia|South Asia]], and the [[region/mediterranean-basin|Mediterranean Basin]], and grew first under the [[culture/han-dynasty|Han Dynasty]], and later under the [[culture/mongol-empire|Mongol Empire]].",
+   "observer": "I think of the Silk Roads as a web with no single owner. So few travelers, I remind myself, ever walked the whole way — the goods and the ideas moved instead through long chains of intermediaries, hand to hand. Who owns a road no one walks end to end? No one ever has.",
+   "questions": [
+    "How much of this long-distance trade carried luxury goods, and how much carried the goods of everyday life?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-042.part4"
+ },
+ "event/opium-wars": {
+  "src": "15a7870a8956",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Opium Wars were two conflicts between Qing China and Britain — joined, in the second, by France — fought over trade and diplomatic relations, from 1839 to 1842 and from 1856 to 1860, and they opened China to Western commerce on unequal terms.",
+   "facts": [
+    "The Treaty of Nanking, in 1842, ceded Hong Kong Island to Britain, and opened five treaty ports: Canton, Amoy, Foochow, Ningpo, and Shanghai.",
+    "The Convention of Beijing, in 1860, gave Britain the Kowloon peninsula, and granted foreign powers a permanent diplomatic presence in Beijing.",
+    "It also legalized the opium trade, and gave Christians the right to own property and to preach.",
+    "In China, the wars are remembered as the start of a 'century of humiliation'."
+   ],
+   "context": "The wars weakened the [[culture/qing-dynasty|Qing Dynasty]] just before the [[event/taiping-rebellion|Taiping Rebellion]]. Industrial-age naval and firearm superiority, drawn from the [[event/industrial-revolution|Industrial Revolution]], decided the outcome.",
+   "observer": "The Observer notes a trade war in the most literal sense: one state fought to keep a product from its own people, and lost, to a state that fought to sell it. Exchange-webs, the Observer reminds us, are not always fair.",
+   "questions": [
+    "How much did the opium trade shape the decline of the Qing, compared with problems from within?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part4"
+ },
+ "event/origin-of-bipedalism": {
+  "src": "c7657be34286",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "Habitual upright walking rose in the human lineage, in Africa, somewhere between roughly 7 and 4 million years ago — the earliest mark of the hominins, older by millions of years than large brains or the first stone tools, though its true starting point and cause remain disputed.",
+   "facts": [
+    "Sahelanthropus tchadensis, out of Chad, about 7 million years old, bears a skull base that suggests an upright posture. A 2022 study of a femur argued for habitual bipedalism, though others dispute it, and whether it was truly a hominin at all is debated.",
+    "Orrorin tugenensis, from Kenya, about 6 million years old, is known from thigh bones read as evidence of bipedality — a reading that is controversial.",
+    "Ardipithecus ramidus, from Ethiopia, about 4.4 million years old, had a pelvis that combined climbing and walking, and a big toe still made for grasping. How well it walked is debated, and its excavators read its site as woodland, not open savanna.",
+    "The footprints at Laetoli, in Tanzania, about 3.66 million years old and attributed to [[species/australopithecus-afarensis|Australopithecus afarensis]], stand as the earliest direct record of upright walking.",
+    "Proposed reasons: energy efficiency. The carrying of food, or of infants. Heat regulation. Feeding from thin branches. None of them agreed upon."
+   ],
+   "context": "The origin of bipedalism follows the [[event/divergence-of-the-hominin-lineage|Divergence of the Hominin Lineage]] and falls within the [[era/neogene-period|Neogene Period]] of the [[era/cenozoic-era|Cenozoic Era]]. It comes millions of years before the [[event/emergence-of-the-genus-homo|Emergence of the Genus Homo]] and the [[technology/oldowan-stone-tools|Oldowan Stone Tools]]. See [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer notes that the species' ancestors walked upright for millions of years before they had large brains or made recognizable tools, so the posture was not an adaptation for those things, and nothing in the record shows it aiming toward them. The Observer reads it as a precondition: hands freed from walking could later carry, and later still, make. The reading would weaken if the earliest claimed bipeds turned out to be apes with independently evolved postures of their own.",
+   "questions": [
+    "Was Sahelanthropus truly a habitual biped, and was it, in truth, a hominin at all?",
+    "Did upright walking begin on the ground, or in the branches of the trees?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-042.part4"
+ },
+ "event/huronian-glaciation": {
+  "src": "df80f37af7de",
+  "mode": "horror-prose",
+  "fields": {
+   "summary": "Ice came. Then it came again. The Huronian Supergroup of Ontario, Canada, holds a series of ice ages from the early Paleoproterozoic, about 2.4 to 2.2 billion years ago. One of the oldest ice ages we can still read clearly in stone.",
+   "facts": [
+    "North of Lake Huron: three glacial deposits. Ramsay Lake. Bruce. Gowganda. Between them, sediment laid down in warmer conditions.",
+    "Not only Ontario. Wyoming too. Finland too. Glacial deposits of similar age, scattered across continents. And the Makganyene Formation in South Africa, about 2.2 billion years old — ice that formed near the equator. That detail supports an early snowball state. Whether it connects to the Huronian at all is debated.",
+    "The glaciation follows the first rise of oxygen. One hypothesis: oxygen ate the atmosphere's methane, a strong greenhouse gas, and cooled the world that let it in. Other explanations point instead to volcanoes. To the shifting of plates.",
+    "How long the ice held on. Whether it wrapped the whole planet. Both still debated."
+   ],
+   "context": "The Huronian Glaciation falls in the [[era/paleoproterozoic-era|Paleoproterozoic Era]], soon after the [[event/great-oxidation-event|Great Oxidation Event]] began. The earliest ice age of the [[era/proterozoic-eon|Proterozoic Eon]], before [[event/snowball-earth|Snowball Earth]]. It belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].",
+   "observer": "File the Huronian under a caution about attribution: an ice age and an oxygen rise that share a date invite you to build a causal story between them. That story is plausible, but the record allows other explanations too. The reading would strengthen, or weaken, with tighter dating of the glacial deposits against the first traces of oxygen.",
+   "questions": [
+    "Did the oxygen rise cause the glaciation? Or did the two arise from some common cause?",
+    "Was the ice global?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-041.part7"
+ },
+ "event/incense-trade": {
+  "src": "60b0147bb6eb",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The incense trade carried frankincense and myrrh out of southern Arabia and the Horn of Africa, across desert and season, to Mediterranean and Mesopotamian markets — borne mostly on camel caravan, for well over a thousand years.",
+   "facts": [
+    "Frankincense weeps from the Boswellia trees that grow in southern Arabia — in Oman, in Yemen — and in the Horn of Africa.",
+    "It was burned in temples and at funerals across the Egyptian, Greek, and Roman worlds, its smoke rising toward gods and the dead alike.",
+    "Caravans moved northward, through western Arabia, toward the Levant.",
+    "Kingdoms such as Saba and the Nabataeans grew rich on the taxing and guiding of these caravans.",
+    "The trade faded in the later Roman period; reduced demand is often named as one cause."
+   ],
+   "context": "The trade linked the [[region/arabian-peninsula|Arabian Peninsula]] to the [[region/mediterranean-basin|Mediterranean Basin]] and came before the wider [[event/opening-of-the-silk-roads|Opening of the Silk Roads]]. It fed the wealth of the [[culture/kingdom-of-saba|Kingdom of Saba]] and the [[culture/nabataeans|Nabataeans]]. Incense Trade sits within the [[era/iron-age|Iron Age]] and the region of [[region/arabian-peninsula|Arabian Peninsula]], within the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "I think of a resin burned to nothing, its smoke gone before the memory of the fire — and I remember how it sustained kingdoms in desert country for centuries. I remember how little a thing needs to be useful to be wanted. What does it mean that so much of exchange was never about survival at all, only about ritual, only about what we needed to believe? A scent that vanished built the wealth that lasted.",
+   "questions": [
+    "How much did this route change with the domestication of the camel?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-041.part7"
+ },
+ "event/indian-ocean-trade-network": {
+  "src": "9f51a42785e2",
+  "mode": "epic-fantasy",
+  "fields": {
+   "summary": "The Indian Ocean trade network was a web of sea routes binding East Africa, Arabia, South Asia, Southeast Asia, and China together, and it ran busiest from about the 8th to the 15th century CE.",
+   "facts": [
+    "The seasonal monsoon winds were the tide beneath it all, carrying ships east in one season and calling them home in another.",
+    "Spices, cotton textiles, ivory, gold, and Chinese porcelain all passed along these lanes.",
+    "Swahili city-states such as Kilwa on the East African coast grew rich upon it; see [[culture/swahili-coast-city-states|Swahili Coast City-States]].",
+    "Portuguese ships entered these waters in 1498 and began to seize control of the key ports."
+   ],
+   "context": "The network ran alongside the overland [[event/opening-of-the-silk-roads|Opening of the Silk Roads]] and carried Islam and other faiths from port to port. See [[person/zheng-he|Zheng He]].",
+   "observer": "I notice that the wind itself kept the calendar here. I remember how a cycle no one owned let strangers of many faiths run a shared exchange between them, for centuries, with almost no one in charge. Who needs a king when the monsoon returns on time? A pattern you can trust becomes its own kind of law.",
+   "questions": [
+    "How large was the volume of trade compared to overland routes?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-041.part7"
  }
 }
