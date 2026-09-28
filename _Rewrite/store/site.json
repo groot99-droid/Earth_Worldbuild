@@ -25591,5 +25591,2057 @@
   },
   "date": "2026-09-28",
   "batch": "site-066.part2"
+ },
+ "source/wikipedia-on-cherokee-phoenix": {
+  "src": "45315e23d9c6",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the first issue date of February 21, 1828 at New Echota, its bilingual English and Cherokee format, and its status as the first newspaper published by Native Americans in the United States.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Only the lead was read; the article itself states the first-Native-newspaper status, and this was not independently checked against another source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part4"
+ },
+ "source/wikipedia-on-cherokee-syllabary": {
+  "src": "755e8a3d7a9b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs an original 86 characters, the 1828 dropping of the 86th character to leave 85, and a roughly twelve-year development beginning about 1809.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general reference article; the extracted text was a partial read, and it did not itself state that the syllabary was completed in 1821."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part4"
+ },
+ "source/wikipedia-on-chico-mendes": {
+  "src": "034bb0a2a295",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the birth date, place and family background, the 1985 founding of the National Council of Rubber Tappers, and the 1988 assassination and 1990 conviction of Darly Alves da Silva and his son Darci.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Community-edited and subject to change, it also names a third person, the employee Jerdeir Pereira, convicted alongside Darly and Darci, which the note omits without being wrong; the current article text gives no year for the Xapuri-specific rural workers' union, only 1975 for the Brasileia rubber tappers' union."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part4"
+ },
+ "source/wikipedia-on-chico-mendes-extractive-reserve": {
+  "src": "6b987095459f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 1990 start of Brazil's extractive-reserve land category, the year federal decree 99.144 of 12 March 1990 created the first such reserve.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The article documents the creation of this specific reserve rather than a full legislative history of the extractive-reserve category, noting that a broader consolidating law, the SNUC, followed in 2000."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part4"
+ },
+ "source/wikipedia-on-christopher-dresser": {
+  "src": "0a688b14225c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Dresser's birth and death dates and places, his training at the Government School of Design, the 1876-77 Japan mission and Tiffany commission, and his 1879-82 post at Linthorpe Art Pottery.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It does not mention the Jena doctorate, botany lecturing, Coalbrookdale, James Dixon & Sons, William Morris or the Bauhaus, and its body text calls the book Principles of Design (1873) while its bibliography calls it Principles of Decorative Design (1873)."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part4"
+ },
+ "source/wikipedia-on-christopher-wren": {
+  "src": "c457cdad34fa",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Wren's birth and death dates and places, his father's role, the 1669 appointment as Surveyor of Works, the count of City churches, and his burial in the crypt of St Paul's.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Wikipedia is a tertiary source, internally inconsistent on a few figures: 51 versus 52 churches, and Monument dates of 1671 to 1676 against the Monument article's 1671 to 1677."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part4"
+ },
+ "source/wikipedia-on-the-industrial-revolution": {
+  "src": "b05239ebccdc",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the start in Britain about 1760, textiles as the leading industry, Watt's patent of 1769, and the spread to continental Europe and the United States in the early 19th century.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The full reading happened on 2026-09-27, raw wikitext from the MediaWiki API, revision 1376873072, 218,350 characters converted from wikitext markup. Wikipedia carries no authority of its own, and this revision may since have been edited. An earlier citation also named World History Encyclopedia, 'The Steam Engine in the British Industrial Revolution'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part5"
+ },
+ "source/wikipedia-on-the-late-shang-and-oracle-bones": {
+  "src": "ab84d1f87bfa",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the Shang dynasty's last nine kings, from Wu Ding — beginning in the second half of the 13th century BCE — to the Zhou conquest, dated by astronomical evidence to 1046 BCE, and the late capital Yin near Anyang.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The full reading happened on 2026-09-27, raw wikitext from the MediaWiki API, revision 1376013243, 106,175 characters converted from wikitext markup. Wikipedia carries no authority of its own, and this revision may since have been edited. The article confirms Wu Ding beginning in the second half of the 13th century BCE and the Zhou conquest dated to 1046 BCE, following Pankenier's astronomical dating, and it names Anyang, but it gives no specific radiocarbon range of 1254-1197 BCE for the oracle bones, nor the name Muye for the battle."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part5"
+ },
+ "source/wikipedia-on-the-list-of-archaeological-periods": {
+  "src": "85f3c69aa725",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the Near Eastern Bronze Age dated 3300-1200 BCE and an Iron Age there beginning about 1200 BCE, varying widely by region.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The full reading happened on 2026-09-27, raw wikitext from the MediaWiki API, revision 1360612640, 10,480 characters converted from wikitext markup. Wikipedia carries no authority of its own, and this revision may since have been edited. An earlier citation also named EBSCO Research Starters, 'Bronze Age'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part5"
+ },
+ "source/wikipedia-on-the-manila-galleon": {
+  "src": "1e43adbf0f30",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the Manila-Acapulco route of 1565-1815 and Urdaneta's return route.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The full reading happened on 2026-09-27, raw wikitext from the MediaWiki API, revision 1375105254, 57,114 characters converted from wikitext markup. Wikipedia carries no authority of its own, and this revision may since have been edited."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part5"
+ },
+ "source/wikipedia-on-the-messinian-salinity-crisis": {
+  "src": "11e5b29d1cb0",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the crisis's dates at about 5.97 to 5.33 Ma, its kilometre-thick salt deposits, and the Zanclean flood.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The full reading happened on 2026-09-26, raw wikitext from the MediaWiki API, revision 1375619126, 58,253 characters converted from wikitext markup. Wikipedia carries no authority of its own, and this revision may since have been edited."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part5"
+ },
+ "source/wikipedia-on-the-neo-assyrian-empire": {
+  "src": "d04d1690dd3a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the empire's start under Adad-nirari II in 911 BCE and the fall of Nineveh in 612 BCE.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The full reading happened on 2026-09-27, raw wikitext from the MediaWiki API, revision 1373897480, 177,783 characters converted from wikitext markup. Wikipedia carries no authority of its own, and this revision may since have been edited."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part5"
+ },
+ "source/wikipedia-on-leo-tolstoy": {
+  "src": "b7b69f948f21",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Tolstoy's birth and death dates and places, his cause of death, the dates of his major works, the 1870s crisis he underwent, the 1901 excommunication, and his 1909-1910 correspondence with Gandhi.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia article that contradicts itself on the Anna Karenina date, giving 1877 in the body and 1878 in the lead, and offers only a brief account of his final days."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part3"
+ },
+ "source/wikipedia-on-leonardo-da-vinci": {
+  "src": "ae05f09b64e0",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Leonardo's birth date and parentage, the 1516 move to Clos Lucé, his death on 2 May 1519, his service under Cesare Borgia, the start of the Mona Lisa, and the sale price of the Salvator Mundi.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia article read as an extract, making it a secondary source; its dating of some works — Vitruvian Man c. 1485, Virgin of the Rocks c. 1483 to 1493 — differs from the figures given in the note."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part3"
+ },
+ "source/wikipedia-on-lessons-for-women": {
+  "src": "e2ab0a2e63f1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the seven-chapter structure, Ban Zhao's authorship of it for her daughters, and its argument that women should be educated.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article; it gives no precise composition date, so the note's about 106 CE date stays unconfirmed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part3"
+ },
+ "source/wikipedia-on-library-of-ashurbanipal": {
+  "src": "b571af6e9830",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the size of the collection, the presence of the Epic of Gilgamesh, its 19th-century discovery by Layard and Rassam, and his literacy and text-collecting.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A crowd-edited tertiary source, read through a WebFetch extraction; it notes that the original library may have held only about 10,000 distinct texts, once joinable fragments are counted."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part3"
+ },
+ "source/wikipedia-on-liliuokalani": {
+  "src": "16182c4e120b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the birth and death dates and place, the succession date and her status as the only reigning queen, the 1893 overthrow — the Committee of Safety, the US Marines, her yielding to avoid bloodshed, and her request for reinstatement — the January 1895 abdication after a failed royalist uprising, the 1897 anti-annexation petitions and the 1898 annexation, and her authorship of Aloha 'Oe and the 1898 memoir Hawaii's Story by Hawaii's Queen.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Wikipedia is a continuously edited tertiary source; the content was read live via WebFetch on the access date and could change later."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part3"
+ },
+ "source/wikipedia-on-list-of-national-treasures-of-japan-paintings": {
+  "src": "843c98440026",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the count of six National Treasure painting entries credited to Sesshū Tōyō, and the dates of Haboku Sansui (1495), Huike Offering His Arm to Bodhidharma (1496), and View of Amanohashidate (1501 to 1506).",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The six-entry count and the most-for-any-artist comparison come from counting artist cells in the list's wikitext, not from a claim stated in the article, and the list covers paintings only."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part3"
+ },
+ "source/wikipedia-on-chong-son": {
+  "src": "384493a07c17",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs his birth and death dates, his pen name, his father, his district magistrate posts, honorary ranks under King Yeongjo, and the 1711 and 1712 trips to Mount Geumgang.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read through a fetch tool that returned an AI-processed extract rather than raw text, it does not cover Yi Byeong-yeon, his followers, or the museum."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part5"
+ },
+ "source/wikipedia-on-clara-driscoll-glass-designer": {
+  "src": "ad3a917fd021",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Driscoll's leadership of the Women's Glass Cutting Department, the mid-2000s discovery of her letters by Nina Gray, and the attribution to her of the Dragonfly lamp and others.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia article read via fetched text; its details on the discovery and attribution come from a summarised fetch rather than a specialist museum source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part5"
+ },
+ "source/wikipedia-on-claude-monet": {
+  "src": "2d6e02769b6c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Monet's birth and death dates, his upbringing in Le Havre, the 1874 exhibition and Leroy's coinage of Impressionism, and the 1883 move to Giverny with its water garden.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article; the fetched text was truncated before the late-life sections, so the Grandes Decorations donation, the 1980 opening and the 1950s reception went unchecked."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part5"
+ },
+ "source/wikipedia-on-codex-leicester": {
+  "src": "086fd9e4027c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the sale of the Codex Leicester to Bill Gates by Christie's on 11 November 1994, and its price.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia article read as an extract, making it a secondary source here."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part5"
+ },
+ "source/wikipedia-on-conquest-of-the-khanate-of-sibir": {
+  "src": "ea788809704d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the force of 540 plus 300, the disputed start year (1579, 1581 or 1582), the probable October 1582 fall of Sibir, the August 1585 death and armor-drowning story, and the founding of Tyumen in 1586 and Tobolsk in 1587.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The article itself says the Siberian chronicles and English secondary sources are incomplete and contradictory, and it stays uncertain about the start year and the location of the battle at Sibir."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part5"
+ },
+ "source/wikipedia-on-cryptospores": {
+  "src": "7092cc2ab12b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the earliest land-plant cryptospores at about 470 Ma (Ordovician).",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-09-27 as raw wikitext from the MediaWiki API, revision 1362466473 (7,248 characters converted from wikitext markup). Wikipedia is not authoritative, and this revision may since have been edited. The earlier citation also named Science Alert, 'Oldest Fossilized Land Plant Spores'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part5"
+ },
+ "source/wikipedia-on-the-partition-of-india": {
+  "src": "d2cfec6cc4bb",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the independence of India and Pakistan at midnight on 15 August 1947, Radcliffe's boundary commissions, the displacement of 12-20 million people, and death estimates running from 200,000 to 2 million.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The full reading happened on 2026-09-27, raw wikitext from the MediaWiki API, revision 1376809023, 229,513 characters converted from wikitext markup. Wikipedia carries no authority of its own, and this revision may since have been edited."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part6"
+ },
+ "source/wikipedia-on-the-peasant-wedding": {
+  "src": "33b10ac36045",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source gives 1567 as the painting's date and the Kunsthistorisches Museum, Vienna, as its location, which conflicts with the 1568 given in the main Bruegel article.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Only the dating sentence and the holding museum were read here, and the painting's date is not firmly fixed across Wikipedia's own articles."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part6"
+ },
+ "source/wikipedia-on-the-settlement-of-the-americas": {
+  "src": "cd8f8c130229",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source covers the status of the Clovis-first model, the timing problem for the ice-free corridor — opening about 13,800 years ago — the coastal \"kelp highway\" hypothesis, genetic evidence for mixed Ancient North Eurasian and East Asian ancestry, and the list of contested early sites.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The full reading happened on 2026-09-27, raw wikitext from the MediaWiki API, revision 1376563863, 158,928 characters converted from wikitext markup. Wikipedia carries no authority of its own, and this revision may since have been edited. An earlier fetch on 2026-09-20 used WebFetch, returning a model-generated summary rather than the raw text; Wikipedia stays tertiary and editable. The summary still calls the White Sands dates contentious, even though the 2023 paper (see [[source/pigati-et-al-2023-white-sands-footprints|Pigati et al. 2023 White Sands Footprints]]) argued the dispute was resolved. Percentages and split dates from genetic studies were left out of the vault because they differ between studies."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part6"
+ },
+ "source/wikipedia-on-the-slave-ship": {
+  "src": "73920cc258c9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 1840 date, the possible link to the 1781 Zong massacre by way of Clarkson's 1839 book, and the coincidence with two anti-slavery conventions in London.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The article itself hedges the Zong link as a possibility rather than an established fact, and the read came through a summarising fetch tool."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part6"
+ },
+ "source/wikipedia-on-the-spanish-conquest-of-the-aztec-empire": {
+  "src": "c4a6d6df3aa1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Cortes's arrival in 1519, his Tlaxcalan allies, Malintzin's role as interpreter, and the fall of Tenochtitlan on 13 August 1521.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The full reading happened on 2026-09-27, raw wikitext from the MediaWiki API, revision 1376713140, 129,059 characters converted from wikitext markup. Wikipedia carries no authority of its own, and this revision may since have been edited."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part6"
+ },
+ "source/wikipedia-on-the-tale-of-genji": {
+  "src": "6aa0bfacf5ac",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 54-chapter structure, the hiragana script, the debated label of first novel, and the National Treasure status of the Genji Monogatari Emaki.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a general encyclopedia article, and both the composition dating and the first-novel label stay debated; the article gives no count of waka poems."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part6"
+ },
+ "source/wikipedia-on-cyrus-the-great": {
+  "src": "c462d0592c0e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the competing ancient accounts of Cyrus's death: Xenophon's peaceful death at his capital, and Ctesias's death fighting the Derbices northeast of the Syr Darya headwaters.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-audience encyclopedia article, read only as a WebFetch extract of its death section, so the fine detail of Ctesias's account stands only as summarised there."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part6"
+ },
+ "source/wikipedia-on-darius-the-great": {
+  "src": "8e5699a9a8d3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Darius I's birth and death dates, his accession in 522 BCE, the Gaumata account and the early revolts, the twenty satrapies, the Ionian Revolt, Marathon, and the succession of Xerxes I.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia article read through a WebFetch extraction; it does not confirm the Sardis-to-Susa endpoints of the Royal Road, nor that the daric was a gold coin, and it describes the daric instead as gold and silver currency."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part6"
+ },
+ "source/wikipedia-on-diego-velazquez": {
+  "src": "9025eca76987",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the baptism, the court appointment, the Italian trips, Las Meninas, the Order of Santiago, and the death dates for Velázquez.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article read via a summarising fetch; it does not cover the Prado's 1819 opening or Manet's 1865 trip to Madrid, and it gives 44 Picasso variations of Las Meninas."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part6"
+ },
+ "source/wikipedia-on-enheduanna": {
+  "src": "06cd0039ec7a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs her office and parentage, the approximate dating (fl. c. 2300 BC), the 1927 Woolley disk, the attributed hymns, the Lugal-ane episode, and the late manuscript tradition with divided opinion on authorship.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article; it gives only an approximate floruit rather than birth and death years, and it calls the disk alabaster where other sources say calcite."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part6"
+ },
+ "source/wikipedia-on-ezana-of-axum": {
+  "src": "584932745d91",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the reign span from the 320s to c. 360, the shift from disc-and-crescent to cross coinage, Frumentius as tutor and converter, and the hedged debate over the Meroe campaign.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A short article that gives no birth date and cites Munro-Hay for the dating; its reign end, c. 360, differs from the Ezana Stone article's 356."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part6"
+ },
+ "source/wikipedia-on-ezana-stone": {
+  "src": "1ae5108492bb",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the trilingual inscriptions in Ge'ez, Sabaic and Greek, the 330-to-356 reign span given there, and the campaign against the Kushites around 350.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It presents the campaign as bringing down Kush more flatly than the Ezana of Axum article, which records scholarly disagreement."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part6"
+ },
+ "source/wikipedia-on-louis-comfort-tiffany": {
+  "src": "2d71e0a8e424",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Tiffany's birth and death dates, his parentage and training, the timeline from the 1885 Tiffany Glass Company to the 1900 Tiffany Studios, the 1882 White House commission, the 1894 Favrile trademark, and the 1932 bankruptcy.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia article read via fetched text; the article says Favrile was trademarked, not patented, and it never mentions drapery glass — and the Britannica page went untried."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part4"
+ },
+ "source/wikipedia-on-majapahit": {
+  "src": "8f39ab4364dc",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the founding by Raden Wijaya after the 1293 Yuan invasion, Hayam Wuruk's reign (1350-1389), Gajah Mada, and the Nagarakretagama of 1365.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-09-27 as raw wikitext from the MediaWiki API, revision 1373017822 (223,169 characters converted from wikitext markup); Wikipedia is not authoritative, and this revision may since have been edited."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part4"
+ },
+ "source/wikipedia-on-mary-cassatt": {
+  "src": "1fe30ab23994",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs her birth and death dates and place, the 1866 move to Paris, the 1877 invitation from Degas and the Impressionist exhibitions, the Modern Woman mural and its disappearance, and her advisory role with Havemeyer.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia article; it never states the count of ten colour prints, describes the Havemeyer collecting as Impressionist rather than Old Master, and dates her Academy studies to 1861-1865."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part4"
+ },
+ "source/wikipedia-on-merneptah": {
+  "src": "fa15e5a971a1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Merneptah's place as the thirteenth son of Ramesses II, who succeeded him in 1213 BCE after his older brothers had died.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-audience encyclopedia article; the thirteenth-son ordering rests on royal records it summarises, rather than on records read at first hand."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part4"
+ },
+ "source/wikipedia-on-michelangelo": {
+  "src": "6a0964f9f071",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Michelangelo's birth and death dates and places, his 1488 apprenticeship to Ghirlandaio, the dates of the Pietà, the David and the Sistine ceiling, the 1505 tomb commission, his 1546 appointment at St Peter's, and the claim that a biography of him appeared in his lifetime.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-audience encyclopedia article; it stays silent on the secret transfer of the body, the Sistine cleaning, and whether Vasari's Lives ends with Michelangelo, and it gives the Last Judgment as 1534 to 1541 in prose but 1536 to 1541 in the work listings."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part4"
+ },
+ "source/wikipedia-on-mimar-sinan": {
+  "src": "c8c72cb68c63",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Sinan's birth and death dates, his disputed origin, the 1512 devshirme conscription, the 1539 appointment as chief architect, the sultans he served, and the number of structures credited to him.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article; the birth year and the exact appointment and death years are all given with some hedging, and the text I read did not state prize or UNESCO details for the Selimiye."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part4"
+ },
+ "source/wikipedia-on-theo-van-gogh-art-dealer": {
+  "src": "a500b4e8a1ca",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Theo's death on 25 January 1891, six months after Vincent, and his monthly financial support of Vincent from winter 1880-1881.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The read came through a page-summarising fetch tool, and the article says nothing about when the Van Gogh Museum opened."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part7"
+ },
+ "source/wikipedia-on-therkel-mathiassen": {
+  "src": "b3cbc93bca8c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the claim that Mathiassen, as the Fifth Thule Expedition's archaeologist, excavated sites such as Naujaat, and that the finds there led him to define and identify the Thule culture.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a general encyclopedia article, read via WebFetch on 2026-09-27, and its content may change as the article is edited."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part7"
+ },
+ "source/wikipedia-on-timur": {
+  "src": "e30acc2803ec",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Timur's legitimation strategy — the amir title, the puppet Chaghatayid khan Suyurghatmish, and the title güregen won through marriage to a princess of the Chinggisid line — his campaigns and their dates, the caution about massacre casualty figures, his death and burial, and the deportation of artisans to Samarkand.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The full reading happened on 2026-09-27, raw wikitext from the MediaWiki API, revision 1375969107, 117,865 characters converted from wikitext markup. Wikipedia carries no authority of its own, and this revision may since have been edited. The article spells the puppet khan's title Chaghatayid (the note used Chagatayid) and confirms directly that Timur 'could not claim the title of khan ... because he was not a descendant of Genghis Khan'. Wikipedia stays tertiary and editable. It states that most contemporary sources imply a birth in the late 1320s, conflicting with the traditional 1336. The casualty figures it quotes come from medieval chronicles and are not used in the vault as verified numbers."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part7"
+ },
+ "source/wikipedia-on-tin-sources-and-trade-during-antiquity": {
+  "src": "e4a5e61eec43",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source covers the earliest bronze objects and their low, likely unintentional, tin or arsenic content, arsenical bronze preceding tin bronze in some regions, and tin sources including Afghanistan and Cornwall and Devon in Britain.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The full reading happened on 2026-09-27, raw wikitext from the MediaWiki API, revision 1366582010, 30,233 characters converted from wikitext markup. Wikipedia carries no authority of its own, and this revision may since have been edited. The article discusses the sourcing of tin for bronze generally — arsenical bronze preceding tin bronze, Cornwall and Afghanistan among the tin sources — but it gives no 3300 BCE, or any single date, for the start of tin bronze use."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part7"
+ },
+ "source/wikipedia-on-titus-van-rijn": {
+  "src": "43bace2d276e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Titus van Rijn's birth on 22 September 1641 and his death on 4 September 1668.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a short article, a general-audience encyclopedia entry rather than a specialist source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part7"
+ },
+ "source/wikipedia-on-tomb-of-fu-hao": {
+  "src": "912722b27d3a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the intact 1976 excavation of tomb M5 at Yinxu by Zheng Zhenxiang, the object counts, the inscribed bronzes naming Mu Xin, and the sixteen human and six dog burials.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The article's itemized counts do not sum exactly to its stated total of 1,900+ pieces, and it differs from the Fu Hao article on the jade count, 755 against 775."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part7"
+ },
+ "source/wikipedia-on-francisco-goya": {
+  "src": "c477ced8294e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Goya's birth and death dates and places, his 1773 marriage to Josefa Bayeu, his 1792-93 deafness, the 1799 Caprichos, the 1863 publication of The Disasters of War, the 1814 Second and Third of May paintings, the 1819-1823 Black Paintings, and the 1824 move to Bordeaux.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The article is internally inconsistent on the date he became First Court Painter, giving 1799 in the lead and 1790 in the body, and it does not mention Rembrandt as a master, the Manet/Picasso lineage, or the Prado's holdings in the passages read."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part7"
+ },
+ "source/wikipedia-on-frumentius": {
+  "src": "9551a1afb4e4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Frumentius as Ezana's tutor, his consecration by Athanasius, traditionally dated 328, or 340 to 346 by other accounts, and his baptizing of the king.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It describes Frumentius as a Phoenician from Tyre, while the Ezana of Axum article once calls him Syrian, and the consecration date stays uncertain."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part7"
+ },
+ "source/wikipedia-on-fu-hao": {
+  "src": "bd795e7e2ea4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Fu Hao's death about 1200 BC, her status as a consort of Wu Ding, and her roles as military general and high priestess.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It gives 775 jade objects in the tomb, which conflicts with the 755 stated in the Tomb of Fu Hao article, and it offers no birth date."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part7"
+ },
+ "source/wikipedia-on-funmilayo-ransome-kuti": {
+  "src": "07eebe40c0f3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs her birth and death dates, her education, the Abeokuta Women's Union timeline and membership, the 1949 ouster of the Alake, the 1953 federation, the 1970 Lenin Peace Prize, and the 1977 raid.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia article; its attribution of the raid to unknown soldiers rests partly on a family member's later statement."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part7"
+ },
+ "source/wikipedia-on-georges-melies": {
+  "src": "79aafd551f31",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs his birth and death dates, the Lumière refusal, the Montreuil studio, the memoir-based stop-trick account, his film output, and the piracy, the 1913 bankruptcy, and the decline during the First World War.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read through the WebFetch summariser, rendered page plus raw wikitext, so exact wording is paraphrased; the passes did not confirm the 1888 theatre purchase year or any pension, and Wikipedia remains a tertiary source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part7"
+ },
+ "source/wikipedia-on-geumgang-jeondo": {
+  "src": "acaa3fc51904",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 1734 date and the classification as the 217th National Treasure on 6 August 1984, along with the up-and-down strokes for rocky peaks and the dotting method for earthen peaks.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read through a fetch tool that returned an AI-processed extract rather than raw text."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part7"
+ },
+ "source/wikipedia-on-tomyris": {
+  "src": "77fa3c59b01b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Tomyris as a 6th-century BC Massagetae queen known only from Herodotus, the 530 BC date of Cyrus's death in her battle, her refusal of marriage, and the death of her son Spargapises.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a general-audience encyclopedia article that retells Herodotus, so it verifies what the tradition says rather than what historically happened, and this read was a WebFetch extract of the page rather than a full-page reading."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part8"
+ },
+ "source/wikipedia-on-treaty-of-jaffa-1192": {
+  "src": "15197be9d964",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the September 1192 date, the terms on Jerusalem pilgrimage and the coastal strip, and the alternative name Treaty of Ramla.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The read came through an extraction tool that summarises the page, and the article gives the signing as 1 or 2 September, so the exact day stays uncertain."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part8"
+ },
+ "source/wikipedia-on-truganini": {
+  "src": "792f80037519",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Truganini's c. 1812 birth, her death in Hobart on 8 May 1876, the 1878 disinterment, the 1904 skeleton display, the 1976 cremation and scattering, and the rejection of the 'last Tasmanian Aboriginal' narrative.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a tertiary, crowd-edited source whose birthplace, Recherche Bay, differs from the Bruny Island birthplace given in some other accounts, and the exact birth year stays approximate."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part8"
+ },
+ "source/wikipedia-on-trung-sisters": {
+  "src": "1a7e8fb98930",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the sisters' identity, the Su Ding and Thi Sách trigger, the 65 strongholds, and the Hou Hanshu account of the beheading.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a tertiary encyclopedia article; the infobox birth date of c. 14 CE carries a citation-needed tag, and the co-reign of Trưng Nhị is described as ambiguous."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part8"
+ },
+ "source/wikipedia-on-trung-sisters-rebellion": {
+  "src": "1ea16da17045",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the timeline running March 40 to 43 CE, the roughly 65 towns from Hepu to Rinan, Ma Yuan's campaign of 42 CE, and the differing Chinese and Vietnamese accounts of the sisters' end.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a tertiary encyclopedia article that rests on Chinese court histories and later Vietnamese chronicles, and it gives no explicit length for the sisters' reign."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part8"
+ },
+ "source/wikipedia-on-tupaia-navigator": {
+  "src": "1216d664d9a1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Tupaia's birth c. 1725 on Ra'iatea, his flight to Tahiti after the Bora Bora invasion, his joining the Endeavour in July 1769, the August 1769 chart, and his death on 20 December 1770 at Batavia.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a general-audience encyclopedia article, internally muddled on where the Endeavour was when he joined and on the 74-versus-130 island wording, and it does not cover Taiata."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part8"
+ },
+ "source/wikipedia-on-minoan-civilization": {
+  "src": "800f54967ad6",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the Minoan chronology, trade contacts with Egypt, Cyprus, Canaan and Anatolia, the undeciphered Linear A and Cretan hieroglyphs, the Thera eruption dating discrepancy — about 1600 BCE by radiocarbon versus about 1500 BCE by Egyptian synchronisms — and Mycenaean dominance about 1450 BCE.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-09-27 as raw wikitext from the MediaWiki API, revision 1376989275 (121,265 characters converted from wikitext markup); Wikipedia is not authoritative, and this revision may since have been edited. It was also fetched on 2026-09-20 with WebFetch, which returns a model-generated summary of the page rather than the raw text — and Wikipedia stays tertiary and editable. The article notes that whether Mycenaean dominance came by conquest or by gradual cultural absorption is debated."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part5"
+ },
+ "source/wikipedia-on-mirabai": {
+  "src": "45588f6ee3a7",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Mirabai's c. 1498 birth at Kudki, her Rathore lineage, the 1516 marriage to Bhoj Raj and his 1521 death, the Rajasthani padas, the estimate that only a few hundred are authentic, the sparse early manuscripts, and the contested legends.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-audience encyclopedia article; the death year appears as c. 1546 in the infobox and as 1547 only in the legend text, and the fetched text was a tool-generated extraction rather than a verbatim page read."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part5"
+ },
+ "source/wikipedia-on-mughal-painting": {
+  "src": "1109f877e220",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Akbar's reign dates, the Persian masters of the imperial workshop, and the size and dating of the Hamzanama.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general survey article, so it offers only brief context on Basawan himself."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part5"
+ },
+ "source/wikipedia-on-murasaki-shikibu": {
+  "src": "d9aacbe03c43",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs her birth about 973 and her contested 1014 death date, along with facts on her family, education, marriage, court service, name origin, diary, and legacy.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article; her biography rests on her own diary and on sparse court records, so its dates stay approximate."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part5"
+ },
+ "source/wikipedia-on-nefertiti": {
+  "src": "0f232c6032b2",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Nefertiti's approximate lifespan, her title as Great Royal Wife, the Year 4 move of the capital to Akhetaten, her six daughters, and the question of whether she disappeared in Year 12 or Year 16.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article read through a WebFetch extraction; it calls the marriage dates uncertain, and treats the Neferneferuaten co-regency or succession theory as contested."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part5"
+ },
+ "source/wikipedia-on-nefertiti-bust": {
+  "src": "19a042e516d1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 6 December 1912 discovery by Ludwig Borchardt's team in Thutmose's workshop at Amarna, the bust's home in the Neues Museum in Berlin, and Egypt's requests for its return since 1924.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article read through a WebFetch extraction; the restitution dispute continues, and Germany's ownership claim rests on the excavation-division protocol."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part5"
+ },
+ "source/wikipedia-on-ghent-altarpiece": {
+  "src": "67e7e1933467",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Hubert's initiation of the altarpiece, Jan's completion by 1432, and the unresolved attribution between the brothers.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia; the read was through WebFetch's summarised page text, so wording was not checked line by line."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part8"
+ },
+ "source/wikipedia-on-gustav-klimt": {
+  "src": "feda8e62712f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Klimt's birth and death dates and places, his cause of death, the Faculty Paintings scandal and their 1945 destruction, and the 2023 sale of Lady with a Fan.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read through a WebFetch extraction; it did not confirm the Secession motto, the 1903 Ravenna date, or the withdrawal from the University commission."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part8"
+ },
+ "source/wikipedia-on-han-van-meegeren": {
+  "src": "488b3a2a3db0",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 1942 sale of the forged Vermeer, Christ with the Adulteress, to Hermann Göring, and its discovery in May 1945.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article; the page text was read via a summarising fetch tool rather than a raw download."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part8"
+ },
+ "source/wikipedia-on-harriet-tubman": {
+  "src": "a3ef82390992",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Tubman's birth name and place, her disputed birth year, the head injury, the 1849 escape, the roughly 13 rescue missions, her Civil War roles, and her death in Auburn on 10 March 1913.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article read through a summarising fetch that returned an excerpt, so the Combahee date and the suffrage detail were not confirmed from this page."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part8"
+ },
+ "source/wikipedia-on-haystacks-monet": {
+  "src": "8fcb853a9715",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 1890-91 dating of the Haystacks series, and the May 2019 sale of Grainstacks for $110.7 million.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article; its auction figures are as reported by Wikipedia and were not cross-checked against Sotheby's."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part8"
+ },
+ "source/wikipedia-on-hendrickje-stoffels": {
+  "src": "b3fef5da91ce",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Hendrickje Stoffels' death date of 21 July 1663.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The article says it is not clear whether she was a victim of the 1663 plague epidemic, so her cause of death remains uncertain."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part8"
+ },
+ "source/wikipedia-on-turner-bequest": {
+  "src": "e1da98ed7ae0",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the bulk of the Turner Bequest being held at Tate Britain, and its inclusion of about 100 finished and 200 unfinished oil paintings.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It gives no count for works on paper, only countless watercolours and drawings, so the 19,000 versus 30,000 figure could not be settled here, and the read came through a summarising fetch tool."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part9"
+ },
+ "source/wikipedia-on-twenty-fifth-dynasty-of-egypt": {
+  "src": "37b1c3c04563",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the point that Kashta is sometimes counted as the dynasty's first pharaoh while Piye stands as the mainstream first ruler, and the dispute over the Shabaka and Shebitku succession.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The read came through a WebFetch extraction rather than raw page text, and it gives Piye's reign as c. 747-714 BC, slightly different from the 744-714 BC in the Piye article."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part9"
+ },
+ "source/wikipedia-on-tupac-amaru-ii": {
+  "src": "7eb9a121eee8",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs his kuraka and muleteer background, his adoption of the name of Túpac Amaru I to claim Inca descent, and the birth year given as c. 1742.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a tertiary reference whose infobox birth year, c. 1742, differs from the 1738 used in older reference works, and whose Arriaga execution date, 4 November, differs from the rebellion article's 10 November."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part9"
+ },
+ "source/wikipedia-on-vaballathus": {
+  "src": "3f17bccafba9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 271-272 coinage pairing Vaballathus with Aurelian, and the subsequent adoption of the Augustus/Augusta titles.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a tertiary source, and the article does not pinpoint precisely the exact year the titles changed; the evidence points to a transition across late 271 into 272. Read via WebFetch on 2026-09-27."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part9"
+ },
+ "source/wikipedia-on-vienna-secession": {
+  "src": "2dcd687b441e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the founding date of 3 April 1897 and Klimt as the first president of the Vienna Secession.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The extraction never surfaced the motto 'To every age its art, to art its freedom', so that wording stays unverified here."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part9"
+ },
+ "source/wikipedia-on-vincent-van-gogh": {
+  "src": "31b802a7c8e4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs his birth, the shooting on 27 July and his death on 29 July 1890 at 37, the output figures of about 2,100 works and 860 oils, and the 1914 publication of the letters.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The read came through a page-summarising fetch tool that returned only part of the long article, so some section details were not retrievable."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part9"
+ },
+ "source/wikipedia-on-nezahualcoyotl-tlatoani": {
+  "src": "557bf58d01d9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs his birth and reign dates, his parentage, his father's death, his role in the Triple Alliance, the dike, and the debated poem authorship along with Ixtlilxochitl's religious claims.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article that relies on colonial-era chroniclers, and it gives no exact count of the poems attributed to him."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part6"
+ },
+ "source/wikipedia-on-noli-me-tangere-novel": {
+  "src": "e8f67a6010e5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 1887 publication of Noli Me Tángere, the 1891 sequel El Filibusterismo, and its ban by Spanish authorities in the Philippines.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read through a fetch tool that returns extracted or summarized text; the ban is stated only in general terms, without a specific decree or date."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part6"
+ },
+ "source/wikipedia-on-nur-jahan": {
+  "src": "aa3bf8daa8d9",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Nur Jahan's birth and death dates, her parentage, her marriages to Sher Afgan Khan and Jahangir, her seal and coinage, family posts, the tomb of I'timad-ud-Daulah (1622 to 1628, pietra dura), and the 1626 Mahabat Khan episode.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A crowd-edited tertiary source; it says some historians see her as the real power behind the throne, while others doubt parts of the traditional narrative, and the text I read gave no year for the Nur Jahan title."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part6"
+ },
+ "source/wikipedia-on-palenque": {
+  "src": "0fc1f111749b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the Temple of the Inscriptions as Pakal's funerary monument, holding the second-longest known Maya hieroglyphic text and recording roughly 180 years of the city's dynastic history; it also documents the Palace's enlargement during Pakal's reign.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general site-history article; it never names the Oval Palace Tablet itself, so that detail was checked against a separate, specialized source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part6"
+ },
+ "source/wikipedia-on-palmyrene-empire": {
+  "src": "208dcb8a1b97",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the coinage details for 271-272 and the 273 revolt led by Septimius Apsaios, or Antiochus, followed by Aurelian's razing of Palmyra.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary source; some secondary accounts note that the archaeological fire-damage record is less extensive than the literary tradition of destruction implies. Read via WebFetch on 2026-09-27."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part6"
+ },
+ "source/wikipedia-on-persepolis": {
+  "src": "699b405c86b5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the construction start (518-515 BCE) under Darius I, the destruction in 330 BCE, and the UNESCO listing in 1979.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-09-27 as raw wikitext from the MediaWiki API, revision 1376731595 (79,473 characters converted from wikitext markup); Wikipedia is not authoritative, and this revision may since have been edited. The earlier citation also named World History Encyclopedia's 'Alexander the Great and the Burning of Persepolis,' but those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part6"
+ },
+ "source/wikipedia-on-henry-ossawa-tanner": {
+  "src": "e1a204dad939",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Tanner's birth and death dates, his family background, his enrollment at the Pennsylvania Academy, the Salon medal for The Resurrection of Lazarus, his 1899 marriage, and his 1923 Legion of Honour.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia article read via WebFetch summary extraction, it dates The Thankful Poor to 1894, spells the wife's name Olsson, and leaves the year of the White House purchase unstated."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part9"
+ },
+ "source/wikipedia-on-hilma-af-klint": {
+  "src": "8e9e40511cbd",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs her birth and death dates, the Temple cycle's dates and count, the Steiner episode, her will, and the Guggenheim visitor figures.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article internally inconsistent on the notebook count, more than 150 notebooks in one section and 125 diaries in another, and it gives the Guggenheim show as 2019 only."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part9"
+ },
+ "source/wikipedia-on-hokusai": {
+  "src": "88471296fe05",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Hokusai's birth and death dates and birthplace, his early training, the Manga volume count, the Fuji series dating, and the age-70 postscript.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It gives the birth date as supposedly 31 October 1760, and it does not mention the 90-plus house moves, Cassatt, or the Sumida Hokusai Museum."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part9"
+ },
+ "source/wikipedia-on-iltutmish": {
+  "src": "8ab0c342f28e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Iltutmish's reign from June 1211 to 30 April 1236, and the account of his naming Razia heir in 1231.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary source, read as a fetch-tool extraction rather than the full page text; it notes that Iltutmish seems to have favoured Ruknuddin Firuz shortly before his death."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part9"
+ },
+ "source/wikipedia-on-indo-european-languages": {
+  "src": "b7e6867b7c49",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the share of the world's population speaking an Indo-European language as a first language, given as about 46 percent, or 3.2 billion, and the count of about 445 living Indo-European languages.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-09-27 as raw wikitext from the MediaWiki API, revision 1376894069 (121,994 characters converted from wikitext markup). Wikipedia is not authoritative, and this revision may since have been edited. The Harvard Gazette headline gives 'over 40 percent' for the same quantity, so estimates differ by source and year, and the vault uses a range of 40 to 46 percent."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part9"
+ },
+ "source/wikipedia-on-inwang-jesaekdo": {
+  "src": "ba5301c716b3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 1751 date and the designation of Inwang jesaekdo as the 216th National Treasure on 6 August 1984.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read through a fetch tool that returned an AI-processed extract rather than raw text, and the article does not mention Yi Byeong-yeon."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part9"
+ },
+ "source/wikipedia-on-wangari-maathai": {
+  "src": "fc6a14039222",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs her birth and death dates, the 1971 doctorate, the 1977 founding of the Green Belt Movement, the 2002 election and 2003 ministerial post, the 2004 Nobel Peace Prize, and the 2004 HIV dispute.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a general encyclopedia article that has not been checked against the Nobel Committee or Britannica pages, and the claim that she was the first woman in East and Central Africa to hold the doctorate is stated in Wikipedia's own voice."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part10"
+ },
+ "source/wikipedia-on-war-of-the-golden-stool": {
+  "src": "796ef0c65689",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Hodgson's arrival in Kumasi on 25 March 1900 and his demand for the Golden Stool, the siege and relief of the fort on 15 July 1900, the 1901 exile of Yaa Asantewaa to the Seychelles, and the fact that the Golden Stool was never captured.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a tertiary, crowd-edited reference; the article's quoted speeches come through translation and later sources, and it gives no precise annexation date."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part10"
+ },
+ "source/wikipedia-on-william-morris": {
+  "src": "81a1ef623077",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Morris's birth and death dates and places, the 1861 founding and 1875 reorganisation of his firm, the 1884 Socialist League, and the 1891 Kelmscott Press.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The read came via a WebFetch extraction rather than the raw page, and the extraction never surfaced Willow Bough or the Chaucer completion date."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part10"
+ },
+ "source/wikipedia-on-wu-ding": {
+  "src": "12daa54cea0b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the c. 1250 to 1192 BC dating of Wu Ding's reign, and notes that other chronologies differ.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The reign dates depend on which chronology is followed, and the c. 1250 to 1192 BC figures come from the state-sponsored Xia-Shang-Zhou Chronology Project."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part10"
+ },
+ "source/wikipedia-on-wu-school": {
+  "src": "43d6fe7182d6",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the statement that Shen Zhou is usually cited as the founder of the Wu School, a loose group of Ming literati painters united by shared artistic theories.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The article text read did not cover Wen Zhengming, the Four Masters, sixteenth-century dominance, or Dong Qichang, so it supports only the founder claim."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part10"
+ },
+ "source/wikipedia-on-yaa-asantewaa": {
+  "src": "93b00441482e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs her birth around 1840, her role as Queen Mother of Ejisu, the 1896 exile of Prempeh I, the March 1900 siege of Kumasi fort, her death in exile in the Seychelles on 17 October 1921, and the 1 January 1902 annexation.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "It is a tertiary, crowd-edited reference; it quotes two different versions of her council speech, and gives the birth year only as c. 1840."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-067.part10"
+ },
+ "source/wikipedia-on-iron-metallurgy-in-africa": {
+  "src": "b59593de8d5a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the earliest reported sub-Saharan iron-smelting dates: Lejja, Oboui and Gbatoro about 2000 BCE; Nok between the 9th century and 550 BCE; Djenne-Djenno about 250 BCE; the reliability problems with the oldest dates; the debate over independent invention versus diffusion; and the link between the Bantu expansion and the spread of ironworking.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-09-27 as raw wikitext from the MediaWiki API, revision 1373917179 (41,491 characters converted from wikitext markup). Wikipedia is not authoritative, and this revision may since have been edited. It was also fetched on 2026-09-20 with WebFetch, which returns a model-generated summary of the page rather than the raw text, and Wikipedia remains tertiary and editable. The article flags the oldest dates as contested, raising doubts about whether the dated charcoal is securely associated with iron-working residues, about old-carbon contamination, and about the radiocarbon plateau between 800 and 400 BCE."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part10"
+ },
+ "source/wikipedia-on-j-m-w-turner": {
+  "src": "9e6fd1f938ba",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Turner's birth and death dates and places, his burial, his father's trade, his entry to the Royal Academy Schools, his first exhibited watercolour, his election as Royal Academician, his relationship with Sarah Danby, and the size of his bequest.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article read through a summarising fetch tool; it states age 27 at election as Royal Academician, and it does not mention Ruskin's Modern Painters date, the Turner Prize, or Monet and Pissarro studying him in London."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part10"
+ },
+ "source/wikipedia-on-jan-van-eyck": {
+  "src": "552d67524ff6",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Van Eyck's birth uncertainty, his death date, his court posts, the Portugal mission, the move to Bruges, and the completion of the Ghent Altarpiece.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-purpose encyclopedia; the birth year is only given as around 1380 or 1390, and the read was through WebFetch's summarised page text."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part10"
+ },
+ "source/wikipedia-on-jane-austen": {
+  "src": "c2d59b0b156a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Austen's birth and death dates, her birthplace and sibling position, the publication years of her six novels, the anonymous publication and Henry Austen's Biographical Notice, and the debated cause of her final illness.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopaedia article read through a WebFetch summariser rather than raw page text, and the cause-of-death question remains unresolved."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part10"
+ },
+ "source/wikipedia-on-jayavarman-vii": {
+  "src": "1b7ccbc27219",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 1177 Champa sack of Angkor, his 1181 coronation, his estimated birth year, the later Khmer conquest of Champa, his Mahayana Buddhist devotion, and his building program: Angkor Thom, Bayon, Ta Prohm, Preah Khan and hospitals.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Wikipedia article content can change over time; read via WebFetch on 2026-09-27, it is a general-audience tertiary source rather than a primary epigraphic study."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part10"
+ },
+ "source/wikipedia-on-johannes-vermeer": {
+  "src": "60e67fbf57ee",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Vermeer's baptism and death dates, his marriage and guild membership, his children, his patron, the 1672 crisis, the camera obscura debate, and the 2023 Rijksmuseum exhibition.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article; the page text was read via a summarising fetch tool rather than a raw download."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-065.part10"
+ },
+ "source/wikipedia-on-philippine-revolution": {
+  "src": "a8e30c929819",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the August 1896 start of the revolution after the Katipunan was discovered, and Rizal's refusal of Bonifacio's June 1896 request that he join an armed revolution.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read through a fetch tool that returns extracted or summarized text; the extracted text never covers Rizal's execution date."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part7"
+ },
+ "source/wikipedia-on-pieter-bruegel-the-elder": {
+  "src": "2c893723cba2",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Bruegel's estimated birth range, his 1551 guild mastership, the Italy trip, the 1563 marriage and move to Brussels, his death on 9 September 1569, his sons, and the count of about forty surviving paintings.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article that hedges on his birth year and place; it did not confirm the Van Mander peasant-dress anecdote, nor a 'largest collection' claim for Vienna, where it counts twelve paintings."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part7"
+ },
+ "source/wikipedia-on-piye": {
+  "src": "7ded782de141",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Piye's reign dates, his base at Napata, the Tefnakht coalition and the regnal year 20 campaign, his return to Nubia, and his successor.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read through a WebFetch extraction rather than raw page text; the article's infobox names Shebitku as successor while noting uncertainty over his relation to Piye."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part7"
+ },
+ "source/wikipedia-on-portrait-of-adele-bloch-bauer-i": {
+  "src": "f6a84d7ae197",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the Nazi seizure of the portrait in 1941, the January 2006 arbitration ruling, and Ronald Lauder's June 2006 purchase for 135 million US dollars.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The article gives the painting date as 1903 to 1907, and treats the price as a reported figure; the extraction never named Maria Altmann."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part7"
+ },
+ "source/wikipedia-on-pre-columbian-amazon-agriculture": {
+  "src": "938abdb4f789",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the range of pre-Columbian Amazon population estimates — about 1 to 2 million at the low end, 8 to 10 million at the high end — and the dispute over whether dark earths, or terra preta, are human-made.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-09-27 as raw wikitext from the MediaWiki API, revision 1330984876 (19,838 characters converted from wikitext markup); Wikipedia is not authoritative, and this revision may since have been edited. It was also fetched on 2026-09-20 with WebFetch, which returns a model-generated summary of the page rather than the raw text, and Wikipedia stays tertiary and editable. The summary says the article does not discuss post-collapse forest regrowth, so it neither supports nor denies that claim."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part7"
+ },
+ "source/wikipedia-on-raid-on-combahee-ferry": {
+  "src": "f3d0b824b64d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 1 to 2 June 1863 date and location of the Combahee River raid, and Tubman's role in planning and intelligence.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary encyclopedia article read through a summarising fetch; it gives more than 750 freed, which sits slightly above the more than 700 given in the Tubman article, and the URL redirects to the canonical title."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part7"
  }
 }
