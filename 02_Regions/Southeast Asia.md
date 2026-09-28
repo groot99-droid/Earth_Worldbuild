@@ -51,6 +51,7 @@ The Observer treats Southeast Asia as the great intersection zone of the maritim
 - [[Champa]] (192 CE)
 - [[Srivijaya]] (650 CE)
 - [[Khmer Empire]] (802 CE)
+- [[Đại Việt]] (938 CE)
 - [[Pagan Kingdom]] (1044 CE)
 - [[Sukhothai Kingdom]] (1238 CE)
 - [[Majapahit]] (1293 CE)

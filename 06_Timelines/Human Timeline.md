@@ -78,6 +78,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 3100 BCE | [[Unification of Egypt]] | event | [[Bronze Age]] |
 | 3000 BCE | [[Austronesian Expansion]] | event | [[Bronze Age]] |
 | 3000 BCE to 1000 CE | [[Bantu Expansion]] | event | [[Iron Age]] |
+| 3000 BCE | [[Berbers]] | culture | [[Bronze Age]] |
 | 3000 BCE | [[Evenki]] | culture | [[Neolithic]] |
 | 3000 BCE to 1000 BCE | [[Indo-European Language Spread]] | event | [[Bronze Age]] |
 | 3000 BCE | [[Jerusalem]] | place | [[Bronze Age]] |
@@ -144,6 +145,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 900 BCE to 1 CE | [[Nok Culture]] | culture | [[Iron Age]] |
 | 900 BCE to 200 BCE | [[Scythians]] | culture | [[Iron Age]] |
 | 814 BCE to 146 BCE | [[Carthage]] | place | [[Iron Age]] |
+| 814 BCE to 146 BCE | [[Carthaginian Empire]] | culture | [[Iron Age]] |
 | 814 BCE to 760 BCE | [[Dido]] | person | [[Iron Age]] |
 | 800 BCE to 146 BCE | [[Ancient Greeks]] | culture | [[Classical Antiquity]] |
 | 800 BCE to 200 BCE | [[Axial Age]] | event | [[Iron Age]] |
@@ -305,6 +307,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 800 CE | [[Chichen Itza]] | place | [[Medieval Period]] |
 | 800 CE to 950 CE | [[Classic Maya Collapse]] | event | [[Medieval Period]] |
 | 800 CE to 1240 CE | [[Ghana Empire]] | culture | [[Medieval Period]] |
+| 800 CE to 1000 CE | [[Igbo-Ukwu Culture]] | culture | [[Medieval Period]] |
 | 800 CE | [[Kilwa Kisiwani]] | place | [[Medieval Period]] |
 | 800 CE to 1500 CE | [[Swahili Coast City-States]] | culture | [[Medieval Period]] |
 | 802 CE to 1431 CE | [[Angkor]] | place | [[Medieval Period]] |
@@ -321,6 +324,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 900 CE | [[Windmill]] | technology | [[Medieval Period]] |
 | 911 CE to 1194 CE | [[Normans]] | culture | [[Medieval Period]] |
 | 927 CE | [[Astrolabe]] | technology | [[Medieval Period]] |
+| 938 CE to 1802 CE | [[Đại Việt]] | culture | [[Medieval Period]] |
 | 950 CE to 1500 CE | [[Tui Tonga Empire]] | culture | [[Medieval Period]] |
 | 958 CE to 1025 CE | [[Basil II]] | person | [[Medieval Period]] |
 | 960 CE to 1279 CE | [[Song Dynasty]] | culture | [[Medieval Period]] |
@@ -338,12 +342,14 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1000 CE to 1650 CE | [[Quipu]] | technology | [[Medieval Period]] |
 | 1000 CE | [[Taino]] | culture | [[Medieval Period]] |
 | 1015 CE to 1066 CE | [[Harald Hardrada]] | person | [[Medieval Period]] |
+| 1040 CE to 1147 CE | [[Almoravid Dynasty]] | culture | [[Medieval Period]] |
 | 1044 CE to 1287 CE | [[Pagan Kingdom]] | culture | [[Medieval Period]] |
 | 1050 CE to 1350 CE | [[Cahokia]] | place | [[Medieval Period]] |
 | 1050 CE to 1270 CE | [[Kingdom of Mapungubwe]] | culture | [[Medieval Period]] |
 | 1051 CE | [[Isfahan]] | place | [[Medieval Period]] |
 | 1084 CE to 1155 CE | [[Li Qingzhao]] | person | [[Medieval Period]] |
 | 1095 CE to 1291 CE | [[Crusades]] | event | [[Medieval Period]] |
+| 1100 CE | [[Chukchi]] | culture | [[Medieval Period]] |
 | 1100 CE to 1450 CE | [[Great Zimbabwe]] | place | [[Medieval Period]] |
 | 1100 CE | [[Magnetic Compass]] | technology | [[Medieval Period]] |
 | 1100 CE | [[Timbuktu]] | place | [[Medieval Period]] |
@@ -372,6 +378,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1235 CE to 1670 CE | [[Mali Empire]] | culture | [[Medieval Period]] |
 | 1238 CE to 1438 CE | [[Sukhothai Kingdom]] | culture | [[Medieval Period]] |
 | 1242 CE to 1480 CE | [[Golden Horde]] | culture | [[Medieval Period]] |
+| 1250 CE to 1517 CE | [[Mamluk Sultanate]] | culture | [[Medieval Period]] |
 | 1250 CE | [[Maori]] | culture | [[Medieval Period]] |
 | 1250 CE to 1395 CE | [[Sarai]] | place | [[Medieval Period]] |
 | 1251 CE to 1284 CE | [[Hojo Tokimune]] | person | [[Medieval Period]] |
@@ -496,6 +503,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1650 CE | [[Maroon Communities]] | culture | [[Early Modern Period]] |
 | 1655 CE to 1692 CE | [[Port Royal]] | place | [[Early Modern Period]] |
 | 1658 CE to 1996 CE | [[Robben Island]] | place | [[Early Modern Period]] |
+| 1670 CE to 1902 CE | [[Asante Empire]] | culture | [[Early Modern Period]] |
 | 1672 CE to 1725 CE | [[Peter the Great]] | person | [[Early Modern Period]] |
 | 1676 CE to 1759 CE | [[Jeong Seon]] | person | [[Early Modern Period]] |
 | 1681 CE to 1741 CE | [[Vitus Bering]] | person | [[Early Modern Period]] |

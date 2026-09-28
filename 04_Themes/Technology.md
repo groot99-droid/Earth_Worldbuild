@@ -164,6 +164,7 @@ The Observer calls this the tool-lineage: an inheritance in which each tool make
 - [[Funan]] (100 CE)
 - [[Casarabe Culture]] (500 CE)
 - [[Norse]] (793 CE)
+- [[Igbo-Ukwu Culture]] (800 CE)
 - [[Khmer Empire]] (802 CE)
 - [[Song Dynasty]] (960 CE)
 - [[Inuit and the Thule Expansion]] (1000 CE)

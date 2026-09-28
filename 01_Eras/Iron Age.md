@@ -63,6 +63,7 @@ The Observer sees the Iron Age as a democratization of tools and, therefore, of 
 - [[Chavín Culture]] (900 BCE)
 - [[Nok Culture]] (900 BCE)
 - [[Scythians]] (900 BCE)
+- [[Carthaginian Empire]] (814 BCE)
 - [[Celts]] (800 BCE)
 - [[Etruscans]] (800 BCE)
 - [[Daoism]] (600 BCE)

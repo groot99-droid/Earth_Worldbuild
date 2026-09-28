@@ -63,6 +63,7 @@ The Observer notes that the species' longest history happened here. Every non-Af
 - [[Nok Culture]] (900 BCE)
 - [[Kingdom of Aksum]] (100 CE)
 - [[Ghana Empire]] (800 CE)
+- [[Igbo-Ukwu Culture]] (800 CE)
 - [[Swahili Coast City-States]] (800 CE)
 - [[Kanem-Bornu Empire]] (900 CE)
 - [[Kingdom of Mapungubwe]] (1050 CE)
@@ -72,6 +73,7 @@ The Observer notes that the species' longest history happened here. Every non-Af
 - [[Oyo Empire]] (1400 CE)
 - [[Songhai Empire]] (1464 CE)
 - [[Kingdom of Kongo]] (1483 CE)
+- [[Asante Empire]] (1670 CE)
 - [[Sokoto Caliphate]] (1804 CE)
 - [[Zulu Kingdom]] (1816 CE)
 

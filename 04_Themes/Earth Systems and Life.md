@@ -190,6 +190,7 @@ The Observer treats the planet as the frame for everything else, and the species
 - [[Moche Culture]] (100 CE)
 - [[Wari Empire]] (600 CE)
 - [[Ancestral Puebloans]] (700 CE)
+- [[Chukchi]] (1100 CE)
 - [[Nenets]] (1300 CE)
 - [[Yanomami]] (1940 CE)
 

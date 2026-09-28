@@ -103,6 +103,7 @@ The Observer notes that for the first time, every inhabited continent was in con
 - [[Garifuna]] (1635 CE)
 - [[Qing Dynasty]] (1644 CE)
 - [[Maroon Communities]] (1650 CE)
+- [[Asante Empire]] (1670 CE)
 
 **Places**
 - [[Elmina Castle]] (1482 CE)

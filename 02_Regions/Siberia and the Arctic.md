@@ -44,6 +44,7 @@ The Observer notes that the coldest lands of the planet hold some of the best re
 - [[Mal'ta and the Ancient North Eurasians]] (22 ka)
 - [[Evenki]] (3000 BCE)
 - [[Inuit and the Thule Expansion]] (1000 CE)
+- [[Chukchi]] (1100 CE)
 - [[Nenets]] (1300 CE)
 - [[Yakut (Sakha)]] (1300 CE)
 

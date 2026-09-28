@@ -51,6 +51,7 @@ The Observer sees the Nile as a natural clock: predictable flooding produced pre
 - [[Kingdom of Kush]] (1070 BCE)
 - [[Ptolemaic Kingdom]] (305 BCE)
 - [[Kingdom of Makuria]] (500 CE)
+- [[Mamluk Sultanate]] (1250 CE)
 
 **Places**
 - [[Nile River]] (5500 BCE)
