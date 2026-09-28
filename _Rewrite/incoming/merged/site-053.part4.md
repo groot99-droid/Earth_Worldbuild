@@ -104,7 +104,7 @@ Hebrew, Arabic, Cyrillic and many Indian scripts also descend from, or relate to
 --- context
 The alphabet follows the [[event/invention-of-writing|Invention of Writing]] and spread outward through the [[culture/phoenicians|Phoenicians]]. See [[theme/language-and-writing|Language and Writing]].
 --- observer
-The Observer notes that a system of about two dozen signs made literacy something learnable in months, not years. Simplicity made writing available to far more people.
+The Observer notes that a system of about two dozen signs made literacy something learnable in months, not years. Simplicity made writing far more widely available.
 --- question 1
 Who actually invented the first alphabet?
 

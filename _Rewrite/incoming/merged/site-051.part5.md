@@ -28,19 +28,19 @@ How much of the harassment story comes from contemporary sources and how much fr
 
 === person/seondeok
 title: Seondeok
-src: 1e9259a0dd02
+src: ca0c45b1a50a
 mode: essay-self-help
 observer_mode: confessional-poetry
 --- summary
-Queen Seondeok (about 595 to 647 CE) ruled the Korean kingdom of Silla as its first reigning queen, a period marked by Buddhist temple building, early astronomical observation and continued warfare with the rival kingdoms of Baekje and Goguryeo.
+Queen Seondeok (birth year unknown, died 647 CE) ruled the Korean kingdom of Silla as its first reigning queen, in a period marked by Buddhist temple building, early astronomical observation, and continued warfare with the rival kingdoms of Baekje and Goguryeo.
 --- fact 1
-She succeeded her father, King Jinpyeong, in 632 after he left no surviving son, becoming Silla's first female monarch in her own right.
+She succeeded her father, King Jinpyeong, in 632, after he left no surviving son, becoming Silla's first female monarch in her own right.
 --- fact 2
-Her reign saw the construction of Cheomseongdae, one of the oldest surviving astronomical observatories in East Asia, and the Hwangnyongsa nine-story pagoda, built to help protect the kingdom according to Buddhist belief.
+Her reign saw the construction of Cheomseongdae, often described as one of the oldest surviving astronomical observatories in East Asia, and the Hwangnyongsa nine-story pagoda, raised to help protect the kingdom according to Buddhist belief.
 --- fact 3
-Silla faced repeated attacks from Baekje during her reign, including the loss of border fortresses, and she sent her general Kim Yushin and diplomat Kim Chunchu, later King Muyeol, to negotiate a military alliance with Tang China.
+Silla faced repeated attacks from Baekje during her reign, including the loss of border fortresses, and she decided to form a military alliance with Tang China, a negotiation traditionally credited to her general Kim Yushin and diplomat Kim Chunchu, later King Muyeol.
 --- fact 4
-A rebellion by the noble Bidam against her rule broke out in 647 and was suppressed by Kim Yushin shortly after her death that same year, which some accounts link to the unrest.
+A rebellion by the noble Bidam against her rule broke out in 647 and was suppressed by Kim Yushin and Kim Alcheon shortly after her death that same year, an event some accounts link to the unrest.
 --- context
 Seondeok ruled in [[region/east-asia|East Asia]] during the [[era/medieval-period|Medieval Period]], and the Tang alliance her court pursued eventually enabled Silla's unification of most of the Korean peninsula after her reign. See [[theme/religion-and-belief|Religion and Belief]], [[theme/science|Science]] and [[theme/kinship-and-society|Kinship and Society]].
 --- observer
