@@ -5,29 +5,29 @@ title: Alice Guy-Blaché
 type: person
 date: 1873 – 1968
 themes: art, technology
-src: 9604bef072f0
+src: 1639ca0fc0b5
 mode: essay-self-help
 observer_mode: confessional-poetry
 --- summary
 Alice Guy-Blaché (1873 to 1968) was a French filmmaker who began directing at the Gaumont Film Company in Paris in 1896, and later became the first woman to found and run her own film studio. She is credited as one of cinema's earliest narrative directors, though her work was erased from film history for most of the twentieth century.
 --- fact 1
-Born in Saint-Mandé, France, in 1873, she became Léon Gaumont's secretary in 1894, as his company moved into motion pictures.
+Born in Saint-Mandé, France, in 1873, she was hired in 1894 as a secretary at a camera and photography supply company, which Léon Gaumont and partners took over in 1895 as it moved into motion pictures.
 --- fact 2
-After seeing an early demonstration film, she won permission to direct in her spare time, and the result, La Fée aux choux (1896), is often called cinema's first narrative film.
+After seeing an early demonstration film, she won permission to direct in her spare time; the result, traditionally given as La Fée aux choux (1896), is often called cinema's first narrative film, though its title is uncertain, and that 1896 film appears to be lost, with the surviving 1900 and 1902 versions being different films.
 --- fact 3
 She rose to head of production at Gaumont, experimenting with hand-tinted colour and an early sound process, Phonoscènes, and in 1906 satirized gender roles in the reversal comedy Les Résultats du féminisme.
 --- fact 4
-In 1907 she married cameraman Herbert Blaché, moved to the United States, and in 1910 co-founded the Solax Company in New Jersey, later becoming its president.
+In 1907 she married cameraman Herbert Blaché, moved to the United States, and in 1910 co-founded the Solax Company in Flushing, New York, where she served as artistic director, with a new plant at Fort Lee, New Jersey following in 1912.
 --- fact 5
 At Solax she directed social dramas such as Making an American Citizen and Falling Leaves (1912), addressing immigration and domestic abuse more directly than most of her peers.
 --- fact 6
-Financial strain, Hollywood's rise, and an 1922 divorce ended Solax; she returned to France unable to direct again, and died in New Jersey in 1968.
+She was forced to auction her studio in bankruptcy in 1921, and Hollywood's rise together with a 1922 divorce ended the couple's film partnership; she returned to France unable to direct again, and died in New Jersey in 1968.
 --- fact 7
-For decades her films were credited to male colleagues, until 1970s scholarship, drawing on her memoir and studio records, restored her authorship.
+For decades she was largely absent from the historical record, and her films were reportedly credited to male colleagues, until 1970s scholarship, drawing on her memoir and studio records, restored her authorship.
 --- context
 Guy-Blaché worked in Paris and then New Jersey, within [[region/europe|Europe]]'s [[era/industrial-age|Industrial Age]], as film crossed the Atlantic. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/technology|Technology]].
 --- observer
-I see a woman who took a device built to record motion and turned it into a stage for invented stories, folding a fairy tale into a new lineage of tools almost as soon as the tools existed. What came after tells me more: for decades her work was catalogued under male colleagues' names, erasing a working director from her own trade's memory even while the films themselves survived. That her authorship needed a later memoir and buried studio records to be restored — what does that tell me about how thin an industry's memory can be for someone it has already decided is low-status? Her reversal comedy, imagining a world ruled by women, reads to me as an experiment: show an audience its own arrangements as built, not natural. Her frustrated later years I know mainly from her own testimony — which is to say, I know them mainly from her.
+I see a woman who took a device built to record motion and turned it into a stage for invented stories, folding a fairy tale into a new lineage of tools almost as soon as the tools existed. What came after tells me more: for decades her work was reportedly catalogued under male colleagues' names, erasing a working director from her own trade's memory even while the films themselves survived. That her authorship needed a later memoir and buried studio records to be restored — what does that tell me about how thin an industry's memory can be for someone it has already decided is low-status? Her reversal comedy, imagining a world ruled by women, reads to me as an experiment: show an audience its own arrangements as built, not natural. Her frustrated later years I know mainly from her own testimony — which is to say, I know them mainly from her.
 --- question 1
 How many of Guy-Blaché's hundreds of lost films might still surface, and how much of her Gaumont-era output remains misattributed even today?
 
