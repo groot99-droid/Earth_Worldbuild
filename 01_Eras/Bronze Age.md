@@ -72,6 +72,7 @@ The Observer notes that the first states and the first writing arrived together.
 - [[Shang Dynasty]] (1600 BCE)
 - [[Hinduism]] (1500 BCE)
 - [[Mixtec]] (1500 BCE)
+- [[Zhou Dynasty]] (1046 BCE)
 
 **Places**
 - [[Uruk]] (4000 BCE)

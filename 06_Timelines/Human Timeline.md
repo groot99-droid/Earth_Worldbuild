@@ -134,6 +134,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1200 BCE to 400 BCE | [[Olmecs]] | culture | [[Iron Age]] |
 | 1200 BCE to 300 BCE | [[Phoenicians]] | culture | [[Iron Age]] |
 | 1070 BCE to 350 CE | [[Kingdom of Kush]] | culture | [[Iron Age]] |
+| 1046 BCE to 256 BCE | [[Zhou Dynasty]] | culture | [[Bronze Age]] |
 | 1025 BCE to 586 BCE | [[Kingdom of Israel and Judah]] | culture | [[Iron Age]] |
 | 1000 BCE | [[Amazon River]] | place | [[Bronze Age]] |
 | 1000 BCE to 300 CE | [[Incense Trade]] | event | [[Iron Age]] |
@@ -227,8 +228,10 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 100 BCE to 550 CE | [[Teotihuacan]] | place | [[Classical Antiquity]] |
 | 69 BCE to 30 BCE | [[Cleopatra VII]] | person | [[Classical Antiquity]] |
 | 63 BCE to 14 CE | [[Augustus]] | person | [[Classical Antiquity]] |
+| 57 BCE to 935 CE | [[Silla]] | culture | [[Iron Age]] |
 | 54 BCE to 53 BCE | [[Ambiorix]] | person | [[Classical Antiquity]] |
 | 40 BCE to 10 BCE | [[Amanirenas]] | person | [[Classical Antiquity]] |
+| 37 BCE to 668 CE | [[Goguryeo]] | culture | [[Iron Age]] |
 | 1 CE to 25 CE | [[Amanitore]] | person | [[Classical Antiquity]] |
 | 30 CE | [[Christianity]] | culture | [[Classical Antiquity]] |
 | 30 CE to 375 CE | [[Kushan Empire]] | culture | [[Classical Antiquity]] |
@@ -273,6 +276,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 552 CE to 744 CE | [[Göktürk Khaganate]] | culture | [[Medieval Period]] |
 | 555 CE to 619 CE | [[Khadija bint Khuwaylid]] | person | [[Medieval Period]] |
 | 570 CE to 632 CE | [[Muhammad]] | person | [[Medieval Period]] |
+| 581 CE to 618 CE | [[Sui Dynasty]] | culture | [[Medieval Period]] |
 | 600 CE | [[Porcelain]] | technology | [[Medieval Period]] |
 | 600 CE to 1050 CE | [[Wari Empire]] | culture | [[Medieval Period]] |
 | 602 CE to 664 CE | [[Xuanzang]] | person | [[Medieval Period]] |
@@ -320,6 +324,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 900 CE to 1893 CE | [[Kanem-Bornu Empire]] | culture | [[Medieval Period]] |
 | 900 CE to 1100 CE | [[Kupe]] | person | [[Medieval Period]] |
 | 900 CE to 1628 CE | [[Nan Madol]] | place | [[Medieval Period]] |
+| 900 CE to 1550 CE | [[Tapajós Culture]] | culture | [[Medieval Period]] |
 | 900 CE to 1150 CE | [[Toltec]] | culture | [[Medieval Period]] |
 | 900 CE | [[Windmill]] | technology | [[Medieval Period]] |
 | 911 CE to 1194 CE | [[Normans]] | culture | [[Medieval Period]] |
@@ -347,6 +352,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1050 CE to 1350 CE | [[Cahokia]] | place | [[Medieval Period]] |
 | 1050 CE to 1270 CE | [[Kingdom of Mapungubwe]] | culture | [[Medieval Period]] |
 | 1051 CE | [[Isfahan]] | place | [[Medieval Period]] |
+| 1077 CE to 1231 CE | [[Khwarazmian Empire]] | culture | [[Medieval Period]] |
 | 1084 CE to 1155 CE | [[Li Qingzhao]] | person | [[Medieval Period]] |
 | 1095 CE to 1291 CE | [[Crusades]] | event | [[Medieval Period]] |
 | 1100 CE | [[Chukchi]] | culture | [[Medieval Period]] |
@@ -384,6 +390,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1251 CE to 1284 CE | [[Hojo Tokimune]] | person | [[Medieval Period]] |
 | 1253 CE to 1325 CE | [[Amir Khusrau]] | person | [[Medieval Period]] |
 | 1267 CE to 1337 CE | [[Giotto]] | person | [[Medieval Period]] |
+| 1271 CE to 1368 CE | [[Yuan Dynasty]] | culture | [[Medieval Period]] |
 | 1274 CE to 1329 CE | [[Robert the Bruce]] | person | [[Medieval Period]] |
 | 1280 CE to 1337 CE | [[Mansa Musa]] | person | [[Medieval Period]] |
 | 1286 CE | [[Eyeglasses]] | technology | [[Medieval Period]] |
@@ -408,6 +415,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1371 CE to 1433 CE | [[Zheng He]] | person | [[Medieval Period]] |
 | 1373 CE to 1399 CE | [[Jadwiga]] | person | [[Medieval Period]] |
 | 1390 CE to 1441 CE | [[Jan van Eyck]] | person | [[Medieval Period]] |
+| 1392 CE to 1897 CE | [[Joseon Dynasty]] | culture | [[Medieval Period]] |
 | 1394 CE to 1449 CE | [[Ulugh Beg]] | person | [[Medieval Period]] |
 | 1400 CE to 1468 CE | [[Johannes Gutenberg]] | person | [[Medieval Period]] |
 | 1400 CE to 1511 CE | [[Malacca Sultanate]] | culture | [[Medieval Period]] |

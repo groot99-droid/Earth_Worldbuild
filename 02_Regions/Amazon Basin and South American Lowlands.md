@@ -42,6 +42,7 @@ The Observer notes how the phrase 'untouched wilderness' can hide a history of l
 - [[Tupi-Guarani]] (3000 BCE)
 - [[Marajoara Culture]] (400 CE)
 - [[Casarabe Culture]] (500 CE)
+- [[Tapajós Culture]] (900 CE)
 - [[Yanomami]] (1940 CE)
 
 **Places**

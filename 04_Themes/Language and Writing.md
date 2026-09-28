@@ -152,6 +152,7 @@ The Observer calls these the sound-code and the mark-code. It notes that languag
 - [[Đại Việt]] (938 CE)
 - [[Sukhothai Kingdom]] (1238 CE)
 - [[Maori]] (1250 CE)
+- [[Joseon Dynasty]] (1392 CE)
 - [[Cherokee]] (1540 CE)
 - [[Garifuna]] (1635 CE)
 

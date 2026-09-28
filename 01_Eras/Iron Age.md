@@ -75,6 +75,8 @@ The Observer sees the Iron Age as a democratization of tools and, therefore, of 
 - [[Shinto]] (300 BCE)
 - [[Parthian Empire]] (247 BCE)
 - [[Yuezhi]] (200 BCE)
+- [[Silla]] (57 BCE)
+- [[Goguryeo]] (37 BCE)
 
 **Places**
 - [[Tikal]] (1000 BCE)
