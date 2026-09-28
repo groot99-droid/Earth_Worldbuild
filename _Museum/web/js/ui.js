@@ -57,8 +57,8 @@ export function createUI({ manifest, manifestIndex, controls, interactions, hud,
       <table>
         <tr><td><kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> / arrows</td><td>walk</td></tr>
         <tr><td>mouse</td><td>look around (click the view to capture the mouse; drag if your browser blocks it)</td></tr>
-        <tr><td>click / <kbd>E</kbd></td><td>read the placard of the work under the crosshair</td></tr>
-        <tr><td><kbd>M</kbd></td><td>floor plan: click a room to go there</td></tr>
+        <tr><td>click / <kbd>E</kbd></td><td>read the work or sculpture under the crosshair · go through the door you are looking at</td></tr>
+        <tr><td><kbd>M</kbd></td><td>floor plan: click a door to go through it, a room to go there</td></tr>
         <tr><td><kbd>Tab</kbd></td><td>go to an artist or work (filter, teleport, guide trail)</td></tr>
         <tr><td><kbd>Space</kbd> <kbd>N</kbd> <kbd>P</kbd></td><td>guided tour: pause, next, previous</td></tr>
         <tr><td><kbd>Esc</kbd></td><td>close panels, end the tour, release the mouse</td></tr>
@@ -118,9 +118,9 @@ export function createUI({ manifest, manifestIndex, controls, interactions, hud,
   if (btnTour) btnTour.addEventListener('click', (e) => { e.stopPropagation(); tour.start({ works: tourWorks() }); });
   if (btnResume) {
     btnResume.hidden = !(persist && persist.hasSave());
-    btnResume.addEventListener('click', (e) => {
+    btnResume.addEventListener('click', async (e) => {
       e.stopPropagation();
-      if (persist) persist.restore();
+      if (persist) await persist.restore();
       enter();
     });
   }

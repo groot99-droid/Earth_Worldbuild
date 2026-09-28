@@ -1,0 +1,8938 @@
+{
+ "_schema": "work-dimensions v1",
+ "built": "2026-09-28T23:21Z",
+ "notes": "Real-world sizes in metres (h_m × w_m); disp_* is what the museum hangs (scale < 1 = shown at 1:N). Add \"lock\": true to an entry to keep a hand correction.",
+ "works": {
+  "a-trip-to-the-moon": {
+   "h_m": 0.6,
+   "w_m": 0.5837,
+   "px": [
+    250,
+    257
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.5837
+  },
+  "adam-and-eve": {
+   "h_m": 0.252,
+   "w_m": 0.194,
+   "px": [
+    708,
+    900
+   ],
+   "type": "print",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.252,
+   "disp_w": 0.194
+  },
+  "adele-bloch-bauer-i": {
+   "h_m": 0.55,
+   "w_m": 0.55,
+   "px": [
+    900,
+    900
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.55
+  },
+  "ahuehuete-noche-triste": {
+   "h_m": 1.0,
+   "w_m": 0.7144,
+   "px": [
+    643,
+    900
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.7144
+  },
+  "akbar-and-hawai": {
+   "h_m": 0.32,
+   "w_m": 0.2027,
+   "px": [
+    570,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.2027
+  },
+  "alexander-and-the-hermit": {
+   "h_m": 0.32,
+   "w_m": 0.2137,
+   "px": [
+    601,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.2137
+  },
+  "alexander-nevsky": {
+   "h_m": 0.6,
+   "w_m": 0.831,
+   "px": [
+    500,
+    361
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.831
+  },
+  "allegory-of-painting": {
+   "h_m": 0.986,
+   "w_m": 0.752,
+   "px": [
+    666,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.986,
+   "disp_w": 0.752
+  },
+  "almond-blossoms": {
+   "h_m": 0.733,
+   "w_m": 0.924,
+   "px": [
+    900,
+    711
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.733,
+   "disp_w": 0.924
+  },
+  "altarpiece-1": {
+   "h_m": 0.55,
+   "w_m": 0.4198,
+   "px": [
+    687,
+    900
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.4198
+  },
+  "anatomy-lesson": {
+   "h_m": 1.695,
+   "w_m": 2.165,
+   "px": [
+    900,
+    678
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.695,
+   "disp_w": 2.165
+  },
+  "anna-karenina": {
+   "h_m": 0.28,
+   "w_m": 0.1742,
+   "px": [
+    560,
+    900
+   ],
+   "type": "book-page",
+   "source": "default:book-page",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.1742
+  },
+  "annunciation": {
+   "h_m": 0.98,
+   "w_m": 2.17,
+   "px": [
+    900,
+    413
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.98,
+   "disp_w": 2.17
+  },
+  "arnolfini-portrait": {
+   "h_m": 0.55,
+   "w_m": 0.4021,
+   "px": [
+    658,
+    900
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.4021
+  },
+  "arrival-of-a-train": {
+   "h_m": 0.6,
+   "w_m": 0.9137,
+   "px": [
+    900,
+    591
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.9137
+  },
+  "autumn-and-winter-landscapes": {
+   "h_m": 0.294,
+   "w_m": 0.464,
+   "px": [
+    900,
+    555
+   ],
+   "type": "hanging-scroll",
+   "source": "medium",
+   "note": "medium says 'each'; swapped to match the image aspect",
+   "scale": 1.0,
+   "disp_h": 0.294,
+   "disp_w": 0.464
+  },
+  "bakyeon-falls": {
+   "h_m": 1.195,
+   "w_m": 0.522,
+   "px": [
+    373,
+    900
+   ],
+   "type": "hanging-scroll",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.195,
+   "disp_w": 0.522
+  },
+  "basilica-palladiana": {
+   "h_m": 1.0,
+   "w_m": 1.6275,
+   "px": [
+    900,
+    553
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.6275
+  },
+  "battle-of-the-ascetics": {
+   "h_m": 0.32,
+   "w_m": 0.2048,
+   "px": [
+    576,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.2048
+  },
+  "battleship-potemkin": {
+   "h_m": 0.6,
+   "w_m": 0.7075,
+   "px": [
+    250,
+    212
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.7075
+  },
+  "bedroom-in-arles": {
+   "h_m": 0.724,
+   "w_m": 0.913,
+   "px": [
+    900,
+    715
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.724,
+   "disp_w": 0.913
+  },
+  "beethoven-frieze": {
+   "h_m": 1.0,
+   "w_m": 1.4085,
+   "px": [
+    900,
+    639
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.4085
+  },
+  "bernardino-campi": {
+   "h_m": 1.11,
+   "w_m": 1.1,
+   "px": [
+    900,
+    863
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.11,
+   "disp_w": 1.1
+  },
+  "boating-on-an-autumn-river": {
+   "h_m": 1.6,
+   "w_m": 0.4462,
+   "px": [
+    251,
+    900
+   ],
+   "type": "hanging-scroll",
+   "source": "default:hanging-scroll",
+   "scale": 1.0,
+   "disp_h": 1.6,
+   "disp_w": 0.4462
+  },
+  "boy-with-a-basket-of-fruit": {
+   "h_m": 0.7,
+   "w_m": 0.67,
+   "px": [
+    819,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.67
+  },
+  "brahmacharis": {
+   "h_m": 0.865,
+   "w_m": 1.445,
+   "px": [
+    900,
+    548
+   ],
+   "type": "painting",
+   "source": "medium",
+   "note": "swapped to match the image aspect",
+   "scale": 1.0,
+   "disp_h": 0.865,
+   "disp_w": 1.445
+  },
+  "brides-toilet": {
+   "h_m": 0.86,
+   "w_m": 1.445,
+   "px": [
+    900,
+    531
+   ],
+   "type": "painting",
+   "source": "medium",
+   "note": "swapped to match the image aspect",
+   "scale": 1.0,
+   "disp_h": 0.86,
+   "disp_w": 1.445
+  },
+  "burning-of-parliament": {
+   "h_m": 0.92,
+   "w_m": 1.23,
+   "px": [
+    900,
+    670
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.92,
+   "disp_w": 1.23
+  },
+  "calling-of-saint-matthew": {
+   "h_m": 3.22,
+   "w_m": 3.4,
+   "px": [
+    900,
+    850
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 3.22,
+   "disp_w": 3.4
+  },
+  "campanile": {
+   "h_m": 1.0,
+   "w_m": 0.6667,
+   "px": [
+    600,
+    900
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.6667
+  },
+  "cardon-oaxaca": {
+   "h_m": 1.0,
+   "w_m": 0.75,
+   "px": [
+    675,
+    900
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.75
+  },
+  "casa-batllo": {
+   "h_m": 1.0,
+   "w_m": 0.8122,
+   "px": [
+    731,
+    900
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.8122
+  },
+  "casa-mila": {
+   "h_m": 1.0,
+   "w_m": 1.2839,
+   "px": [
+    900,
+    701
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.2839
+  },
+  "casa-vicens": {
+   "h_m": 1.0,
+   "w_m": 1.3333,
+   "px": [
+    900,
+    675
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.3333
+  },
+  "cat-on-an-autumn-day": {
+   "h_m": 1.0,
+   "w_m": 0.6378,
+   "px": [
+    500,
+    784
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.6378
+  },
+  "cheongpunggye": {
+   "h_m": 1.6,
+   "w_m": 0.6014,
+   "px": [
+    330,
+    878
+   ],
+   "type": "hanging-scroll",
+   "source": "default:hanging-scroll",
+   "scale": 1.0,
+   "disp_h": 1.6,
+   "disp_w": 0.6014
+  },
+  "childrens-games": {
+   "h_m": 0.55,
+   "w_m": 0.7569,
+   "px": [
+    900,
+    654
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.7569
+  },
+  "christ-carrying-the-cross": {
+   "h_m": 0.767,
+   "w_m": 0.835,
+   "px": [
+    900,
+    886
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.767,
+   "disp_w": 0.835
+  },
+  "composition-iv": {
+   "h_m": 1.595,
+   "w_m": 2.505,
+   "px": [
+    900,
+    643
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.595,
+   "disp_w": 2.505
+  },
+  "composition-vi": {
+   "h_m": 1.95,
+   "w_m": 3.0,
+   "px": [
+    900,
+    599
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.95,
+   "disp_w": 3.0
+  },
+  "composition-vii": {
+   "h_m": 2.0,
+   "w_m": 3.0,
+   "px": [
+    900,
+    598
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 2.0,
+   "disp_w": 3.0
+  },
+  "composition-viii": {
+   "h_m": 1.4,
+   "w_m": 2.01,
+   "px": [
+    900,
+    623
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.4,
+   "disp_w": 2.01
+  },
+  "conquest-of-the-pole": {
+   "h_m": 0.6,
+   "w_m": 0.3967,
+   "px": [
+    595,
+    900
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.3967
+  },
+  "consequences-of-feminism": {
+   "h_m": 0.6,
+   "w_m": 0.4733,
+   "px": [
+    710,
+    900
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.4733
+  },
+  "construction-of-khawarnaq": {
+   "h_m": 0.32,
+   "w_m": 0.24,
+   "px": [
+    675,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.24
+  },
+  "crabs": {
+   "h_m": 1.0,
+   "w_m": 0.7189,
+   "px": [
+    647,
+    900
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.7189
+  },
+  "creation-of-adam": {
+   "h_m": 2.8,
+   "w_m": 5.7,
+   "px": [
+    900,
+    409
+   ],
+   "type": "fresco",
+   "source": "medium",
+   "note": "medium says 'part of'",
+   "scale": 0.5,
+   "disp_h": 1.4,
+   "disp_w": 2.85
+  },
+  "cycles-perfecta": {
+   "h_m": 1.0,
+   "w_m": 0.71,
+   "px": [
+    639,
+    900
+   ],
+   "type": "poster",
+   "source": "default:poster",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.71
+  },
+  "dancing-dervishes": {
+   "h_m": 0.32,
+   "w_m": 0.1973,
+   "px": [
+    555,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.1973
+  },
+  "daniel-in-the-lions-den": {
+   "h_m": 1.0,
+   "w_m": 1.2129,
+   "px": [
+    900,
+    742
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.2129
+  },
+  "david": {
+   "h_m": 5.17,
+   "w_m": 3.4467,
+   "px": [
+    600,
+    900
+   ],
+   "type": "sculpture-photo",
+   "source": "medium-height",
+   "note": "height only",
+   "scale": 0.5,
+   "disp_h": 2.585,
+   "disp_w": 1.7233
+  },
+  "death-and-life": {
+   "h_m": 1.78,
+   "w_m": 1.98,
+   "px": [
+    900,
+    783
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.78,
+   "disp_w": 1.98
+  },
+  "death-of-ivan-ilyich": {
+   "h_m": 0.28,
+   "w_m": 0.2044,
+   "px": [
+    500,
+    685
+   ],
+   "type": "book-page",
+   "source": "default:book-page",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.2044
+  },
+  "demolition-of-a-wall": {
+   "h_m": 0.6,
+   "w_m": 0.7109,
+   "px": [
+    500,
+    422
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.7109
+  },
+  "divan-e-shams": {
+   "h_m": 0.32,
+   "w_m": 0.4479,
+   "px": [
+    900,
+    643
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.4479
+  },
+  "doni-tondo": {
+   "h_m": 1.2,
+   "w_m": 1.2,
+   "px": [
+    873,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "note": "diameter",
+   "scale": 1.0,
+   "disp_h": 1.2,
+   "disp_w": 1.2
+  },
+  "dragonfly-lamp": {
+   "h_m": 0.55,
+   "w_m": 0.7333,
+   "px": [
+    900,
+    675
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.7333
+  },
+  "dresser-decanter": {
+   "h_m": 0.55,
+   "w_m": 0.4052,
+   "px": [
+    663,
+    900
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.4052
+  },
+  "dresser-kettle": {
+   "h_m": 0.55,
+   "w_m": 0.5921,
+   "px": [
+    900,
+    836
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.5921
+  },
+  "dresser-teapot": {
+   "h_m": 0.55,
+   "w_m": 0.6865,
+   "px": [
+    900,
+    721
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.6865
+  },
+  "dresser-toast-rack": {
+   "h_m": 0.55,
+   "w_m": 0.484,
+   "px": [
+    792,
+    900
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.484
+  },
+  "drunk-european": {
+   "h_m": 0.32,
+   "w_m": 0.2827,
+   "px": [
+    795,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.2827
+  },
+  "ejiri-in-suruga": {
+   "h_m": 0.27,
+   "w_m": 0.4017,
+   "px": [
+    900,
+    605
+   ],
+   "type": "print",
+   "source": "default:print",
+   "scale": 1.0,
+   "disp_h": 0.27,
+   "disp_w": 0.4017
+  },
+  "elisabeth-of-valois": {
+   "h_m": 2.06,
+   "w_m": 1.23,
+   "px": [
+    534,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 2.06,
+   "disp_w": 1.23
+  },
+  "emma": {
+   "h_m": 0.28,
+   "w_m": 0.1596,
+   "px": [
+    513,
+    900
+   ],
+   "type": "book-page",
+   "source": "default:book-page",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.1596
+  },
+  "entombment": {
+   "h_m": 3.0,
+   "w_m": 2.03,
+   "px": [
+    605,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 3.0,
+   "disp_w": 2.03
+  },
+  "evolution-13": {
+   "h_m": 1.0,
+   "w_m": 1.3025,
+   "px": [
+    900,
+    691
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.3025
+  },
+  "falling-leaves": {
+   "h_m": 0.6,
+   "w_m": 0.451,
+   "px": [
+    330,
+    439
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.451
+  },
+  "fallingwater": {
+   "h_m": 1.0,
+   "w_m": 1.5228,
+   "px": [
+    900,
+    591
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.5228
+  },
+  "family-of-charles-iv": {
+   "h_m": 2.8,
+   "w_m": 3.36,
+   "px": [
+    900,
+    734
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 2.8,
+   "disp_w": 3.36
+  },
+  "family-portrait": {
+   "h_m": 1.57,
+   "w_m": 1.22,
+   "px": [
+    694,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.57,
+   "disp_w": 1.22
+  },
+  "favrile-glass": {
+   "h_m": 0.55,
+   "w_m": 0.7033,
+   "px": [
+    500,
+    391
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.7033
+  },
+  "feeding-the-baby": {
+   "h_m": 0.6,
+   "w_m": 0.8427,
+   "px": [
+    500,
+    356
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.8427
+  },
+  "fighting-temeraire": {
+   "h_m": 0.907,
+   "w_m": 1.216,
+   "px": [
+    900,
+    669
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.907,
+   "disp_w": 1.216
+  },
+  "fihi-ma-fihi": {
+   "h_m": 0.32,
+   "w_m": 0.1766,
+   "px": [
+    250,
+    453
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.1766
+  },
+  "fine-wind-clear-morning": {
+   "h_m": 0.257,
+   "w_m": 0.38,
+   "px": [
+    900,
+    608
+   ],
+   "type": "print",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.257,
+   "disp_w": 0.38
+  },
+  "fireworks-at-ryogoku": {
+   "h_m": 0.36,
+   "w_m": 0.24,
+   "px": [
+    601,
+    900
+   ],
+   "type": "print",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.36,
+   "disp_w": 0.24
+  },
+  "flowers-and-birds": {
+   "h_m": 1.7,
+   "w_m": 3.0059,
+   "px": [
+    900,
+    509
+   ],
+   "type": "screen",
+   "source": "default:screen",
+   "scale": 1.0,
+   "disp_h": 1.7,
+   "disp_w": 3.0059
+  },
+  "four-seasons-autumn": {
+   "h_m": 1.6,
+   "w_m": 0.832,
+   "px": [
+    468,
+    900
+   ],
+   "type": "hanging-scroll",
+   "source": "default:hanging-scroll",
+   "scale": 1.0,
+   "disp_h": 1.6,
+   "disp_w": 0.832
+  },
+  "galaxy-of-musicians": {
+   "h_m": 1.0,
+   "w_m": 1.2739,
+   "px": [
+    800,
+    628
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.2739
+  },
+  "garden-of-earthly-delights": {
+   "h_m": 0.55,
+   "w_m": 0.9649,
+   "px": [
+    900,
+    513
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.9649
+  },
+  "gare-saint-lazare": {
+   "h_m": 0.75,
+   "w_m": 1.04,
+   "px": [
+    900,
+    669
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.75,
+   "disp_w": 1.04
+  },
+  "genji-azumaya": {
+   "h_m": 0.35,
+   "w_m": 0.6415,
+   "px": [
+    900,
+    491
+   ],
+   "type": "handscroll",
+   "source": "default:handscroll",
+   "scale": 1.0,
+   "disp_h": 0.35,
+   "disp_w": 0.6415
+  },
+  "genji-kashiwagi": {
+   "h_m": 0.35,
+   "w_m": 1.6055,
+   "px": [
+    500,
+    109
+   ],
+   "type": "handscroll",
+   "source": "default:handscroll",
+   "scale": 1.0,
+   "disp_h": 0.35,
+   "disp_w": 1.6055,
+   "tried": true
+  },
+  "genji-sakaki": {
+   "h_m": 0.35,
+   "w_m": 1.5625,
+   "px": [
+    500,
+    112
+   ],
+   "type": "handscroll",
+   "source": "default:handscroll",
+   "scale": 1.0,
+   "disp_h": 0.35,
+   "disp_w": 1.5625
+  },
+  "genji-suzumushi": {
+   "h_m": 0.35,
+   "w_m": 0.7955,
+   "px": [
+    900,
+    396
+   ],
+   "type": "handscroll",
+   "source": "default:handscroll",
+   "scale": 1.0,
+   "disp_h": 0.35,
+   "disp_w": 0.7955
+  },
+  "genji-yadorigi": {
+   "h_m": 0.35,
+   "w_m": 0.7955,
+   "px": [
+    250,
+    110
+   ],
+   "type": "handscroll",
+   "source": "default:handscroll",
+   "scale": 1.0,
+   "disp_h": 0.35,
+   "disp_w": 0.7955,
+   "tried": true
+  },
+  "geumgang-jeondo": {
+   "h_m": 1.307,
+   "w_m": 0.941,
+   "px": [
+    649,
+    900
+   ],
+   "type": "hanging-scroll",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.307,
+   "disp_w": 0.941
+  },
+  "ghent-altarpiece": {
+   "h_m": 0.55,
+   "w_m": 0.7455,
+   "px": [
+    900,
+    664
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.7455
+  },
+  "girl-with-a-pearl-earring": {
+   "h_m": 0.445,
+   "w_m": 0.39,
+   "px": [
+    760,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.445,
+   "disp_w": 0.39
+  },
+  "girls-on-the-bridge": {
+   "h_m": 1.36,
+   "w_m": 1.25,
+   "px": [
+    824,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.36,
+   "disp_w": 1.25
+  },
+  "gismonda": {
+   "h_m": 1.0,
+   "w_m": 0.3533,
+   "px": [
+    318,
+    900
+   ],
+   "type": "poster",
+   "source": "default:poster",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.3533
+  },
+  "glasgow-school-of-art": {
+   "h_m": 1.0,
+   "w_m": 1.3333,
+   "px": [
+    900,
+    675
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.3333
+  },
+  "great-comet-of-1882": {
+   "h_m": 1.0,
+   "w_m": 0.6944,
+   "px": [
+    625,
+    900
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.6944
+  },
+  "great-wave": {
+   "h_m": 0.257,
+   "w_m": 0.379,
+   "px": [
+    900,
+    605
+   ],
+   "type": "print",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.257,
+   "disp_w": 0.379
+  },
+  "guggenheim-museum": {
+   "h_m": 1.0,
+   "w_m": 1.7787,
+   "px": [
+    900,
+    506
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.7787
+  },
+  "haboku-landscape": {
+   "h_m": 1.486,
+   "w_m": 0.9609,
+   "px": [
+    582,
+    900
+   ],
+   "type": "hanging-scroll",
+   "source": "medium-height",
+   "note": "medium says 'whole scroll'; stated 1.49×0.33 m does not match the image aspect (detail/crop?)",
+   "scale": 1.0,
+   "disp_h": 1.486,
+   "disp_w": 0.9609
+  },
+  "haldi-grinders": {
+   "h_m": 1.0,
+   "w_m": 0.747,
+   "px": [
+    664,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "note": "swapped to match the image aspect",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.747
+  },
+  "hamsa-damayanti": {
+   "h_m": 1.0,
+   "w_m": 0.5756,
+   "px": [
+    518,
+    900
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.5756
+  },
+  "hannibal": {
+   "h_m": 1.46,
+   "w_m": 2.375,
+   "px": [
+    900,
+    552
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.46,
+   "disp_w": 2.375
+  },
+  "haystacks": {
+   "h_m": 0.6,
+   "w_m": 1.0,
+   "px": [
+    900,
+    534
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 1.0
+  },
+  "haywain-triptych": {
+   "h_m": 1.35,
+   "w_m": 1.9,
+   "px": [
+    900,
+    592
+   ],
+   "type": "painting",
+   "source": "medium",
+   "note": "medium says 'about'",
+   "scale": 1.0,
+   "disp_h": 1.35,
+   "disp_w": 1.9
+  },
+  "high-backed-chair": {
+   "h_m": 1.0,
+   "w_m": 0.5522,
+   "px": [
+    497,
+    900
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.5522
+  },
+  "hill-house": {
+   "h_m": 1.0,
+   "w_m": 1.4409,
+   "px": [
+    500,
+    347
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.4409
+  },
+  "hokusai-manga": {
+   "h_m": 0.28,
+   "w_m": 0.1845,
+   "px": [
+    593,
+    900
+   ],
+   "type": "book-page",
+   "source": "default:book-page",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.1845
+  },
+  "huike-offering-his-arm": {
+   "h_m": 1.999,
+   "w_m": 1.136,
+   "px": [
+    556,
+    900
+   ],
+   "type": "hanging-scroll",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.999,
+   "disp_w": 1.136
+  },
+  "hundred-guilder-print": {
+   "h_m": 0.28,
+   "w_m": 0.393,
+   "px": [
+    900,
+    654
+   ],
+   "type": "print",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.393
+  },
+  "hunters-in-the-snow": {
+   "h_m": 0.55,
+   "w_m": 0.7722,
+   "px": [
+    900,
+    641
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.7722
+  },
+  "il-redentore": {
+   "h_m": 1.0,
+   "w_m": 0.7331,
+   "px": [
+    500,
+    682
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.7331
+  },
+  "impossible-voyage": {
+   "h_m": 0.6,
+   "w_m": 0.8,
+   "px": [
+    500,
+    375
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.8
+  },
+  "impression-sunrise": {
+   "h_m": 0.48,
+   "w_m": 0.63,
+   "px": [
+    900,
+    699
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.48,
+   "disp_w": 0.63
+  },
+  "in-the-loge": {
+   "h_m": 0.813,
+   "w_m": 0.66,
+   "px": [
+    724,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.813,
+   "disp_w": 0.66
+  },
+  "innocent-x": {
+   "h_m": 1.41,
+   "w_m": 1.19,
+   "px": [
+    705,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.41,
+   "disp_w": 1.19
+  },
+  "inwang-jesaekdo": {
+   "h_m": 0.792,
+   "w_m": 1.382,
+   "px": [
+    900,
+    522
+   ],
+   "type": "hanging-scroll",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.792,
+   "disp_w": 1.382
+  },
+  "ivan-the-terrible": {
+   "h_m": 0.6,
+   "w_m": 0.8295,
+   "px": [
+    900,
+    651
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.8295
+  },
+  "jael-and-sisera": {
+   "h_m": 0.86,
+   "w_m": 1.25,
+   "px": [
+    900,
+    653
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.86,
+   "disp_w": 1.25
+  },
+  "jain-ascetic": {
+   "h_m": 0.32,
+   "w_m": 0.2258,
+   "px": [
+    635,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.2258
+  },
+  "jatayu-vadham": {
+   "h_m": 1.0,
+   "w_m": 0.6944,
+   "px": [
+    625,
+    900
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.6944
+  },
+  "jewish-bride": {
+   "h_m": 1.215,
+   "w_m": 1.665,
+   "px": [
+    900,
+    656
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.215,
+   "disp_w": 1.665
+  },
+  "job-poster": {
+   "h_m": 1.0,
+   "w_m": 0.6956,
+   "px": [
+    626,
+    900
+   ],
+   "type": "poster",
+   "source": "default:poster",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.6956
+  },
+  "johnson-wax-headquarters": {
+   "h_m": 1.0,
+   "w_m": 1.5,
+   "px": [
+    900,
+    600
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.5
+  },
+  "judith-and-her-maidservant": {
+   "h_m": 1.87,
+   "w_m": 1.42,
+   "px": [
+    692,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.87,
+   "disp_w": 1.42
+  },
+  "judith-beheading-holofernes": {
+   "h_m": 1.45,
+   "w_m": 1.95,
+   "px": [
+    900,
+    671
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.45,
+   "disp_w": 1.95
+  },
+  "judith-i": {
+   "h_m": 0.84,
+   "w_m": 0.42,
+   "px": [
+    442,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.84,
+   "disp_w": 0.42
+  },
+  "judith-slaying-holofernes": {
+   "h_m": 1.99,
+   "w_m": 1.625,
+   "px": [
+    740,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.99,
+   "disp_w": 1.625
+  },
+  "kanbara-night-snow": {
+   "h_m": 0.27,
+   "w_m": 0.3907,
+   "px": [
+    900,
+    622
+   ],
+   "type": "print",
+   "source": "default:print",
+   "scale": 1.0,
+   "disp_h": 0.27,
+   "disp_w": 0.3907
+  },
+  "kelmscott-chaucer": {
+   "h_m": 0.28,
+   "w_m": 0.4162,
+   "px": [
+    330,
+    222
+   ],
+   "type": "book-page",
+   "source": "default:book-page",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.4162
+  },
+  "khusrau-aina-i-sikandari": {
+   "h_m": 0.32,
+   "w_m": 0.2194,
+   "px": [
+    617,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.2194
+  },
+  "khusrau-hasht-bihisht": {
+   "h_m": 0.32,
+   "w_m": 0.1948,
+   "px": [
+    330,
+    542
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.1948
+  },
+  "khusrau-majnun-layla": {
+   "h_m": 0.32,
+   "w_m": 0.2183,
+   "px": [
+    614,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.2183
+  },
+  "khusrau-matla-ul-anwar": {
+   "h_m": 0.32,
+   "w_m": 0.2204,
+   "px": [
+    620,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.2204
+  },
+  "khusrau-shirin-khusrau": {
+   "h_m": 0.32,
+   "w_m": 0.1966,
+   "px": [
+    553,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.1966
+  },
+  "kingdom-of-the-fairies": {
+   "h_m": 0.6,
+   "w_m": 0.7984,
+   "px": [
+    330,
+    248
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.7984
+  },
+  "kirifuri-waterfall": {
+   "h_m": 0.38,
+   "w_m": 0.2681,
+   "px": [
+    635,
+    900
+   ],
+   "type": "print",
+   "source": "default:print",
+   "scale": 1.0,
+   "disp_h": 0.38,
+   "disp_w": 0.2681
+  },
+  "kiss-of-judas": {
+   "h_m": 2.4,
+   "w_m": 2.4629,
+   "px": [
+    900,
+    877
+   ],
+   "type": "fresco",
+   "source": "default:fresco",
+   "scale": 1.0,
+   "disp_h": 2.4,
+   "disp_w": 2.4629
+  },
+  "knight-death-and-the-devil": {
+   "h_m": 0.245,
+   "w_m": 0.19,
+   "px": [
+    694,
+    900
+   ],
+   "type": "print",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.245,
+   "disp_w": 0.19
+  },
+  "kreutzer-sonata": {
+   "h_m": 0.28,
+   "w_m": 0.1915,
+   "px": [
+    500,
+    731
+   ],
+   "type": "book-page",
+   "source": "default:book-page",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.1915
+  },
+  "la-fee-aux-choux": {
+   "h_m": 0.6,
+   "w_m": 1.0526,
+   "px": [
+    500,
+    285
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 1.0526
+  },
+  "lady-with-an-ermine": {
+   "h_m": 0.54,
+   "w_m": 0.39,
+   "px": [
+    669,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.54,
+   "disp_w": 0.39
+  },
+  "lamentation": {
+   "h_m": 2.4,
+   "w_m": 2.5962,
+   "px": [
+    900,
+    832
+   ],
+   "type": "fresco",
+   "source": "default:fresco",
+   "scale": 1.0,
+   "disp_h": 2.4,
+   "disp_w": 2.5962
+  },
+  "las-meninas": {
+   "h_m": 3.18,
+   "w_m": 2.76,
+   "px": [
+    782,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 3.18,
+   "disp_w": 2.76
+  },
+  "last-judgment": {
+   "h_m": 13.7,
+   "w_m": 12.0,
+   "px": [
+    818,
+    900
+   ],
+   "type": "fresco",
+   "source": "medium",
+   "scale": 0.25,
+   "disp_h": 3.425,
+   "disp_w": 3.0
+  },
+  "last-supper": {
+   "h_m": 4.6,
+   "w_m": 8.8,
+   "px": [
+    900,
+    450
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 0.5,
+   "disp_h": 2.3,
+   "disp_w": 4.4
+  },
+  "laurelton-hall": {
+   "h_m": 1.0,
+   "w_m": 0.7156,
+   "px": [
+    644,
+    900
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.7156
+  },
+  "linthorpe-vase": {
+   "h_m": 0.55,
+   "w_m": 0.4143,
+   "px": [
+    678,
+    900
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.4143
+  },
+  "little-girl-in-a-blue-armchair": {
+   "h_m": 0.895,
+   "w_m": 1.298,
+   "px": [
+    900,
+    602
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.895,
+   "disp_w": 1.298
+  },
+  "lofty-mount-lu": {
+   "h_m": 1.938,
+   "w_m": 0.981,
+   "px": [
+    456,
+    900
+   ],
+   "type": "hanging-scroll",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.938,
+   "disp_w": 0.981
+  },
+  "madonna": {
+   "h_m": 0.91,
+   "w_m": 0.705,
+   "px": [
+    683,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.91,
+   "disp_w": 0.705
+  },
+  "madonna-of-chancellor-rolin": {
+   "h_m": 0.66,
+   "w_m": 0.62,
+   "px": [
+    866,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.66,
+   "disp_w": 0.62
+  },
+  "madonna-van-der-paele": {
+   "h_m": 1.22,
+   "w_m": 1.57,
+   "px": [
+    250,
+    195
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.22,
+   "disp_w": 1.57
+  },
+  "making-an-american-citizen": {
+   "h_m": 0.6,
+   "w_m": 0.4478,
+   "px": [
+    500,
+    670
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.4478
+  },
+  "man-in-a-turban": {
+   "h_m": 0.55,
+   "w_m": 0.3997,
+   "px": [
+    654,
+    900
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.3997
+  },
+  "mansfield-park": {
+   "h_m": 0.28,
+   "w_m": 0.1571,
+   "px": [
+    505,
+    900
+   ],
+   "type": "book-page",
+   "source": "default:book-page",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.1571
+  },
+  "margaret-van-eyck": {
+   "h_m": 0.41,
+   "w_m": 0.34,
+   "px": [
+    705,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.41,
+   "disp_w": 0.34
+  },
+  "masnavi-opening": {
+   "h_m": 0.32,
+   "w_m": 0.2568,
+   "px": [
+    500,
+    623
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.2568
+  },
+  "masnavi-peacock-parable": {
+   "h_m": 0.32,
+   "w_m": 0.3036,
+   "px": [
+    854,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.3036
+  },
+  "medusa": {
+   "h_m": 0.6,
+   "w_m": 0.55,
+   "px": [
+    879,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.55
+  },
+  "melencolia-i": {
+   "h_m": 0.24,
+   "w_m": 0.188,
+   "px": [
+    713,
+    900
+   ],
+   "type": "print",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.24,
+   "disp_w": 0.188
+  },
+  "metlac-bridge": {
+   "h_m": 1.0,
+   "w_m": 1.3975,
+   "px": [
+    900,
+    644
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.3975
+  },
+  "mihrimah-sultan-mosque": {
+   "h_m": 1.0,
+   "w_m": 1.505,
+   "px": [
+    900,
+    598
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.505
+  },
+  "mona-lisa": {
+   "h_m": 0.77,
+   "w_m": 0.53,
+   "px": [
+    595,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.77,
+   "disp_w": 0.53
+  },
+  "monument-to-the-great-fire": {
+   "h_m": 1.0,
+   "w_m": 0.6644,
+   "px": [
+    598,
+    900
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.6644
+  },
+  "moses": {
+   "h_m": 2.35,
+   "w_m": 1.9531,
+   "px": [
+    748,
+    900
+   ],
+   "type": "sculpture-photo",
+   "source": "medium-height",
+   "note": "height only",
+   "scale": 1.0,
+   "disp_h": 2.35,
+   "disp_w": 1.9531
+  },
+  "netherlandish-proverbs": {
+   "h_m": 0.55,
+   "w_m": 0.7771,
+   "px": [
+    900,
+    637
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.7771
+  },
+  "night-vigil": {
+   "h_m": 0.848,
+   "w_m": 0.218,
+   "px": [
+    250,
+    867
+   ],
+   "type": "hanging-scroll",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.848,
+   "disp_w": 0.218
+  },
+  "night-watch": {
+   "h_m": 3.795,
+   "w_m": 4.535,
+   "px": [
+    900,
+    732
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 3.795,
+   "disp_w": 4.535
+  },
+  "nihonbashi-morning": {
+   "h_m": 0.27,
+   "w_m": 0.3964,
+   "px": [
+    900,
+    613
+   ],
+   "type": "print",
+   "source": "default:print",
+   "scale": 1.0,
+   "disp_h": 0.27,
+   "disp_w": 0.3964
+  },
+  "northanger-persuasion": {
+   "h_m": 0.28,
+   "w_m": 0.1661,
+   "px": [
+    534,
+    900
+   ],
+   "type": "book-page",
+   "source": "default:book-page",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.1661
+  },
+  "nude-maja": {
+   "h_m": 0.97,
+   "w_m": 1.9,
+   "px": [
+    900,
+    456
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.97,
+   "disp_w": 1.9
+  },
+  "october": {
+   "h_m": 0.6,
+   "w_m": 0.8285,
+   "px": [
+    330,
+    239
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.8285
+  },
+  "ognissanti-madonna": {
+   "h_m": 3.25,
+   "w_m": 2.04,
+   "px": [
+    566,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 3.25,
+   "disp_w": 2.04
+  },
+  "old-woman-frying-eggs": {
+   "h_m": 1.005,
+   "w_m": 1.195,
+   "px": [
+    900,
+    760
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.005,
+   "disp_w": 1.195
+  },
+  "one-week": {
+   "h_m": 0.6,
+   "w_m": 0.8,
+   "px": [
+    900,
+    675
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.8
+  },
+  "origin-of-music": {
+   "h_m": 0.32,
+   "w_m": 0.2105,
+   "px": [
+    592,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.2105
+  },
+  "palau-guell": {
+   "h_m": 1.0,
+   "w_m": 0.6667,
+   "px": [
+    600,
+    900
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.6667
+  },
+  "pallas-athene": {
+   "h_m": 0.75,
+   "w_m": 0.75,
+   "px": [
+    900,
+    890
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.75,
+   "disp_w": 0.75
+  },
+  "park-guell": {
+   "h_m": 1.0,
+   "w_m": 1.3333,
+   "px": [
+    900,
+    675
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.3333
+  },
+  "peasant-wedding": {
+   "h_m": 0.55,
+   "w_m": 0.7958,
+   "px": [
+    900,
+    622
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.7958
+  },
+  "people--ada-lovelace--1": {
+   "h_m": 0.9,
+   "w_m": 0.6955,
+   "px": [
+    500,
+    647
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6955
+  },
+  "people--aisha-bint-abi-bakr--1": {
+   "h_m": 0.9,
+   "w_m": 0.8523,
+   "px": [
+    500,
+    528
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.8523
+  },
+  "people--aisha-bint-abi-bakr--2": {
+   "h_m": 0.7,
+   "w_m": 1.1371,
+   "px": [
+    960,
+    591
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.1371
+  },
+  "people--ajuricaba--1": {
+   "h_m": 0.9,
+   "w_m": 1.1917,
+   "px": [
+    960,
+    725
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.1917
+  },
+  "people--akbar--1": {
+   "h_m": 0.9,
+   "w_m": 0.6666,
+   "px": [
+    711,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6666
+  },
+  "people--akbar--2": {
+   "h_m": 0.7,
+   "w_m": 0.4696,
+   "px": [
+    644,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4696
+  },
+  "people--akhenaten--1": {
+   "h_m": 0.9,
+   "w_m": 0.675,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.675
+  },
+  "people--al-biruni--1": {
+   "h_m": 0.9,
+   "w_m": 0.655,
+   "px": [
+    500,
+    687
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.655
+  },
+  "people--al-biruni--2": {
+   "h_m": 0.7,
+   "w_m": 0.9333,
+   "px": [
+    960,
+    720
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9333
+  },
+  "people--al-khwarizmi--1": {
+   "h_m": 0.9,
+   "w_m": 0.6757,
+   "px": [
+    500,
+    666
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6757
+  },
+  "people--alan-turing--1": {
+   "h_m": 0.9,
+   "w_m": 0.6757,
+   "px": [
+    500,
+    666
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6757
+  },
+  "people--albert-einstein--1": {
+   "h_m": 0.9,
+   "w_m": 0.7275,
+   "px": [
+    776,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7275
+  },
+  "people--albrecht-durer--1": {
+   "h_m": 0.9,
+   "w_m": 0.6384,
+   "px": [
+    681,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6384
+  },
+  "people--albrecht-durer--2": {
+   "h_m": 0.7,
+   "w_m": 0.533,
+   "px": [
+    731,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.533
+  },
+  "people--albrecht-durer--3": {
+   "h_m": 0.7,
+   "w_m": 0.5385,
+   "px": [
+    330,
+    429
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5385
+  },
+  "people--alexander-the-great--1": {
+   "h_m": 0.9,
+   "w_m": 0.675,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.675
+  },
+  "people--alice-guy-blache--1": {
+   "h_m": 0.9,
+   "w_m": 0.6384,
+   "px": [
+    681,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6384
+  },
+  "people--alice-guy-blache--2": {
+   "h_m": 0.7,
+   "w_m": 0.5068,
+   "px": [
+    695,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5068
+  },
+  "people--alice-guy-blache--3": {
+   "h_m": 0.7,
+   "w_m": 0.9956,
+   "px": [
+    960,
+    675
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9956
+  },
+  "people--alphonse-mucha--1": {
+   "h_m": 0.9,
+   "w_m": 0.6777,
+   "px": [
+    500,
+    664
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6777
+  },
+  "people--alphonse-mucha--2": {
+   "h_m": 0.7,
+   "w_m": 0.4987,
+   "px": [
+    684,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4987
+  },
+  "people--alphonse-mucha--3": {
+   "h_m": 0.7,
+   "w_m": 0.2661,
+   "px": [
+    365,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.2661
+  },
+  "people--amanirenas--1": {
+   "h_m": 0.9,
+   "w_m": 0.5803,
+   "px": [
+    619,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5803
+  },
+  "people--amanirenas--2": {
+   "h_m": 0.7,
+   "w_m": 0.525,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.525
+  },
+  "people--amanitore--1": {
+   "h_m": 0.9,
+   "w_m": 0.6,
+   "px": [
+    640,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6
+  },
+  "people--ambiorix--1": {
+   "h_m": 0.9,
+   "w_m": 0.6747,
+   "px": [
+    500,
+    667
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6747
+  },
+  "people--amir-khusrau--1": {
+   "h_m": 0.9,
+   "w_m": 1.1688,
+   "px": [
+    500,
+    385
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.1688
+  },
+  "people--amir-khusrau--2": {
+   "h_m": 0.7,
+   "w_m": 0.525,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.525
+  },
+  "people--amrita-sher-gil--1": {
+   "h_m": 0.9,
+   "w_m": 0.8522,
+   "px": [
+    909,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.8522
+  },
+  "people--amrita-sher-gil--2": {
+   "h_m": 0.7,
+   "w_m": 1.1873,
+   "px": [
+    960,
+    566
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.1873
+  },
+  "people--amrita-sher-gil--3": {
+   "h_m": 0.7,
+   "w_m": 0.4441,
+   "px": [
+    609,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4441
+  },
+  "people--anacaona--1": {
+   "h_m": 0.9,
+   "w_m": 0.3506,
+   "px": [
+    374,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.3506
+  },
+  "people--anacaona--2": {
+   "h_m": 0.7,
+   "w_m": 0.517,
+   "px": [
+    709,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.517
+  },
+  "people--anacaona--3": {
+   "h_m": 0.675,
+   "w_m": 1.5,
+   "px": [
+    960,
+    432
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.675,
+   "disp_w": 1.5
+  },
+  "people--andrea-palladio--1": {
+   "h_m": 0.9,
+   "w_m": 0.7838,
+   "px": [
+    836,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7838
+  },
+  "people--andrea-palladio--2": {
+   "h_m": 0.7,
+   "w_m": 1.0533,
+   "px": [
+    960,
+    638
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0533
+  },
+  "people--andrea-palladio--3": {
+   "h_m": 0.7,
+   "w_m": 1.139,
+   "px": [
+    960,
+    590
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.139
+  },
+  "people--antoni-gaudi--1": {
+   "h_m": 0.9,
+   "w_m": 0.6619,
+   "px": [
+    706,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6619
+  },
+  "people--antoni-gaudi--2": {
+   "h_m": 0.7,
+   "w_m": 0.525,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.525
+  },
+  "people--antoni-gaudi--3": {
+   "h_m": 0.7,
+   "w_m": 0.5882,
+   "px": [
+    500,
+    595
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5882
+  },
+  "people--aristotle--1": {
+   "h_m": 0.9,
+   "w_m": 0.6722,
+   "px": [
+    717,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6722
+  },
+  "people--artemisia-gentileschi--1": {
+   "h_m": 0.9,
+   "w_m": 0.6666,
+   "px": [
+    711,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6666
+  },
+  "people--artemisia-gentileschi--2": {
+   "h_m": 0.7,
+   "w_m": 0.5963,
+   "px": [
+    500,
+    587
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5963
+  },
+  "people--artemisia-gentileschi--3": {
+   "h_m": 0.7,
+   "w_m": 0.5483,
+   "px": [
+    752,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5483
+  },
+  "people--ashoka--1": {
+   "h_m": 0.9,
+   "w_m": 0.9434,
+   "px": [
+    500,
+    477
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.9434
+  },
+  "people--ashurbanipal--1": {
+   "h_m": 0.9,
+   "w_m": 0.6747,
+   "px": [
+    500,
+    667
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6747
+  },
+  "people--ashurbanipal--2": {
+   "h_m": 0.7,
+   "w_m": 1.05,
+   "px": [
+    960,
+    640
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.05
+  },
+  "people--ashurbanipal--3": {
+   "h_m": 0.7,
+   "w_m": 1.0533,
+   "px": [
+    960,
+    638
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0533
+  },
+  "people--attila--1": {
+   "h_m": 0.9,
+   "w_m": 1.1294,
+   "px": [
+    960,
+    765
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.1294
+  },
+  "people--attila--2": {
+   "h_m": 0.7,
+   "w_m": 1.2108,
+   "px": [
+    960,
+    555
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.2108
+  },
+  "people--augustus--1": {
+   "h_m": 0.9,
+   "w_m": 0.6,
+   "px": [
+    640,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6
+  },
+  "people--ba-trieu--1": {
+   "h_m": 0.9,
+   "w_m": 0.7078,
+   "px": [
+    755,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7078
+  },
+  "people--ban-zhao--1": {
+   "h_m": 0.9,
+   "w_m": 0.3628,
+   "px": [
+    387,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.3628
+  },
+  "people--basawan--1": {
+   "h_m": 0.9,
+   "w_m": 0.5091,
+   "px": [
+    543,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5091
+  },
+  "people--basawan--2": {
+   "h_m": 0.7,
+   "w_m": 0.4944,
+   "px": [
+    678,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4944
+  },
+  "people--basil-ii--1": {
+   "h_m": 0.9,
+   "w_m": 0.7246,
+   "px": [
+    500,
+    621
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7246
+  },
+  "people--basil-ii--2": {
+   "h_m": 0.575,
+   "w_m": 1.5,
+   "px": [
+    960,
+    368
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.575,
+   "disp_w": 1.5
+  },
+  "people--behzad--1": {
+   "h_m": 0.9,
+   "w_m": 0.5008,
+   "px": [
+    330,
+    593
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5008
+  },
+  "people--buster-keaton--1": {
+   "h_m": 0.9,
+   "w_m": 0.6281,
+   "px": [
+    670,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6281
+  },
+  "people--buster-keaton--2": {
+   "h_m": 0.7,
+   "w_m": 0.5301,
+   "px": [
+    727,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5301
+  },
+  "people--buster-keaton--3": {
+   "h_m": 0.7,
+   "w_m": 0.4973,
+   "px": [
+    682,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4973
+  },
+  "people--caravaggio--1": {
+   "h_m": 0.9,
+   "w_m": 0.6441,
+   "px": [
+    687,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6441
+  },
+  "people--caravaggio--2": {
+   "h_m": 0.7,
+   "w_m": 0.6701,
+   "px": [
+    919,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.6701
+  },
+  "people--caravaggio--3": {
+   "h_m": 0.7,
+   "w_m": 0.8854,
+   "px": [
+    960,
+    759
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.8854
+  },
+  "people--catherine-de-medici--1": {
+   "h_m": 0.9,
+   "w_m": 0.6285,
+   "px": [
+    500,
+    716
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6285
+  },
+  "people--catherine-de-medici--2": {
+   "h_m": 0.7,
+   "w_m": 0.9333,
+   "px": [
+    500,
+    375
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9333
+  },
+  "people--chandragupta-maurya--1": {
+   "h_m": 0.9,
+   "w_m": 0.7132,
+   "px": [
+    500,
+    631
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7132
+  },
+  "people--charlemagne--1": {
+   "h_m": 0.9,
+   "w_m": 0.9,
+   "px": [
+    960,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.9
+  },
+  "people--charles-darwin--1": {
+   "h_m": 0.9,
+   "w_m": 0.6844,
+   "px": [
+    730,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6844
+  },
+  "people--charles-rennie-mackintosh--1": {
+   "h_m": 0.9,
+   "w_m": 0.3262,
+   "px": [
+    348,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.3262
+  },
+  "people--charles-rennie-mackintosh--2": {
+   "h_m": 0.7,
+   "w_m": 0.7126,
+   "px": [
+    960,
+    943
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.7126
+  },
+  "people--charles-rennie-mackintosh--3": {
+   "h_m": 0.7,
+   "w_m": 1.3631,
+   "px": [
+    960,
+    493
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.3631
+  },
+  "people--chico-mendes--1": {
+   "h_m": 0.9,
+   "w_m": 0.675,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.675
+  },
+  "people--chico-mendes--2": {
+   "h_m": 0.7,
+   "w_m": 0.9333,
+   "px": [
+    960,
+    720
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9333
+  },
+  "people--chico-mendes--3": {
+   "h_m": 0.7,
+   "w_m": 1.0166,
+   "px": [
+    960,
+    661
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0166
+  },
+  "people--christopher-dresser--1": {
+   "h_m": 0.9,
+   "w_m": 0.9,
+   "px": [
+    960,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.9
+  },
+  "people--christopher-dresser--2": {
+   "h_m": 0.7,
+   "w_m": 0.5994,
+   "px": [
+    822,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5994
+  },
+  "people--christopher-dresser--3": {
+   "h_m": 0.7,
+   "w_m": 0.7915,
+   "px": [
+    960,
+    849
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.7915
+  },
+  "people--christopher-wren--1": {
+   "h_m": 0.9,
+   "w_m": 0.7069,
+   "px": [
+    754,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7069
+  },
+  "people--christopher-wren--2": {
+   "h_m": 0.7,
+   "w_m": 1.0151,
+   "px": [
+    960,
+    662
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0151
+  },
+  "people--christopher-wren--3": {
+   "h_m": 0.7,
+   "w_m": 0.7,
+   "px": [
+    960,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.7
+  },
+  "people--cixi--1": {
+   "h_m": 0.9,
+   "w_m": 0.5625,
+   "px": [
+    600,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5625
+  },
+  "people--claude-monet--1": {
+   "h_m": 0.9,
+   "w_m": 0.675,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.675
+  },
+  "people--claude-monet--2": {
+   "h_m": 0.658,
+   "w_m": 1.01,
+   "px": [
+    500,
+    327
+   ],
+   "type": "portrait-photo",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.658,
+   "disp_w": 1.01
+  },
+  "people--claude-monet--3": {
+   "h_m": 0.7,
+   "w_m": 0.6373,
+   "px": [
+    874,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.6373
+  },
+  "people--cleopatra-vii--1": {
+   "h_m": 0.9,
+   "w_m": 0.6797,
+   "px": [
+    725,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6797
+  },
+  "people--confucius--1": {
+   "h_m": 0.9,
+   "w_m": 1.3521,
+   "px": [
+    960,
+    639
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.3521
+  },
+  "people--cyrus-the-great--1": {
+   "h_m": 0.9,
+   "w_m": 0.5597,
+   "px": [
+    500,
+    804
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5597
+  },
+  "people--cyrus-the-great--2": {
+   "h_m": 0.7,
+   "w_m": 1.0616,
+   "px": [
+    960,
+    633
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0616
+  },
+  "people--darius-i--1": {
+   "h_m": 0.9,
+   "w_m": 0.72,
+   "px": [
+    768,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.72
+  },
+  "people--darius-i--2": {
+   "h_m": 0.7,
+   "w_m": 0.5345,
+   "px": [
+    733,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5345
+  },
+  "people--darius-i--3": {
+   "h_m": 0.7,
+   "w_m": 0.4018,
+   "px": [
+    551,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4018
+  },
+  "people--dido--1": {
+   "h_m": 0.9,
+   "w_m": 0.75,
+   "px": [
+    800,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.75
+  },
+  "people--diego-velazquez--1": {
+   "h_m": 0.45,
+   "w_m": 0.38,
+   "px": [
+    500,
+    592
+   ],
+   "type": "portrait-photo",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.45,
+   "disp_w": 0.38
+  },
+  "people--diego-velazquez--2": {
+   "h_m": 0.7,
+   "w_m": 0.5811,
+   "px": [
+    797,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5811
+  },
+  "people--edvard-munch--1": {
+   "h_m": 0.9,
+   "w_m": 0.6541,
+   "px": [
+    500,
+    688
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6541
+  },
+  "people--edvard-munch--2": {
+   "h_m": 0.7,
+   "w_m": 0.646,
+   "px": [
+    886,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.646
+  },
+  "people--eleanor-of-aquitaine--1": {
+   "h_m": 0.8438,
+   "w_m": 1.5,
+   "px": [
+    960,
+    540
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.8438,
+   "disp_w": 1.5
+  },
+  "people--eleanor-roosevelt--1": {
+   "h_m": 0.9,
+   "w_m": 0.6759,
+   "px": [
+    721,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6759
+  },
+  "people--eleanor-roosevelt--2": {
+   "h_m": 0.7,
+   "w_m": 0.8854,
+   "px": [
+    960,
+    759
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.8854
+  },
+  "people--eleanor-roosevelt--3": {
+   "h_m": 0.7,
+   "w_m": 0.4346,
+   "px": [
+    596,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4346
+  },
+  "people--emperor-meiji--1": {
+   "h_m": 0.9,
+   "w_m": 0.6975,
+   "px": [
+    744,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6975
+  },
+  "people--enheduanna--1": {
+   "h_m": 0.9,
+   "w_m": 0.5016,
+   "px": [
+    535,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5016
+  },
+  "people--enheduanna--2": {
+   "h_m": 0.7,
+   "w_m": 0.5119,
+   "px": [
+    702,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5119
+  },
+  "people--ezana-of-aksum--1": {
+   "h_m": 0.7719,
+   "w_m": 1.5,
+   "px": [
+    960,
+    494
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7719,
+   "disp_w": 1.5
+  },
+  "people--ezana-of-aksum--2": {
+   "h_m": 0.7,
+   "w_m": 1.05,
+   "px": [
+    960,
+    640
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.05
+  },
+  "people--francisco-goya--1": {
+   "h_m": 0.9,
+   "w_m": 0.7294,
+   "px": [
+    778,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7294
+  },
+  "people--francisco-goya--2": {
+   "h_m": 0.7,
+   "w_m": 0.9614,
+   "px": [
+    960,
+    699
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9614
+  },
+  "people--francisco-goya--3": {
+   "h_m": 0.7,
+   "w_m": 1.1256,
+   "px": [
+    960,
+    597
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.1256
+  },
+  "people--frank-lloyd-wright--1": {
+   "h_m": 0.9,
+   "w_m": 0.705,
+   "px": [
+    752,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.705
+  },
+  "people--frank-lloyd-wright--2": {
+   "h_m": 0.7,
+   "w_m": 0.9333,
+   "px": [
+    960,
+    720
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9333
+  },
+  "people--frederick-barbarossa--1": {
+   "h_m": 0.9,
+   "w_m": 0.549,
+   "px": [
+    330,
+    541
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.549
+  },
+  "people--frederick-barbarossa--2": {
+   "h_m": 0.7,
+   "w_m": 0.517,
+   "px": [
+    500,
+    677
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.517
+  },
+  "people--frida-kahlo--1": {
+   "h_m": 0.9,
+   "w_m": 0.6,
+   "px": [
+    640,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6
+  },
+  "people--frida-kahlo--2": {
+   "h_m": 0.7,
+   "w_m": 0.4667,
+   "px": [
+    640,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4667
+  },
+  "people--fu-hao--1": {
+   "h_m": 0.9,
+   "w_m": 0.6,
+   "px": [
+    640,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6
+  },
+  "people--fu-hao--2": {
+   "h_m": 0.7,
+   "w_m": 1.05,
+   "px": [
+    960,
+    640
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.05
+  },
+  "people--funmilayo-ransome-kuti--1": {
+   "h_m": 0.9,
+   "w_m": 0.9,
+   "px": [
+    500,
+    500
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.9
+  },
+  "people--funmilayo-ransome-kuti--2": {
+   "h_m": 0.7,
+   "w_m": 0.875,
+   "px": [
+    960,
+    768
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.875
+  },
+  "people--galileo-galilei--1": {
+   "h_m": 0.9,
+   "w_m": 0.7087,
+   "px": [
+    756,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7087
+  },
+  "people--genghis-khan--1": {
+   "h_m": 0.9,
+   "w_m": 0.7078,
+   "px": [
+    755,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7078
+  },
+  "people--georges-melies--1": {
+   "h_m": 0.9,
+   "w_m": 0.6497,
+   "px": [
+    693,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6497
+  },
+  "people--georges-melies--2": {
+   "h_m": 0.7,
+   "w_m": 0.983,
+   "px": [
+    330,
+    235
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.983
+  },
+  "people--georges-melies--3": {
+   "h_m": 0.7,
+   "w_m": 0.5053,
+   "px": [
+    693,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5053
+  },
+  "people--gilgamesh--1": {
+   "h_m": 0.9,
+   "w_m": 1.2203,
+   "px": [
+    960,
+    708
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.2203
+  },
+  "people--giotto--1": {
+   "h_m": 0.9,
+   "w_m": 0.6373,
+   "px": [
+    330,
+    466
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6373
+  },
+  "people--giotto--2": {
+   "h_m": 0.7,
+   "w_m": 0.525,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.525
+  },
+  "people--giotto--3": {
+   "h_m": 0.7,
+   "w_m": 0.7442,
+   "px": [
+    960,
+    903
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.7442
+  },
+  "people--gitarja--1": {
+   "h_m": 0.9,
+   "w_m": 0.4912,
+   "px": [
+    524,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.4912
+  },
+  "people--gorgo--1": {
+   "h_m": 0.9,
+   "w_m": 1.1307,
+   "px": [
+    500,
+    398
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.1307
+  },
+  "people--gustav-klimt--1": {
+   "h_m": 0.9,
+   "w_m": 0.7042,
+   "px": [
+    500,
+    639
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7042
+  },
+  "people--gustav-klimt--2": {
+   "h_m": 0.7,
+   "w_m": 0.4616,
+   "px": [
+    633,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4616
+  },
+  "people--gustav-klimt--3": {
+   "h_m": 0.7,
+   "w_m": 0.5654,
+   "px": [
+    500,
+    619
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5654
+  },
+  "people--hammurabi--1": {
+   "h_m": 0.9,
+   "w_m": 0.8147,
+   "px": [
+    869,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.8147
+  },
+  "people--harald-hardrada--1": {
+   "h_m": 0.9,
+   "w_m": 0.9278,
+   "px": [
+    500,
+    485
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.9278
+  },
+  "people--harriet-tubman--1": {
+   "h_m": 0.9,
+   "w_m": 0.675,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.675
+  },
+  "people--harriet-tubman--2": {
+   "h_m": 0.7,
+   "w_m": 0.4462,
+   "px": [
+    612,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4462
+  },
+  "people--hatshepsut--1": {
+   "h_m": 0.9,
+   "w_m": 0.6759,
+   "px": [
+    721,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6759
+  },
+  "people--henry-ossawa-tanner--1": {
+   "h_m": 0.9,
+   "w_m": 1.0791,
+   "px": [
+    500,
+    417
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.0791
+  },
+  "people--henry-ossawa-tanner--2": {
+   "h_m": 0.7,
+   "w_m": 0.6847,
+   "px": [
+    939,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.6847
+  },
+  "people--henry-ossawa-tanner--3": {
+   "h_m": 0.7,
+   "w_m": 0.5666,
+   "px": [
+    777,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5666
+  },
+  "people--hieronymus-bosch--1": {
+   "h_m": 0.9,
+   "w_m": 0.7725,
+   "px": [
+    824,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7725
+  },
+  "people--hieronymus-bosch--2": {
+   "h_m": 0.7,
+   "w_m": 0.7897,
+   "px": [
+    960,
+    851
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.7897
+  },
+  "people--hieronymus-bosch--3": {
+   "h_m": 0.7,
+   "w_m": 0.902,
+   "px": [
+    960,
+    745
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.902
+  },
+  "people--hilma-af-klint--1": {
+   "h_m": 0.9,
+   "w_m": 0.6825,
+   "px": [
+    728,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6825
+  },
+  "people--hilma-af-klint--2": {
+   "h_m": 0.7,
+   "w_m": 0.7,
+   "px": [
+    960,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.7
+  },
+  "people--hilma-af-klint--3": {
+   "h_m": 0.7,
+   "w_m": 0.4667,
+   "px": [
+    500,
+    750
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4667
+  },
+  "people--ho-chi-minh--1": {
+   "h_m": 0.9,
+   "w_m": 0.6403,
+   "px": [
+    683,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6403
+  },
+  "people--ho-chi-minh--2": {
+   "h_m": 0.7,
+   "w_m": 1.1111,
+   "px": [
+    500,
+    315
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.1111
+  },
+  "people--hojo-tokimune--1": {
+   "h_m": 0.9,
+   "w_m": 0.4659,
+   "px": [
+    497,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.4659
+  },
+  "people--hypatia--1": {
+   "h_m": 0.8578,
+   "w_m": 1.5,
+   "px": [
+    960,
+    549
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.8578,
+   "disp_w": 1.5
+  },
+  "people--hypatia--2": {
+   "h_m": 0.7,
+   "w_m": 0.641,
+   "px": [
+    500,
+    546
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.641
+  },
+  "people--ibn-battuta--1": {
+   "h_m": 0.9,
+   "w_m": 0.6239,
+   "px": [
+    330,
+    476
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6239
+  },
+  "people--ibn-khaldun--1": {
+   "h_m": 0.9,
+   "w_m": 0.5878,
+   "px": [
+    627,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5878
+  },
+  "people--ibn-sina--1": {
+   "h_m": 0.9,
+   "w_m": 0.6984,
+   "px": [
+    745,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6984
+  },
+  "people--indira-gandhi--1": {
+   "h_m": 0.9,
+   "w_m": 0.6497,
+   "px": [
+    693,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6497
+  },
+  "people--indira-gandhi--2": {
+   "h_m": 0.55,
+   "w_m": 1.5,
+   "px": [
+    960,
+    352
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 1.5
+  },
+  "people--indira-gandhi--3": {
+   "h_m": 0.7,
+   "w_m": 0.7218,
+   "px": [
+    960,
+    931
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.7218
+  },
+  "people--isaac-newton--1": {
+   "h_m": 0.9,
+   "w_m": 0.7472,
+   "px": [
+    797,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7472
+  },
+  "people--j-m-w-turner--1": {
+   "h_m": 0.9,
+   "w_m": 0.6488,
+   "px": [
+    692,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6488
+  },
+  "people--j-m-w-turner--2": {
+   "h_m": 0.7,
+   "w_m": 0.5082,
+   "px": [
+    697,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5082
+  },
+  "people--j-m-w-turner--3": {
+   "h_m": 0.7,
+   "w_m": 0.9711,
+   "px": [
+    960,
+    692
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9711
+  },
+  "people--jadwiga--1": {
+   "h_m": 0.9,
+   "w_m": 0.8897,
+   "px": [
+    949,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.8897
+  },
+  "people--jadwiga--2": {
+   "h_m": 0.7,
+   "w_m": 0.6446,
+   "px": [
+    500,
+    543
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.6446
+  },
+  "people--jan-van-eyck--1": {
+   "h_m": 0.9,
+   "w_m": 0.6544,
+   "px": [
+    698,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6544
+  },
+  "people--jan-van-eyck--2": {
+   "h_m": 0.7,
+   "w_m": 0.4076,
+   "px": [
+    559,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4076
+  },
+  "people--jan-van-eyck--3": {
+   "h_m": 0.7,
+   "w_m": 0.2654,
+   "px": [
+    364,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.2654
+  },
+  "people--jane-austen--1": {
+   "h_m": 0.9,
+   "w_m": 0.6975,
+   "px": [
+    744,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6975
+  },
+  "people--jane-austen--2": {
+   "h_m": 0.7,
+   "w_m": 0.525,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.525
+  },
+  "people--jayavarman-vii--1": {
+   "h_m": 0.9,
+   "w_m": 0.66,
+   "px": [
+    704,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.66
+  },
+  "people--jayavarman-vii--2": {
+   "h_m": 0.7,
+   "w_m": 0.482,
+   "px": [
+    661,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.482
+  },
+  "people--jeong-seon--1": {
+   "h_m": 0.9,
+   "w_m": 1.1279,
+   "px": [
+    960,
+    766
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.1279
+  },
+  "people--jeong-seon--2": {
+   "h_m": 0.7,
+   "w_m": 1.2153,
+   "px": [
+    500,
+    288
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.2153
+  },
+  "people--joao-iii--1": {
+   "h_m": 0.9,
+   "w_m": 0.6919,
+   "px": [
+    738,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6919
+  },
+  "people--johannes-gutenberg--1": {
+   "h_m": 0.9,
+   "w_m": 0.6757,
+   "px": [
+    500,
+    666
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6757
+  },
+  "people--johannes-vermeer--1": {
+   "h_m": 0.9,
+   "w_m": 0.7603,
+   "px": [
+    811,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7603
+  },
+  "people--johannes-vermeer--2": {
+   "h_m": 0.7,
+   "w_m": 0.5031,
+   "px": [
+    690,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5031
+  },
+  "people--john-curtin--1": {
+   "h_m": 0.9,
+   "w_m": 0.6291,
+   "px": [
+    671,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6291
+  },
+  "people--jose-maria-velasco--1": {
+   "h_m": 0.9,
+   "w_m": 0.6591,
+   "px": [
+    703,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6591
+  },
+  "people--jose-maria-velasco--2": {
+   "h_m": 0.7,
+   "w_m": 0.5002,
+   "px": [
+    686,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5002
+  },
+  "people--jose-maria-velasco--3": {
+   "h_m": 0.7,
+   "w_m": 0.525,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.525
+  },
+  "people--jose-marti--1": {
+   "h_m": 0.9,
+   "w_m": 0.6207,
+   "px": [
+    500,
+    725
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6207
+  },
+  "people--jose-marti--2": {
+   "h_m": 0.7,
+   "w_m": 0.525,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.525
+  },
+  "people--jose-rizal--1": {
+   "h_m": 0.9,
+   "w_m": 0.6329,
+   "px": [
+    500,
+    711
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6329
+  },
+  "people--jose-rizal--2": {
+   "h_m": 0.7,
+   "w_m": 1.0479,
+   "px": [
+    500,
+    334
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0479
+  },
+  "people--kamehameha-i--1": {
+   "h_m": 0.9,
+   "w_m": 0.6319,
+   "px": [
+    674,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6319
+  },
+  "people--kate-sheppard--1": {
+   "h_m": 0.9,
+   "w_m": 0.641,
+   "px": [
+    500,
+    702
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.641
+  },
+  "people--kate-sheppard--2": {
+   "h_m": 0.7,
+   "w_m": 0.4212,
+   "px": [
+    500,
+    831
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4212
+  },
+  "people--katsushika-hokusai--1": {
+   "h_m": 0.9,
+   "w_m": 0.4331,
+   "px": [
+    462,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.4331
+  },
+  "people--katsushika-hokusai--2": {
+   "h_m": 0.7,
+   "w_m": 0.2479,
+   "px": [
+    340,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.2479
+  },
+  "people--katsushika-hokusai--3": {
+   "h_m": 0.7,
+   "w_m": 0.5344,
+   "px": [
+    500,
+    655
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5344
+  },
+  "people--khadija-bint-khuwaylid--1": {
+   "h_m": 0.9,
+   "w_m": 0.8704,
+   "px": [
+    500,
+    517
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.8704
+  },
+  "people--khadija-bint-khuwaylid--2": {
+   "h_m": 0.7,
+   "w_m": 0.4995,
+   "px": [
+    685,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4995
+  },
+  "people--knud-rasmussen--1": {
+   "h_m": 0.9,
+   "w_m": 1.35,
+   "px": [
+    960,
+    640
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.35
+  },
+  "people--knud-rasmussen--2": {
+   "h_m": 0.7,
+   "w_m": 0.6096,
+   "px": [
+    836,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.6096
+  },
+  "people--kristina-of-sweden--1": {
+   "h_m": 0.9,
+   "w_m": 0.6907,
+   "px": [
+    330,
+    430
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6907
+  },
+  "people--kupe--1": {
+   "h_m": 0.9,
+   "w_m": 0.675,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.675
+  },
+  "people--lady-six-sky--1": {
+   "h_m": 0.9,
+   "w_m": 0.4144,
+   "px": [
+    442,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.4144
+  },
+  "people--laozi--1": {
+   "h_m": 0.9,
+   "w_m": 0.494,
+   "px": [
+    500,
+    911
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.494
+  },
+  "people--lautaro--1": {
+   "h_m": 0.625,
+   "w_m": 1.5,
+   "px": [
+    960,
+    400
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.625,
+   "disp_w": 1.5
+  },
+  "people--leo-tolstoy--1": {
+   "h_m": 0.9,
+   "w_m": 0.6797,
+   "px": [
+    725,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6797
+  },
+  "people--leo-tolstoy--2": {
+   "h_m": 0.7,
+   "w_m": 1.0484,
+   "px": [
+    960,
+    641
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0484
+  },
+  "people--leo-tolstoy--3": {
+   "h_m": 0.7,
+   "w_m": 1.0516,
+   "px": [
+    960,
+    639
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0516
+  },
+  "people--leonardo-da-vinci--1": {
+   "h_m": 0.9,
+   "w_m": 0.6281,
+   "px": [
+    670,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6281
+  },
+  "people--leonardo-da-vinci--2": {
+   "h_m": 0.7,
+   "w_m": 0.7081,
+   "px": [
+    960,
+    949
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.7081
+  },
+  "people--li-qingzhao--1": {
+   "h_m": 0.9,
+   "w_m": 0.675,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.675
+  },
+  "people--li-qingzhao--2": {
+   "h_m": 0.7,
+   "w_m": 0.9451,
+   "px": [
+    960,
+    711
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9451
+  },
+  "people--liliuokalani--1": {
+   "h_m": 0.9,
+   "w_m": 0.6478,
+   "px": [
+    691,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6478
+  },
+  "people--liliuokalani--2": {
+   "h_m": 0.7,
+   "w_m": 0.509,
+   "px": [
+    698,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.509
+  },
+  "people--liliuokalani--3": {
+   "h_m": 0.7,
+   "w_m": 1.1071,
+   "px": [
+    960,
+    607
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.1071
+  },
+  "people--louis-comfort-tiffany--1": {
+   "h_m": 0.9,
+   "w_m": 0.5701,
+   "px": [
+    330,
+    521
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5701
+  },
+  "people--louis-comfort-tiffany--2": {
+   "h_m": 0.7,
+   "w_m": 0.2399,
+   "px": [
+    329,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.2399
+  },
+  "people--louis-comfort-tiffany--3": {
+   "h_m": 0.7,
+   "w_m": 0.35,
+   "px": [
+    480,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.35
+  },
+  "people--ludwig-ii--1": {
+   "h_m": 0.9,
+   "w_m": 0.6506,
+   "px": [
+    694,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6506
+  },
+  "people--lumiere-brothers--1": {
+   "h_m": 0.9,
+   "w_m": 0.7313,
+   "px": [
+    780,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7313
+  },
+  "people--lumiere-brothers--2": {
+   "h_m": 0.7,
+   "w_m": 0.5352,
+   "px": [
+    734,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5352
+  },
+  "people--mahatma-gandhi--1": {
+   "h_m": 0.9,
+   "w_m": 0.7209,
+   "px": [
+    769,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7209
+  },
+  "people--malinche--1": {
+   "h_m": 0.9,
+   "w_m": 0.6488,
+   "px": [
+    692,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6488
+  },
+  "people--malinche--2": {
+   "h_m": 0.7,
+   "w_m": 0.9739,
+   "px": [
+    960,
+    690
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9739
+  },
+  "people--mansa-musa--1": {
+   "h_m": 0.9,
+   "w_m": 0.7884,
+   "px": [
+    841,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7884
+  },
+  "people--marie-curie--1": {
+   "h_m": 0.9,
+   "w_m": 0.6619,
+   "px": [
+    706,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6619
+  },
+  "people--mary-cassatt--1": {
+   "h_m": 0.9,
+   "w_m": 1.0397,
+   "px": [
+    960,
+    831
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.0397
+  },
+  "people--mary-cassatt--2": {
+   "h_m": 0.7,
+   "w_m": 0.9138,
+   "px": [
+    500,
+    383
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9138
+  },
+  "people--mary-cassatt--3": {
+   "h_m": 0.7,
+   "w_m": 0.4743,
+   "px": [
+    500,
+    738
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4743
+  },
+  "people--matthias-corvinus--1": {
+   "h_m": 0.9,
+   "w_m": 0.7053,
+   "px": [
+    500,
+    638
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7053
+  },
+  "people--matthias-corvinus--2": {
+   "h_m": 0.7,
+   "w_m": 1.49,
+   "px": [
+    960,
+    451
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.49
+  },
+  "people--menelik-ii--1": {
+   "h_m": 0.9,
+   "w_m": 0.7228,
+   "px": [
+    771,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7228
+  },
+  "people--michelangelo--1": {
+   "h_m": 0.9,
+   "w_m": 0.7781,
+   "px": [
+    830,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7781
+  },
+  "people--michelangelo--2": {
+   "h_m": 0.7,
+   "w_m": 0.4667,
+   "px": [
+    640,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4667
+  },
+  "people--michelangelo--3": {
+   "h_m": 0.7,
+   "w_m": 0.2742,
+   "px": [
+    376,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.2742
+  },
+  "people--mimar-sinan--1": {
+   "h_m": 0.9,
+   "w_m": 0.6403,
+   "px": [
+    683,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6403
+  },
+  "people--mimar-sinan--2": {
+   "h_m": 0.7,
+   "w_m": 0.7981,
+   "px": [
+    960,
+    842
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.7981
+  },
+  "people--mimar-sinan--3": {
+   "h_m": 0.7,
+   "w_m": 0.8136,
+   "px": [
+    960,
+    826
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.8136
+  },
+  "people--mirabai--1": {
+   "h_m": 0.9,
+   "w_m": 0.6579,
+   "px": [
+    500,
+    684
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6579
+  },
+  "people--montezuma-ii--1": {
+   "h_m": 0.9,
+   "w_m": 0.5597,
+   "px": [
+    500,
+    804
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5597
+  },
+  "people--montezuma-ii--2": {
+   "h_m": 0.7,
+   "w_m": 0.6913,
+   "px": [
+    948,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.6913
+  },
+  "people--muhammad--1": {
+   "h_m": 0.9,
+   "w_m": 1.1002,
+   "px": [
+    500,
+    409
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.1002
+  },
+  "people--muhammad-ali-of-egypt--1": {
+   "h_m": 0.9,
+   "w_m": 0.7125,
+   "px": [
+    760,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7125
+  },
+  "people--muhammad-ali-of-egypt--2": {
+   "h_m": 0.7,
+   "w_m": 0.6205,
+   "px": [
+    851,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.6205
+  },
+  "people--murasaki-shikibu--1": {
+   "h_m": 0.9,
+   "w_m": 1.1221,
+   "px": [
+    960,
+    770
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.1221
+  },
+  "people--murasaki-shikibu--2": {
+   "h_m": 0.7,
+   "w_m": 1.4403,
+   "px": [
+    500,
+    243
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.4403
+  },
+  "people--nefertiti--1": {
+   "h_m": 0.9,
+   "w_m": 0.6141,
+   "px": [
+    655,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6141
+  },
+  "people--nefertiti--2": {
+   "h_m": 0.7,
+   "w_m": 0.8463,
+   "px": [
+    960,
+    794
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.8463
+  },
+  "people--nefertiti--3": {
+   "h_m": 0.7,
+   "w_m": 0.4667,
+   "px": [
+    640,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4667
+  },
+  "people--nelson-mandela--1": {
+   "h_m": 0.9,
+   "w_m": 0.6956,
+   "px": [
+    742,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6956
+  },
+  "people--nezahualcoyotl--1": {
+   "h_m": 0.9,
+   "w_m": 0.6375,
+   "px": [
+    680,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6375
+  },
+  "people--nezahualcoyotl--2": {
+   "h_m": 0.7,
+   "w_m": 0.3281,
+   "px": [
+    450,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.3281
+  },
+  "people--nur-jahan--1": {
+   "h_m": 0.9,
+   "w_m": 0.66,
+   "px": [
+    330,
+    450
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.66
+  },
+  "people--nur-jahan--2": {
+   "h_m": 0.7,
+   "w_m": 0.4505,
+   "px": [
+    500,
+    777
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4505
+  },
+  "people--nur-jahan--3": {
+   "h_m": 0.7,
+   "w_m": 0.4305,
+   "px": [
+    500,
+    813
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4305
+  },
+  "people--nzinga-of-ndongo-and-matamba--1": {
+   "h_m": 0.9,
+   "w_m": 0.675,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.675
+  },
+  "people--pachacuti--1": {
+   "h_m": 0.9,
+   "w_m": 0.825,
+   "px": [
+    880,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.825
+  },
+  "people--pakal-the-great--1": {
+   "h_m": 0.9,
+   "w_m": 1.3521,
+   "px": [
+    960,
+    639
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.3521
+  },
+  "people--pakal-the-great--2": {
+   "h_m": 0.7,
+   "w_m": 0.9333,
+   "px": [
+    500,
+    375
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9333
+  },
+  "people--pedro-ii--1": {
+   "h_m": 0.9,
+   "w_m": 0.6713,
+   "px": [
+    716,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6713
+  },
+  "people--pedro-ii--2": {
+   "h_m": 0.7,
+   "w_m": 1.0402,
+   "px": [
+    960,
+    646
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0402
+  },
+  "people--pericles--1": {
+   "h_m": 0.9,
+   "w_m": 0.5934,
+   "px": [
+    633,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5934
+  },
+  "people--pericles--2": {
+   "h_m": 0.7,
+   "w_m": 1.0804,
+   "px": [
+    960,
+    622
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0804
+  },
+  "people--peter-the-great--1": {
+   "h_m": 0.9,
+   "w_m": 0.6816,
+   "px": [
+    727,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6816
+  },
+  "people--peter-the-great--2": {
+   "h_m": 0.7,
+   "w_m": 0.825,
+   "px": [
+    330,
+    280
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.825
+  },
+  "people--philip-ii--1": {
+   "h_m": 0.9,
+   "w_m": 0.7313,
+   "px": [
+    780,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7313
+  },
+  "people--philip-ii--2": {
+   "h_m": 0.7,
+   "w_m": 0.5731,
+   "px": [
+    786,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5731
+  },
+  "people--pieter-bruegel-the-elder--1": {
+   "h_m": 0.9,
+   "w_m": 0.7519,
+   "px": [
+    802,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7519
+  },
+  "people--pieter-bruegel-the-elder--2": {
+   "h_m": 0.7,
+   "w_m": 1.0566,
+   "px": [
+    960,
+    636
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0566
+  },
+  "people--pieter-bruegel-the-elder--3": {
+   "h_m": 0.7,
+   "w_m": 0.9282,
+   "px": [
+    960,
+    724
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9282
+  },
+  "people--piye--1": {
+   "h_m": 0.9,
+   "w_m": 1.3333,
+   "px": [
+    960,
+    648
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.3333
+  },
+  "people--piye--2": {
+   "h_m": 0.7,
+   "w_m": 0.4493,
+   "px": [
+    500,
+    779
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4493
+  },
+  "people--qin-shi-huang--1": {
+   "h_m": 0.9,
+   "w_m": 0.6684,
+   "px": [
+    713,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6684
+  },
+  "people--queen-amina-of-zazzau--1": {
+   "h_m": 0.8578,
+   "w_m": 1.5,
+   "px": [
+    960,
+    549
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.8578,
+   "disp_w": 1.5
+  },
+  "people--queen-suriyothai--1": {
+   "h_m": 0.9,
+   "w_m": 0.6666,
+   "px": [
+    711,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6666
+  },
+  "people--queen-victoria--1": {
+   "h_m": 0.9,
+   "w_m": 0.6375,
+   "px": [
+    680,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6375
+  },
+  "people--queen-victoria--2": {
+   "h_m": 0.7,
+   "w_m": 0.9205,
+   "px": [
+    960,
+    730
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9205
+  },
+  "people--rachel-carson--1": {
+   "h_m": 0.9,
+   "w_m": 0.7116,
+   "px": [
+    759,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7116
+  },
+  "people--raja-ravi-varma--1": {
+   "h_m": 0.9,
+   "w_m": 0.6638,
+   "px": [
+    708,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6638
+  },
+  "people--raja-ravi-varma--2": {
+   "h_m": 0.7,
+   "w_m": 1.1016,
+   "px": [
+    960,
+    610
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.1016
+  },
+  "people--raja-ravi-varma--3": {
+   "h_m": 0.7,
+   "w_m": 0.5272,
+   "px": [
+    723,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5272
+  },
+  "people--ramesses-ii--1": {
+   "h_m": 0.9,
+   "w_m": 0.6,
+   "px": [
+    640,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6
+  },
+  "people--ramesses-ii--2": {
+   "h_m": 0.7,
+   "w_m": 0.9333,
+   "px": [
+    960,
+    720
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9333
+  },
+  "people--ramesses-ii--3": {
+   "h_m": 0.7,
+   "w_m": 0.4484,
+   "px": [
+    615,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4484
+  },
+  "people--rani-lakshmibai--1": {
+   "h_m": 0.9,
+   "w_m": 1.372,
+   "px": [
+    500,
+    328
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.372
+  },
+  "people--razia-sultana--1": {
+   "h_m": 0.9,
+   "w_m": 0.5419,
+   "px": [
+    578,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5419
+  },
+  "people--razia-sultana--2": {
+   "h_m": 0.7,
+   "w_m": 0.4958,
+   "px": [
+    680,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4958
+  },
+  "people--rembrandt-van-rijn--1": {
+   "h_m": 0.9,
+   "w_m": 0.6947,
+   "px": [
+    741,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6947
+  },
+  "people--rembrandt-van-rijn--2": {
+   "h_m": 0.7,
+   "w_m": 0.536,
+   "px": [
+    500,
+    653
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.536
+  },
+  "people--rembrandt-van-rijn--3": {
+   "h_m": 0.7,
+   "w_m": 0.5228,
+   "px": [
+    717,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5228
+  },
+  "people--robert-the-bruce--1": {
+   "h_m": 0.9,
+   "w_m": 0.8789,
+   "px": [
+    500,
+    512
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.8789
+  },
+  "people--rosalind-franklin--1": {
+   "h_m": 0.9,
+   "w_m": 0.7425,
+   "px": [
+    330,
+    400
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7425
+  },
+  "people--rumi--1": {
+   "h_m": 0.9,
+   "w_m": 0.8065,
+   "px": [
+    500,
+    558
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.8065
+  },
+  "people--rumi--2": {
+   "h_m": 0.7,
+   "w_m": 1.4286,
+   "px": [
+    500,
+    245
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.4286
+  },
+  "people--rumi--3": {
+   "h_m": 0.7,
+   "w_m": 0.4594,
+   "px": [
+    630,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4594
+  },
+  "people--sacagawea--1": {
+   "h_m": 0.9,
+   "w_m": 0.7931,
+   "px": [
+    846,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7931
+  },
+  "people--sacagawea--2": {
+   "h_m": 0.7,
+   "w_m": 1.1429,
+   "px": [
+    960,
+    588
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.1429
+  },
+  "people--saladin--1": {
+   "h_m": 0.9,
+   "w_m": 0.9568,
+   "px": [
+    960,
+    903
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.9568
+  },
+  "people--saladin--2": {
+   "h_m": 0.7,
+   "w_m": 0.9711,
+   "px": [
+    960,
+    692
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9711
+  },
+  "people--saladin--3": {
+   "h_m": 0.7,
+   "w_m": 1.4228,
+   "px": [
+    500,
+    246
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.4228
+  },
+  "people--sappho--1": {
+   "h_m": 0.9,
+   "w_m": 0.596,
+   "px": [
+    500,
+    755
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.596
+  },
+  "people--savitribai-phule--1": {
+   "h_m": 0.9,
+   "w_m": 0.5072,
+   "px": [
+    541,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5072
+  },
+  "people--savitribai-phule--2": {
+   "h_m": 0.7,
+   "w_m": 1.1748,
+   "px": [
+    960,
+    572
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.1748
+  },
+  "people--seondeok--1": {
+   "h_m": 0.9,
+   "w_m": 0.6,
+   "px": [
+    640,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6
+  },
+  "people--seondeok--2": {
+   "h_m": 0.7,
+   "w_m": 0.5262,
+   "px": [
+    330,
+    439
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5262
+  },
+  "people--sequoyah--1": {
+   "h_m": 0.9,
+   "w_m": 0.75,
+   "px": [
+    800,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.75
+  },
+  "people--sergei-eisenstein--1": {
+   "h_m": 0.9,
+   "w_m": 0.6038,
+   "px": [
+    644,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6038
+  },
+  "people--sergei-eisenstein--2": {
+   "h_m": 0.7,
+   "w_m": 1.28,
+   "px": [
+    960,
+    525
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.28
+  },
+  "people--sergei-eisenstein--3": {
+   "h_m": 0.7,
+   "w_m": 0.6783,
+   "px": [
+    500,
+    516
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.6783
+  },
+  "people--sesshu-toyo--1": {
+   "h_m": 0.9,
+   "w_m": 0.7303,
+   "px": [
+    779,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7303
+  },
+  "people--sesshu-toyo--2": {
+   "h_m": 0.7,
+   "w_m": 1.05,
+   "px": [
+    960,
+    640
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.05
+  },
+  "people--sesshu-toyo--3": {
+   "h_m": 0.7,
+   "w_m": 1.05,
+   "px": [
+    960,
+    640
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.05
+  },
+  "people--shaka--1": {
+   "h_m": 0.9,
+   "w_m": 0.6657,
+   "px": [
+    500,
+    676
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6657
+  },
+  "people--shen-zhou--1": {
+   "h_m": 0.9,
+   "w_m": 0.6374,
+   "px": [
+    500,
+    706
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6374
+  },
+  "people--shen-zhou--2": {
+   "h_m": 0.7,
+   "w_m": 1.1769,
+   "px": [
+    960,
+    571
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.1769
+  },
+  "people--shen-zhou--3": {
+   "h_m": 0.7,
+   "w_m": 0.3551,
+   "px": [
+    487,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.3551
+  },
+  "people--siddhartha-gautama--1": {
+   "h_m": 0.9,
+   "w_m": 0.7031,
+   "px": [
+    750,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7031
+  },
+  "people--simon-bolivar--1": {
+   "h_m": 0.9,
+   "w_m": 0.6,
+   "px": [
+    640,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6
+  },
+  "people--sitting-bull--1": {
+   "h_m": 0.9,
+   "w_m": 0.6534,
+   "px": [
+    697,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6534
+  },
+  "people--sitting-bull--2": {
+   "h_m": 0.7,
+   "w_m": 1.0386,
+   "px": [
+    960,
+    647
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0386
+  },
+  "people--sofonisba-anguissola--1": {
+   "h_m": 0.9,
+   "w_m": 0.7753,
+   "px": [
+    827,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7753
+  },
+  "people--sofonisba-anguissola--2": {
+   "h_m": 0.7,
+   "w_m": 0.4156,
+   "px": [
+    570,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4156
+  },
+  "people--sofonisba-anguissola--3": {
+   "h_m": 0.612,
+   "w_m": 1.5,
+   "px": [
+    500,
+    204
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.612,
+   "disp_w": 1.5
+  },
+  "people--sor-juana-ines-de-la-cruz--1": {
+   "h_m": 0.9,
+   "w_m": 0.8093,
+   "px": [
+    330,
+    367
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.8093
+  },
+  "people--sor-juana-ines-de-la-cruz--2": {
+   "h_m": 0.7,
+   "w_m": 0.9259,
+   "px": [
+    500,
+    378
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9259
+  },
+  "people--sukarno--1": {
+   "h_m": 0.9,
+   "w_m": 0.6234,
+   "px": [
+    665,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6234
+  },
+  "people--sukarno--2": {
+   "h_m": 0.7,
+   "w_m": 1.0938,
+   "px": [
+    500,
+    320
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0938
+  },
+  "people--suleiman-the-magnificent--1": {
+   "h_m": 0.9,
+   "w_m": 0.7697,
+   "px": [
+    821,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7697
+  },
+  "people--suleiman-the-magnificent--2": {
+   "h_m": 0.7,
+   "w_m": 1.1626,
+   "px": [
+    960,
+    578
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.1626
+  },
+  "people--sun-tzu--1": {
+   "h_m": 0.9,
+   "w_m": 0.7781,
+   "px": [
+    830,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7781
+  },
+  "people--sun-yat-sen--1": {
+   "h_m": 0.9,
+   "w_m": 0.6853,
+   "px": [
+    731,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6853
+  },
+  "people--sun-yat-sen--2": {
+   "h_m": 0.7,
+   "w_m": 1.3884,
+   "px": [
+    960,
+    484
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.3884
+  },
+  "people--sun-yat-sen--3": {
+   "h_m": 0.7,
+   "w_m": 1.05,
+   "px": [
+    960,
+    640
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.05
+  },
+  "people--sundiata-keita--1": {
+   "h_m": 0.8578,
+   "w_m": 1.5,
+   "px": [
+    960,
+    549
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.8578,
+   "disp_w": 1.5
+  },
+  "people--sundiata-keita--2": {
+   "h_m": 0.7,
+   "w_m": 0.9359,
+   "px": [
+    960,
+    718
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9359
+  },
+  "people--sunni-ali--1": {
+   "h_m": 0.9,
+   "w_m": 1.2221,
+   "px": [
+    960,
+    707
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.2221
+  },
+  "people--tamar-of-georgia--1": {
+   "h_m": 0.9,
+   "w_m": 0.4912,
+   "px": [
+    524,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.4912
+  },
+  "people--tamar-of-georgia--2": {
+   "h_m": 0.7,
+   "w_m": 0.5775,
+   "px": [
+    792,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5775
+  },
+  "people--teddy-roosevelt--1": {
+   "h_m": 0.9,
+   "w_m": 0.7228,
+   "px": [
+    771,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7228
+  },
+  "people--teddy-roosevelt--2": {
+   "h_m": 0.7,
+   "w_m": 0.5634,
+   "px": [
+    330,
+    410
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5634
+  },
+  "people--timur--1": {
+   "h_m": 0.9,
+   "w_m": 0.5952,
+   "px": [
+    500,
+    756
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5952
+  },
+  "people--timur--2": {
+   "h_m": 0.7,
+   "w_m": 0.9307,
+   "px": [
+    960,
+    722
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9307
+  },
+  "people--timur--3": {
+   "h_m": 0.7,
+   "w_m": 0.8948,
+   "px": [
+    960,
+    751
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.8948
+  },
+  "people--tokugawa-ieyasu--1": {
+   "h_m": 0.9,
+   "w_m": 0.7894,
+   "px": [
+    842,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7894
+  },
+  "people--tokugawa-ieyasu--2": {
+   "h_m": 0.7,
+   "w_m": 0.4611,
+   "px": [
+    500,
+    759
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4611
+  },
+  "people--tomyris--1": {
+   "h_m": 0.9,
+   "w_m": 0.5668,
+   "px": [
+    500,
+    794
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5668
+  },
+  "people--tomyris--2": {
+   "h_m": 0.7,
+   "w_m": 1.2285,
+   "px": [
+    960,
+    547
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.2285
+  },
+  "people--toussaint-louverture--1": {
+   "h_m": 0.9,
+   "w_m": 0.7389,
+   "px": [
+    500,
+    609
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7389
+  },
+  "people--toussaint-louverture--2": {
+   "h_m": 0.7,
+   "w_m": 0.525,
+   "px": [
+    720,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.525
+  },
+  "people--trajan--1": {
+   "h_m": 0.9,
+   "w_m": 0.6909,
+   "px": [
+    737,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6909
+  },
+  "people--trajan--2": {
+   "h_m": 0.7,
+   "w_m": 0.4032,
+   "px": [
+    553,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4032
+  },
+  "people--truganini--1": {
+   "h_m": 0.9,
+   "w_m": 1.2743,
+   "px": [
+    960,
+    678
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.2743
+  },
+  "people--truganini--2": {
+   "h_m": 0.7,
+   "w_m": 0.4487,
+   "px": [
+    500,
+    780
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4487
+  },
+  "people--truganini--3": {
+   "h_m": 0.7,
+   "w_m": 0.5002,
+   "px": [
+    686,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5002
+  },
+  "people--trung-sisters--1": {
+   "h_m": 0.9,
+   "w_m": 1.3235,
+   "px": [
+    500,
+    340
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.3235
+  },
+  "people--trung-sisters--2": {
+   "h_m": 0.7,
+   "w_m": 0.7022,
+   "px": [
+    960,
+    957
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.7022
+  },
+  "people--tupac-amaru-ii--1": {
+   "h_m": 0.9,
+   "w_m": 0.7706,
+   "px": [
+    822,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7706
+  },
+  "people--tupac-amaru-ii--2": {
+   "h_m": 0.7,
+   "w_m": 1.2444,
+   "px": [
+    960,
+    540
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.2444
+  },
+  "people--tupac-amaru-ii--3": {
+   "h_m": 0.7,
+   "w_m": 0.9333,
+   "px": [
+    960,
+    720
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9333
+  },
+  "people--tupaia--1": {
+   "h_m": 0.9,
+   "w_m": 1.3395,
+   "px": [
+    960,
+    645
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.3395
+  },
+  "people--tupaia--2": {
+   "h_m": 0.7,
+   "w_m": 1.0419,
+   "px": [
+    960,
+    645
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0419
+  },
+  "people--ulugh-beg--1": {
+   "h_m": 0.9,
+   "w_m": 0.6731,
+   "px": [
+    718,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6731
+  },
+  "people--usman-dan-fodio--1": {
+   "h_m": 0.9,
+   "w_m": 1.4974,
+   "px": [
+    960,
+    577
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.4974
+  },
+  "people--utagawa-hiroshige--1": {
+   "h_m": 0.9,
+   "w_m": 0.5921,
+   "px": [
+    500,
+    760
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5921
+  },
+  "people--utagawa-hiroshige--2": {
+   "h_m": 0.7,
+   "w_m": 0.4812,
+   "px": [
+    660,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4812
+  },
+  "people--utagawa-hiroshige--3": {
+   "h_m": 0.7,
+   "w_m": 0.4587,
+   "px": [
+    500,
+    763
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4587
+  },
+  "people--vincent-van-gogh--1": {
+   "h_m": 0.9,
+   "w_m": 0.7125,
+   "px": [
+    760,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7125
+  },
+  "people--vincent-van-gogh--2": {
+   "h_m": 0.7,
+   "w_m": 0.5534,
+   "px": [
+    759,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.5534
+  },
+  "people--vincent-van-gogh--3": {
+   "h_m": 0.7,
+   "w_m": 0.9168,
+   "px": [
+    960,
+    733
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.9168
+  },
+  "people--vitus-bering--1": {
+   "h_m": 0.9,
+   "w_m": 0.8964,
+   "px": [
+    500,
+    502
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.8964
+  },
+  "people--vitus-bering--2": {
+   "h_m": 0.7,
+   "w_m": 1.4059,
+   "px": [
+    960,
+    478
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.4059
+  },
+  "people--wangari-maathai--1": {
+   "h_m": 0.9,
+   "w_m": 0.5583,
+   "px": [
+    330,
+    532
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5583
+  },
+  "people--wangari-maathai--2": {
+   "h_m": 0.7,
+   "w_m": 0.4263,
+   "px": [
+    500,
+    821
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4263
+  },
+  "people--wassily-kandinsky--1": {
+   "h_m": 0.9,
+   "w_m": 0.6478,
+   "px": [
+    691,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6478
+  },
+  "people--wassily-kandinsky--2": {
+   "h_m": 0.7,
+   "w_m": 0.6475,
+   "px": [
+    888,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.6475
+  },
+  "people--wassily-kandinsky--3": {
+   "h_m": 0.7,
+   "w_m": 1.0533,
+   "px": [
+    960,
+    638
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0533
+  },
+  "people--wilfrid-laurier--1": {
+   "h_m": 0.9,
+   "w_m": 0.6769,
+   "px": [
+    722,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6769
+  },
+  "people--william-morris--1": {
+   "h_m": 0.9,
+   "w_m": 0.7153,
+   "px": [
+    763,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.7153
+  },
+  "people--william-morris--2": {
+   "h_m": 0.7,
+   "w_m": 0.3937,
+   "px": [
+    540,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.3937
+  },
+  "people--wu-zetian--1": {
+   "h_m": 0.9,
+   "w_m": 0.5081,
+   "px": [
+    542,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.5081
+  },
+  "people--xuanzang--1": {
+   "h_m": 0.9,
+   "w_m": 0.4022,
+   "px": [
+    429,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.4022
+  },
+  "people--xuanzang--2": {
+   "h_m": 0.7,
+   "w_m": 1.0479,
+   "px": [
+    500,
+    334
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0479
+  },
+  "people--xuanzang--3": {
+   "h_m": 0.7,
+   "w_m": 1.0533,
+   "px": [
+    960,
+    638
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0533
+  },
+  "people--yaa-asantewaa--1": {
+   "h_m": 0.8438,
+   "w_m": 1.5,
+   "px": [
+    960,
+    540
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.8438,
+   "disp_w": 1.5
+  },
+  "people--yaa-asantewaa--2": {
+   "h_m": 0.7,
+   "w_m": 1.2444,
+   "px": [
+    960,
+    540
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.2444
+  },
+  "people--yermak-timofeyevich--1": {
+   "h_m": 0.9,
+   "w_m": 0.6485,
+   "px": [
+    330,
+    458
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6485
+  },
+  "people--yermak-timofeyevich--2": {
+   "h_m": 0.7,
+   "w_m": 0.4563,
+   "px": [
+    500,
+    767
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 0.4563
+  },
+  "people--yongle-emperor--1": {
+   "h_m": 0.9,
+   "w_m": 0.6206,
+   "px": [
+    662,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6206
+  },
+  "people--yongle-emperor--2": {
+   "h_m": 0.7,
+   "w_m": 1.0533,
+   "px": [
+    960,
+    638
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.0533
+  },
+  "people--zenobia--1": {
+   "h_m": 0.9,
+   "w_m": 0.8813,
+   "px": [
+    330,
+    337
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.8813
+  },
+  "people--zenobia--2": {
+   "h_m": 0.7,
+   "w_m": 1.4644,
+   "px": [
+    500,
+    239
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.7,
+   "disp_w": 1.4644
+  },
+  "people--zheng-he--1": {
+   "h_m": 0.9,
+   "w_m": 0.6,
+   "px": [
+    640,
+    960
+   ],
+   "type": "portrait-photo",
+   "source": "default:portrait-photo",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 0.6
+  },
+  "philip-ii": {
+   "h_m": 0.88,
+   "w_m": 0.72,
+   "px": [
+    732,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.88,
+   "disp_w": 0.72
+  },
+  "pieta": {
+   "h_m": 1.95,
+   "w_m": 1.74,
+   "px": [
+    859,
+    900
+   ],
+   "type": "sculpture-photo",
+   "source": "medium",
+   "note": "swapped to match the image aspect",
+   "scale": 1.0,
+   "disp_h": 1.95,
+   "disp_w": 1.74
+  },
+  "plum-park-kameido": {
+   "h_m": 0.36,
+   "w_m": 0.24,
+   "px": [
+    613,
+    900
+   ],
+   "type": "print",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.36,
+   "disp_w": 0.24
+  },
+  "poet-on-a-mountaintop": {
+   "h_m": 0.387,
+   "w_m": 0.603,
+   "px": [
+    900,
+    583
+   ],
+   "type": "handscroll",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.387,
+   "disp_w": 0.603
+  },
+  "potato-eaters": {
+   "h_m": 0.82,
+   "w_m": 1.14,
+   "px": [
+    900,
+    637
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.82,
+   "disp_w": 1.14
+  },
+  "pride-and-prejudice": {
+   "h_m": 0.28,
+   "w_m": 0.1733,
+   "px": [
+    557,
+    900
+   ],
+   "type": "book-page",
+   "source": "default:book-page",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.1733
+  },
+  "primordial-chaos-16": {
+   "h_m": 0.53,
+   "w_m": 0.37,
+   "px": [
+    650,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.53,
+   "disp_w": 0.37
+  },
+  "prodigal-son": {
+   "h_m": 2.62,
+   "w_m": 2.05,
+   "px": [
+    690,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 2.62,
+   "disp_w": 2.05
+  },
+  "pungak-naesan-chongram": {
+   "h_m": 1.6,
+   "w_m": 1.1782,
+   "px": [
+    500,
+    679
+   ],
+   "type": "hanging-scroll",
+   "source": "default:hanging-scroll",
+   "scale": 1.0,
+   "disp_h": 1.6,
+   "disp_w": 1.1782
+  },
+  "pyramid-of-the-sun": {
+   "h_m": 1.0,
+   "w_m": 1.4754,
+   "px": [
+    900,
+    610
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.4754
+  },
+  "rain-steam-and-speed": {
+   "h_m": 0.91,
+   "w_m": 1.218,
+   "px": [
+    900,
+    672
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.91,
+   "disp_w": 1.218
+  },
+  "red-house": {
+   "h_m": 1.0,
+   "w_m": 1.6636,
+   "px": [
+    900,
+    541
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.6636
+  },
+  "renunciation-of-worldly-goods": {
+   "h_m": 2.4,
+   "w_m": 2.1333,
+   "px": [
+    800,
+    900
+   ],
+   "type": "fresco",
+   "source": "default:fresco",
+   "scale": 1.0,
+   "disp_h": 2.4,
+   "disp_w": 2.1333
+  },
+  "resurrection": {
+   "h_m": 0.28,
+   "w_m": 0.1869,
+   "px": [
+    500,
+    749
+   ],
+   "type": "book-page",
+   "source": "default:book-page",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.1869
+  },
+  "resurrection-of-lazarus": {
+   "h_m": 0.95,
+   "w_m": 1.205,
+   "px": [
+    900,
+    713
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.95,
+   "disp_w": 1.205
+  },
+  "rhinoceros": {
+   "h_m": 0.235,
+   "w_m": 0.298,
+   "px": [
+    900,
+    710
+   ],
+   "type": "print",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.235,
+   "disp_w": 0.298
+  },
+  "righteous-shall-receive": {
+   "h_m": 0.55,
+   "w_m": 0.3453,
+   "px": [
+    565,
+    900
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.3453
+  },
+  "robie-house": {
+   "h_m": 1.0,
+   "w_m": 1.3333,
+   "px": [
+    900,
+    675
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.3333
+  },
+  "rokeby-venus": {
+   "h_m": 1.225,
+   "w_m": 1.77,
+   "px": [
+    900,
+    617
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.225,
+   "disp_w": 1.77
+  },
+  "rouen-cathedral": {
+   "h_m": 1.0,
+   "w_m": 0.66,
+   "px": [
+    590,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.66
+  },
+  "royal-hospital-chelsea": {
+   "h_m": 1.0,
+   "w_m": 1.7787,
+   "px": [
+    900,
+    506
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.7787
+  },
+  "royal-observatory-greenwich": {
+   "h_m": 0.32,
+   "w_m": 0.2395,
+   "px": [
+    330,
+    441
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.2395
+  },
+  "rustem-pasha-mosque": {
+   "h_m": 1.0,
+   "w_m": 0.75,
+   "px": [
+    330,
+    440
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.75
+  },
+  "sagrada-familia": {
+   "h_m": 1.0,
+   "w_m": 0.6878,
+   "px": [
+    619,
+    900
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.6878
+  },
+  "san-giorgio-maggiore": {
+   "h_m": 1.0,
+   "w_m": 1.5,
+   "px": [
+    900,
+    600
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.5
+  },
+  "saturn": {
+   "h_m": 1.435,
+   "w_m": 0.814,
+   "px": [
+    490,
+    900
+   ],
+   "type": "fresco",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.435,
+   "disp_w": 0.814
+  },
+  "scotland-street-school": {
+   "h_m": 1.0,
+   "w_m": 1.3333,
+   "px": [
+    500,
+    375
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.3333
+  },
+  "scrovegni-chapel": {
+   "h_m": 2.4,
+   "w_m": 3.1034,
+   "px": [
+    900,
+    696
+   ],
+   "type": "fresco",
+   "source": "default:fresco",
+   "scale": 1.0,
+   "disp_h": 2.4,
+   "disp_w": 3.1034
+  },
+  "second-of-may": {
+   "h_m": 2.68,
+   "w_m": 3.47,
+   "px": [
+    900,
+    696
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 2.68,
+   "disp_w": 3.47
+  },
+  "seduction-of-yusuf": {
+   "h_m": 0.32,
+   "w_m": 0.214,
+   "px": [
+    602,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.214
+  },
+  "sehzade-mosque": {
+   "h_m": 1.0,
+   "w_m": 1.391,
+   "px": [
+    900,
+    647
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.391
+  },
+  "self-portrait-1500": {
+   "h_m": 0.671,
+   "w_m": 0.489,
+   "px": [
+    651,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.671,
+   "disp_w": 0.489
+  },
+  "self-portrait-1930": {
+   "h_m": 1.0,
+   "w_m": 0.6389,
+   "px": [
+    575,
+    900
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.6389
+  },
+  "self-portrait-as-saint-catherine": {
+   "h_m": 0.714,
+   "w_m": 0.69,
+   "px": [
+    866,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.714,
+   "disp_w": 0.69
+  },
+  "self-portrait-at-the-easel": {
+   "h_m": 0.66,
+   "w_m": 0.57,
+   "px": [
+    775,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.66,
+   "disp_w": 0.57
+  },
+  "self-portrait-with-two-circles": {
+   "h_m": 1.143,
+   "w_m": 0.94,
+   "px": [
+    747,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.143,
+   "disp_w": 0.94
+  },
+  "selimiye-mosque": {
+   "h_m": 1.0,
+   "w_m": 0.7867,
+   "px": [
+    708,
+    900
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.7867
+  },
+  "sema-ceremony": {
+   "h_m": 0.6,
+   "w_m": 1.3043,
+   "px": [
+    900,
+    414
+   ],
+   "type": "photo",
+   "source": "default:photo",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 1.3043
+  },
+  "sense-and-sensibility": {
+   "h_m": 0.28,
+   "w_m": 0.1708,
+   "px": [
+    549,
+    900
+   ],
+   "type": "book-page",
+   "source": "default:book-page",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.1708
+  },
+  "seven-deadly-sins": {
+   "h_m": 1.2,
+   "w_m": 1.5,
+   "px": [
+    900,
+    767
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.2,
+   "disp_w": 1.5
+  },
+  "several-circles": {
+   "h_m": 1.403,
+   "w_m": 1.407,
+   "px": [
+    884,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.403,
+   "disp_w": 1.407
+  },
+  "shakuntala": {
+   "h_m": 1.0,
+   "w_m": 0.61,
+   "px": [
+    549,
+    900
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.61
+  },
+  "sherlock-jr": {
+   "h_m": 0.6,
+   "w_m": 0.8671,
+   "px": [
+    250,
+    173
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.8671
+  },
+  "ship-of-fools": {
+   "h_m": 0.58,
+   "w_m": 0.33,
+   "px": [
+    482,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.58,
+   "disp_w": 0.33
+  },
+  "shono-driving-rain": {
+   "h_m": 0.27,
+   "w_m": 0.399,
+   "px": [
+    900,
+    609
+   ],
+   "type": "print",
+   "source": "default:print",
+   "scale": 1.0,
+   "disp_h": 0.27,
+   "disp_w": 0.399
+  },
+  "slave-ship": {
+   "h_m": 0.908,
+   "w_m": 1.226,
+   "px": [
+    900,
+    675
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.908,
+   "disp_w": 1.226
+  },
+  "sleep-of-reason": {
+   "h_m": 0.215,
+   "w_m": 0.15,
+   "px": [
+    595,
+    900
+   ],
+   "type": "print",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.215,
+   "disp_w": 0.15
+  },
+  "snow-storm-steam-boat": {
+   "h_m": 0.914,
+   "w_m": 1.219,
+   "px": [
+    900,
+    673
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.914,
+   "disp_w": 1.219
+  },
+  "st-pauls-cathedral": {
+   "h_m": 1.0,
+   "w_m": 1.4563,
+   "px": [
+    900,
+    618
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.4563
+  },
+  "st-stephen-walbrook": {
+   "h_m": 1.0,
+   "w_m": 0.6689,
+   "px": [
+    602,
+    900
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.6689
+  },
+  "starry-night": {
+   "h_m": 0.737,
+   "w_m": 0.921,
+   "px": [
+    900,
+    713
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.737,
+   "disp_w": 0.921
+  },
+  "steamboat-bill-jr": {
+   "h_m": 0.6,
+   "w_m": 0.4613,
+   "px": [
+    692,
+    900
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.4613
+  },
+  "strawberry-thief": {
+   "h_m": 0.55,
+   "w_m": 0.8567,
+   "px": [
+    500,
+    321
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.8567
+  },
+  "strike": {
+   "h_m": 0.6,
+   "w_m": 0.8021,
+   "px": [
+    250,
+    187
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.8021
+  },
+  "sudden-shower": {
+   "h_m": 0.36,
+   "w_m": 0.24,
+   "px": [
+    616,
+    900
+   ],
+   "type": "print",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.36,
+   "disp_w": 0.24
+  },
+  "suleymaniye-mosque": {
+   "h_m": 1.0,
+   "w_m": 1.3373,
+   "px": [
+    900,
+    673
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.3373
+  },
+  "sultan-husayn-bayqara": {
+   "h_m": 0.32,
+   "w_m": 0.1995,
+   "px": [
+    500,
+    802
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.1995
+  },
+  "summertime": {
+   "h_m": 1.007,
+   "w_m": 0.813,
+   "px": [
+    723,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.007,
+   "disp_w": 0.813
+  },
+  "sunflowers": {
+   "h_m": 0.921,
+   "w_m": 0.73,
+   "px": [
+    713,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.921,
+   "disp_w": 0.73
+  },
+  "supper-at-emmaus": {
+   "h_m": 1.41,
+   "w_m": 1.96,
+   "px": [
+    900,
+    640
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.41,
+   "disp_w": 1.96
+  },
+  "surrender-of-breda": {
+   "h_m": 3.07,
+   "w_m": 3.67,
+   "px": [
+    900,
+    742
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 3.07,
+   "disp_w": 3.67
+  },
+  "susanna-and-the-elders": {
+   "h_m": 1.7,
+   "w_m": 1.19,
+   "px": [
+    633,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.7,
+   "disp_w": 1.19
+  },
+  "teatro-olimpico": {
+   "h_m": 1.0,
+   "w_m": 1.1688,
+   "px": [
+    900,
+    770
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.1688
+  },
+  "temptation-of-st-anthony": {
+   "h_m": 0.55,
+   "w_m": 0.9483,
+   "px": [
+    900,
+    522
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.9483
+  },
+  "the-annunciation": {
+   "h_m": 1.448,
+   "w_m": 1.81,
+   "px": [
+    900,
+    723
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.448,
+   "disp_w": 1.81
+  },
+  "the-art-of-painting": {
+   "h_m": 1.2,
+   "w_m": 1.0,
+   "px": [
+    757,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.2,
+   "disp_w": 1.0
+  },
+  "the-banjo-lesson": {
+   "h_m": 1.245,
+   "w_m": 0.902,
+   "px": [
+    635,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.245,
+   "disp_w": 0.902
+  },
+  "the-blue-rider": {
+   "h_m": 0.521,
+   "w_m": 0.546,
+   "px": [
+    900,
+    864
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.521,
+   "disp_w": 0.546
+  },
+  "the-boating-party": {
+   "h_m": 0.9,
+   "w_m": 1.17,
+   "px": [
+    900,
+    690
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.9,
+   "disp_w": 1.17
+  },
+  "the-chess-game": {
+   "h_m": 0.72,
+   "w_m": 0.97,
+   "px": [
+    900,
+    711
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.72,
+   "disp_w": 0.97
+  },
+  "the-childs-bath": {
+   "h_m": 1.003,
+   "w_m": 0.66,
+   "px": [
+    590,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.003,
+   "disp_w": 0.66
+  },
+  "the-dance-of-life": {
+   "h_m": 1.255,
+   "w_m": 1.905,
+   "px": [
+    900,
+    586
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.255,
+   "disp_w": 1.905
+  },
+  "the-general": {
+   "h_m": 0.6,
+   "w_m": 0.7557,
+   "px": [
+    500,
+    397
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.7557
+  },
+  "the-harvesters": {
+   "h_m": 1.19,
+   "w_m": 1.62,
+   "px": [
+    900,
+    655
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.19,
+   "disp_w": 1.62
+  },
+  "the-kiss": {
+   "h_m": 1.8,
+   "w_m": 1.8,
+   "px": [
+    896,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.8,
+   "disp_w": 1.8
+  },
+  "the-little-street": {
+   "h_m": 0.543,
+   "w_m": 0.44,
+   "px": [
+    727,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.543,
+   "disp_w": 0.44
+  },
+  "the-milkmaid": {
+   "h_m": 0.455,
+   "w_m": 0.41,
+   "px": [
+    801,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.455,
+   "disp_w": 0.41
+  },
+  "the-navigator": {
+   "h_m": 0.6,
+   "w_m": 0.7815,
+   "px": [
+    900,
+    691
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.7815
+  },
+  "the-scream": {
+   "h_m": 0.91,
+   "w_m": 0.735,
+   "px": [
+    725,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.91,
+   "disp_w": 0.735
+  },
+  "the-seasons": {
+   "h_m": 0.27,
+   "w_m": 0.5586,
+   "px": [
+    900,
+    435
+   ],
+   "type": "print",
+   "source": "default:print",
+   "scale": 1.0,
+   "disp_h": 0.27,
+   "disp_w": 0.5586
+  },
+  "the-seine": {
+   "h_m": 0.228,
+   "w_m": 0.33,
+   "px": [
+    900,
+    641
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.228,
+   "disp_w": 0.33
+  },
+  "the-sick-child": {
+   "h_m": 1.195,
+   "w_m": 1.185,
+   "px": [
+    893,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.195,
+   "disp_w": 1.185
+  },
+  "the-sprinkler-sprinkled": {
+   "h_m": 0.6,
+   "w_m": 0.8,
+   "px": [
+    900,
+    675
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.8
+  },
+  "the-swan-17": {
+   "h_m": 1.0,
+   "w_m": 1.0078,
+   "px": [
+    900,
+    893
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.0078
+  },
+  "the-ten-largest-adulthood": {
+   "h_m": 3.15,
+   "w_m": 2.35,
+   "px": [
+    678,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 3.15,
+   "disp_w": 2.35
+  },
+  "the-thankful-poor": {
+   "h_m": 0.902,
+   "w_m": 1.124,
+   "px": [
+    900,
+    694
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.902,
+   "disp_w": 1.124
+  },
+  "there-comes-papa": {
+   "h_m": 1.0,
+   "w_m": 0.6389,
+   "px": [
+    575,
+    900
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.6389
+  },
+  "third-of-may": {
+   "h_m": 2.68,
+   "w_m": 3.47,
+   "px": [
+    900,
+    695
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 2.68,
+   "disp_w": 3.47
+  },
+  "three-girls": {
+   "h_m": 1.0,
+   "w_m": 0.7267,
+   "px": [
+    654,
+    900
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.7267
+  },
+  "thunderstorm-beneath-the-summit": {
+   "h_m": 0.27,
+   "w_m": 0.399,
+   "px": [
+    900,
+    609
+   ],
+   "type": "print",
+   "source": "default:print",
+   "scale": 1.0,
+   "disp_h": 0.27,
+   "disp_w": 0.399
+  },
+  "tiffany-chapel": {
+   "h_m": 0.55,
+   "w_m": 0.4449,
+   "px": [
+    728,
+    900
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.4449
+  },
+  "timur-granting-audience": {
+   "h_m": 0.32,
+   "w_m": 0.1991,
+   "px": [
+    560,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.1991
+  },
+  "tower-of-babel": {
+   "h_m": 0.55,
+   "w_m": 0.7511,
+   "px": [
+    900,
+    659
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.7511
+  },
+  "tree-of-knowledge-1": {
+   "h_m": 1.0,
+   "w_m": 0.6689,
+   "px": [
+    602,
+    900
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.6689
+  },
+  "trellis": {
+   "h_m": 0.55,
+   "w_m": 0.5256,
+   "px": [
+    860,
+    900
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.5256
+  },
+  "two-little-strangers": {
+   "h_m": 0.6,
+   "w_m": 0.8531,
+   "px": [
+    900,
+    633
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.8531
+  },
+  "unity-temple": {
+   "h_m": 1.0,
+   "w_m": 1.3333,
+   "px": [
+    900,
+    675
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.3333
+  },
+  "vain-dervish": {
+   "h_m": 0.32,
+   "w_m": 0.2119,
+   "px": [
+    596,
+    900
+   ],
+   "type": "manuscript",
+   "source": "default:manuscript",
+   "scale": 1.0,
+   "disp_h": 0.32,
+   "disp_w": 0.2119
+  },
+  "valley-of-mexico": {
+   "h_m": 1.0,
+   "w_m": 1.4563,
+   "px": [
+    900,
+    618
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.4563
+  },
+  "vampire": {
+   "h_m": 0.91,
+   "w_m": 1.09,
+   "px": [
+    900,
+    737
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.91,
+   "disp_w": 1.09
+  },
+  "vanishing-lady": {
+   "h_m": 0.6,
+   "w_m": 0.8427,
+   "px": [
+    500,
+    356
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.8427
+  },
+  "victory-of-meghanada": {
+   "h_m": 1.0,
+   "w_m": 0.7589,
+   "px": [
+    683,
+    900
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.7589
+  },
+  "view-of-ama-no-hashidate": {
+   "h_m": 0.894,
+   "w_m": 1.695,
+   "px": [
+    900,
+    475
+   ],
+   "type": "hanging-scroll",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.894,
+   "disp_w": 1.695
+  },
+  "view-of-delft": {
+   "h_m": 0.965,
+   "w_m": 1.157,
+   "px": [
+    900,
+    747
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.965,
+   "disp_w": 1.157
+  },
+  "villa-rotonda": {
+   "h_m": 1.0,
+   "w_m": 1.3333,
+   "px": [
+    500,
+    375
+   ],
+   "type": "architecture-photo",
+   "source": "default:architecture-photo",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.3333
+  },
+  "village-scene": {
+   "h_m": 1.0,
+   "w_m": 1.3393,
+   "px": [
+    900,
+    672
+   ],
+   "type": "painting",
+   "source": "default:painting",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 1.3393
+  },
+  "virgin-of-the-rocks": {
+   "h_m": 1.99,
+   "w_m": 1.22,
+   "px": [
+    568,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.99,
+   "disp_w": 1.22
+  },
+  "vitruvian-man": {
+   "h_m": 0.344,
+   "w_m": 0.255,
+   "px": [
+    662,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.344,
+   "disp_w": 0.255
+  },
+  "walking-with-a-staff": {
+   "h_m": 1.591,
+   "w_m": 0.722,
+   "px": [
+    408,
+    900
+   ],
+   "type": "hanging-scroll",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.591,
+   "disp_w": 0.722
+  },
+  "war-and-peace": {
+   "h_m": 0.28,
+   "w_m": 0.1763,
+   "px": [
+    500,
+    794
+   ],
+   "type": "book-page",
+   "source": "default:book-page",
+   "scale": 1.0,
+   "disp_h": 0.28,
+   "disp_w": 0.1763
+  },
+  "water-lilies": {
+   "h_m": 0.899,
+   "w_m": 0.941,
+   "px": [
+    900,
+    865
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.899,
+   "disp_w": 0.941
+  },
+  "waterseller-of-seville": {
+   "h_m": 1.067,
+   "w_m": 0.81,
+   "px": [
+    667,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.067,
+   "disp_w": 0.81
+  },
+  "wheatfield-with-crows": {
+   "h_m": 0.505,
+   "w_m": 1.03,
+   "px": [
+    900,
+    431
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.505,
+   "disp_w": 1.03
+  },
+  "willow-bough": {
+   "h_m": 0.55,
+   "w_m": 0.3612,
+   "px": [
+    591,
+    900
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.3612
+  },
+  "willow-tearooms": {
+   "h_m": 0.55,
+   "w_m": 0.3789,
+   "px": [
+    620,
+    900
+   ],
+   "type": "design-object",
+   "source": "default:design-object",
+   "scale": 1.0,
+   "disp_h": 0.55,
+   "disp_w": 0.3789
+  },
+  "woman-holding-a-balance": {
+   "h_m": 0.397,
+   "w_m": 0.355,
+   "px": [
+    795,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.397,
+   "disp_w": 0.355
+  },
+  "woman-with-a-parasol": {
+   "h_m": 1.0,
+   "w_m": 0.81,
+   "px": [
+    724,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 1.0,
+   "disp_w": 0.81
+  },
+  "woman-with-a-pearl-necklace": {
+   "h_m": 0.813,
+   "w_m": 0.597,
+   "px": [
+    653,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.813,
+   "disp_w": 0.597
+  },
+  "workers-leaving-the-factory": {
+   "h_m": 0.6,
+   "w_m": 0.838,
+   "px": [
+    250,
+    179
+   ],
+   "type": "film-still",
+   "source": "default:film-still",
+   "scale": 1.0,
+   "disp_h": 0.6,
+   "disp_w": 0.838
+  },
+  "young-hare": {
+   "h_m": 0.25,
+   "w_m": 0.225,
+   "px": [
+    814,
+    900
+   ],
+   "type": "painting",
+   "source": "medium",
+   "scale": 1.0,
+   "disp_h": 0.25,
+   "disp_w": 0.225
+  },
+  "zodiac": {
+   "h_m": 0.38,
+   "w_m": 0.2715,
+   "px": [
+    643,
+    900
+   ],
+   "type": "print",
+   "source": "default:print",
+   "scale": 1.0,
+   "disp_h": 0.38,
+   "disp_w": 0.2715
+  }
+ }
+}

@@ -19,6 +19,7 @@
     <div id="instructions">
       <h1>The Chronicle Museum</h1>
       <p id="blocker-subtitle">Art-Talk Wing &mdash; 53 artists, 299 works, 973&ndash;1968</p>
+      <p class="intro-hall">A grand hall with a door to every gallery: the Art-Talk galleries on one side, the Earth Chronicle eras on the other, sculptures from museum collections between them.</p>
       <p class="intro-voice">Every placard is retold by AI in one of four voices: epic, horror, essay and confession, each where it fits.</p>
       <div id="blocker-actions">
         <button type="button" id="btn-explore" class="primary">Explore</button>
@@ -26,7 +27,7 @@
         <select id="tour-wing" aria-label="Tour which wing"></select>
         <button type="button" id="btn-resume" hidden>Resume last visit</button>
       </div>
-      <p class="hint">WASD / arrows to walk &middot; mouse to look &middot; click a painting or press E to read<br>M map &middot; Tab go to &middot; ? help</p>
+      <p class="hint">WASD / arrows to walk &middot; mouse to look &middot; click a door to go through it &middot; click a painting or press E to read<br>M map &middot; Tab go to &middot; ? help</p>
     </div>
   </div>
 
@@ -55,6 +56,7 @@
   </div>
 
   <div id="room-label"></div>
+  <div id="title-card" hidden><h2></h2><p class="years"></p><p class="summary"></p></div>
   <div id="fade"></div>
   <div id="loading">Loading the museum&hellip;</div>
 

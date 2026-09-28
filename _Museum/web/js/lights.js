@@ -51,10 +51,7 @@ const DIR_TYPES = new Set(['sun', 'oculus', 'laylight']);
 
 // geometry room id (from GEO-<room>_floor) -> manifest room id
 function manifestIdFor(roomId) {
-  const special = { stairhall: 'mezzanine', futurewing: 'future-wing-1' };
-  if (special[roomId]) return special[roomId];
-  if (/^gallery_[a-z]$/.test(roomId)) return roomId.replace('_', '-');
-  return roomId;
+  return roomId; // geo room ids (GEO-<id>_floor) are the manifest room ids
 }
 
 function ownerName(obj) {
@@ -201,23 +198,17 @@ function fallbackAnchors(rooms) {
   return out;
 }
 
-export function createLightRig(scene, renderer, { root, eyeHeight = EYE_HEIGHT, lightGain = 1, rooms: roomsIn = null } = {}) {
+export function createLightRig(scene, renderer, { eyeHeight = EYE_HEIGHT, lightGain = 1, root = null, rooms: roomsIn = null } = {}) {
   const D = LIGHT_DEFAULTS;
-  const rooms = roomsIn || collectRooms(root);
-  const roomAt = makeRoomAt(rooms);
-  const fx = collectFx(root, rooms, roomAt);
-  const pointFx = fx.filter((a) => POINT_TYPES.has(a.type));
-  const dirFx = fx.filter((a) => DIR_TYPES.has(a.type));
-  const mode = pointFx.length || dirFx.length ? 'fx' : 'fallback';
-  const pointAnchors = mode === 'fx' ? pointFx : fallbackAnchors(rooms);
+  // World-dependent state, replaced by setWorld() on every scene switch.
+  let rooms = new Map();
+  let roomAt = makeRoomAt(rooms);
+  let fx = [];
+  let pointFx = [];
+  let dirFx = [];
+  let mode = 'fallback';
+  let pointAnchors = [];
   const gains = { global: lightGain, type: { ...D.typeGain } };
-
-  // Fixture level: the floor/ceiling of the fixture's room (or a guess from its height).
-  for (const a of pointAnchors) {
-    const r = a.roomRef;
-    a.floorY = r ? r.floorY : (a.pos.y >= 7 ? 7.1 : 0.1);
-    a.ceilY = r ? r.ceilY : a.floorY + 6.9;
-  }
 
   // ---- the constant light set ------------------------------------------------------------
   const hemi = new THREE.HemisphereLight(D.hemi.sky, D.hemi.ground, D.hemi.intensity);
@@ -257,7 +248,39 @@ export function createLightRig(scene, renderer, { root, eyeHeight = EYE_HEIGHT, 
   // ---- evaluation ------------------------------------------------------------------------
   let sinceEval = Infinity;
   let currentRoom = null;
-  const sunState = { key: null, mode: 'off', room: null, target: 0, level: 0, color: new THREE.Color(1, 1, 1), anchor: null };
+  const sunState = { key: null, mode: 'off', room: null, target: 0, level: 0, color: new THREE.Color(1, 1, 1), anchor: null, pending: null };
+
+  function resetSlots() {
+    for (const l of [chandelier, ...pool]) {
+      const slot = l.userData.slot;
+      slot.anchor = null; slot.next = null; slot.level = 0;
+      placePoint(l, null);
+      l.intensity = 0;
+    }
+    sunState.key = null; sunState.mode = 'off'; sunState.room = null; sunState.target = 0; sunState.level = 0;
+    sunState.anchor = null; sunState.pending = null;
+    sun.intensity = 0;
+    currentRoom = null;
+    sinceEval = Infinity;
+  }
+
+  // Re-anchor the constant light set on a new world root (rooms from its floor meshes, fixtures
+  // from its FX-* empties, else the fallback grid). The lights themselves are never recreated.
+  function setWorld({ root: newRoot, rooms: newRooms = null } = {}) {
+    rooms = newRooms || (newRoot ? collectRooms(newRoot) : new Map());
+    roomAt = makeRoomAt(rooms);
+    fx = newRoot ? collectFx(newRoot, rooms, roomAt) : [];
+    pointFx = fx.filter((a) => POINT_TYPES.has(a.type));
+    dirFx = fx.filter((a) => DIR_TYPES.has(a.type));
+    mode = pointFx.length || dirFx.length ? 'fx' : 'fallback';
+    pointAnchors = mode === 'fx' ? pointFx : fallbackAnchors(rooms);
+    for (const a of pointAnchors) {
+      const r = a.roomRef;
+      a.floorY = r ? r.floorY : (a.pos.y >= 7 ? 7.1 : 0.1);
+      a.ceilY = r ? r.ceilY : a.floorY + 6.9;
+    }
+    resetSlots();
+  }
 
   function levelOk(a, feet) {
     return feet >= a.floorY - D.levelBelow && feet <= a.ceilY - D.levelAboveCeil;
@@ -470,6 +493,7 @@ export function createLightRig(scene, renderer, { root, eyeHeight = EYE_HEIGHT, 
     const s = (l) => (l.userData.slot.anchor ? l.userData.slot.anchor.name : null);
     return {
       mode,
+      rooms: rooms.size,
       fixtures: pointAnchors.length,
       dirFixtures: dirFx.length,
       room: currentRoom ? currentRoom.id : null,
@@ -480,9 +504,15 @@ export function createLightRig(scene, renderer, { root, eyeHeight = EYE_HEIGHT, 
     };
   }
 
+  if (root || roomsIn) setWorld({ root, rooms: roomsIn });
+
   return {
-    mode, hemi, sun, chandelier, pool, all, rooms, fx, anchors: pointAnchors, gains,
-    roomAt, update, state, setGain, setTypeGain, setHemi,
+    hemi, sun, chandelier, pool, all, gains, update, state, setGain, setTypeGain, setHemi, setWorld,
+    get mode() { return mode; },
+    get rooms() { return rooms; },
+    get fx() { return fx; },
+    get anchors() { return pointAnchors; },
+    get roomAt() { return roomAt; },
     get currentRoom() { return currentRoom; },
   };
 }

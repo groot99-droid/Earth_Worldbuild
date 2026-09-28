@@ -1,14 +1,16 @@
-"""Build _Museum/data/museum-manifest.json from Art-Talk-main artist profiles
-(and the procedural Earth Chronicle "People" wing, see build_people_wing.py).
+"""Build _Museum/data/museum-manifest.json and _Museum/data/museum-layout.json.
 
-Parses each Art-Talk-main/artists/*.md frontmatter (name, lifespan, region,
-movements, discipline, works[]) plus Art-Talk-main/data/image-credits.json,
-assigns each artist to a gallery room per ROOM_PLAN (chronological grouping
-from Art-Talk-main/TIMELINE.md), and writes one manifest consumed by both the
-Blender build script (_Museum/blender/build_museum.py) and the web viewer
-(_Museum/web/js/main.js).
+Sources:
+  Art-Talk-main/artists/*.md (+ data/image-credits.json)   the Art-Talk wing: 53 artists, 299 works
+  _Site/data/notes-person.json (via people_entries.py)      the Earth Chronicle People wing: 203 people, 387 portraits
+  data/work-dimensions.json (via build_dimensions.py)       real-world sizes (cached; defaults when missing)
 
-Reuses _RAG/vault.py's frontmatter parser rather than reimplementing it.
+Outputs:
+  data/museum-manifest.json   rooms (the Grand Hall hub + 16 galleries), wings, artists and works
+                              (with `dims`), the contract every viewer module reads
+  data/museum-layout.json     the geometry of every scene (build_layout.py), read by scenes.js
+
+Run: python3 _Museum/build_manifest.py [--lint]   (--lint: check only, write nothing)
 """
 from __future__ import annotations
 
@@ -23,107 +25,60 @@ ART_TALK = ROOT / "Art-Talk-main"
 sys.path.insert(0, str(ROOT / "_RAG"))
 sys.path.insert(0, str(MUSEUM))
 import vault  # noqa: E402 (reused, not modified)
-import build_people_wing  # noqa: E402
+import build_dimensions  # noqa: E402
+import build_layout  # noqa: E402
+import people_entries  # noqa: E402
 
-# Gallery grouping by birth-year order, per Art-Talk-main/TIMELINE.md.
+# Gallery grouping by birth-year order, per Art-Talk-main/TIMELINE.md. Minimum room sizes
+# come from the original Blender footprints (blender/scripts/rooms_v2.json); build_layout.py
+# grows a room when its works need more wall.
 ROOM_PLAN = [
-    ("gallery-a", "Early Masters", "900s-1400s", [
+    ("gallery-a", "Early Masters", "900s–1400s", 16, 14, [
         "murasaki-shikibu", "rumi", "amir-khusrau", "giotto", "van-eyck",
     ]),
-    ("gallery-b", "Renaissance & Islamic Golden Age", "1400s-1500s", [
+    ("gallery-b", "Renaissance & Islamic Golden Age", "1400s–1500s", 16, 16, [
         "sesshu", "shen-zhou", "bosch", "behzad", "leonardo-da-vinci",
         "durer", "michelangelo", "mimar-sinan", "andrea-palladio",
     ]),
-    ("gallery-c", "Baroque & Golden Ages", "1500s-1600s", [
+    ("gallery-c", "Baroque & Golden Ages", "1500s–1600s", 18, 18, [
         "bruegel", "sofonisba-anguissola", "basawan", "caravaggio",
         "artemisia-gentileschi", "velazquez", "rembrandt",
         "christopher-wren", "vermeer", "jeong-seon",
     ]),
-    ("gallery-d", "Romanticism & Ukiyo-e", "1700s", [
+    ("gallery-d", "Romanticism & Ukiyo-e", "1700s", 14, 12, [
         "goya", "hokusai", "turner", "jane-austen", "hiroshige",
     ]),
-    ("gallery-e", "19th-Century Movements", "1800s (core)", [
+    ("gallery-e", "19th-Century Movements", "1800s", 18, 18, [
         "leo-tolstoy", "christopher-dresser", "william-morris", "monet",
         "velasco", "mary-cassatt", "louis-comfort-tiffany",
         "raja-ravi-varma", "antoni-gaudi", "van-gogh",
         "henry-ossawa-tanner",
     ]),
-    ("gallery-f", "Avant-Garde & Early Cinema", "late 1800s-1900s", [
+    ("gallery-f", "Avant-Garde & Early Cinema", "late 1800s–1900s", 20, 20, [
         "alphonse-mucha", "georges-melies", "lumiere-brothers", "klimt",
         "hilma-af-klint", "munch", "kandinsky", "frank-lloyd-wright",
         "charles-rennie-mackintosh", "alice-guy-blache", "buster-keaton",
         "sergei-eisenstein", "amrita-sher-gil",
     ]),
 ]
-
-# Rotunda + mezzanine + a stubbed future-wing doorway tie the galleries together
-# as one linear enfilade (Grand Rotunda -> A -> B -> C -> D -> up to Mezzanine ->
-# E -> F), matching the physical spine-hall floor plan built in Blender.
-#
-# `position` is each room's center (floor level + 0.05, for a ground-hugging
-# waypoint trail), and `doors` maps a neighbor room id -> the world position of
-# the physical doorway shared with that neighbor (matching the exact
-# coordinates used in _Museum/blender/build_museum.py). A straight line between
-# two consecutive doors is always open corridor space in this floor plan, so
-# room -> door -> door -> room is enough to route the trail without cutting
-# through walls; the mezzanine is the one special case (its two doors sit at
-# different levels, since one is the foot of the stairs and the other the
-# landing above).
-ROOMS = [
-    {"id": "rotunda", "name": "Grand Rotunda", "kind": "entry",
-     "connects_to": ["gallery-a", "future-wing-1"],
-     "position": [0.0, 0.0, 0.05],
-     "doors": {"gallery-a": [7.0, 0.0, 0.05], "future-wing-1": [-7.0, 0.0, 0.05]}},
-    {"id": "gallery-a", "name": "Early Masters", "era": "900s-1400s", "kind": "gallery",
-     "connects_to": ["rotunda", "gallery-b"],
-     "position": [20.0, 10.0, 0.05],
-     "doors": {"rotunda": [20.0, 3.0, 0.05], "gallery-b": [20.0, 3.0, 0.05]}},
-    {"id": "gallery-b", "name": "Renaissance & Islamic Golden Age", "era": "1400s-1500s", "kind": "gallery",
-     "connects_to": ["gallery-a", "gallery-c"],
-     "position": [36.0, -11.0, 0.05],
-     "doors": {"gallery-a": [36.0, -3.0, 0.05], "gallery-c": [36.0, -3.0, 0.05]}},
-    {"id": "gallery-c", "name": "Baroque & Golden Ages", "era": "1500s-1600s", "kind": "gallery",
-     "connects_to": ["gallery-b", "gallery-d"],
-     "position": [54.0, 12.0, 0.05],
-     "doors": {"gallery-b": [54.0, 3.0, 0.05], "gallery-d": [54.0, 3.0, 0.05]}},
-    {"id": "gallery-d", "name": "Romanticism & Ukiyo-e", "era": "1700s", "kind": "gallery",
-     "connects_to": ["gallery-c", "mezzanine"],
-     "position": [70.0, -9.0, 0.05],
-     "doors": {"gallery-c": [70.0, -3.0, 0.05], "mezzanine": [70.0, -3.0, 0.05]}},
-    # `spawn` is where a teleport lands (the mezzanine's centre is the stairwell void);
-    # `through` lists the walkable route between two neighbours when a straight line
-    # through the room centre is not one (here: up the stairs, around the balcony ring
-    # that the viewer adds procedurally, and out west along the upper spine).
-    {"id": "mezzanine", "name": "Grand Staircase & Mezzanine", "kind": "level",
-     "connects_to": ["gallery-d", "gallery-e"],
-     "position": [91.0, 0.0, 7.05],
-     "spawn": [97.0, 0.0, 7.05],
-     "doors": {"gallery-d": [84.0, 0.0, 0.05], "gallery-e": [64.0, 3.0, 7.05]},
-     "through": {"gallery-d>gallery-e": [[84.0, 0.0, 0.05], [86.0, 0.0, 0.05], [97.0, 0.0, 7.05],
-                                        [97.0, 4.0, 7.05], [85.0, 4.0, 7.05], [83.0, 0.8, 7.05]]}},
-    {"id": "gallery-e", "name": "19th-Century Movements", "era": "1800s (core)", "kind": "gallery",
-     "connects_to": ["mezzanine", "gallery-f"],
-     "position": [64.0, 12.0, 7.05],
-     "doors": {"mezzanine": [64.0, 3.0, 7.05], "gallery-f": [64.0, 3.0, 7.05]}},
-    {"id": "gallery-f", "name": "Avant-Garde & Early Cinema", "era": "late 1800s-1900s", "kind": "gallery",
-     "connects_to": ["gallery-e"],
-     "position": [18.0, 0.0, 7.05],
-     "doors": {"gallery-e": [28.0, 0.0, 7.05]}},
-    {"id": "future-wing-1", "name": "Future Wing (reserved)", "kind": "stub",
-     "connects_to": ["rotunda"],
-     "position": [-11.5, 0.0, 0.05],
-     "doors": {"rotunda": [-7.0, 0.0, 0.05]}},
-]
+ART_INTROS = {
+    "gallery-a": "Court scrolls, Persian poetry, Giotto's frescoes and the first oil masters, from the 900s to the 1400s.",
+    "gallery-b": "The Renaissance in Italy and the golden ages of Persian, Ottoman and East Asian art.",
+    "gallery-c": "Baroque drama, the Dutch Golden Age and the Mughal and Korean courts of the 1500s and 1600s.",
+    "gallery-d": "Romantic painting and the Japanese woodblock print in the 1700s and early 1800s.",
+    "gallery-e": "Impressionism, Arts and Crafts, the Mexican and Indian academies and the new design of the 1800s.",
+    "gallery-f": "Art Nouveau, Expressionism, abstraction, modern architecture and the birth of cinema.",
+}
 
 
 def load_credits() -> dict:
     return json.loads((ART_TALK / "data" / "image-credits.json").read_text(encoding="utf-8"))
 
 
-def build() -> dict:
+def art_talk_artists() -> tuple[list[dict], list[dict]]:
     credits = load_credits()
     slug_to_room = {}
-    for room_id, _name, _era, slugs in ROOM_PLAN:
+    for room_id, _name, _era, _w, _d, slugs in ROOM_PLAN:
         for slug in slugs:
             if slug in slug_to_room:
                 raise SystemExit(f"slug {slug!r} assigned to two rooms")
@@ -135,17 +90,14 @@ def build() -> dict:
     missing_from_plan = found_slugs - planned_slugs
     missing_files = planned_slugs - found_slugs
     if missing_from_plan:
-        # Art-Talk-main grew past the original 53 (see _RAG/handoff/HANDOFF_Art_Section_Expansion.md);
-        # the museum only hangs the artists that ROOM_PLAN places, so skip the rest.
+        # Art-Talk-main grew past the original 53; the museum only hangs the artists ROOM_PLAN places.
         print(f"warning: {len(missing_from_plan)} artist files have no room in ROOM_PLAN and are skipped: "
               f"{', '.join(sorted(missing_from_plan)[:8])}{' ...' if len(missing_from_plan) > 8 else ''}")
         artist_files = [p for p in artist_files if p.stem in planned_slugs]
     if missing_files:
         raise SystemExit(f"ROOM_PLAN references artist files that don't exist: {sorted(missing_files)}")
 
-    # Preserve TIMELINE.md's birth-year order: ROOM_PLAN lists rooms/artists in that order already.
     order_index = {slug: i for i, slug in enumerate(slug_to_room)}
-
     artists = []
     for path in artist_files:
         fm, _body = vault.parse_note(path)
@@ -153,76 +105,81 @@ def build() -> dict:
         works = []
         for w in fm.get("works", []):
             image_rel = f"images/{slug}/{w['id']}.jpg"
-            credit = credits.get(image_rel)
             works.append({
-                "id": w.get("id"),
-                "title": w.get("title"),
-                "year": w.get("year"),
-                "medium": w.get("medium"),
-                "location": w.get("location"),
-                "description": (w.get("description") or "").strip(),
-                "image": image_rel,
-                "credit": credit,
+                "id": w.get("id"), "title": w.get("title"), "year": w.get("year"), "medium": w.get("medium"),
+                "location": w.get("location"), "description": (w.get("description") or "").strip(),
+                "image": image_rel, "credit": credits.get(image_rel),
             })
-        room_id = slug_to_room[path.stem]
         artists.append({
-            "slug": slug,
-            "name": fm.get("name"),
-            "short_name": fm.get("short_name") or fm.get("name"),
-            "lifespan": fm.get("lifespan"),
-            "region": fm.get("region"),
-            "country": fm.get("country"),
-            "movements": fm.get("movements") or [],
-            "discipline": fm.get("discipline") or [],
-            "wikipedia": fm.get("wikipedia"),
-            "cover": fm.get("cover"),
-            "room": room_id,
-            "order": order_index[path.stem],
-            "works": works,
+            "slug": slug, "name": fm.get("name"), "short_name": fm.get("short_name") or fm.get("name"),
+            "lifespan": fm.get("lifespan"), "region": fm.get("region"), "country": fm.get("country"),
+            "movements": fm.get("movements") or [], "discipline": fm.get("discipline") or [],
+            "wikipedia": fm.get("wikipedia"), "cover": fm.get("cover"), "room": slug_to_room[path.stem],
+            "order": order_index[path.stem], "wing": "art-talk", "works": works,
         })
     artists.sort(key=lambda a: a["order"])
+    specs = [{"id": rid, "name": name, "era": era, "years": era, "wing": "art-talk", "min_w": w, "min_d": d,
+              "intro": {"title": name, "years": era, "summary": ART_INTROS.get(rid, "")}}
+             for rid, name, era, w, d, _slugs in ROOM_PLAN]
+    return artists, specs
 
-    rooms = [dict(r) for r in ROOMS]
-    manifest = {
-        "rooms": rooms,
-        "artists": artists,
-        # Wings group rooms for the viewer's menus and give each its image base
-        # (paths in `work.image` are relative to it, from the project root).
-        "wings": [{"id": "art-talk", "name": "Art-Talk Wing", "image_base": "Art-Talk-main/",
-                   "rooms": [r["id"] for r in ROOMS]}],
-    }
 
-    # The Earth Chronicle "People" wing is procedural (no Blender): build_people_wing.py
-    # derives its rooms, entries and geometry from _Site/data/notes-person.json and the
-    # viewer builds the meshes at load time from data/people-wing.json.
-    people_wing = build_people_wing.build(rooms)
-    errors = build_people_wing.lint(people_wing, build_people_wing.load_rooms_v2(),
-                                    {w["id"] for a in artists for w in a["works"]})
+def build() -> dict:
+    artists, art_specs = art_talk_artists()
+    people = people_entries.build()
+    artists += people["artists"]
+    people_specs = [{"id": r["id"], "name": r["name"], "era": r["era"], "years": r["years"], "wing": "people",
+                     "min_w": r["min_w"], "min_d": r["min_d"], "intro": r["intro"]} for r in people["rooms"]]
+
+    # real-world sizes (cache; type defaults for anything not resolved yet)
+    cache = build_dimensions.load_cache()
+    wings_by_id = {"art-talk": {"image_base": "Art-Talk-main/"}, "people": {"image_base": "_Site/"}}
+    dims_index = {}
+    for a in artists:
+        for w in a["works"]:
+            e = build_dimensions.dims_for(w, a, cache, wings_by_id)
+            dims_index[w["id"]] = e
+            w["dims"] = build_dimensions.public_dims(e)
+
+    result = build_layout.build(art_specs + people_specs, artists, lambda w: dims_index[w["id"]])
+    wings = [
+        {"id": "art-talk", "name": "Art-Talk Wing", "image_base": "Art-Talk-main/", "rooms": [s["id"] for s in art_specs]},
+        people["wing"],
+    ]
+    manifest = {"rooms": result["rooms"], "artists": artists, "wings": wings}
+    return {"manifest": manifest, "layout_result": result, "artists": artists, "people": people}
+
+
+def main(argv: list[str]) -> int:
+    lint_only = "--lint" in argv
+    out = build()
+    manifest, result = out["manifest"], out["layout_result"]
+    models = None
+    try:
+        models = json.loads((MUSEUM / "assets" / "models.json").read_text(encoding="utf-8"))["models"]
+    except (OSError, ValueError, KeyError):
+        pass
+    errors = build_layout.lint(result, out["artists"], models)
+    print(build_layout.report(result))
     if errors:
-        raise SystemExit("People wing lint failed:\n  " + "\n  ".join(errors))
-    stub = next(r for r in rooms if r["id"] == "future-wing-1")
-    patch = dict(people_wing["stub_patch"])
-    stub["doors"] = {**stub.get("doors", {}), **patch.pop("doors", {})}
-    stub.update(patch)
-    rooms.extend(people_wing["rooms"])
-    artists.extend(people_wing["artists"])
-    manifest["wings"].append(people_wing["wing"])
-    manifest["_people_wing"] = people_wing  # consumed by main(), not written
-    return manifest
-
-
-def main() -> None:
-    manifest = build()
-    people_wing = manifest.pop("_people_wing")
-    out = MUSEUM / "data" / "museum-manifest.json"
-    out.write_text(json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
-    layout_out = build_people_wing.write_layout(people_wing)
+        print("LINT FAILED:")
+        for e in errors[:60]:
+            print("  -", e)
+        return 1
+    if lint_only:
+        print("lint ok")
+        return 0
+    path = MUSEUM / "data" / "museum-manifest.json"
+    path.write_text(json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
+    layout_path = build_layout.write_layout(result)
     n_artists = len(manifest["artists"])
     n_works = sum(len(a["works"]) for a in manifest["artists"])
-    print(f"Wrote {out} — {n_artists} artists, {n_works} works, {len(manifest['rooms'])} rooms, {len(manifest['wings'])} wings.")
-    print(build_people_wing.report(people_wing))
-    print(f"Wrote {layout_out} — {len(people_wing['layout']['boxes'])} boxes, {len(people_wing['layout']['hangs'])} hangs.")
+    n_hangs = sum(len(sc["hangs"]) for sc in result["layout"]["scenes"].values())
+    print(f"Wrote {path} — {n_artists} artists, {n_works} works, {len(manifest['rooms'])} rooms, {len(manifest['wings'])} wings.")
+    print(f"Wrote {layout_path} — {len(result['layout']['scenes'])} scenes, {n_hangs} hangs.")
+    print(f"People wing: {out['people']['people']} people, {out['people']['images']} portraits")
     refresh_rewrite_layer()
+    return 0
 
 
 def refresh_rewrite_layer() -> None:
@@ -241,4 +198,4 @@ def refresh_rewrite_layer() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main(sys.argv[1:]))

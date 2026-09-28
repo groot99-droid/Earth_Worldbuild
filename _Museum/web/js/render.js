@@ -4,7 +4,6 @@
 //  - configureRenderer(renderer, opts)  AgX tone mapping, exposure, soft shadow maps
 //  - setupEnvironment(renderer, scene, opts)  PMREM(RoomEnvironment) as scene.environment,
 //                                        sky_v2.jpg (equirect, sRGB) or a warm dark colour as background
-//  - resolveModelUrl(opts, v1, v2)      ?v2 model switch with HEAD probe + console warning fallback
 //  - createPipeline(renderer, scene, camera, opts)
 //        EffectComposer (multisampled HalfFloat target) -> RenderPass -> UnrealBloomPass -> OutputPass.
 //        ?classic bypasses all of it and calls renderer.render directly (old look, for A/B).
@@ -22,7 +21,7 @@ import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js'
 import { OutputPass } from 'three/addons/postprocessing/OutputPass.js';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 
-export const SKY_URL = '../export/sky_v2.jpg';
+export const SKY_URL = '../assets/sky.jpg';
 
 // Tuned defaults (see the Phase 1 report for how they were chosen).
 export const RENDER_DEFAULTS = {
@@ -49,19 +48,17 @@ export const RENDER_DEFAULTS = {
 
 // URL flags understood by the viewer. Everything is optional.
 //   ?classic            old look: no tone mapping / env / bloom / shadows, hemisphere light only
-//   ?v2                 load ../export/museum_v2.gltf (falls back to v1 with a console warning)
 //   ?exposure=1.2       AgX exposure
 //   ?bloom=0.3          bloom strength (0 disables the pass)
 //   ?env=0.5            envMapIntensity for non-metal materials (materials.js)
 //   ?lights=1.0         global multiplier on all punctual light intensities (lights.js)
 //   ?shadows=0          disable shadow maps
 //   ?debug              overlay (debug.js)
-//   ?view=<framing>     place the camera at a framings.json view on load (debug.js)
-//   ?room=<id>          start in a manifest room (hud.js teleport)
+//   ?view=<name>        place the camera at a layout view on load (scenes.js applyView)
+//   ?room=<id>          start in a room (scenes.js)
 //   ?work=<id>          start in front of a work with its placard open (navigate.js)
-//   ?resume=1           restore the last saved position (persist.js)
-//   ?wing=0             skip the procedural People wing (procwing.js)
-//   ?nopatch            skip the procedural mezzanine balcony (procgeo.js)
+//   ?resume=1           restore the last saved scene and position (persist.js)
+//   ?wing=0             leave the People wing out (its doors and rooms)
 //   ?tourDwell=6        seconds the guided tour pauses at each work (tour.js)
 //   ?test               no animation loop; the test harness drives museumDebug.step()/renderOnce()
 export function readRenderOptions(search = window.location.search) {
@@ -74,7 +71,6 @@ export function readRenderOptions(search = window.location.search) {
   const flag = (k) => p.has(k) && p.get(k) !== '0' && p.get(k) !== 'false';
   return {
     classic: flag('classic'),
-    v2: flag('v2'),
     debug: p.has('debug'),
     view: p.get('view') || null,
     exposure: num('exposure', RENDER_DEFAULTS.exposure),
@@ -88,7 +84,6 @@ export function readRenderOptions(search = window.location.search) {
     work: p.get('work') || null,
     resume: flag('resume'),
     wing: !(p.has('wing') && (p.get('wing') === '0' || p.get('wing') === 'false')),
-    nopatch: flag('nopatch'),
     tourDwell: num('tourDwell', 6),
   };
 }
@@ -117,14 +112,6 @@ async function urlExists(url) {
   } catch (e) {
     return false;
   }
-}
-
-// ?v2 -> museum_v2.gltf when it exists, else v1 with a warning.
-export async function resolveModelUrl(opts, v1Url, v2Url) {
-  if (!opts.v2) return v1Url;
-  if (await urlExists(v2Url)) return v2Url;
-  console.warn(`[museum] ?v2 requested but ${v2Url} is missing; falling back to ${v1Url}`);
-  return v1Url;
 }
 
 // Warm the RoomEnvironment scene in place (r160 layout: one PointLight, a BackSide
@@ -179,9 +166,9 @@ export async function setupEnvironment(renderer, scene, opts) {
       tex.colorSpace = THREE.SRGBColorSpace;
       scene.background = tex;
       scene.backgroundIntensity = opts.skyIntensity;
-      info.background = 'sky_v2';
+      info.background = 'sky';
     } catch (e) {
-      console.warn('[museum] sky_v2.jpg failed to load; using the warm background colour', e);
+      console.warn('[museum] sky.jpg failed to load; using the warm background colour', e);
     }
   }
   return info;

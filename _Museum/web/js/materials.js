@@ -116,6 +116,12 @@ export function patchMaterials(root, renderer, opts = {}) {
     const on = lower(objName);
     stats.textures += setAniso(mat, maxAniso, texSeen);
     stats.materials++;
+    if (mat.userData && mat.userData.pbr) {
+      // matlib.js / model materials carry their own roughness, metalness and env settings
+      stats.pbr = (stats.pbr || 0) + 1;
+      matDone.set(mat, mat);
+      return mat;
+    }
 
     if (/godray|sunpatch/.test(mn) || /godray|sunpatch/.test(on)) {
       let add = additiveCache.get(mat);
