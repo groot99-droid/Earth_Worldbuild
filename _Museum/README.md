@@ -24,6 +24,13 @@ rebuilding anything that already exists.
 Three.js r160 is vendored in `web/vendor/three/` (MIT, `LICENSE` alongside), so the
 viewer needs no network access.
 
+The repo's GitHub Pages deploy (`.github/workflows/deploy-pages.yml`, on every
+push to `main`) publishes the project root, so the museum is live at
+`<pages-url>/_Museum/web/` and the root landing page links to it. The deploy
+keeps only `blender/scripts/framings.json` out of the Blender folder, which is
+all the viewer reads from it at runtime; everything else the page loads
+(`data/`, `export/`, `web/`, `Art-Talk-main/images/`, `_Site/images/`) ships.
+
 ### Controls
 
 | Input | Action |
