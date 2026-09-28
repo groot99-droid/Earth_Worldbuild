@@ -27643,5 +27643,347 @@
   },
   "date": "2026-09-28",
   "batch": "site-066.part7"
+ },
+ "source/wikipedia-on-raja-ravi-varma": {
+  "src": "9bc64d186a42",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs his birth and death dates and places, the 1873 Vienna award, the 1893 Chicago medals, the 1894 press and the 1899 move to Malavli, and the 1904 Kaisar-i-Hind medal.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Tertiary encyclopaedia text read through a summarising fetch tool; it never mentions an uncle, the Baroda commission, Phalke, or the Bengal School, so those note claims stay unconfirmed here."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part8"
+ },
+ "source/wikipedia-on-ramesses-ii": {
+  "src": "5bfdd2b5c8b3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the reign dates and length, the birth date and age at death, the Kadesh date and outcome, and the details of the Hittite treaty.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-audience encyclopedia article; the reign and Kadesh dates follow one chronology, and other chronologies differ from it by several years."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part8"
+ },
+ "source/wikipedia-on-razia-sultan": {
+  "src": "cf9c8662c85a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Razia's birth and death dates, her accession on 19 November 1236, the Yaqut appointment, and the Altunia rebellion, marriage, and death in 1240.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary source that gives two different days — 13 and 15 October 1240 — for her death; the fetch tool returned a summary of the page rather than the full text, so Minhaj al-Siraj's assessment of her could not be checked."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part8"
+ },
+ "source/wikipedia-on-rebellion-of-tupac-amaru-ii": {
+  "src": "212a960ec406",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the uprising's 4 November 1780 start, Arriaga's hanging on 10 November, its causes, the April 1781 capture, and the 18 May 1781 executions of Túpac Amaru II and Micaela Bastidas in Cusco.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A tertiary reference; it gives 7 April 1781 for the capture, whereas Encyclopedia.com gives 6 April, and it never states his birth year."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part8"
+ },
+ "source/wikipedia-on-reform-and-opening-up": {
+  "src": "61e51e5bc1cd",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the launch at the Third Plenum on 18 December 1978, the Shenzhen SEZ (August 1980), and growth averaging over 9 percent, with almost 800 million lifted from extreme poverty.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-09-27 as raw wikitext from the MediaWiki API, revision 1373006392 (127,576 characters converted from wikitext markup); Wikipedia is not authoritative, and this revision may since have been edited. The earlier citation also named the World Bank's 'China' country overview, but those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part8"
+ },
+ "source/wikipedia-on-rembrandt": {
+  "src": "a86f0ec66b7c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Rembrandt's birth, his family, the move to Amsterdam, his marriage, Saskia and Titus, his insolvency, his death and burial, and the self-portrait count.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-audience encyclopedia article; it gives no death dates for Hendrickje or Titus, and it never mentions Goya."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part8"
+ },
+ "source/wikipedia-on-roman-relations-with-nubia": {
+  "src": "001dfc83a63e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the 24 BC dating of the Kushite looting of Augustus statues near the First Cataract, and the Roman-Kushite peace that later followed.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article; its 24 BC date differs from the 25 BC given in the Amanirenas article."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part9"
+ },
+ "source/wikipedia-on-rumi": {
+  "src": "2256a15d162a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Rumi's birth and death dates, the debate over his birthplace, his 1228 settlement in Konya, the 1244 meeting with Shams, the Masnavi's structure, and the founding of the Mevlevi Order.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-audience encyclopedia article that follows some contested biographical details from later followers' accounts, and was read through a summarizing fetch tool rather than as raw page text."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part9"
+ },
+ "source/wikipedia-on-safavid-iran": {
+  "src": "fbe51f19c061",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Ismail I's proclamation at Tabriz in May 1501, Twelver Shi'ism as state religion, Isfahan as capital from 1598 to 1736, the 1722 Afghan sack of Isfahan, and Nader Shah's 1736 coronation.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-09-27 as raw wikitext from the MediaWiki API, revision 1375347084 (148,068 characters converted from wikitext markup); Wikipedia is not authoritative, and this revision may since have been edited. The article never names the Battle of Chaldiran, nor gives 23 August 1514 for it, though it confirms the Ottoman-Safavid rivalry and the other Safavid dates checked."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part9"
+ },
+ "source/wikipedia-on-sagrada-familia": {
+  "src": "2dd3f48e1f3f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the ticket-and-donation funding of the Sagrada Família, the 2026 centenary completion target for the steeples, and Gaudí's burial in the crypt.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article on a project still under construction, so completion and schedule statements keep changing; it was read through a page fetch with prompted extraction."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part9"
+ },
+ "source/wikipedia-on-saladin": {
+  "src": "c1313da926ff",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Saladin's birth and death dates and places, his Kurdish ancestry, his service under Nur ad-Din, the vizierate and the end of the Fatimid Caliphate, and the 1174 taking of Damascus.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read through an extraction tool that summarises the page; that extract left out the Hattin, Jerusalem, and treaty details, so those are cited to other articles."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part9"
+ },
+ "source/wikipedia-on-samarkand": {
+  "src": "f0134791e4ca",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Afrasiab's founding in the 7th-6th century BCE, Alexander's capture of Maracanda in 329 BCE, the Mongol conquest of 1220, Timur's capital, and the UNESCO listing in 2001.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-09-27 as raw wikitext from the MediaWiki API, revision 1376057111 (103,936 characters converted from wikitext markup); Wikipedia is not authoritative, and this revision may since have been edited. The earlier citation also named Livius.org's 'Maracanda' and Britannica's 'Samarkand,' but those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part9"
+ },
+ "source/wikipedia-on-sappho": {
+  "src": "3774d3dc3038",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Sappho's approximate dates, her Lesbos origin, the surviving corpus and the complete poem, the uncertainty over the book count, the 2014 papyrus finds, and her brothers.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general-audience encyclopedia article that summarises scholarly debate; the book count and biographical details rest on secondary reporting of ancient sources."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part10"
+ },
+ "source/wikipedia-on-savitribai-phule": {
+  "src": "4ed1eeba2c2a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs her birth and death dates, her marriage at nine in 1840, her education under Jyotirao Phule and Sagunabai Kshirsagar, the 1848 Bhidewada school, and her death from plague on 10 March 1897.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "An open-edit tertiary source that contradicts itself on the infanticide-prevention home's date — 1853 in the lead, 1863 in the body — and relies on secondary writers such as Divya Kandukuri for the harassment story."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part10"
+ },
+ "source/wikipedia-on-selimiye-mosque-edirne": {
+  "src": "aec05cbedbf8",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the Selimiye Mosque's construction dates, Sinan as its architect, the 2011 UNESCO inscription, and the dome comparison with Hagia Sophia.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A general encyclopedia article; the construction years are given as ranges — 1568 or 1569 to 1574 or 1575 — and the dome height is sometimes disputed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part10"
+ },
+ "source/wikipedia-on-sequoyah": {
+  "src": "ebe2fdbf8bf1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs Sequoyah's approximate birth year and place, his lack of English schooling, the 1809-to-1821 syllabary work, the symbol count that dropped from 86 to 85, and his death in Mexico in August 1843.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The article contradicts itself on birth year — c. 1770 in the lead and infobox, around 1778 in the Early life text — and gives a death window of 1843 to 1845 alongside the August 1843 letter."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part10"
+ },
+ "source/wikipedia-on-sesshu-toyo": {
+  "src": "3f454ec0f27c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs the c. 1420 birth, the death on August 26, 1506, about 20 years of training under Tenshō Shūbun at Shōkoku-ji, the 1467 trip to China lasting three years, and the dated works Haboku Sansui (1495) and Huike Offering His Arm to Bodhidharma (1496).",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The article runs thin and contradicts itself on his age at death, and it never mentions the Ōnin War, Hasegawa Tōhaku, the World Peace Council, or the number of National Treasures."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part10"
+ },
+ "source/wikipedia-on-shen-zhou": {
+  "src": "ab4371282551",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This source backs his dates — 1427 to 1509, aged 82 — his birthplace near Suzhou, his refusal of the official exams to care for his widowed mother, the founding of the Wu School, his Four Masters status, and Lofty Mount Lu (1467).",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "A short general-reference article that never mentions Wen Zhengming as pupil, Night Vigil, Poet on a Mountaintop, the forgery anecdote, or Dong Qichang."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-066.part10"
  }
 }
