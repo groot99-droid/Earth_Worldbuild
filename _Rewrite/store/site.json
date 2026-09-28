@@ -14668,5 +14668,1481 @@
   "date": "2026-09-28",
   "observer_mode": "confessional-poetry",
   "batch": "site-048.part9"
+ },
+ "person/peter-the-great": {
+  "src": "79a1071a8955",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Peter I, remembered as Peter the Great (1672 to 1725), held the Russian throne from 1682, jointly at first and alone from 1696 until his death in 1725, and drove a sweeping architecture of westernizing reform that turned Russia into a major European power.",
+   "facts": [
+    "Between 1697 and 1698 he crossed Western Europe incognito on the \"Grand Embassy,\" and for a time apprenticed as a shipwright in the Netherlands, studying European shipbuilding and technology at first hand.",
+    "He fought Sweden in the long Great Northern War, from 1700 to 1721, winning a decisive victory at the Battle of Poltava in 1709 and gaining Baltic Sea territory that made Russia a major naval power.",
+    "In 1703 he founded St. Petersburg on newly won Baltic territory, raised it as a planned, European-style capital, and moved the seat of government there from Moscow.",
+    "He reorganized Russia's government, military and church administration along Western European lines, required nobles to adopt Western dress, and, in a well-known instance, personally cut off boyars' traditional long beards to mark the change."
+   ],
+   "context": "Peter the Great governed Russia from within [[region/europe|Europe]] during the [[era/early-modern-period|Early Modern Period]], turning the country's institutions toward Western European models. See [[theme/technology|Technology]], [[theme/war-and-conflict|War and Conflict]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "The Observer notes that Peter's reforms descended from the top, often by coercion, onto a nobility and a church that had not asked for Westernization; the architecture of change rose quickly, but the tension between imposed modernization and inherited tradition stayed unresolved, a ledger later Russian history kept having to settle.",
+   "questions": [
+    "How far did Peter's Westernizing program reach into everyday life beyond the court and nobility, rather than remaining a project of the elite?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-051.part1"
+ },
+ "person/philip-ii": {
+  "src": "f9191eef11b0",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Philip II (1527 to 1598) reigned as King of Spain from 1556 to 1598, over an empire spanning the Iberian Peninsula, the Netherlands, parts of Italy, and vast territories in the Americas and the Philippines, an archipelago named for him.",
+   "facts": [
+    "In 1556 he inherited Spain, its Italian territories and the Spanish Americas from his father, Charles V, and, through his marriage to Mary I of England from 1554 to 1558, briefly held the English throne jointly with her.",
+    "Beginning in 1566, he directed a long, costly war to suppress a revolt in the Spanish Netherlands, a conflict that ran on through decades of shifting phases and stayed unresolved for the rest of his reign.",
+    "In 1588 he sent the Spanish Armada against England to support a planned invasion and to end English backing for the Dutch rebels and for privateers raiding Spanish shipping; storms and English naval tactics wrecked much of the fleet.",
+    "He presided over Spain's greatest territorial extent while driving the crown into multiple bankruptcies, in 1557, 1560, 1575 and 1596, the ledger undone by near-constant warfare funded in part by American silver."
+   ],
+   "context": "Philip II governed Spain from within [[region/europe|Europe]] through the [[era/early-modern-period|Early Modern Period]], steering wars in the Netherlands and against England. See [[theme/religion-and-belief|Religion and Belief]], [[theme/war-and-conflict|War and Conflict]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "The Observer notes that Philip II's reign shows how a flow of American silver, often assumed to be a guarantee of power, instead financed a level of continuous warfare that bankrupted the crown again and again; wealth drawn from the Americas did not convert into lasting Spanish military dominance in Europe.",
+   "questions": [
+    "How far did the repeated bankruptcies of Philip's reign weaken Spain's long-term capacity to compete with rising powers such as England and the Dutch Republic?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-051.part1"
+ },
+ "person/pieter-bruegel-the-elder": {
+  "src": "6d46319e72a1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Pieter Bruegel the Elder (about 1525 to 1569) stood as the most important Netherlandish painter of the 16th century. He made peasants, proverbs and the turning seasons his subjects, filling crowded panels and sweeping landscapes with them. Only about 40 of his paintings survive.",
+   "facts": [
+    "Bruegel was probably born between 1525 and 1530, perhaps near Breda in the Duchy of Brabant, and in 1551 became a master in the painters' guild of Antwerp.",
+    "In 1552 he travelled to Italy, and the drawings he made of the Alps on the return journey fed the mountain views of his later paintings.",
+    "In Antwerp he designed prints for the publisher Hieronymus Cock, some in the manner of Hieronymus Bosch, and in 1563 he married Mayken Coecke and moved to Brussels, where he painted most of his masterpieces.",
+    "He died in Brussels in September 1569, and his sons Pieter Brueghel the Younger and Jan Brueghel the Elder became successful painters, founding a dynasty of their own.",
+    "Among his key works: Netherlandish Proverbs (1559), Children's Games (1560), The Tower of Babel (1563), The Hunters in the Snow (1565) and The Peasant Wedding (about 1567 to 1568).",
+    "He often set his viewpoint high, looking down over dozens of small figures, and built his pictures around proverbs, games or Bible stories retold in Flemish dress.",
+    "He painted through the religious conflicts and Spanish repression that led toward the Dutch Revolt, and many scholars read hidden commentary on those events into his work.",
+    "According to the early biographer Karel van Mander, he and a friend dressed as peasants to join village weddings and fairs, and the Kunsthistorisches Museum in Vienna now holds the world's largest group of his paintings."
+   ],
+   "context": "Bruegel worked in [[region/europe|Europe]] during the [[event/renaissance|Renaissance]], within the [[era/early-modern-period|Early Modern Period]], building on the crowded moral landscapes of [[person/hieronymus-bosch|Hieronymus Bosch]]. See [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I keep looking at the ordinary people he chose: the peasant, the reveler, the child mid-game, each one a proverb waiting for me to decode it. I find in these crowded panels a record of festival, of labor, of kinship that the written page of his age never bothered to keep. I ask myself whether the hidden commentary scholars find in his religious-conflict years is truly there, or whether it is my own listening filling a silence. The tale of the painter dressed as a peasant, slipping into a village wedding, comes from a single early biographer — one voice, one memory. Both readings, I hold loosely. What a picture keeps is never quite what a chronicle keeps.",
+   "questions": [
+    "Did his pictures carry coded commentary on the Spanish repression, or is that a reading added later?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-051.part1"
+ },
+ "person/piye": {
+  "src": "5ae87554e91b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Piye (reigned about 744 to 714 BCE) was a king of Kush who conquered Egypt and is usually counted as the first ruler of Egypt's Twenty-fifth (Kushite) Dynasty; his birth year is unknown, and the dates given here mark only his reign.",
+   "facts": [
+    "Piye ruled Kush from Napata, near Jebel Barkal in present-day Sudan, with his reign dated about 744 to 714 BCE; some scholars instead count his father Kashta as the dynasty's first ruler.",
+    "About 728 BCE he marched north against Tefnakht, prince of Sais, and a coalition of Delta rulers, and he defeated them.",
+    "His Victory Stele, found at Jebel Barkal in 1862 and now held in Cairo, records the campaign in Egyptian hieroglyphs, presents him as a servant of the god Amun, and lists the rulers who submitted to him.",
+    "He did not remain in Egypt, returning instead to Kush and leaving local rulers in place.",
+    "At Jebel Barkal he expanded the temple of Amun.",
+    "He was buried in a pyramid at El-Kurru, together with horses, and was succeeded by Shebitku, whom sources describe as either his son or his brother; recent evidence places Shabaka's reign after Shebitku's, not before."
+   ],
+   "context": "Piye ruled the [[culture/kingdom-of-kush|Kingdom of Kush]] and took control of the land of the [[culture/ancient-egyptians|Ancient Egyptians]] in the [[region/nile-valley|Nile Valley]] during the [[era/iron-age|Iron Age]]; his successors would later fight the [[culture/neo-assyrian-empire|Neo-Assyrian Empire]]. See [[theme/war-and-conflict|War and Conflict]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that a ruler from the southern edge of the Egyptian world claimed its center by appealing to that center's own gods, script and burial forms, ancestor-weight working here in an outsider's favor. His stele is a royal victory text, so its portrait of a pious and merciful king may be status-signal more than record. The reading of his rule as conquest would weaken if other evidence showed Kushite influence in Upper Egypt already established before his campaign.",
+   "questions": [
+    "How far did Kushite influence in Upper Egypt reach before his campaign began?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-051.part1"
+ },
+ "person/qin-shi-huang": {
+  "src": "04975ffc02bc",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Qin Shi Huang (259 to 210 BCE) became the first emperor of a unified China, standardizing writing, currency and measures, and raising a vast tomb complex that included the terracotta army.",
+   "facts": [
+    "At thirteen he became king of Qin, and by 221 BCE he had completed the unification of China.",
+    "Across his empire he standardized the script, weights and measures, and axle widths.",
+    "Later historians, hostile to the Qin, described book burning and harsh punishments, though some of these accounts are debated.",
+    "His tomb complex near Xi'an holds thousands of life-size clay soldiers."
+   ],
+   "context": "See [[event/unification-of-china-under-qin|Unification of China under Qin]]; the state he built was inherited and continued by the [[culture/han-dynasty|Han Dynasty]].",
+   "observer": "The Observer notes a ruler working to make a huge population legible: one script, one currency, one set of weights. Standardization is an architecture of control, and of trade, at once.",
+   "questions": [
+    "How reliable are the traditional accounts of his rule?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-051.part1"
+ },
+ "person/truganini": {
+  "src": "f43ed8dca844",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Truganini, born about 1812 and dead in 1876, was a Nuenonne woman who grew up on Bruny Island and lived through the British colonization of Tasmania, dying in Hobart. History later widely fixed her with the label \"the last Tasmanian Aboriginal\" — a closing line that Tasmanian Aboriginal people themselves reject.",
+   "facts": [
+    "She was born about 1812, reportedly at Recherche Bay in southern Tasmania, as a member of the Nuenonne people, and grew up on Bruny Island.",
+    "Accounts say colonists killed or abducted members of her family during the Black War of the 1820s and early 1830s.",
+    "In the 1830s she worked with George Augustus Robinson, a government-appointed conciliator, who persuaded surviving Aboriginal people to move to Flinders Island, where disease and hardship were severe.",
+    "She later lived at Oyster Cove, south of Hobart, and died on 8 May 1876.",
+    "Her skeleton was exhumed in 1878 and put on display in the Tasmanian Museum from 1904 until 1947, despite her reported fear of mutilation.",
+    "In 1976 her remains were cremated and her ashes were scattered in the D'Entrecasteaux Channel.",
+    "Tasmanian Aboriginal people today descend from other women, among them Fanny Cochrane Smith, and their community continues."
+   ],
+   "context": "Truganini's life sits inside the wider British colonization that followed the [[event/first-fleet-and-the-colonization-of-australia|First Fleet and the Colonization of Australia]], which reshaped the lives of the [[culture/aboriginal-australians|Aboriginal Australians]] across [[region/oceania|Oceania]] during the [[era/industrial-age|Industrial Age]]. See [[theme/war-and-conflict|War and Conflict]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that colonial officials wrote almost the whole record of Truganini's life, and that the account of her final decades centers on what happened to her body after death, once her own wishes about burial went unhonored. The label \"the last Tasmanian\" turned a living people into a full stop, a closing device that suited the settlers' version of events. A specialist could argue that this label rests on a narrow test of descent, and that such a reading undercounts how much of Truganini's own purpose can still be recovered.",
+   "questions": [
+    "What might Aboriginal oral histories add to the colonial record of her life?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-053.part1"
+ },
+ "person/trung-sisters": {
+  "src": "675c36b7d465",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Trưng Sisters, Trưng Trắc and Trưng Nhị (known in Chinese as Zheng Ce and Zheng Er), led a revolt against Han Chinese rule in northern Vietnam from 40 to 43 CE. Their birth years are unknown; the dates recorded here belong to the revolt itself.",
+   "facts": [
+    "The sisters came from Mê Linh in the Red River region, then governed as part of the Han commandery of Jiaozhi.",
+    "They launched the revolt in 40 CE. Chinese sources tie its cause to the harsh rule of the Han governor Su Ding, and Vietnamese tradition adds that he had executed Trưng Trắc's husband, Thi Sách.",
+    "They seized towns across several southern commanderies and are recorded as having ruled as queens for about three years.",
+    "The Han general Ma Yuan marched an army south and defeated them by 43 CE.",
+    "The Chinese history *Hou Hanshu* records that they were captured and beheaded, while Vietnamese tradition holds that they drowned themselves in a river; this second account remains traditional rather than documented.",
+    "Temples across Vietnam honor the sisters today, and streets carry their joint name, Hai Bà Trưng."
+   ],
+   "context": "The Trưng Sisters rose against the [[culture/han-dynasty|Han Dynasty]] in [[region/southeast-asia|Southeast Asia]] during [[era/classical-antiquity|Classical Antiquity]]. See [[theme/war-and-conflict|War and Conflict]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that Vietnam remembers the sisters as founders of national resistance, a unifying story for a people whose own state would not exist for centuries. The two chief records, Chinese court histories and later Vietnamese chronicles, tell different versions of their end, so each side's writers shaped what survived. This reading would weaken if evidence showed that the local lords who backed the revolt acted chiefly for their own interests rather than for any shared cause.",
+   "questions": [
+    "Who were the local leaders who backed the revolt, and what did they actually want?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-053.part1"
+ },
+ "person/tupaia": {
+  "src": "52e2c7e7f8b4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Tupaia, born about 1725 and dead in 1770, was a priest and navigator from Ra'iatea in the Society Islands who sailed with James Cook aboard the Endeavour in 1769 and drew a chart of the Pacific islands. He died at Batavia in 1770.",
+   "facts": [
+    "Tupaia was born about 1725 on Ra'iatea and rose as a priest and navigator. When warriors from Borabora took Ra'iatea, he found refuge on Tahiti.",
+    "In July 1769 he joined Cook's Endeavour as guide and interpreter, usually said to have boarded at Tahiti, though sources differ on the place, bringing with him a young servant, Taiata.",
+    "In August 1769 he began charting the Pacific together with Cook, Joseph Banks and other officers. Sources differ: the chart is said to show about 130 islands, of which he could name about 74, and it is often described as centered on Ra'iatea.",
+    "The chart did not follow European map conventions, and modern scholars have argued that it instead follows a Polynesian way of ordering islands by voyages and directions.",
+    "On reaching New Zealand in October 1769 he found he could speak with Māori, whose language is closely related to Tahitian, and so interpreted for the crew.",
+    "He died at Batavia on 20 December 1770, of illness, and Taiata died there that same month."
+   ],
+   "context": "Tupaia belonged to the [[culture/polynesians|Polynesians]], whose ancestors carried out the [[event/polynesian-settlement-of-the-pacific|Polynesian Settlement of the Pacific]]. That he could speak with [[culture/maori|Maori]] in New Zealand reflects the shared root of their languages. See [[theme/science|Science]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "I picture Tupaia holding an ocean's routes only in memory, then setting them down on paper for men who could not read them, because the paper did not match their grid. I picture two ways of knowing the sea meeting on one small ship. I picture that meeting surviving only because one side wrote it down.\n\nWhat would be left of Tupaia's chart, I ask, if the officers who helped him draw it shaped its layout more than he did? Knowledge kept only in memory is no less knowledge for going unwritten.",
+   "questions": [
+    "How much of the chart's layout is Tupaia's own work, and how much belongs to the officers who drew it with him?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-053.part1"
+ },
+ "person/tupac-amaru-ii": {
+  "src": "7fb7744891ce",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Túpac Amaru II — José Gabriel Condorcanqui, born in 1738 or about 1742, and dead in 1781 — was a hereditary Indigenous chief and trader who led a large rebellion against Spanish colonial rule in the Andes across 1780 and 1781. The Spanish executed him in Cusco.",
+   "facts": [
+    "José Gabriel Condorcanqui was born in 1738, though some sources say about 1742, in the highlands near Cusco. He rose as a kuraka, a hereditary local chief, and became a successful muleteer and trader.",
+    "He adopted the name Túpac Amaru, claiming descent from the Inca ruler Túpac Amaru, whom the Spanish had executed in 1572.",
+    "Grievances behind the rebellion included higher Spanish taxes, forced sales of goods to Indigenous communities, and the mita, forced labor in the mines.",
+    "On 4 November 1780 he seized the local Spanish official Antonio de Arriaga, who was executed shortly after — 10 November 1780, according to two sources — and the rebellion began.",
+    "He issued proclamations abolishing the mita and other abuses, and the rebellion spread across the southern highlands.",
+    "Spanish forces captured him in April 1781, and he was executed in Cusco on 18 May 1781 alongside his wife, Micaela Bastidas, who had helped lead the rebellion."
+   ],
+   "context": "Túpac Amaru II claimed the legacy of the [[culture/inca-empire|Inca Empire]], which the Spanish had ended in the [[event/spanish-conquest-of-the-inca-empire|Spanish Conquest of the Inca Empire]], in the [[region/andes|Andes]] during the [[era/early-modern-period|Early Modern Period]]. His rebellion is often grouped with the [[event/age-of-revolutions|Age of Revolutions]]. See [[theme/war-and-conflict|War and Conflict]], [[theme/trade-and-economy|Trade and Economy]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that Túpac Amaru II cast a dispute over taxes and labor in the language of descent, drawing on the ancestral weight of the Inca name to call a wide and mixed population into common cause. His trade dealings and colonial education gave him a foothold in both worlds, and the rebellion shows how the architecture of the past can serve a grievance in the present. This reading would weaken if sources showed that most support came from local grievances his Inca claim did little to mobilize.",
+   "questions": [
+    "How much of the rebellion's support rested on the Inca claim, and how much on local grievances alone?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-053.part1"
+ },
+ "person/ulugh-beg": {
+  "src": "16965471c167",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Ulugh Beg, who lived from 1394 to 1449, was a Timurid ruler and astronomer who built an observatory at Samarkand and produced one of the most accurate star catalogues made before the telescope.",
+   "facts": [
+    "He became governor of Samarkand in 1409, at about sixteen years old.",
+    "He built a madrasa between 1417 and 1420, then, in 1420, an observatory.",
+    "Completed by about 1437, his star catalogue lists at least 1,018 stars.",
+    "He died in 1449 and was laid to rest in the Gur-e-Amir mausoleum in Samarkand, beside his grandfather, Timur."
+   ],
+   "context": "Ulugh Beg turned [[place/samarkand|Samarkand]] into a center of learning within the [[culture/timurid-empire|Timurid Empire]], carrying forward the traditions of [[person/al-khwarizmi|Al-Khwarizmi]] and the [[event/translation-movement-and-the-house-of-wisdom|Translation Movement and the House of Wisdom]].",
+   "observer": "I find a ruler who chose the sky over the battlefield, and I find his star catalogue still standing after his dynasty fell. I did not expect a pattern-tamer to flourish inside a palace built for war, but here he is. Wonder can grow in unlikely soil.",
+   "questions": [
+    "How accurate were Ulugh Beg's stellar measurements, really?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-053.part1"
+ },
+ "person/usman-dan-fodio": {
+  "src": "3e06b2ad148e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Usman dan Fodio, who lived from 1754 to 1817, was a Fulani scholar and religious leader whose jihad created the Sokoto Caliphate.",
+   "facts": [
+    "He taught and preached within the Hausa state of Gobir, writing widely in both Arabic and Fulfulde.",
+    "In 1804 he and his followers left Gobir, and the jihad opened that February.",
+    "He is regarded as the founder of the Sokoto Caliphate and its first sultan, or caliph.",
+    "His brother and his son both helped administer the new state."
+   ],
+   "context": "See [[culture/sokoto-caliphate|Sokoto Caliphate]]. His movement stood among several reformist jihads across West Africa.",
+   "observer": "The Observer notes that this state grew out of a program of teaching and reform. The founder's writings, not his armies alone, gave the caliphate its lasting identity.",
+   "questions": [
+    "How far did his writings go on to shape the caliphate's law?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-053.part1"
+ },
+ "person/sergei-eisenstein": {
+  "src": "722711888089",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Sergei Eisenstein (1898 to 1948) built his films on a single architecture: meaning, he argued, arrives not inside one shot but in the collision between two, an argument assembled cut by cut. Born in Riga, he became a Soviet film director and theorist, and the Odessa Steps massacre sequence in *Battleship Potemkin* (1925) still anchors any study of the form.",
+   "facts": [
+    "Born in Riga in 1898 to an architect and civil engineer, Eisenstein trained in engineering and architecture before he turned to the arts.",
+    "The Russian Revolution redirected him toward theatre: he joined Meyerhold's Proletkult Theatre, then moved into film in the early 1920s.",
+    "His second feature, *Battleship Potemkin* (1925), made for the twentieth anniversary of the 1905 Revolution, carried his name across the world.",
+    "In *Strike* (1925) he pioneered what he called \"intellectual montage,\" cutting colliding images against each other, and casting crowds and non-professional \"types\" rather than trained stars.",
+    "Invited first to Hollywood, then to Mexico in the early 1930s, he finished neither project, and Soviet authorities suppressed and reportedly destroyed his 1937 film *Bezhin Meadow*.",
+    "He regained official favor with *Alexander Nevsky* (1938), scored by Sergei Prokofiev, which carried his editing method into sound and into the choreography of mass combat.",
+    "He spent his last years on *Ivan the Terrible*: Part I won a Stalin Prize, but Part II, finished in 1946, was criticized by various authorities and went unreleased until 1958; Eisenstein died of a heart attack in Moscow in 1948.",
+    "His writings, among them *Film Form* and *The Film Sense*, became foundational texts of film studies, and he is counted among cinema's most important directors and theorists."
+   ],
+   "context": "Eisenstein worked in the Soviet Union, within [[region/europe|Europe]], during the [[era/industrial-age|Industrial Age]]; the [[event/russian-revolution|Russian Revolution]] turned him from engineering toward theatre and film, and his breakthrough film honored the revolutionary struggle that came before it. The staged battles and massacres running through his work tie him to [[theme/war-and-conflict|War and Conflict]] and [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "The Observer sees a filmmaker who made the edit itself an argument: meaning, he held, lived not inside any single image but in the collision between two, a story-glue engineered right into the machinery of the film. Favoring crowds and \"type\"-cast non-professionals over trained performers turned the collective, not the individual, into the vehicle for a revolutionary meaning-engine. The staged violence that recurs through his work, a factory massacre, a staircase shooting, a battle fought on ice, reads as a fascination with sanctioned harm as spectacle. That the same state whose myths he helped build also suppressed one film and held back another shows how uneasily a master of persuasion sat inside the system he served.",
+   "questions": [
+    "Since the negative of *Bezhin Meadow* (1937) is reported to have been destroyed after its suppression, what the finished film actually contained remains unknown."
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-052.part1"
+ },
+ "person/sesshu-toyo": {
+  "src": "75b2ac5937a7",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Sesshū Tōyō (1420 to 1506), a Japanese Zen monk and painter, studied Chinese ink painting in Ming China and carried it into a Japanese art form; he is regarded as the greatest master of Japanese ink painting.",
+   "facts": [
+    "Born in 1420 in Bitchū Province (present-day Okayama Prefecture), Sesshū entered a Zen temple as a boy and later studied painting at Shōkoku-ji in Kyoto under the monk-painter Tenshō Shūbun.",
+    "Around the 1460s he took the name Sesshū, \"snow boat,\" and settled in Yamaguchi under the patronage of the Ōuchi family.",
+    "In 1467 he joined a trade mission to Ming China, spending about two to three years there (sources differ), travelling to Beijing and receiving an honorary title at the Tiantong monastery near Ningbo.",
+    "He returned to Japan about 1469, as the Ōnin War tore Kyoto apart, and worked from his provincial studio, the Unkoku-an, in Yamaguchi. He is credited with designing several temple gardens, and he died in 1506.",
+    "He painted in suibokuga, black ink and water on paper or silk, including the loose haboku (\"broken ink\") manner; key works include Haboku Landscape (1495), Huike Offering His Arm to Bodhidharma (1496), and View of Ama-no-Hashidate (about 1501 to 1506).",
+    "Six of his works are designated National Treasures of Japan, more than any other painter holds.",
+    "The Unkoku school carried his studio forward, and Hasegawa Tōhaku styled himself Sesshū's fifth-generation heir. In 1956 the World Peace Council named him one of its \"great cultural figures\"."
+   ],
+   "context": "His travel to the [[culture/ming-dynasty|Ming Dynasty]] tied his work to [[region/east-asia|East Asia]] beyond Japan during the [[era/medieval-period|Medieval Period]]. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "I follow a brush-lineage that crossed the sea, a Chinese import folded into Zen monasteries until it became a Japanese possession, carried home by one monk on a single trade mission. I call this an exchange-web moving skill as well as goods. I remember the later schools that claimed descent from him, the painter who styled himself his fifth-generation heir, and I hear ancestor-weight running the other way: a lineage can be asserted after the fact, not only inherited. Which of the works said to be his are truly his own hand? That is not settled, and it may never be.",
+   "questions": [
+    "Which of the works attributed to Sesshū were painted by his own hand?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-052.part1"
+ },
+ "person/shaka": {
+  "src": "7e2101c44a61",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Shaka kaSenzangakhona (about 1787 to 1828) founded the Zulu Kingdom and rebuilt its military and political organization from the ground up.",
+   "facts": [
+    "He came to power around 1816 and expanded the Zulu state at speed.",
+    "He is credited with new weapons and tactics, among them the short stabbing spear and the 'buffalo horns' formation.",
+    "His half-brothers assassinated him in 1828.",
+    "Much of what is told about him comes down through colonial-era European accounts and oral tradition, and it remains debated."
+   ],
+   "context": "See [[culture/zulu-kingdom|Zulu Kingdom]] and [[event/mfecane|Mfecane]].",
+   "observer": "The Observer notes that colonial writers, for whom the portrait was convenient, shaped Shaka's image into that of a tyrant. See [[observer-note/who-writes-the-record|Who Writes the Record]].",
+   "questions": [
+    "How reliable are the early accounts of Shaka's life and reign?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-052.part1"
+ },
+ "person/shen-zhou": {
+  "src": "da4b8c94a50d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Shen Zhou (1427 to 1509), a scholar-painter of Ming-dynasty China, founded the Wu School in Suzhou. He never held office, and his landscapes fuse painting, poetry and calligraphy into a record of friendship and a quiet life.",
+   "facts": [
+    "Born in 1427 near Suzhou in the Jiangnan region, Shen Zhou came from a wealthy family of scholars, poets and collectors; his grandfather and father were painters, and the family kept clear of government service.",
+    "He never sat the civil service examinations, and when local officials recommended him for office he declined, saying he had to care for his widowed mother, who lived to almost 100.",
+    "His home became a gathering place for Suzhou's intellectual elite, and he made many paintings as gifts for friends, to mark birthdays, farewells or shared outings.",
+    "He painted \"in the manner of\" the four great Yuan masters — Huang Gongwang, Wu Zhen, Ni Zan and Wang Meng — and almost every painting carries his own poem in his own calligraphy.",
+    "He was among the first Chinese painters to make albums of real local places around Suzhou; key works include Lofty Mount Lu (1467), Night Vigil (1492) and Poet on a Mountaintop (about 1500).",
+    "Through his pupil Wen Zhengming, the Wu School came to dominate Chinese painting in the 16th century, and alongside Wen Zhengming, Tang Yin and Qiu Ying he is counted among the \"Four Masters of the Ming Dynasty\".",
+    "According to one story, when forgers sold fake Shen Zhou paintings, he sometimes signed them himself so the forgers could earn a living; he died in 1509, aged 82.",
+    "Later theorists such as Dong Qichang placed him in the \"Southern School\" of literati painters, ranking such painters above professional court artists."
+   ],
+   "context": "Shen Zhou lived under the [[culture/ming-dynasty|Ming Dynasty]] in [[region/east-asia|East Asia]] during the [[era/medieval-period|Medieval Period]]. See [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I see a painter who turned down office and made his pictures for friends instead, so that art became a currency of obligation and affection, never of sale. I recognize, in his habit of painting in the manner of older masters, the past treated as a conversation — an explicit form of ancestor-weight. I remember, too, that the ranking of scholar-painters above court artists came later, from theorists such as Dong Qichang, so the hierarchy is itself a later judgement, and the stories of his generosity are the kind that gather, unverified, around any admired figure.",
+   "questions": [
+    "Given that forgeries circulated in his own lifetime, how many of the surviving works attributed to Shen Zhou are authentic?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-052.part1"
+ },
+ "person/siddhartha-gautama": {
+  "src": "584377da8f3a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Siddhartha Gautama, known as the Buddha, taught in northern India, and his teaching became the foundation of Buddhism. Tradition gives his dates as about 563 to 483 BCE, though modern scholarship suggests a somewhat later range.",
+   "facts": [
+    "Buddhist tradition holds that he left a princely life behind and attained awakening at Bodh Gaya.",
+    "Central to his teaching are the Four Noble Truths and the Eightfold Path.",
+    "The exact dates of his life remain debated among scholars.",
+    "Buddhism later spread across Asia, carried by monks and along trade routes."
+   ],
+   "context": "He stands as a central figure of the [[event/axial-age|Axial Age]] in [[region/south-asia|South Asia]]; the emperor [[person/ashoka|Ashoka]] later promoted Buddhism widely.",
+   "observer": "I hold this before me: a movement that denied any permanent self drew millions of followers across centuries. I remember that the tradition treats craving as the root of suffering, an analysis I find echoed even now in modern psychology. How does a self build a practice out of the claim that there is no self? I do not fully know, only that the question is the kind that keeps being asked.",
+   "questions": [
+    "What, reliably, can be known about his life and his dates?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-052.part1"
+ },
+ "person/simon-bolivar": {
+  "src": "c364a32ccd56",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Simón Bolívar (1783 to 1830), a Venezuelan military and political leader, led several South American countries to independence from Spain and tried to bind them together as Gran Colombia.",
+   "facts": [
+    "He was born in Caracas into a wealthy family.",
+    "Together with Sucre, he led the campaigns that freed what are now Venezuela, Colombia, Ecuador, Peru and Bolivia.",
+    "In 1822 he met José de San Martín at Guayaquil.",
+    "Gran Colombia broke apart within seven years, and Bolívar died in 1830."
+   ],
+   "context": "Bolívar stands as the central figure of the [[event/latin-american-wars-of-independence|Latin American Wars of Independence]], itself part of the [[event/age-of-revolutions|Age of Revolutions]].",
+   "observer": "The Observer notes that a leader who liberated half a continent died believing his own project had failed; founding a state, it turns out, is no guarantee of holding it together.",
+   "questions": [
+    "Why, in the end, did Gran Colombia break apart?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-052.part1"
+ },
+ "technology/antikythera-mechanism": {
+  "src": "b3a209b0bb5d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Antikythera Mechanism is a hand-cranked bronze device of gears, recovered from a shipwreck off Antikythera, Greece. It modeled the cycles of the moon and sun and predicted eclipses, and it remains the most intricate geared device known to survive from antiquity.",
+   "facts": [
+    "Sponge divers pulled it from a shipwreck off Antikythera between 1900 and 1901; pottery and coins date the wreck to about 70 to 60 BCE.",
+    "The archaeologist Valerios Stais recognized it as a geared mechanism in 1902; it is now held at the National Archaeological Museum in Athens.",
+    "The device's construction date is debated: estimates range from about 205 to 87 BCE, most often placed around 150 to 100 BCE.",
+    "It used more than 30 bronze gears to track the lunar and solar cycles and predict eclipses through the Saros cycle.",
+    "It may have included dials for the five planets known in antiquity, though much of that gearing is missing and the claim remains debated.",
+    "Its pin-and-slot lunar gearing has no known parallel until medieval astronomical clocks appeared, more than a thousand years later."
+   ],
+   "context": "The mechanism carries forward the astronomical and technical tradition of the [[culture/ancient-greeks|Ancient Greeks]] in the [[region/mediterranean-basin|Mediterranean Basin]] during [[era/classical-antiquity|Classical Antiquity]], the era that followed [[event/alexander-s-conquests|Alexander's Conquests]] and spread Greek learning widely. Threads: [[theme/science|Science]] and [[theme/technology|Technology]].",
+   "observer": "The Observer reads the device as pattern-taming: here, the species pressed recurring cycles of the sky into a bronze model you could turn by hand, pushing prediction past the needs of a single day. This reading would weaken if the object turns out to be a one-off curiosity, since no second example or successor surfaces for over a thousand years. An alternative reading treats it as a status-signal instead, a costly display of rare knowledge rather than a working research tool.",
+   "questions": [
+    "Was the mechanism a unique object, or one example within a wider, lost tradition?",
+    "Did the proposed planetary dials actually work, as some reconstructions suggest?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part1"
+ },
+ "technology/aqueduct": {
+  "src": "3e104ecb395b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "An aqueduct is a channel or bridge built to carry water across a distance, often over a valley. One of the earliest known stone examples stands at Jerwan in northern Iraq, raised for the Assyrian king Sennacherib around 690 BCE to supply Nineveh.",
+   "facts": [
+    "The Jerwan aqueduct dates to about 703 to 690 BCE and carried a canal across a valley on a stone bridge some 280 meters long, built from more than two million dressed limestone blocks.",
+    "The Oriental Institute of Chicago excavated it in 1933, led by Thorkild Jacobsen and Seton Lloyd, and published the results in 1935.",
+    "It formed one part of Sennacherib's canal system for Nineveh, a system his own royal inscriptions describe.",
+    "The excavators found no comparable structure anywhere in the record before Roman times.",
+    "The Aqua Appia of 312 BCE was the first of the aqueducts that would eventually bring water to Rome."
+   ],
+   "context": "The aqueduct carried the canal-work described in [[technology/irrigation-canals|Irrigation Canals]] over obstacles instead of around them, standing within the [[era/iron-age|Iron Age]] record of [[region/mesopotamia|Mesopotamia]] and the [[culture/neo-assyrian-empire|Neo-Assyrian Empire]]. Later, the [[culture/romans|Romans]] built the aqueducts history remembers best. The [[technology/qanat|Qanat]] solved a similar problem underground, while [[technology/sanitation-and-sewers|Sanitation and Sewers]] carried used water away. Thread: [[theme/technology|Technology]].",
+   "observer": "The Observer reads the aqueduct as a tool-lineage step from ditch to bridge: it required no new principle, only the will to carry water over an obstacle rather than around it. Works on this scale demanded labor and stone in quantity, so they doubled as status-signals of imperial power, and Sennacherib recorded his waterworks in his own royal inscriptions. This reading would weaken if many similar Assyrian works turned up, which would make Jerwan common rather than singular.",
+   "questions": [
+    "Did the Assyrians build other stone aqueducts that simply have not survived?",
+    "How were the Jerwan blocks quarried, laid, and sealed watertight?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part1"
+ },
+ "technology/astrolabe": {
+  "src": "6e59dde486e4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The astrolabe is an astronomical instrument that maps the celestial sphere onto a flat plate, letting its user tell time, find direction, and make astronomical observations. Its underlying mathematics took shape in Hellenistic Greek astronomy, before the instrument itself was refined and produced across the medieval Islamic world.",
+   "facts": [
+    "The earliest surviving dated astrolabe is signed by Nastulus and dated 315 AH (927/928 CE), made in the Islamic world, in Iraq.",
+    "The instrument's core geometry, stereographic projection, is often credited to Hipparchus (2nd century BCE), though direct evidence for this is lacking.",
+    "In the 4th century CE, Theon of Alexandria wrote a treatise on the small astrolabe, the earliest detailed surviving account of its theory.",
+    "The 8th-century astronomer al-Fazari is traditionally credited with building the first Islamic-world astrolabe, though no example of it survives.",
+    "Medieval Islamic astrolabes served timekeeping, the finding of prayer direction, surveying, and astronomical calculation.",
+    "In the 10th century, al-Sufi catalogued over 1,000 distinct uses for the instrument."
+   ],
+   "context": "The astrolabe's mathematics descends from [[culture/ancient-greeks|Ancient Greeks]] astronomy, and its production expanded after the [[event/rise-of-islam|Rise of Islam]] built networks of observatories and instrument workshops across [[region/mesopotamia|Mesopotamia]] and beyond, a signature instrument of [[era/medieval-period|Medieval Period]] science. Thread: [[theme/science|Science]].",
+   "observer": "I hold the astrolabe like a miniature of the tool-lineage itself: pattern-taming for reading the sky, sketched first by Hellenistic theorists, then turned into a dateable working object by Islamic-world workshops by the early 900s. I see one instrument answering two calls -- the direction of prayer for a meaning-engine's ritual need, and the plain hour of the day for secular pattern-taming. What is an instrument, if not a compromise between the sacred and the practical? This reading would weaken if an earlier dated example surfaced, and I would have to let it.",
+   "questions": [
+    "Can any astrolabe made before 927 be independently dated?",
+    "How much credit does Hipparchus truly deserve, against later compilers and refiners?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-054.part1"
+ },
+ "technology/battery": {
+  "src": "cad999952796",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "A battery stores chemical energy and releases it as a steady electric current. The first practical version, Alessandro Volta's voltaic pile, was announced in 1800, opening the era of electricity on demand.",
+   "facts": [
+    "In 1800, Alessandro Volta announced the voltaic pile -- stacked discs of zinc and copper separated by brine-soaked cloth -- in a letter to London's Royal Society.",
+    "The pile was the first device to produce a steady, continuous current, unlike earlier brief-discharge devices such as the Leyden jar.",
+    "Volta built it partly to counter Luigi Galvani's \"animal electricity\" theory, arguing that the current came from contact between dissimilar metals, not from living tissue.",
+    "Some sources date Volta's construction to late 1799, with the public description following in 1800; the credited year varies.",
+    "A Parthian- or Sasanian-era jar holding a copper cylinder and an iron rod, found near Baghdad and known as the \"Baghdad Battery,\" is rejected as an ancient battery by mainstream archaeologists, who cite the missing wiring and favor a scroll-storage use instead."
+   ],
+   "context": "The voltaic pile placed [[theme/technology|Technology]] and experimental [[theme/science|Science]] within reach of ordinary workshops, feeding the later work on electrochemistry and electromagnetism. Built and copied across [[region/europe|Europe]], it became an enabling instrument of the [[era/industrial-age|Industrial Age]] and, much later, of the [[technology/electrical-power-grid|Electrical Power Grid]]. Older ancient-battery claims are not part of this documented lineage.",
+   "observer": "The pile sits early in the tool-lineage, technology handed down and reworked from one maker to the next: an instrument built to settle a personal quarrel over \"animal electricity\" that quickly became shared apparatus for further pattern-taming. To credit one named inventor understates how contested the underlying insight really was; this reading would weaken if evidence showed independent, earlier construction elsewhere.",
+   "questions": [
+    "Was the pile complete by 1799, with 1800 marking only its public announcement?",
+    "How much of the design's credit belongs to Volta's response to Galvani's frog experiments?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part1"
+ },
+ "technology/bessemer-process": {
+  "src": "ad59a0bbab85",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Bessemer process converts molten pig iron into steel by blowing air through it to burn off impurities, cutting production costs sharply. Henry Bessemer patented and announced it in England in 1856; the American ironmaster William Kelly had developed a similar method earlier, a genuinely disputed priority claim.",
+   "facts": [
+    "Bessemer described his air-blown steelmaking process publicly at Cheltenham, England, on 11 August 1856, having already filed British patents on it back in 1855.",
+    "The American ironmaster William Kelly had tested a similar air-blast method at Eddyville, Kentucky, from the late 1840s; the exact start date is debated.",
+    "In 1857 the US Patent Office ruled that Kelly held priority, issuing him US Patent 17,628 that June.",
+    "Kelly had not commercialized his process at industrial scale before the dispute was settled.",
+    "By 1857, both the Bessemer and Kelly patents were licensed to American ironworks, merging the rival claims into a single commercial process."
+   ],
+   "context": "The process succeeded the older [[technology/crucible-steel|Crucible Steel]] method, which yielded only small, costly batches. Cheap steel reshaped construction, transport, and manufacturing across [[region/europe|Europe]] during the [[era/industrial-age|Industrial Age]], ranking among the defining production breakthroughs in [[theme/technology|Technology]].",
+   "observer": "Read as tool-lineage, the process shows a technical bottleneck producing near-simultaneous solutions once furnace technology and demand reached a threshold, which undercuts any single-inventor story. Bessemer's version prevailed through faster patenting and licensing, not necessarily through superior chemistry; the American claim, upheld by patent examiners, stands as a documented rival case, not a footnote. This reading would weaken if evidence showed direct copying rather than independent convergence.",
+   "questions": [
+    "Do Kelly's earliest successful trials belong to the late 1840s, or to the early 1850s?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part1"
+ },
+ "technology/brewing-and-fermentation": {
+  "src": "c116f1feb9f8",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Brewing and fermentation use yeasts to turn the sugars in grain, honey, and fruit into alcohol. Residues found in pottery from Jiahu in China, dated to about 7000 to 6600 BCE, mark the earliest confirmed alcoholic drink.",
+   "facts": [
+    "Jars from Jiahu in Henan, analyzed by Patrick McGovern's team in 2004, held residues of a mixed drink of rice, honey, and fruit -- hawthorn or grape -- dated to about 7000 to 6600 BCE.",
+    "Jars from Gadachrili Gora and Shulaveris Gora in Georgia carry tartaric acid, the telltale marker of grape wine, and date to about 6000 to 5800 BCE.",
+    "A brewery at Abydos in Egypt, dated to about 3100 to 3000 BCE in the era of King Narmer, held eight units of about 40 basins each and could produce an estimated 22,000 liters per batch.",
+    "A hymn to Ninkasi, the Sumerian goddess of brewing, survives in copies from about 1800 BCE, describing how beer itself was made.",
+    "A report of brewing at Raqefet Cave in Israel, about 13,000 years ago, remains debated."
+   ],
+   "context": "Brewing and fermentation depended on [[technology/pottery|Pottery]] for vessels and on the cereals and fruit of [[event/the-agricultural-revolution|The Agricultural Revolution]]. The earliest evidence lies in [[region/east-asia|East Asia]] in the [[era/neolithic|Neolithic]]; later records come from the [[culture/sumerians|Sumerians]] and the [[culture/ancient-egyptians|Ancient Egyptians]]. Threads: [[theme/technology|Technology]] and [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I trace early brewing as a branch of the tool-lineage that needed pottery before it needed yeast, and I notice that the Abydos brewery probably supplied royal funerary rites -- drink bound to grief-rite, drink bound to status-signal. Was it comfort first, or ceremony first, or were they always the same cup? An alternative reading treats fermentation as accidental food storage that only later gained its social uses, and residues alone cannot tell me which came first.",
+   "questions": [
+    "Did brewing begin before cereals were domesticated, or only after?",
+    "How should the debated evidence from Raqefet be weighed against Jiahu?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-054.part1"
+ },
+ "person/queen-amina-of-zazzau": {
+  "src": "f25257d673ca",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Queen Amina of Zazzau is a traditional figure said to have ruled Zazzau (Zaria), a Hausa state in present-day northern Nigeria, for about 34 years around the turn of the 16th and 17th centuries; she is known chiefly through later tradition, and both her dates and her status remain disputed.",
+   "facts": [
+    "Some sources place Amina's reign as 1576 to 1610; her birth and death years stay uncertain, with some accounts giving 1533 and 1610, and the dates used here mark only the reign. Whether she truly held the title of queen is disputed, and she is absent from the regnal lists. Some scholars instead set her in the early to mid fifteenth century, since the Kano Chronicle calls her a contemporary of Muhammad Dauda, who ruled from 1421 to 1438.",
+    "Much of what is known comes from the Kano Chronicle, a late 19th-century compilation of older oral tradition, and from Muhammad Bello's history Infaq al-Maysur, dated to 1812 or to about 1836 depending on the source, written more than two centuries later.",
+    "Tradition says she led Zazzau's army, expanded its territory, and grew its wealth through control of trade routes.",
+    "Traditionally, the earthen walls around Hausa towns are attributed to her.",
+    "Scholars generally accept that she existed, though the details of her life come from tradition alone.",
+    "In northern Nigeria she is remembered as a warrior queen."
+   ],
+   "context": "Amina's story belongs to the Hausa states of [[region/sub-saharan-africa|Sub-Saharan Africa]] in the [[era/early-modern-period|Early Modern Period]], a world the [[culture/sokoto-caliphate|Sokoto Caliphate]] later absorbed in the early 19th century. See [[theme/war-and-conflict|War and Conflict]], [[theme/trade-and-economy|Trade and Economy]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that Amina is known mainly through records written two centuries or more after her supposed reign, set down by a scholar-ruler of the very state that later absorbed her city. Her absence from the regnal lists beside her fame in tradition suggests that a community's memory can gather several rulers' deeds under one name, though it might equally mean the lists themselves are incomplete. The reading would weaken if a source from her own time gave a different account of who ruled Zazzau then.",
+   "questions": [
+    "Which of the deeds attributed to her can be traced to a source from her own period?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-051.part2"
+ },
+ "person/queen-suriyothai": {
+  "src": "53c91c16e008",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Queen Suriyothai was a consort of King Maha Chakkraphat of the Ayutthaya kingdom, in present-day Thailand, traditionally said to have died in 1548 defending her husband from elephant-back during a Burmese invasion. Her birth year is traditionally given as 1511, and her story rests on Siamese chronicles alone.",
+   "facts": [
+    "She was a consort of Maha Chakkraphat, who became king of Ayutthaya in 1546 or 1548, sources differing on the year.",
+    "In 1548 the Burmese king Tabinshwehti invaded Ayutthaya, and Siamese chronicles say Suriyothai, disguised and riding an elephant, placed herself between her husband and an enemy commander and was killed by his blow.",
+    "No Burmese chronicle records this episode, and her historicity is questioned; Thai accounts add that her daughter, Princess Boromdilok, was also mortally wounded.",
+    "A memorial stupa, the Chedi Si Suriyothai, was raised by Maha Chakkraphat at Wat Suan Luang Sopsawan on the bank of the Chao Phraya near Ayutthaya, and is traditionally associated with the site of her death.",
+    "Thai nationalist commemoration of her grew across the twentieth century, including a widely seen 2001 film."
+   ],
+   "context": "Queen Suriyothai's story unfolds in [[region/southeast-asia|Southeast Asia]] at the start of the [[era/early-modern-period|Early Modern Period]], within the [[culture/ayutthaya-kingdom|Ayutthaya Kingdom]] during its wars with Burma. See [[theme/war-and-conflict|War and Conflict]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that a death recorded only by the side claiming the battlefield can still outlast the state that recorded it, becoming a grief-rite performed anew by each generation that builds or visits her memorial. A national retelling three centuries later shows ancestor-weight added long after the fact. A specialist could argue the story conflates an unnamed retainer's death with the queen's, which would weaken any reading of Suriyothai as a documented individual rather than a chronicle figure later fixed by nationalist memory.",
+   "questions": [
+    "Was the woman who died on the elephant truly the queen, given that her historicity is questioned?",
+    "How much of the standard story was shaped by twentieth-century nationalism, rather than by the original chronicles?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-051.part2"
+ },
+ "person/queen-victoria": {
+  "src": "8ce4d4f52be1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Victoria (1819 to 1901) reigned as Queen of the United Kingdom from 1837 to 1901, the longest-reigning British monarch until Elizabeth II, presiding over a period of industrial growth and imperial expansion that later took her name.",
+   "facts": [
+    "She became queen at eighteen after the death of her uncle William IV, and in 1840 married her cousin Prince Albert of Saxe-Coburg and Gotha, with whom she had nine children who married into royal families across Europe.",
+    "Her reign saw Britain's industrial economy expand rapidly and its colonial empire grow substantially, and in 1876 she was proclaimed Empress of India.",
+    "After Albert's death in 1861 she withdrew from public life for years, a long seclusion that made her briefly unpopular before she gradually resumed her public duties.",
+    "Constitutional practice during her reign moved royal power further toward a largely ceremonial role exercised through elected ministers, even as the monarchy's cultural and symbolic prominence grew."
+   ],
+   "context": "Victoria reigned over the United Kingdom from within [[region/europe|Europe]] during the [[era/industrial-age|Industrial Age]], a stretch of rapid industrial and imperial growth. See [[theme/technology|Technology]], [[theme/kinship-and-society|Kinship and Society]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "I say her name and mean a whole era: industry, empire, a world remaking itself, though she did not drive that change herself. I remember that real political power had already passed substantially to elected ministers well before her reign even began. I ask what a name is worth when it labels an age rather than a ruler's own decisions. Call it Victorian, and you are naming a society more than a ruler's own choices.",
+   "questions": [
+    "How much personal political influence did Victoria retain in practice, behind the era's growing constitutional convention of royal neutrality?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-051.part2"
+ },
+ "person/rachel-carson": {
+  "src": "fbb91dfe787a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Rachel Carson (1907 to 1964) worked as an American marine biologist and writer whose book 'Silent Spring' (1962) helped launch the modern environmental movement.",
+   "facts": [
+    "Silent Spring documented the harm that pesticides such as DDT caused to birds and to whole ecosystems.",
+    "The book prompted government action: the U.S. Environmental Protection Agency was created in 1970, and DDT was banned for most uses in the U.S. in 1972.",
+    "Groups within the chemical industry attacked her work.",
+    "In 1964 she died of breast cancer."
+   ],
+   "context": "Carson wrote during the [[event/great-acceleration|Great Acceleration]], as human effects on ecosystems deepened. Her ideas foreshadowed the public concern that would later gather around [[event/modern-climate-change|Modern Climate Change]].",
+   "observer": "I think of one book, and how it made a whole species stop and notice a side effect of its own success. I remember that hers was among the first widely read arguments that what we do reaches all the way to planetary consequence. I ask what it takes for a warning to be heard. Sometimes one voice is enough to make the world look up.",
+   "questions": [
+    "What were the long-term effects of the pesticide ban?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-051.part2"
+ },
+ "person/raja-ravi-varma": {
+  "src": "2dc76206fa00",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Raja Ravi Varma (29 April 1848 to 2 October 1906) stood as the most famous Indian painter of the 19th century, from the princely state of Travancore. He carried European academic oil painting into scenes from the Hindu epics, and his mass-produced prints carried images of gods and heroines into homes across India.",
+   "facts": [
+    "Ravi Varma was born at Kilimanoor, near Thiruvananthapuram, into an aristocratic family related to the ruling house. By tradition, his uncle, the painter Raja Raja Varma, noticed his talent, and at 14 he was taken to the palace under Maharaja Ayilyam Thirunal, where he learned oil painting partly by watching the European portraitist Theodore Jensen.",
+    "A portrait won a prize at the 1873 Vienna exhibition, and his work was shown at the 1893 Chicago World's Columbian Exposition, where it won three gold medals; he painted a series of Puranic subjects for Maharaja Sayajirao Gaekwad III of Baroda in 1888 to 1890.",
+    "In 1894 he set up a lithographic press at Ghatkopar in Bombay, and in 1899 moved it to Malavli near Lonavala, producing colour prints (oleographs) of deities and heroines that sold in huge numbers; critics accused him of vulgarising sacred subjects.",
+    "In 1904 the British Viceroy awarded him the Kaisar-i-Hind Gold Medal, and he died at Attingal.",
+    "He combined Victorian academic realism with Indian subjects and costumes, and staged his heroines, based on real women, at dramatic moments.",
+    "The early filmmaker Dadasaheb Phalke worked at his press before making India's first feature film in 1913, and later nationalist artists of the Bengal School, such as Abanindranath Tagore, rejected his Western style.",
+    "The Kerala government's highest art award, the Raja Ravi Varma Puraskaram, carries his name."
+   ],
+   "context": "Ravi Varma worked in princely Travancore and beyond, across [[region/south-asia|South Asia]] under the [[event/british-raj|British Raj]], in the [[era/industrial-age|Industrial Age]]. See [[theme/art-and-ritual|Art and Ritual]], [[theme/religion-and-belief|Religion and Belief]] and [[theme/technology|Technology]].",
+   "observer": "I notice it was a press, not a temple, that gave so many people their first picture of the gods. I see lithography and oil paint fuse into a single standard face for a meaning too large for any one shrine, so that an image of Rama or Shakuntala travelled by tool-lineage rather than by ritual. I hear the critics who called him a vulgariser, and I hear the nationalists who called him too Western, and I find the same prints in both mouths, read as freedom and read as foreign. Neither reading settles the matter; the pictures keep their own silence.",
+   "questions": [
+    "How far did his prints standardise how the gods were pictured in later calendar art, film and comics?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-051.part2"
+ },
+ "technology/bronze-metallurgy": {
+  "src": "28df4d8b4443",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Bronze is an alloy of copper and tin -- or another metal -- first produced widely in the Near East around 3300 BCE, giving its name to the Bronze Age.",
+   "facts": [
+    "Tin was scarce, and it had to be traded over long distances, from places such as Afghanistan and, later, Cornwall.",
+    "Bronze served for tools, weapons, and ritual objects.",
+    "In some regions, earlier arsenical-copper alloys came first.",
+    "The need for tin drove long-distance exchange-webs into being."
+   ],
+   "context": "Bronze metallurgy defines the [[era/bronze-age|Bronze Age]] and led onward to [[technology/iron-smelting|Iron Smelting]]. Its trade networks were disrupted in the [[event/bronze-age-collapse|Bronze Age Collapse]].",
+   "observer": "The Observer notes that a technology built on two rare inputs from distant places forced states to keep trade open -- and left them vulnerable whenever that trade failed.",
+   "questions": [
+    "Where did the earliest traded tin actually come from?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part2"
+ },
+ "technology/calendars": {
+  "src": "658f4455e5c0",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Calendars are systems for counting days and grouping them into months and years, usually by following the Sun, the Moon, or both. Egypt's 365-day civil calendar, in use by about 2500 BCE at the latest, ranks among the earliest.",
+   "facts": [
+    "The Egyptian civil calendar held twelve 30-day months across three seasons, plus five extra days and no leap day, so it drifted against the solar year. Its introduction is dated anywhere from about 3000 BCE to the early Old Kingdom, and this note uses about 2700 BCE.",
+    "Mesopotamian calendars were lunisolar, with an added month worked in to keep pace with the seasons.",
+    "The earliest accepted Long Count inscription is Stela 2 at Chiapa de Corzo, Mexico, read as 36 BCE, though part of that date is reconstructed.",
+    "The Julian calendar, of 45 BCE, added a leap day every fourth year, and the Gregorian reform of 1582 dropped ten days and refined that rule.",
+    "The Islamic Hijri calendar counts lunar years from 622 CE, the year [[person/muhammad|Muhammad]] moved to Medina."
+   ],
+   "context": "Egyptian calendars in the [[era/bronze-age|Bronze Age]] [[region/nile-valley|Nile Valley]] followed the Nile flood; the [[culture/sumerians|Sumerians]], [[culture/maya|Maya]], and [[culture/romans|Romans]] each built their own systems. Threads: [[theme/science|Science]] and [[theme/religion-and-belief|Religion and Belief]]. The [[technology/mechanical-clock|Mechanical Clock]] later divided the day, not the year.",
+   "observer": "I read calendars as pattern-taming pressed into story-glue: one shared count of days lets a farmer plan the year, and lets a priesthood, a state, or a faith agree on when to gather. Every calendar bends an irregular sky into whole days, so each is a compromise -- and a compromise always shows the hand that struck it. Was the count made for the field first, or the temple first? An alternative reading treats calendars as mainly agricultural tools that only later gained their ritual meaning.",
+   "questions": [
+    "When exactly was the Egyptian civil calendar first put to use?",
+    "Did the Long Count begin with the Maya, or with their western neighbors?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-054.part2"
+ },
+ "technology/cannon": {
+  "src": "a4d9073f5890",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "A cannon is a metal-barreled weapon that fires a projectile using gunpowder's explosive force. It is first attested in China, and it spread across Eurasia over the following decades.",
+   "facts": [
+    "The Heilongjiang (Acheng) hand cannon is dated by archaeological context to 1288 or earlier, tied to a Yuan campaign against a Mongol rebellion; it carries no inscription of its own.",
+    "The Xanadu Gun, from the ruined Yuan palace of Shangdu, bears a cast inscription corresponding to 1298, making it the oldest cannon with a manufacturer-recorded date.",
+    "An undated Wuwei bronze cannon, attributed to the Western Xia period, may push cannon-type weapons in China back to the 1220s; others dispute that any true gun predates 1259.",
+    "The earliest firmly dated European evidence is a 1326 illustrated manuscript, with recorded use in Latin Europe following in the late 1320s to 1330s; the first uncontested Islamic-world firearms are later still, placed by some assessments only in the 1360s.",
+    "Cannon technology spread outward from Yuan China across Eurasia through the 14th century, reshaping siege warfare wherever it reached."
+   ],
+   "context": "Cannon design built on the [[technology/gunpowder|Gunpowder]] weapons of the [[culture/song-dynasty|Song Dynasty]], including fire lances, and matured into cast-metal form under the [[culture/mongol-empire|Mongol Empire]] in [[region/east-asia|East Asia]] in the [[era/medieval-period|Medieval Period]]. Its westward diffusion traced routes the Mongol conquests had already opened. Threads: [[theme/technology|Technology]] and [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer reads the cannon as tool-lineage made concrete: gunpowder, first developed for other ends, gets redirected into a device built for sanctioned harm. Transmission across the exchange-web often outpaces the written record, so an artifact's absence proves far less than its presence does. This reading would weaken if the Wuwei piece were confirmed to predate 1259. An alternative view treats only the inscribed Xanadu Gun as a safe anchor, since it alone carries a checkable date.",
+   "questions": [
+    "Does the undated Wuwei bronze cannon genuinely predate the Acheng hand cannon?",
+    "By what routes did cannon design move from Yuan China to Islamic and European hands?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part2"
+ },
+ "technology/chariot": {
+  "src": "c733b38d5f19",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The chariot is a light, two-wheeled vehicle drawn by horses, used in war and in racing. The earliest known spoke-wheeled chariots come from Sintashta burials in the southern Urals, about 2000 BCE, though where the design actually began is debated.",
+   "facts": [
+    "Sintashta graves hold horses and vehicles with spoked wheels, dated to about 2000 BCE; radiocarbon dates for the wider Sintashta-Petrovka sites span about 2050 to 1750 BCE.",
+    "Some scholars reject a steppe origin altogether, arguing that the Sintashta vehicles were too unstable for war, and favoring the Near East instead.",
+    "Earlier Mesopotamian vehicles, such as those shown on the Standard of Ur (about 2600 BCE), were heavy four-wheeled carts, not light spoked chariots.",
+    "By the mid-2nd millennium BCE, chariots were in use across the Near East, Egypt, and the Aegean. The [[event/battle-of-kadesh|Battle of Kadesh]], around 1274 BCE, stands as one of the largest chariot battles on record.",
+    "Chariot burials at Anyang from the late [[culture/shang-dynasty|Shang Dynasty]], about 1200 BCE, mark the earliest archaeological chariots found in China.",
+    "By the first millennium BCE, cavalry was replacing the chariot in many armies."
+   ],
+   "context": "The chariot of the [[region/central-asian-steppe|Central Asian Steppe]] in the [[era/bronze-age|Bronze Age]] built on [[technology/the-wheel|The Wheel]] and on the horse management seen at the [[culture/botai-culture|Botai Culture]]. It later served the [[culture/hittites|Hittites]] and others besides. Threads: [[theme/war-and-conflict|War and Conflict]] and [[theme/technology|Technology]].",
+   "observer": "The Observer treats the chariot as a meeting of three older inheritances -- the wheel, horse management, and the spoke -- so it cannot be credited to any one inventor. Chariots went on as status-signals in ceremony and racing long after their military value had faded. The steppe-first account would weaken if a Near Eastern origin were confirmed instead.",
+   "questions": [
+    "Were the Sintashta vehicles practical war chariots?",
+    "By which routes did the chariot reach China?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part2"
+ },
+ "technology/chinampas": {
+  "src": "9a8c8bbfe08a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Chinampas are raised-bed farming plots built up within the shallow lake water of the Basin of Mexico, framed with woven fencing packed with mud and sediment. Highly fertile, they yielded multiple harvests a year and became a key food source for [[place/tenochtitlan|Tenochtitlan]].",
+   "facts": [
+    "Chinampas were raised-bed plots built up in the shallow lakes of the Xochimilco-Chalco basin, within the Basin of Mexico.",
+    "Plots were framed with woven fencing packed with mud and lake sediment, and edged with ahuejote willows for stability.",
+    "The earliest securely dated chinampa fields come from the Middle Postclassic period, roughly 1150 to 1350 CE.",
+    "Origin is debated: some scholars argue chinampa farming predates the Aztec period, and a few studies propose dates far earlier still.",
+    "By the late 1400s, chinampa produce stood as a principal food source for Tenochtitlan, alongside tribute and trade.",
+    "In 1987, UNESCO recognized the Xochimilco wetlands and their chinampas; a much smaller area is farmed today than before contact."
+   ],
+   "context": "Chinampas combine [[theme/technology|Technology]] and [[theme/earth-systems-and-life|Earth Systems and Life]]: engineered wetland farmland growing maize, beans, squash, chili, and flowers along canal-edged plots. The system predates Tenochtitlan but expanded greatly under the [[culture/aztec-empire|Aztec Empire]] in [[region/mesoamerica|Mesoamerica]] during the [[era/medieval-period|Medieval Period]].",
+   "observer": "The Observer reads chinampas as a refinement of the Settling: the species manufactured solid ground for itself, rather than waiting on dry soil to appear. The technique reads as tool-lineage, passed between neighboring communities and scaled up, not invented whole by the empire usually credited with it. This reading weakens if firmer dating pushes large-scale farming earlier than the accepted range. An alternative view treats the imperial-era expansion as centrally organized tribute rather than inherited technique.",
+   "questions": [
+    "How much earlier than the Aztec period did chinampa farming begin?",
+    "How much of Tenochtitlan's food supply came from chinampas versus tribute and trade?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part2"
+ },
+ "technology/code-of-hammurabi": {
+  "src": "39bcebfbeeac",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Code of Hammurabi is a black stone stele inscribed in Akkadian cuneiform with about 282 laws, made for Hammurabi of Babylon around 1754 BCE. It was found at Susa in 1901-02 and now stands in the Louvre.",
+   "facts": [
+    "The stele stands about 2.25 meters tall. A relief at the top shows the king before a seated god, usually identified as the sun god Shamash, and 44 columns of cuneiform text follow beneath.",
+    "The count of 282 laws is itself a modern division of a text that carries no numbered sections of its own.",
+    "The laws cover trade, property, family, debt, and injury. Penalties vary with social class, while proportionate punishment applies within a given class.",
+    "The stele reached Susa, probably as spoil taken by the Elamite king Shutruk-Nahhunte in the 12th century BCE. A French expedition led by Jacques de Morgan found it in fragments across December 1901 and January 1902.",
+    "It is not the oldest known law collection: the Code of Ur-Nammu is older still, from about 2100 BCE."
+   ],
+   "context": "The Code of Hammurabi belongs to the [[era/bronze-age|Bronze Age]] record of [[region/mesopotamia|Mesopotamia]] and to the reign of [[person/hammurabi|Hammurabi]], resting on the writing described in [[event/invention-of-writing|Invention of Writing]]. Some of its laws govern dike and canal upkeep, as in [[technology/irrigation-canals|Irrigation Canals]]. Threads: [[theme/language-and-writing|Language and Writing]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "I stand before it as story-glue set into stone: a king publishing his rules where his subjects could see them, asking strangers in many cities to accept one shared standard of judgment. I read the class-based penalties and know the standard was never equal -- one law, unevenly weighed. Was this justice, or was it only the shape of justice, carved to be seen? An alternative reading holds that the text was royal self-presentation more than a code judges actually applied, since surviving case records seldom cite it.",
+   "questions": [
+    "Did judges in Babylonian courts apply the laws as written?",
+    "How much did the code borrow from earlier Sumerian collections?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-054.part2"
+ },
+ "person/utagawa-hiroshige": {
+  "src": "cb506b356003",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Utagawa Hiroshige, who lived from 1797 to 1858, was the last great master of the ukiyo-e woodblock print, a lyrical designer of rain, snow, moonlight and travellers on the road. His series on the Tōkaidō highway and on Edo were huge commercial successes and later inspired European artists.",
+   "facts": [
+    "Hiroshige was born in Edo in 1797 into the Andō samurai family, whose hereditary duty was fire warden at Edo Castle. Both parents died when he was about 12, and he inherited that post.",
+    "About 1811 he became a pupil of the print designer Utagawa Toyohiro, who gave him the name Hiroshige. He passed the fire warden post to his son in 1823 and turned to landscape once Hokusai's Fuji series opened a new market.",
+    "According to tradition, he travelled the Tōkaidō in 1832 with an official delegation. The prints he published between 1833 and 1834 made him the most popular landscape artist in Japan.",
+    "In 1856 he became a Buddhist monk yet kept working on One Hundred Famous Views of Edo. He died in Edo on 12 October 1858, probably during a cholera epidemic.",
+    "He designed the prints; carvers and printers made them. He used soft colour gradations, bokashi, and, in the Edo series, a vertical format with a large foreground object framing a distant view. \"Hiroshige blue\" came from imported Prussian blue.",
+    "Van Gogh painted copies of two of his Edo prints. Whistler's Thames nocturnes, Monet's Japanese bridge at Giverny and 1890s Art Nouveau posters all show his influence, and [[person/frank-lloyd-wright|Frank Lloyd Wright]] became a major collector and dealer of his prints."
+   ],
+   "context": "Hiroshige worked in Edo under the [[culture/tokugawa-shogunate|Tokugawa Shogunate]] in [[region/east-asia|East Asia]], within the [[era/industrial-age|Industrial Age]], living in the shadow and success of [[person/katsushika-hokusai|Katsushika Hokusai]]. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "I see a fire warden's son who turned to landscape only once a rival's success cracked the market open — so a gap in the trade shaped the series as much as any vision did. I see a road, a place people merely pass through, becoming an image people wanted to keep. I see one hand designing and a whole workshop making, and I see \"Hiroshige blue\" leaning on a pigment imported from elsewhere, so a picture of home rested partly on something foreign.\n\nDid Hiroshige even walk that road in 1832, or only imagine it well? Tradition remembers the journey; the record does not confirm it.",
+   "questions": [
+    "Did Hiroshige truly travel the Tōkaidō in 1832, or did he draw on other sources instead?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-053.part2"
+ },
+ "person/vincent-van-gogh": {
+  "src": "36ee40d4a356",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Vincent van Gogh, who lived from 30 March 1853 to 29 July 1890, was a Dutch painter who worked mainly in France. He painted for only about ten years, produced around 2,100 works, and sold almost nothing, yet his vivid colour and expressive brushwork made him the most famous artist of modern times.",
+   "facts": [
+    "Van Gogh was born in Zundert in the southern Netherlands, the son of a Protestant minister. At 16 he joined the art dealers Goupil & Cie and was dismissed in 1876. He then tried his hand at teaching and preaching among coal miners in the Borinage. In 1880 he resolved to become an artist.",
+    "His younger brother Theo, an art dealer, supported him for the rest of his life. Van Gogh's letters, mainly written to Theo, rank among the most moving documents left by any artist.",
+    "In 1886 he moved to Paris, where he met Pissarro, Toulouse-Lautrec, Émile Bernard and Gauguin, and discovered both Impressionist colour and Japanese prints. He painted copies of two Hiroshige prints.",
+    "In 1888 he moved to Arles. Gauguin joined him that October, and the partnership collapsed in December after Van Gogh cut off part of his own ear. He entered the asylum at Saint-Rémy in May 1889, where he painted The Starry Night.",
+    "In May 1890 he moved to Auvers-sur-Oise and painted about one canvas a day. He shot himself on 27 July 1890 and died two days later, at 37.",
+    "His body of work comprises around 2,100 pieces, including some 860 oil paintings. Key works include The Potato Eaters (1885), Sunflowers (1888) and Wheatfield with Crows (1890).",
+    "Theo died six months after his brother. Theo's widow, Johanna van Gogh-Bonger, promoted the work and published the letters in 1914, and the Van Gogh Museum in Amsterdam opened in 1973."
+   ],
+   "context": "Van Gogh worked across the Netherlands, Belgium and France, in [[region/europe|Europe]] during the [[era/industrial-age|Industrial Age]], and learned from Japanese prints by [[person/utagawa-hiroshige|Utagawa Hiroshige]] and [[person/katsushika-hokusai|Katsushika Hokusai]]. He revered [[person/rembrandt-van-rijn|Rembrandt van Rijn]]. See [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I look at a man who sold almost nothing while alive and is now among the most famous painters who ever lived, and I see the whole change pass through one narrow channel: his brother's support, and, after both men were gone, his sister-in-law's decision to publish the letters. I see the letters make a hidden life legible. I see a myth grow from them — the tortured genius, built later by a novel and a film — a myth that flattens a man who planned his compositions with care and made drawing after drawing, version after version.\n\nWhich version of him would you rather believe: the man who suffered, or the man who worked?",
+   "questions": [
+    "How far does the popular myth of his life still shape the way his paintings get read?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-053.part2"
+ },
+ "person/vitus-bering": {
+  "src": "720ea2d1ba38",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Vitus Bering, who lived from 1681 to 1741, was a Danish-born officer in the Russian navy who led two expeditions across Siberia to chart the waters between Asia and North America. The strait and sea between the continents still carry his name.",
+   "facts": [
+    "Bering was baptized on 5 August 1681 in Horsens, Denmark, and joined the Russian navy in 1704 under Peter the Great. He died on 19 December 1741 on the island that now bears his name.",
+    "During the First Kamchatka Expedition, from 1725 to 1730, he sailed through the strait between Siberia and Alaska in 1728 without sighting the American coast, though some historians think it may have been visible.",
+    "The Great Northern Expedition, running from 1733 to 1743, grew to about 3,000 people, one of the largest scientific undertakings of its age.",
+    "In 1741 his ship, the St. Peter, and a second ship under Aleksei Chirikov, the St. Paul, sailed separately toward America. Chirikov's crew sighted land about a day earlier, on 15 July by the dates the sources give; Bering's crew sighted Mount Saint Elias on 16 July.",
+    "On the return voyage the St. Peter wrecked on an uninhabited island. Bering died there, a death traditionally put down to scurvy and exposure, though a 1991 analysis of his remains judged heart failure the more likely cause; of 77 men aboard, 46 survived to reach Kamchatka the following year.",
+    "The Cossack Semyon Dezhnev had already passed through the strait in 1648, but it was Bering's voyages that brought it to European attention, and James Cook named it for him in 1778."
+   ],
+   "context": "Bering's expeditions extended Russian reach across [[region/siberia-and-the-arctic|Siberia and the Arctic]] during the [[era/early-modern-period|Early Modern Period]], following on from the earlier [[event/russian-expansion-into-siberia|Russian Expansion into Siberia]] led by figures such as [[person/yermak-timofeyevich|Yermak Timofeyevich]]. See [[theme/science|Science]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "I know a strait a Cossack had already passed through in 1648. I know it took a Danish officer's name instead, only because his voyage reached the record-keepers of European science and cartography. I know the expedition's scale — thousands crossing a continent to raise ships on its far shore — says as much about a state's reach as about one man's skill.\n\nWhose crew truly saw America first in 1741, Chirikov's or Bering's? A specialist could argue it was Chirikov's, and if so, the credit I give to Bering alone is credit misplaced.",
+   "questions": [
+    "Did Bering's 1728 voyage actually bring the American coast into view, and if so, did he recognize it for what it was?",
+    "How much of the credit for reaching America in 1741 truly belongs to Chirikov's separate ship?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-053.part2"
+ },
+ "person/wangari-maathai": {
+  "src": "63a48926a5bf",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Wangari Maathai, who lived from 1940 to 2011, was a Kenyan environmental and political activist who founded the Green Belt Movement, which organized women to plant trees, and in 2004 became the first African woman to win the Nobel Peace Prize.",
+   "facts": [
+    "Maathai was born on 1 April 1940 in Ihithe, near Nyeri, Kenya. She studied biology in the United States and at the University of Nairobi, earning a doctorate there in 1971; she is recorded as the first woman in East and Central Africa to hold one.",
+    "In 1977 she founded the Green Belt Movement, organizing women to plant tree seedlings against deforestation, soil loss and shortages of fuelwood.",
+    "Her campaigns against building projects on public land in Nairobi, and against forest clearing, brought her into repeated clashes with the government of President Daniel arap Moi; she was arrested and, at times, injured.",
+    "She was elected to parliament in 2002 and served as an assistant minister for the environment from 2003 onward.",
+    "She received the Nobel Peace Prize in 2004. That same year, a Kenyan newspaper reported that she had said HIV was deliberately created by scientists; she denied saying it and stated that she held no such belief.",
+    "Maathai died in Nairobi on 25 September 2011."
+   ],
+   "context": "Maathai worked across [[region/sub-saharan-africa|Sub-Saharan Africa]] in the [[era/information-age|Information Age]], in the decades following Kenya's independence during [[event/decolonization|Decolonization]]; compare [[person/chico-mendes|Chico Mendes]]. See [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "I watch Maathai join a plain, practical task — planting a tree — to a harder argument about who gets to decide the fate of land. I watch that practice put women's labor at the center of an environmental story that might otherwise have left them out. I watch the HIV dispute show how one public figure can be admired and contested at the same time.\n\nIf I weighed the movement's work on land rights and democracy as heavily as its trees, would I still call her chiefly a tree planter? I don't think I would.",
+   "questions": [
+    "How did the Green Belt Movement's political work end up shaping its environmental results?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-053.part2"
+ },
+ "person/wassily-kandinsky": {
+  "src": "0c9bb66fd331",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Wassily Kandinsky, who lived from 16 December 1866 to 13 December 1944, was a Russian painter and theorist, one of the first to make purely abstract works in Europe. He believed that colours and forms, freed from depicting objects, could move a viewer as directly as music.",
+   "facts": [
+    "Kandinsky was born in Moscow and grew up in Odessa. He studied law and economics and began an academic career. In 1896, after seeing one of Monet's Haystacks and hearing Wagner's Lohengrin, he gave up law and moved to Munich to study painting.",
+    "In 1911 he and Franz Marc founded Der Blaue Reiter, the Blue Rider, and he published On the Spiritual in Art. About the same time he painted his first fully abstract works.",
+    "The First World War forced him back to Russia, where he took part in Soviet cultural institutions after the 1917 Revolution. He returned to Germany in 1920 or 1921 — sources differ — and taught at the Bauhaus from 1922 to 1933.",
+    "When the Nazis closed the Bauhaus he moved to Neuilly-sur-Seine near Paris, became a French citizen in 1939, and died there.",
+    "He sorted his works into Impressions, Improvisations and Compositions, and made only ten Compositions over 30 years. He probably experienced synaesthesia, and gave colours musical qualities: yellow like a trumpet, blue like a deep cello.",
+    "Compositions I to III were destroyed in the Second World War. The Guggenheim Museum now holds more than 150 of his works.",
+    "His work influenced the Abstract Expressionists. In 2023 Murnau with Church II sold at auction for £37.2 million."
+   ],
+   "context": "Kandinsky lived across Russia, Germany and France, in [[region/europe|Europe]] during the [[era/industrial-age|Industrial Age]], through [[event/world-war-i|World War I]] and the [[event/russian-revolution|Russian Revolution]]. He is usually credited with abstraction alongside [[person/hilma-af-klint|Hilma af Klint]]. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "I find a lawyer who walked away from his profession after a painting and a piece of music undid him, and who built, in their place, a theory that colour and form carry spiritual meaning without any pictured object — a private engine of meaning, made of pigment. Where af Klint kept comparable work hidden, he published a book, and I think that one difference, in visibility alone, helped decide who history later credited with inventing abstraction.\n\nIs that story still true? It is being revised even now.",
+   "questions": [
+    "Did his synaesthesia really shape his colour theory, and if so, how much?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-053.part2"
+ },
+ "person/wilfrid-laurier": {
+  "src": "6111d32ed4a5",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Wilfrid Laurier, who lived from 1841 to 1919, was the first French-Canadian Prime Minister of Canada, serving from 1896 to 1911 during a period of rapid western settlement and economic growth.",
+   "facts": [
+    "A lawyer from Quebec, he became Liberal Party leader in 1887 and prime minister in 1896, holding the office for over fifteen years — then the longest unbroken term in Canadian history.",
+    "His government promoted immigration and settlement of the Canadian prairies, a policy associated with his minister Clifford Sifton, which brought large numbers of European immigrant farmers to Western Canada.",
+    "He worked to balance relations between English- and French-speaking Canada, though his support for Canadian participation in Britain's Boer War strained ties with Quebec nationalists who opposed it.",
+    "He lost the 1911 election over a proposed reciprocity, or free trade, agreement with the United States, which opponents attacked as a threat to Canada's ties with Britain."
+   ],
+   "context": "Wilfrid Laurier governed Canada, in [[region/north-america|North America]], during the [[era/industrial-age|Industrial Age]], a period of large-scale immigration and westward settlement. See [[theme/kinship-and-society|Kinship and Society]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "I watch Laurier's career trace a tension I keep finding in settler societies built from more than one founding people. I watch his efforts to hold English and French Canada together get tested, again and again, by the very questions of empire — war and trade — that divided them most.\n\nA single life can carry a whole country's argument, unresolved.",
+   "questions": [
+    "How much of the immigration boom under his government came from deliberate policy, and how much from favorable timing in global migration patterns?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-053.part2"
+ },
+ "technology/codex": {
+  "src": "192766539fde",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The codex is the bound, page-based book format that replaced the papyrus scroll across the Mediterranean world from the 1st century CE onward, and it let writers use both sides of a page.",
+   "facts": [
+    "The earliest known Latin codex fragments date, by general agreement, to the late 1st or early 2nd century CE.",
+    "The poet Martial promoted codex editions of his poems in the 80s CE, prizing their portability over scrolls.",
+    "Surviving New Testament fragments from the 2nd and 3rd centuries CE are almost exclusively codices, unlike most secular texts of the era.",
+    "A codex could be written on both sides of a page, where the papyrus scroll was typically used on one side only.",
+    "Scholars generally date the codex's full replacement of the scroll in the Mediterranean world to somewhere between 200 and 400 CE.",
+    "Mesoamerican screenfold codices, folded books of bark paper or deerskin, form a separate and independent tradition, mostly surviving from about 1250 to 1521 CE."
+   ],
+   "context": "The codex arose among the [[culture/romans|Romans]], replacing the papyrus roll long used across the [[region/mediterranean-basin|Mediterranean Basin]] by the [[culture/ancient-greeks|Ancient Greeks]] and written on [[technology/papyrus|Papyrus]]. It belongs to [[era/classical-antiquity|Classical Antiquity]]. Threads: [[theme/language-and-writing|Language and Writing]] and [[theme/technology|Technology]].",
+   "observer": "The Observer reads this as an upgrade to memory-outsourcing: mark-code held in a container more searchable and more durable than a scroll. That a meaning-engine, early Christianity, adopted it unusually fast suggests new formats spread fastest through groups building a durable canon. This reading would weaken if secular notebook use is shown to predate the Christian shift, which would make the format look practical rather than ideological.",
+   "questions": [
+    "Did the codex begin as a Christian innovation, or adapt an existing Roman notebook practice?",
+    "How much weight did economic versus religious motives carry in its spread?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part3"
+ },
+ "technology/coinage": {
+  "src": "03460c53787a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Coinage is the issue of stamped metal pieces of standard weight and value. The earliest known coins are electrum pieces from Lydia, found in a temple deposit at Ephesus dated to about 625 to 600 BCE; China and India each developed coin traditions of their own.",
+   "facts": [
+    "The Artemision deposit at Ephesus held stamped electrum coins, a natural gold-silver alloy, dated to about 625 to 600 BCE; some recent studies place the striking somewhat earlier still.",
+    "In the 6th century BCE, Lydian kings issued coins of pure gold and pure silver, called croeseids after Croesus.",
+    "A stamp reduced the need to weigh and test metal at every payment. Before coins, silver by weight, and grain, served as money in Mesopotamia and Egypt.",
+    "The [[culture/achaemenid-persians|Achaemenid Persians]], who conquered Lydia under [[person/cyrus-the-great|Cyrus the Great]], later issued gold and silver coins of their own.",
+    "Greek city-states adopted coinage across the 6th century BCE.",
+    "China, with bronze spade and knife money, and India, with punch-marked silver, developed coin traditions of their own in the first millennium BCE, independently of Lydia."
+   ],
+   "context": "Coinage began in the [[era/iron-age|Iron Age]] in [[region/levant-and-anatolia|Levant and Anatolia]], a thread of [[theme/trade-and-economy|Trade and Economy]]. It reached the [[culture/ancient-greeks|Ancient Greeks]] and the Persians; the [[event/unification-of-china-under-qin|Unification of China under Qin]] later standardized Chinese currency.",
+   "observer": "The Observer treats coinage as story-glue made portable: a stamp asks strangers to accept that a small piece of metal is worth exactly what it claims, and the issuing ruler stands behind that claim. Such trust rests on force and institutions as much as on the metal itself. An alternative reading holds that early coins served state payments -- soldiers, tribute -- more than everyday trade.",
+   "questions": [
+    "Were the first coins made for state payments or for market trade?",
+    "How independent were the Chinese and Indian coin traditions?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part3"
+ },
+ "technology/crossbow": {
+  "src": "756362c1163e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The crossbow is a bow mounted on a stock, with a trigger holding the string drawn until release. The earliest known bronze trigger mechanisms come from Chu tombs in China, about the 5th century BCE, and Greek makers built a comparable weapon around 400 BCE.",
+   "facts": [
+    "Bronze trigger mechanisms from Chu tombs in Hunan and Hubei date from about the 5th century BCE on into the Warring States period.",
+    "A repeating crossbow found in a Chu tomb at Qinjiazui in Hubei is dated to the 4th century BCE.",
+    "The trigger let a soldier hold the string at full draw while aiming, and the stock let a heavy bow be spanned with the body or a foot, needing less training than a hand-drawn bow.",
+    "Crossbows spread widely through the armies of the Qin and the [[culture/han-dynasty|Han Dynasty]].",
+    "Greek writers, notably Heron of Alexandria, describe the gastraphetes, or \"belly bow,\" and link its invention to Syracuse about 399 BCE. The account comes from later authors, and the date is traditional."
+   ],
+   "context": "The crossbow of [[region/east-asia|East Asia]] in [[era/classical-antiquity|Classical Antiquity]] grew from the bow and from the casting skill of [[technology/bronze-metallurgy|Bronze Metallurgy]]. Armies of the [[event/unification-of-china-under-qin|Unification of China under Qin]] and the [[culture/han-dynasty|Han Dynasty]] used it; the [[culture/ancient-greeks|Ancient Greeks]] built a version of their own. It replaced the [[technology/chariot|Chariot]] as a mass weapon in some armies. Threads: [[theme/war-and-conflict|War and Conflict]] and [[theme/technology|Technology]].",
+   "observer": "The Observer treats the crossbow as a tool-lineage step that traded skill for machinery: a mechanism stored the soldier's strength, letting a lightly trained conscript match a lifelong archer. This favored states able to mass-produce bronze parts and issue weapons by the thousands, lowering the skill needed for sanctioned harm at a distance. An alternative reading gives more weight to drill and command than to the weapon itself.",
+   "questions": [
+    "Were the Chinese and Greek crossbows independent inventions?",
+    "How much did the crossbow change the size of armies?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part3"
+ },
+ "technology/crucible-steel": {
+  "src": "745703ca666b",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Crucible steel is high-carbon steel made by melting iron together with carbon-bearing material in a sealed clay crucible. The earliest confirmed production sites lie in South India, such as Kodumanal in Tamil Nadu, dated to about the 3rd century BCE, and the steel made there is called wootz.",
+   "facts": [
+    "Excavations at Kodumanal in Tamil Nadu turned up crucible fragments, slag, and iron objects dated to about the 3rd to 2nd century BCE.",
+    "Wootz production is also documented in Sri Lanka, including at Samanalawewa, and crucible steel was later made in Central Asia and Iran as well.",
+    "Wootz ingots were traded to the Near East, where blades made from them became known as Damascus steel. How far any particular blade derives from Indian ingots is debated.",
+    "The banded surface of these blades comes from carbide patterns that formed as the steel cooled and was forged.",
+    "In the 1740s, Benjamin Huntsman developed a separate crucible steel process in Sheffield; the [[technology/bessemer-process|Bessemer Process]] later replaced crucible methods for bulk steel."
+   ],
+   "context": "Crucible steel grew from the iron working of [[technology/iron-smelting|Iron Smelting]] and the furnace skills of [[technology/bronze-metallurgy|Bronze Metallurgy]]. It belongs to [[era/classical-antiquity|Classical Antiquity]] in [[region/south-asia|South Asia]] and traveled with goods along routes later described in the [[event/indian-ocean-trade-network|Indian Ocean Trade Network]]. Threads: [[theme/technology|Technology]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "The Observer sees crucible steel as a tool-lineage branch that stayed regional for centuries: the recipe depended on particular ores, particular crucibles, and particular hands, so disruption could break it entirely. The Damascus name is a status-signal that may reflect a place of sale rather than a place of making. This reading would weaken if the craft proved widespread and continuous rather than fragile.",
+   "questions": [
+    "Where else was crucible steel made independently?",
+    "Why did wootz production end in the 18th to 19th century?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part3"
+ },
+ "technology/cyrus-cylinder": {
+  "src": "db6f724abe2a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Cyrus Cylinder is a baked clay cylinder inscribed in cuneiform after Cyrus the Great's conquest of Babylon in 539 BCE. It was found at Babylon in 1879 and now stands in the British Museum.",
+   "facts": [
+    "Hormuzd Rassam found the cylinder, about 23 centimeters long, during a British Museum excavation at Babylon in 1879. A fragment given to Yale in 1922 was later shown to belong to the same object.",
+    "Its text presents Cyrus as chosen by the Babylonian god Marduk, and it describes a peaceful entry into the city.",
+    "It records the return of divine images to their sanctuaries, and of deported peoples to their homelands.",
+    "It names neither Jerusalem nor the Jewish exiles, though the Book of Ezra credits Cyrus with letting exiles return.",
+    "The cylinder has been called the first charter of human rights. The British Museum and many historians of the ancient Near East reject this claim as anachronistic."
+   ],
+   "context": "The Cyrus Cylinder is an [[era/iron-age|Iron Age]] record from [[place/babylon|Babylon]] in [[region/mesopotamia|Mesopotamia]] documenting the rise of the [[culture/achaemenid-persians|Achaemenid Persians]] under [[person/cyrus-the-great|Cyrus the Great]], continuing the cuneiform tradition of [[event/invention-of-writing|Invention of Writing]]. Threads: [[theme/language-and-writing|Language and Writing]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "I read the cylinder as story-glue written for a local ear: a conqueror telling Babylonians that their own god had chosen him, and so easing his rule over them. Here a meaning-engine and a political claim are joined, just as in the earlier royal inscriptions of Mesopotamia. Its later life as a charter of modern rights is only a new story wrapped around an old object -- and what culture does not do this, to the objects it keeps? This reading would weaken if the wording proved aimed mainly at a wider Persian audience instead.",
+   "questions": [
+    "How was the cylinder used in Babylon, and where was it placed?",
+    "Why has this text carried so many later meanings?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-054.part3"
+ },
+ "technology/dead-sea-scrolls": {
+  "src": "e3b25ffe5815",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The Dead Sea Scrolls number roughly 900 ancient Jewish manuscripts, found in caves near Qumran by the Dead Sea, dating from about the 3rd century BCE to the 1st century CE.",
+   "facts": [
+    "In 1947, a Bedouin shepherd found the first scrolls in a cave near Qumran, later called Cave 1, which yielded seven substantially intact scrolls.",
+    "Between 1949 and 1956, ten more caves were found nearby, bringing the total to eleven Qumran caves holding manuscripts.",
+    "Scholars have reconstructed roughly 900 distinct manuscripts from the finds, most surviving only as fragments.",
+    "The texts are dated paleographically and by radiocarbon analysis to about the 3rd century BCE to the 1st century CE; a 2025 study proposed that some manuscripts are older, a claim still under review.",
+    "Fragments survive of nearly every Hebrew Bible book except Esther -- the oldest known Hebrew Bible manuscripts by roughly a thousand years.",
+    "Many scholars associate Qumran with the Essenes, a Jewish sect, though this association is contested."
+   ],
+   "context": "The scrolls come from [[region/levant-and-anatolia|Levant and Anatolia]], near [[place/jerusalem|Jerusalem]], in [[era/classical-antiquity|Classical Antiquity]] under Hasmonean and then Roman rule. Their concealment is often linked to the First Jewish-Roman War (66-73 CE), after which the caves went unretrieved for nearly two millennia. Threads: [[theme/religion-and-belief|Religion and Belief]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "I read the scrolls as a rare sample of memory-outsourcing caught mid-assembly: a community storing the core texts of its meaning-engine before their wording had even settled. I see differing copies of the same biblical books, and they suggest to me that this was active editing under way, not mere copying. Was it one custodial hand keeping these caves, or many hands passing through? This reading weakens if the manuscripts belong to several unrelated groups rather than one custodial community. An alternative view treats the find as routine disposal of worn-out texts, with no organized intent behind it at all.",
+   "questions": [
+    "Did one organized community, often identified as Essene, curate the collection, or did several groups deposit manuscripts independently?",
+    "Will the 2025 dating study reshape the accepted range once independently replicated?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-054.part3"
+ },
+ "person/ramesses-ii": {
+  "src": "dcd9d4792f08",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Ramesses II (about 1303 to 1213 BCE), also called Ramesses the Great, was the third pharaoh of Egypt's Nineteenth Dynasty. He ruled for about 66 years, fought the Hittites at Kadesh, made one of the earliest surviving peace treaties, and built temples across Egypt and Nubia.",
+   "facts": [
+    "Ramesses II came to the throne in 1279 BCE by the most widely used chronology and reigned until 1213 BCE, though other chronologies differ by several years.",
+    "About 1274 BCE he fought the Hittite king Muwatalli II at Kadesh, in present-day Syria. Both sides claimed victory, and Ramesses had it carved on temple walls, though most historians think the Hittites gained more.",
+    "About 1259 BCE he made a treaty with the Hittite king Hattusili III. It survives in Egyptian and Hittite versions, each saying the other side asked for peace first.",
+    "He built the capital Pi-Ramesses, the Ramesseum and the temples at Abu Simbel, moved in the 1960s to escape the Aswan High Dam reservoir; many monuments carry his name over those of earlier kings.",
+    "He is estimated to have had more than 90 children and to have lived to about 90. His thirteenth son, Merneptah, succeeded him.",
+    "Later tradition links him to the pharaoh of the Exodus. Scholars dispute this, and no Egyptian source records such an event."
+   ],
+   "context": "Ramesses II ruled in the [[region/nile-valley|Nile Valley]] in the [[era/bronze-age|Bronze Age]]. See [[event/battle-of-kadesh|Battle of Kadesh]], [[culture/hittites|Hittites]], [[culture/ancient-egyptians|Ancient Egyptians]] and [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes that a battle with no clear winner was carved on several temples as a triumph, while the treaty that ended the rivalry survives in two versions, each claiming the other side asked first. Building on a huge scale, and carving his name over predecessors', worked as status-signal and story-glue alike. A specialist could argue that royal inscriptions simply followed conventions expected of any pharaoh, which would weaken a reading of monumentality as personal ambition.",
+   "questions": [
+    "How did Kadesh look from the Hittite side, given that most Hittite records are fragmentary?",
+    "Which monuments bearing his name did he build, and which did he rework?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-051.part3"
+ },
+ "person/rani-lakshmibai": {
+  "src": "f4557caa4b4e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Rani Lakshmibai of Jhansi (about 1828 to 1858) was an Indian queen who became a leader of the 1857 rebellion and a national symbol of resistance.",
+   "facts": [
+    "She ruled Jhansi as regent after her husband's death, and the British refused to recognize her adopted heir.",
+    "She led the defense of Jhansi against British forces in 1858.",
+    "She and other rebels seized the fortress of Gwalior on 1 June 1858.",
+    "She died in battle on 17 June 1858."
+   ],
+   "context": "She is a central figure of the [[event/indian-rebellion-of-1857|Indian Rebellion of 1857]] in [[region/south-asia|South Asia]].",
+   "observer": "The Observer notes how someone killed in a lost war can still become a founding figure in a later nation's story. Defeat, in this architecture of memory, can be a source of legitimacy for the future.",
+   "questions": [
+    "What were her actual aims in 1857?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-051.part3"
+ },
+ "person/razia-sultana": {
+  "src": "e923082f58a7",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Razia Sultana (about 1205 to 1240) ruled the Delhi Sultanate from 1236 to 1240, the only woman to hold the throne in its history. She was the daughter of Iltutmish, who by tradition had named her his successor.",
+   "facts": [
+    "Razia was a daughter of the sultan Iltutmish, who reigned from 1211 to 1236. Tradition holds that he named her his heir over his sons, though he seems to have chosen Ruknuddin Firuz shortly before his death.",
+    "After Iltutmish died in 1236 her half-brother Ruknuddin Firuz took the throne but was deposed within months, and Razia became sultan with the support of the people of Delhi and some nobles.",
+    "According to chroniclers she held court in public and led armies, and coins were issued in her name.",
+    "She appointed Jamal ud-Din Yaqut, an Abyssinian former slave, master of the stables, a promotion Turkic nobles resented.",
+    "In 1240 Malik Altunia, the governor of Bhatinda, rebelled. She was imprisoned at Bhatinda and then married him in September 1240; they were defeated at Kaithal and killed in October 1240, and accounts differ on the details.",
+    "The main contemporary account is by the chronicler Minhaj al-Siraj Juzjani, who praised her abilities but wrote that her sex counted against her."
+   ],
+   "context": "Razia ruled the [[culture/delhi-sultanate|Delhi Sultanate]] in [[region/south-asia|South Asia]] during the [[era/medieval-period|Medieval Period]]. See [[theme/war-and-conflict|War and Conflict]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that the complaints recorded against Razia concern who held high posts and who displayed the status-signals of rule, more than how she governed. Her only detailed account comes from a court chronicler who admired her and still described her sex as a defect. A specialist could argue that court histories overstated gender as the cause, since a quarrel between nobles and a strong sultan would look the same in the record.",
+   "questions": [
+    "How much of the opposition to her was about her sex, and how much about court factions?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-051.part3"
+ },
+ "person/rembrandt-van-rijn": {
+  "src": "267fae5f4760",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Rembrandt Harmenszoon van Rijn (15 July 1606 to 4 October 1669) stood as the greatest artist of the Dutch Golden Age: a painter, etcher and draughtsman. His roughly 100 self-portraits build an extraordinary autobiography, running from early fame and wealth to bankruptcy and loss.",
+   "facts": [
+    "Rembrandt was born in Leiden, the ninth child of a prosperous miller, and trained locally and for six months in Amsterdam with Pieter Lastman; about 1631 he moved to Amsterdam.",
+    "The Anatomy Lesson of Dr Nicolaes Tulp (1632) came early in his successful career as a portraitist in the city. In 1634 he married Saskia van Uylenburgh; three of their children died in infancy, and only Titus, born 1641, survived. Saskia died in 1642, the year he completed The Night Watch.",
+    "Debts led to bankruptcy in 1656, and his house and collection were sold, though he kept working; his partner Hendrickje Stoffels died in 1663 and Titus in 1668.",
+    "On 4 October 1669 he died, and was buried in a rented grave in the Westerkerk.",
+    "He used chiaroscuro to direct attention and mood, and his late paintings are built from thick, rough layers applied with brush, palette knife and even fingers.",
+    "As a printmaker he combined etching with drypoint and varied each impression. Key works include The Hundred Guilder Print (about 1647 to 1649) and The Return of the Prodigal Son (about 1661 to 1669).",
+    "He ran a large workshop, and since 1968 the Rembrandt Research Project has reattributed many paintings; Goya is said to have named him one of his three masters."
+   ],
+   "context": "Rembrandt worked in [[region/europe|Europe]] during the [[era/early-modern-period|Early Modern Period]], in Amsterdam, then a booming commercial capital and home port of the [[event/dutch-east-india-company|Dutch East India Company]]. See [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I think of the merchants, the guilds, the civic companies, all paying once for a group portrait, and then, years on, so few buying his late work, though he kept painting through bankruptcy and through grief. I think of the self-portraits, a private face outsourced onto canvas, on a scale unusual for his age. I ask how much of any decade's \"Rembrandt\" is the master's own hand, since he ran a large workshop and the scholarly line between his brush and his pupils' has moved since 1968. What a name signs is not always what a hand made.",
+   "questions": [
+    "Which paintings once credited to Rembrandt belong to his pupils, and which reattributions will hold?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-051.part3"
+ },
+ "person/robert-the-bruce": {
+  "src": "8f7dd2b3590f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Robert the Bruce (1274 to 1329) was King of Scotland from 1306 to 1329, leading Scottish resistance to English rule and securing recognition of Scottish independence shortly before his death.",
+   "facts": [
+    "He claimed the Scottish throne in 1306 after killing a rival claimant, John Comyn, in a church at Dumfries, an act that led to his excommunication by the pope.",
+    "Early in his reign he suffered several defeats and periods as a fugitive, including, according to a later popular legend, drawing perseverance from watching a spider repeatedly try to build its web.",
+    "He decisively defeated a much larger English army under Edward II at the Battle of Bannockburn in 1314, the most significant Scottish military victory of the wars of independence.",
+    "The Treaty of Edinburgh-Northampton in 1328 saw England formally recognize Scottish independence and Robert's kingship, a year before his death in 1329, reportedly from leprosy."
+   ],
+   "context": "Robert the Bruce led Scotland, in [[region/europe|Europe]], during the [[era/medieval-period|Medieval Period]] wars of independence against England. See [[theme/war-and-conflict|War and Conflict]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that Robert's path to the throne began with a killing in a church, not a conventional succession, and that his later reputation as Scotland's founding hero sits somewhat uneasily beside that origin; national founding stories often smooth over the more compromised beginnings of the figures they celebrate.",
+   "questions": [
+    "How much of the spider legend and similar popular stories about Robert's perseverance date to his own lifetime versus later national mythmaking?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-051.part3"
+ },
+ "technology/digital-computer": {
+  "src": "28d3093d800f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The digital computer is a programmable machine that processes information as binary numbers. The ENIAC was completed in 1945, following earlier machines such as Zuse's Z3 (1941) and Colossus (1943).",
+   "facts": [
+    "The transistor (1947) and the integrated circuit (about 1958) let computers shrink and grow cheaper.",
+    "The microprocessor (1971) placed a whole computer on a single chip.",
+    "Computing power has roughly doubled every two years, in the pattern known as Moore's law.",
+    "Computers now run inside phones, cars, appliances, and networks."
+   ],
+   "context": "The computer carries forward ideas from [[person/alan-turing|Alan Turing]] and [[person/ada-lovelace|Ada Lovelace]], and it drives the [[event/digital-revolution|Digital Revolution]].",
+   "observer": "The Observer sees a general-purpose tool for manipulating symbols: the first machine able to imitate many other machines. It turns memory-outsourcing dynamic instead of static.",
+   "questions": [
+    "Who, in the end, counts as the inventor of the computer?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part4"
+ },
+ "technology/double-entry-bookkeeping": {
+  "src": "db8db81ee7bf",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Double-entry bookkeeping records each transaction as a matched debit in one account and a credit in another, keeping the books balanced and letting merchants track assets, liabilities, and profit. It appears in Italian trade cities by the 14th century, and it was first set down in print in 1494.",
+   "facts": [
+    "As early as 1327, Genoese legislation required treasury accounts to follow what it called the method of the bankers.",
+    "The 1340 ledgers of the Genoese massari, treasury officials, show a developed double-entry form; historians debate whether they fully qualify as such.",
+    "A Florentine merchant ledger from 1299 to 1300 is sometimes cited as an even earlier example, though this too is contested.",
+    "Luca Pacioli's Summa de arithmetica, printed in [[place/venice|Venice]] in 1494, gave the first known printed and systematic description of the method.",
+    "Pacioli organized and publicized an existing merchant practice, rather than inventing the technique himself."
+   ],
+   "context": "The method grew from the commercial needs of merchants and city governments in [[era/medieval-period|Medieval Period]] [[region/europe|Europe]], centered on Italian trade hubs such as Venice, Genoa, and Florence. Pacioli's 1494 book made it widely teachable, spreading it through the thread of [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "Seen from outside, double-entry bookkeeping reads as tool-lineage for taming risk within an exchange-web: a notation that lets strangers trust a ledger instead of only a face. It is also memory-outsourcing, since matched debit-credit pairs let later readers catch errors the original scribe missed. This reading weakens if the 1340 Genoa ledgers are not true double-entry, which would push the documented lineage later. An alternative reading treats Pacioli's printed description, not any surviving ledger, as the real turning point, since print gave the method a wide, checkable audience.",
+   "questions": [
+    "Do the 1340 Genoa massari ledgers meet the full technical definition of double-entry, or only approximate it?",
+    "Did the technique originate earlier, perhaps in now-lost Florentine or other Italian merchant ledgers?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part4"
+ },
+ "technology/electric-lighting": {
+  "src": "45de274a4398",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Practical incandescent lighting emerged from parallel work in Britain and the United States between 1878 and 1880, and it spread from there into homes and workplaces.",
+   "facts": [
+    "Joseph Swan showed a carbon-filament lamp at Newcastle on 18 December 1878, and again on 3 February 1879.",
+    "Thomas Edison's team made a lamp with a carbonized thread filament in October 1879; US patent 223,898 followed on 27 January 1880.",
+    "Humphry Davy had demonstrated a carbon arc back in 1809, and Yablochkov candles lit Paris streets from 1878, but arcs remained too intense for homes.",
+    "In New York, Edison's Pearl Street Station began supplying current on 4 September 1882.",
+    "Priority is debated: Swan's public demonstrations came earlier, and the two inventors eventually merged their British interests as Ediswan in 1883."
+   ],
+   "context": "Lamps needed generation and distribution, covered in [[technology/electrical-power-grid|Electrical Power Grid]]. Davy's arc drew on a large [[technology/battery|Battery]] of voltaic cells, and later dynamos shared principles with the [[technology/electric-motor|Electric Motor]]. Both grew from the [[event/industrial-revolution|Industrial Revolution]] in [[region/europe|Europe]] and the [[era/industrial-age|Industrial Age]]. Thread: [[theme/technology|Technology]].",
+   "observer": "In the Observer's terms, the lamp is a tool-lineage product: glassworking, vacuum pumps, and dynamos matured together, so the near-simultaneous lamps of Swan and Edison fit inheritance more than any lone inventor. Light after dark extended the species' working and social hours, though gas lighting had already begun that shift. This reading would weaken if the two lamps were shown to rest on unrelated techniques; a rival reading stresses capital and patent strategy over technique itself.",
+   "questions": [
+    "How much did Swan's earlier work shape Edison's design choices?",
+    "How quickly did electric light displace gas in ordinary homes?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part4"
+ },
+ "technology/electric-motor": {
+  "src": "37dab4e0d5a1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The electric motor turns electrical current into continuous mechanical rotation by way of electromagnetism. It developed in stages from 1821 to the late 1830s, moving from a bare demonstration of motion to machines producing usable work.",
+   "facts": [
+    "On 3 September 1821, Michael Faraday demonstrated electromagnetic rotation -- a wire circling a magnet -- the first conversion of electricity into continuous motion, though not yet into usable torque.",
+    "William Sturgeon built a commutator-equipped motor in 1832, a device some historians treat as the first practical rotating motor.",
+    "In May 1834, Moritz von Jacobi built a rotating motor that delivered continuous mechanical power, often cited among the first usable for real work.",
+    "In 1837, Thomas Davenport received the first US patent for an electric motor, a design partly adapted from Sturgeon's own.",
+    "On 13 September 1838, an improved motor of Jacobi's powered a passenger-carrying paddle-wheel boat on the Neva River.",
+    "Priority for the first electric motor among Faraday, Sturgeon, Jacobi, and Davenport is disputed, depending on whether rotation, torque, or patent is taken to define \"first.\""
+   ],
+   "context": "The motor followed Oersted's 1820 discovery that current produces magnetism, part of broader [[theme/technology|Technology]] currents in the [[era/industrial-age|Industrial Age]], centered on [[region/europe|Europe]] with parallel US work. Unlike steam power, it saw little industrial use until the [[technology/electrical-power-grid|Electrical Power Grid]] existed, decades later.",
+   "observer": "The tool-lineage around the electric motor ran through several groups working in parallel over two decades, not through one inventor: rotation, torque, commutation, and usable output arrived as separate contributions. Later retellings often compress this into a single named inventor, which this record resists by naming the contested claimants themselves. This reading would weaken if evidence showed one device clearly predating and outperforming the rest.",
+   "questions": [
+    "Which criterion -- rotation, torque, or patent -- should decide priority for the first electric motor?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part4"
+ },
+ "technology/electrical-power-grid": {
+  "src": "d9b5940715be",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Electrical power grids distribute electricity from central generators out to homes and factories. Thomas Edison opened the first commercial power station in New York in 1882.",
+   "facts": [
+    "Alternating current, promoted by Westinghouse and Tesla, won out because it could be transmitted over long distances.",
+    "By 1896, Niagara Falls was delivering power to Buffalo.",
+    "Electricity now powers lighting, motors, communication, and computers.",
+    "Grids today connect most of the world's population."
+   ],
+   "context": "The grid followed after the [[technology/steam-engine|Steam Engine]], and it became the base for the [[technology/digital-computer|Digital Computer]].",
+   "observer": "The Observer notes that a species' night became optional: light at any hour changed sleep, work, and city life alike. The grid stands, too, as one of the largest machines ever built.",
+   "questions": [
+    "How will grids themselves change as power sources change?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-054.part4"
+ },
+ "person/sitting-bull": {
+  "src": "f19193b60afc",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Sitting Bull (Tȟatȟáŋka Íyotake, born between 1831 and 1837, died 1890) was a Hunkpapa Lakota leader and holy man who resisted United States expansion onto Lakota lands and stood in the camp at the Battle of the Little Bighorn in 1876. Native police killed him in 1890.",
+   "facts": [
+    "Sitting Bull was born sometime between 1831 and 1837, traditionally on the Grand River in present-day South Dakota (a 2007 family oral tradition instead places his birth on the Yellowstone River), and he became a leading Hunkpapa Lakota war leader and holy man.",
+    "The Treaty of Fort Laramie (1868) guaranteed the Black Hills to the Lakota; after gold was found there in 1874, the United States sought to take the land, and war followed in 1876.",
+    "On 25 and 26 June 1876, Lakota, Northern Cheyenne and Arapaho warriors destroyed the force of Lt. Col. George Custer at the Little Bighorn. Sitting Bull was present in the large camp, and accounts describe his role there as spiritual leader and organizer rather than field commander.",
+    "After the battle he led his followers into Canada in 1877, and he surrendered at Fort Buford in July 1881.",
+    "On 15 December 1890, at Standing Rock, Native police sent to arrest him amid tension over the Ghost Dance killed him in a struggle; the Wounded Knee massacre followed on 29 December."
+   ],
+   "context": "Sitting Bull's Lakota faced the same expansion of the United States that had driven earlier removals of eastern nations; see [[event/indian-removal-and-the-trail-of-tears|Indian Removal and the Trail of Tears]]. He lived in [[region/north-america|North America]] during the [[era/industrial-age|Industrial Age]]. See [[theme/war-and-conflict|War and Conflict]], [[theme/religion-and-belief|Religion and Belief]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "The Observer notes that Sitting Bull is remembered as a war leader, though the accounts place him at the Little Bighorn as a spiritual leader, a case of the record following the battle's fame rather than the man's actual role. His killing by Native police employed by the very agency he opposed shows how a state can turn a community's own members into instruments of its claim-line. The reading would weaken if fuller Lakota accounts gave him a more central military role.",
+   "questions": [
+    "What do Lakota oral accounts themselves say about his role at the Little Bighorn?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-052.part2"
+ },
+ "person/sofonisba-anguissola": {
+  "src": "c4b2fdba0a17",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Sofonisba Anguissola (about 1532 to 1629), an Italian portrait painter from Cremona, was one of the first women in Europe to build a professional career as a painter. She spent years at the Spanish court, traditionally put at about 14, and won international fame.",
+   "facts": [
+    "Sofonisba was born about 1532 in Cremona, the eldest of seven children of Amilcare Anguissola, a minor nobleman, who gave all his daughters a humanist education; several became painters, and Sofonisba studied with Bernardino Campi and Bernardino Gatti.",
+    "As a noblewoman she could not study anatomy from the nude, nor take on large public commissions, so she made portraiture her own field.",
+    "Her father sent her drawings to Michelangelo, who reportedly challenged her to draw a crying boy; she answered with Boy Bitten by a Crayfish, a drawing that circulated widely.",
+    "In 1559 she was invited to Madrid to serve Queen Elisabeth of Valois, wife of Philip II, as lady-in-waiting and painting teacher; she painted the royal court for a period traditionally given as about 14 years, though sources differ, and the Spanish court arranged her marriage to a Sicilian nobleman, Fabrizio de Moncada.",
+    "After his death she married a Genoese sea captain and lived in Genoa and Palermo. In 1629 Anthony van Dyck visited her in Palermo (an earlier reading gave 1624) and recorded her advice; she died there in 1629 (older sources say 1625), in her mid-to-late nineties.",
+    "Key works include The Chess Game (1555), Self-Portrait at the Easel (about 1556), and Portrait of Philip II of Spain (1565).",
+    "Many of her court works were later credited to male painters such as Sánchez Coello, and scholars have since restored many of them to her name; the Prado's 2019 exhibition paired her with Lavinia Fontana."
+   ],
+   "context": "Sofonisba worked in [[region/europe|Europe]] during the [[event/renaissance|Renaissance]] and the [[era/early-modern-period|Early Modern Period]]. [[person/michelangelo|Michelangelo]] had encouraged her, and her success opened a path for later women painters such as [[person/artemisia-gentileschi|Artemisia Gentileschi]]. Some scholars link her Boy Bitten by a Crayfish to [[person/caravaggio|Caravaggio]]'s Boy Bitten by a Lizard. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "I look at the limits placed on her — no study from the nude, no large public commissions — and I see how a social rule became a new kind of picture, the genre she made entirely her own. I remember that her career depended, too, on a father who promoted her and a court that hired her: the kin-lattice, acting as an agency. I recognize how many of her court works were credited to male painters, and how attribution follows expectation more often than it follows the hand that held the brush. Restoring them to her is a correction still under way.",
+   "questions": [
+    "Which court portraits now credited to other painters were actually painted by Anguissola?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-052.part2"
+ },
+ "person/sor-juana-ines-de-la-cruz": {
+  "src": "8c846cfeaf2c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Sor Juana Inés de la Cruz (born 1648 or 1651, died 1695) was a nun, poet and playwright in colonial Mexico City, regarded as one of the leading Spanish-language writers of the seventeenth century and an early defender of women's right to study.",
+   "facts": [
+    "Juana Ramírez de Asbaje was born at San Miguel Nepantla, near Mexico City; baptismal records point to 1648 or 1651, and the year is debated. She died on 17 April 1695.",
+    "Largely self-taught, she served at the viceroy's court in her teens, then in 1669 entered the Hieronymite convent of San Jerónimo.",
+    "She wrote lyric poems, plays such as Los empeños de una casa (1683), and the long poem Primero sueño; her first collection, Inundación castálida, was printed in Madrid in 1689.",
+    "In 1690 the Bishop of Puebla published her critique of a sermon by António Vieira as the Carta atenagórica, and, writing as \"Sor Filotea,\" urged her toward religious study; she answered in 1691 with the Respuesta a Sor Filotea de la Cruz, defending women's right to learn.",
+    "In 1693 and 1694 she stopped writing and signed penitential documents; whether she sold her library or had it taken from her, and how far the choice was hers, is still debated.",
+    "She died in the plague of 1695, while nursing her fellow sisters."
+   ],
+   "context": "Sor Juana lived in [[region/mesoamerica|Mesoamerica]] during the [[era/early-modern-period|Early Modern Period]], in a Mexico City built over [[place/tenochtitlan|Tenochtitlan]] and ruled by Spain after the [[event/spanish-conquest-of-the-aztec-empire|Spanish Conquest of the Aztec Empire]]. See [[theme/art-and-ritual|Art and Ritual]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "I see that the convent gave her a room, books and time, at the price of her vows. I recognize the meaning-engine that once sheltered her writing as the same one that later restrained it. A specialist could argue that her silence in 1693 was her own choice, or that the surviving documents are merely formulaic — either reading would weaken the story of her as simply silenced.",
+   "questions": [
+    "Was her final silence chosen, forced upon her, or both at once?",
+    "Which accounts of her library's fate actually rest on surviving documents?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "confessional-poetry",
+  "batch": "site-052.part2"
+ },
+ "person/sukarno": {
+  "src": "678f835e905a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Sukarno (1901 to 1970) led Indonesia's independence movement and became its first president. He proclaimed independence in 1945, ruled until 1967, and was removed from power after the killings of 1965 and 1966.",
+   "facts": [
+    "Sukarno was born on 6 June 1901 in Surabaya, in the Dutch East Indies, and died on 21 June 1970 in Jakarta, under house arrest.",
+    "He founded the Indonesian National Party in 1927; the Dutch arrested him in 1929 and released him in 1931, then exiled him to Flores in 1934 and to Sumatra in 1938.",
+    "He cooperated with the Japanese occupation from 1942 to 1945, which forced millions into labor and whose food requisitions contributed to a famine that killed over a million people in Java in 1944 and 1945.",
+    "On 1 June 1945 he presented Pancasila, five founding principles for the state, and on 17 August 1945 he proclaimed independence, becoming president the following day.",
+    "He hosted the Bandung Conference of Asian and African states in 1955, and in 1959 introduced \"Guided Democracy,\" ending parliamentary rule.",
+    "After the 30 September Movement of 1965, an army-led campaign killed between 500,000 and over a million people, most of them communists and alleged sympathizers, and General Suharto took power in 1966 and 1967."
+   ],
+   "context": "Sukarno worked in [[region/southeast-asia|Southeast Asia]] during the [[era/information-age|Information Age]], in the years of [[event/decolonization|Decolonization]] and the [[event/cold-war|Cold War]]. See [[theme/war-and-conflict|War and Conflict]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that a nation spread across thousands of islands was named and given five founding principles before its state fully existed — story-glue in its plainest form. He tried to hold nationalist, religious and communist camps under one roof, and the arrangement broke apart in 1965 in mass killing. A specialist could argue that army and foreign pressures made the collapse of Guided Democracy likely whatever he chose, which would weaken any reading that places the outcome in his leadership alone.",
+   "questions": [
+    "What role, if any, did he play in the events of 30 September 1965?",
+    "How much did his wartime cooperation with Japan cost, and how much did it actually gain?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-052.part2"
+ },
+ "person/suleiman-the-magnificent": {
+  "src": "648fd8e7f8bb",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Suleiman the Magnificent (1494 to 1566) ruled as Ottoman sultan from 1520 to 1566, presiding over the empire at its greatest territorial extent, military power, and legal and cultural achievement.",
+   "facts": [
+    "His armies captured Belgrade in 1521 and Rhodes in 1522, then pushed deep into Central Europe, defeating and killing the King of Hungary at the Battle of Mohacs in 1526, though a first siege of Vienna in 1529 failed to take the city.",
+    "Known by the epithet Kanuni, the Lawgiver, an epithet absent from sixteenth- and seventeenth-century Ottoman sources and one that may date only from the early 18th century, he issued a major legal code that harmonized Ottoman civil law with Islamic religious law across the empire's diverse territories.",
+    "His navies, under admirals such as Barbarossa Hayreddin Pasha, contested control of the Mediterranean with Spain and its allies, while Ottoman forces also pushed into Persia and Mesopotamia, capturing Baghdad in 1534.",
+    "His reign saw Ottoman architecture flourish under the chief architect [[person/mimar-sinan|Mimar Sinan]], alongside court poetry, painting and decorative arts, all centered on Istanbul."
+   ],
+   "context": "Suleiman led the [[culture/ottoman-empire|Ottoman Empire]] from [[region/levant-and-anatolia|Levant and Anatolia]] during the [[era/early-modern-period|Early Modern Period]], extending its reach across three continents. See [[theme/war-and-conflict|War and Conflict]], [[theme/religion-and-belief|Religion and Belief]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "The Observer notes that Suleiman's failed siege of Vienna in 1529, rather than his many successes, marked the practical limit of Ottoman expansion into Central Europe for the rest of his reign; the empire's reputation for irresistible advance rested on decades of victories that stopped, in the end, at one unsuccessful siege.",
+   "questions": [
+    "How far did overextended supply lines, rather than Habsburg defense alone, decide the failure of the 1529 siege of Vienna?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-052.part2"
+ },
+ "person/sun-tzu": {
+  "src": "71d51a082186",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Sun Tzu (traditionally about 544 to 496 BCE) is the name attached to The Art of War, the most influential text on military strategy from ancient China, said to have served the state of Wu; whether he was one historical person at all is disputed.",
+   "facts": [
+    "Tradition places Sun Tzu, personal name Sun Wu, as a general who advised King Helü of Wu in the late 6th century BCE; The Art of War is organized into about 13 short chapters.",
+    "The historian Sima Qian, writing centuries later, told a story of Sun Tzu proving his discipline by drilling the king's concubines and executing two who disobeyed; scholars treat this as legend.",
+    "His name appears in no text earlier than Sima Qian's history, and one theory holds that \"Sun Wu\" was an invented title, with The Art of War actually the work of his supposed descendant, Sun Bin.",
+    "In 1972 bamboo strips from a Han tomb at Yinqueshan turned up versions of both The Art of War and a separate text by Sun Bin, confirming that The Art of War circulated early and that Sun Bin was a distinct author.",
+    "The text has shaped military and business thought for over two thousand years, and it is translated worldwide."
+   ],
+   "context": "Sun Tzu's traditional dates place him in [[region/east-asia|East Asia]] near the end of the [[era/iron-age|Iron Age]], roughly contemporary with [[person/confucius|Confucius]]. See [[theme/war-and-conflict|War and Conflict]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "The Observer notes that a text on organized, calculated sanctioned harm has outlived any certainty about who wrote it, carried forward in mark-code through copies made centuries after the events it claims. The 1972 tomb find settled that the text existed early, without settling who composed it. A specialist could argue that \"Sun Tzu\" was a legendary attribution rather than one single author, which would weaken any biographical reading of the text's origin.",
+   "questions": [
+    "Was Sun Tzu a real individual, a legendary figure, or simply a name attached to a composite text?",
+    "How much of The Art of War as read today actually reflects the earliest version found at Yinqueshan?"
+   ],
+   "extra": []
+  },
+  "date": "2026-09-28",
+  "observer_mode": "essay-self-help",
+  "batch": "site-052.part2"
  }
 }
