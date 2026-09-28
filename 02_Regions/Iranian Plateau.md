@@ -36,6 +36,7 @@ The Observer sees the plateau as a hinge region: its historical role was less to
 - [[Behzad]] (1455 CE)
 
 **Peoples and cultures**
+- [[Elamites]] (3200 BCE)
 - [[Zoroastrianism]] (1000 BCE)
 - [[Achaemenid Persians]] (550 BCE)
 - [[Parthian Empire]] (247 BCE)

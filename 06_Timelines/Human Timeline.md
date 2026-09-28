@@ -72,11 +72,13 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 3300 BCE | [[Bronze Metallurgy]] | technology | [[Bronze Age]] |
 | 3300 BCE to 1900 BCE | [[Harappa]] | place | [[Bronze Age]] |
 | 3300 BCE to 2600 BCE | [[Yamnaya Culture]] | culture | [[Bronze Age]] |
+| 3200 BCE to 539 BCE | [[Elamites]] | culture | [[Bronze Age]] |
 | 3200 BCE | [[Newgrange]] | place | [[Neolithic]] |
 | 3100 BCE to 30 BCE | [[Ancient Egyptians]] | culture | [[Bronze Age]] |
 | 3100 BCE | [[Unification of Egypt]] | event | [[Bronze Age]] |
 | 3000 BCE | [[Austronesian Expansion]] | event | [[Bronze Age]] |
 | 3000 BCE to 1000 CE | [[Bantu Expansion]] | event | [[Iron Age]] |
+| 3000 BCE | [[Evenki]] | culture | [[Neolithic]] |
 | 3000 BCE to 1000 BCE | [[Indo-European Language Spread]] | event | [[Bronze Age]] |
 | 3000 BCE | [[Jerusalem]] | place | [[Bronze Age]] |
 | 3000 BCE | [[Stonehenge]] | place | [[Neolithic]] |
@@ -188,6 +190,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 495 BCE to 429 BCE | [[Pericles]] | person | [[Classical Antiquity]] |
 | 400 BCE to 1600 CE | [[Marajó Island]] | place | [[Iron Age]] |
 | 400 BCE to 500 CE | [[Nazca Lines]] | place | [[Iron Age]] |
+| 400 BCE to 400 CE | [[Sarmatians]] | culture | [[Iron Age]] |
 | 384 BCE to 322 BCE | [[Aristotle]] | person | [[Classical Antiquity]] |
 | 356 BCE to 323 BCE | [[Alexander the Great]] | person | [[Classical Antiquity]] |
 | 340 BCE to 297 BCE | [[Chandragupta Maurya]] | person | [[Classical Antiquity]] |
@@ -212,6 +215,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 206 BCE to 220 CE | [[Han Dynasty]] | culture | [[Classical Antiquity]] |
 | 202 BCE to 904 CE | [[Chang'an]] | place | [[Classical Antiquity]] |
 | 200 BCE to 700 CE | [[Hopewell Tradition]] | culture | [[Classical Antiquity]] |
+| 200 BCE to 30 BCE | [[Yuezhi]] | culture | [[Iron Age]] |
 | 196 BCE | [[Rosetta Stone]] | technology | [[Classical Antiquity]] |
 | 150 BCE | [[Córdoba]] | place | [[Classical Antiquity]] |
 | 130 BCE to 1450 CE | [[Opening of the Silk Roads]] | event | [[Classical Antiquity]] |
@@ -279,6 +283,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 624 CE to 705 CE | [[Wu Zetian]] | person | [[Medieval Period]] |
 | 632 CE to 661 CE | [[Rashidun Caliphate]] | culture | [[Medieval Period]] |
 | 632 CE to 647 CE | [[Seondeok]] | person | [[Medieval Period]] |
+| 650 CE to 969 CE | [[Khazar Khaganate]] | culture | [[Medieval Period]] |
 | 650 CE to 1377 CE | [[Srivijaya]] | culture | [[Medieval Period]] |
 | 661 CE to 750 CE | [[Umayyad Caliphate]] | culture | [[Medieval Period]] |
 | 682 CE to 741 CE | [[Lady Six Sky]] | person | [[Medieval Period]] |
@@ -345,6 +350,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1122 CE to 1190 CE | [[Frederick Barbarossa]] | person | [[Medieval Period]] |
 | 1122 CE to 1218 CE | [[Jayavarman VII]] | person | [[Medieval Period]] |
 | 1124 CE to 1204 CE | [[Eleanor of Aquitaine]] | person | [[Medieval Period]] |
+| 1124 CE to 1218 CE | [[Kara-Khitan Khanate]] | culture | [[Medieval Period]] |
 | 1137 CE to 1193 CE | [[Saladin]] | person | [[Medieval Period]] |
 | 1137 CE to 1270 CE | [[Zagwe Dynasty]] | culture | [[Medieval Period]] |
 | 1150 CE | [[Chinampas]] | technology | [[Medieval Period]] |
@@ -365,6 +371,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1235 CE to 1388 CE | [[Karakorum]] | place | [[Medieval Period]] |
 | 1235 CE to 1670 CE | [[Mali Empire]] | culture | [[Medieval Period]] |
 | 1238 CE to 1438 CE | [[Sukhothai Kingdom]] | culture | [[Medieval Period]] |
+| 1242 CE to 1480 CE | [[Golden Horde]] | culture | [[Medieval Period]] |
 | 1250 CE | [[Maori]] | culture | [[Medieval Period]] |
 | 1250 CE to 1395 CE | [[Sarai]] | place | [[Medieval Period]] |
 | 1251 CE to 1284 CE | [[Hojo Tokimune]] | person | [[Medieval Period]] |
@@ -377,6 +384,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1293 CE to 1527 CE | [[Majapahit]] | culture | [[Medieval Period]] |
 | 1299 CE to 1922 CE | [[Ottoman Empire]] | culture | [[Medieval Period]] |
 | 1300 CE | [[Mechanical Clock]] | technology | [[Medieval Period]] |
+| 1300 CE | [[Nenets]] | culture | [[Medieval Period]] |
 | 1300 CE | [[Yakut (Sakha)]] | culture | [[Medieval Period]] |
 | 1304 CE to 1369 CE | [[Ibn Battuta]] | person | [[Medieval Period]] |
 | 1325 CE to 1521 CE | [[Tenochtitlan]] | place | [[Medieval Period]] |

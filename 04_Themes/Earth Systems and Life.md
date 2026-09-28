@@ -186,9 +186,11 @@ The Observer treats the planet as the frame for everything else, and the species
 
 **Peoples and cultures**
 - [[Mal'ta and the Ancient North Eurasians]] (22 ka)
+- [[Evenki]] (3000 BCE)
 - [[Moche Culture]] (100 CE)
 - [[Wari Empire]] (600 CE)
 - [[Ancestral Puebloans]] (700 CE)
+- [[Nenets]] (1300 CE)
 - [[Yanomami]] (1940 CE)
 
 **Places**

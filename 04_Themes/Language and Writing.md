@@ -128,6 +128,7 @@ The Observer calls these the sound-code and the mark-code. It notes that languag
 **Peoples and cultures**
 - [[Sumerians]] (4500 BCE)
 - [[Yamnaya Culture]] (3300 BCE)
+- [[Elamites]] (3200 BCE)
 - [[Tupi-Guarani]] (3000 BCE)
 - [[Akkadian Empire]] (2334 BCE)
 - [[Hittites]] (1650 BCE)

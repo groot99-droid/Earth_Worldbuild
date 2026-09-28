@@ -44,6 +44,7 @@ The Observer sees the Neolithic as a bargain with consequences: more food, more 
 - [[Jomon Culture]] (14 ka)
 - [[Chinchorro Culture]] (5450 BCE)
 - [[Botai Culture]] (3700 BCE)
+- [[Evenki]] (3000 BCE)
 - [[Tupi-Guarani]] (3000 BCE)
 
 **Places**
