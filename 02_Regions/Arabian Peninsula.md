@@ -41,6 +41,7 @@ The Observer notes that a sparse region produced a movement that within a centur
 **Peoples and cultures**
 - [[Kingdom of Saba]] (1000 BCE)
 - [[Nabataeans]] (312 BCE)
+- [[Kingdom of Himyar]] (110 CE)
 - [[Islam]] (610 CE)
 
 **Places**

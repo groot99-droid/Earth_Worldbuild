@@ -98,6 +98,7 @@ The Observer notes that for the first time, every inhabited continent was in con
 - [[Safavid Empire]] (1501 CE)
 - [[Mughal Empire]] (1526 CE)
 - [[Mapuche]] (1546 CE)
+- [[Dutch Republic]] (1581 CE)
 - [[Tokugawa Shogunate]] (1603 CE)
 - [[Garifuna]] (1635 CE)
 - [[Qing Dynasty]] (1644 CE)

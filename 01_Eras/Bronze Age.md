@@ -61,6 +61,7 @@ The Observer notes that the first states and the first writing arrived together.
 - [[Akkadian Empire]] (2334 BCE)
 - [[Sintashta Culture]] (2100 BCE)
 - [[Minoans]] (2000 BCE)
+- [[Babylonian Empire]] (1894 BCE)
 - [[Judaism]] (1800 BCE)
 - [[Hittites]] (1650 BCE)
 - [[Lapita Culture]] (1600 BCE)

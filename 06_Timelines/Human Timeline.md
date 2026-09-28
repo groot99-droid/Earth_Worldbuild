@@ -99,6 +99,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 2000 BCE | [[Chariot]] | technology | [[Bronze Age]] |
 | 2000 BCE to 1450 BCE | [[Minoans]] | culture | [[Bronze Age]] |
 | 1970 BCE | [[Karnak]] | place | [[Bronze Age]] |
+| 1894 BCE to 539 BCE | [[Babylonian Empire]] | culture | [[Bronze Age]] |
 | 1810 BCE to 1750 BCE | [[Hammurabi]] | person | [[Bronze Age]] |
 | 1800 BCE | [[Alphabet]] | technology | [[Bronze Age]] |
 | 1800 BCE | [[Judaism]] | culture | [[Bronze Age]] |
@@ -199,6 +200,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 259 BCE to 210 BCE | [[Qin Shi Huang]] | person | [[Classical Antiquity]] |
 | 250 BCE | [[Dead Sea Scrolls]] | technology | [[Classical Antiquity]] |
 | 250 BCE | [[Paris]] | place | [[Classical Antiquity]] |
+| 247 BCE to 224 CE | [[Parthian Empire]] | culture | [[Iron Age]] |
 | 246 BCE | [[Mausoleum of Qin Shi Huang]] | place | [[Classical Antiquity]] |
 | 221 BCE to 206 BCE | [[Unification of China under Qin]] | event | [[Classical Antiquity]] |
 | 210 BCE | [[Mekong River]] | place | [[Classical Antiquity]] |
@@ -229,6 +231,8 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 100 CE | [[Codex]] | technology | [[Classical Antiquity]] |
 | 100 CE to 550 CE | [[Funan]] | culture | [[Classical Antiquity]] |
 | 100 CE to 940 CE | [[Kingdom of Aksum]] | culture | [[Classical Antiquity]] |
+| 100 CE to 800 CE | [[Moche Culture]] | culture | [[Classical Antiquity]] |
+| 110 CE to 525 CE | [[Kingdom of Himyar]] | culture | [[Classical Antiquity]] |
 | 132 CE | [[Seismoscope]] | technology | [[Classical Antiquity]] |
 | 192 CE to 1832 CE | [[Champa]] | culture | [[Medieval Period]] |
 | 224 CE to 651 CE | [[Sasanian Empire]] | culture | [[Classical Antiquity]] |
@@ -273,6 +277,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 650 CE to 1377 CE | [[Srivijaya]] | culture | [[Medieval Period]] |
 | 661 CE to 750 CE | [[Umayyad Caliphate]] | culture | [[Medieval Period]] |
 | 682 CE to 741 CE | [[Lady Six Sky]] | person | [[Medieval Period]] |
+| 697 CE to 1797 CE | [[Venetian Republic]] | culture | [[Medieval Period]] |
 | 700 CE to 1300 CE | [[Ancestral Puebloans]] | culture | [[Medieval Period]] |
 | 700 CE to 1500 CE | [[Indian Ocean Trade Network]] | event | [[Medieval Period]] |
 | 700 CE | [[Woodblock Printing]] | technology | [[Medieval Period]] |
@@ -302,6 +307,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 900 CE to 1893 CE | [[Kanem-Bornu Empire]] | culture | [[Medieval Period]] |
 | 900 CE to 1100 CE | [[Kupe]] | person | [[Medieval Period]] |
 | 900 CE to 1628 CE | [[Nan Madol]] | place | [[Medieval Period]] |
+| 900 CE to 1150 CE | [[Toltec]] | culture | [[Medieval Period]] |
 | 900 CE | [[Windmill]] | technology | [[Medieval Period]] |
 | 911 CE to 1194 CE | [[Normans]] | culture | [[Medieval Period]] |
 | 927 CE | [[Astrolabe]] | technology | [[Medieval Period]] |
@@ -353,6 +359,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1217 CE to 1255 CE | [[Sundiata Keita]] | person | [[Medieval Period]] |
 | 1235 CE to 1388 CE | [[Karakorum]] | place | [[Medieval Period]] |
 | 1235 CE to 1670 CE | [[Mali Empire]] | culture | [[Medieval Period]] |
+| 1238 CE to 1438 CE | [[Sukhothai Kingdom]] | culture | [[Medieval Period]] |
 | 1250 CE | [[Maori]] | culture | [[Medieval Period]] |
 | 1250 CE to 1395 CE | [[Sarai]] | place | [[Medieval Period]] |
 | 1251 CE to 1284 CE | [[Hojo Tokimune]] | person | [[Medieval Period]] |
@@ -449,6 +456,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1571 CE to 1610 CE | [[Caravaggio]] | person | [[Early Modern Period]] |
 | 1576 CE to 1610 CE | [[Queen Amina of Zazzau]] | person | [[Early Modern Period]] |
 | 1577 CE to 1645 CE | [[Nur Jahan]] | person | [[Early Modern Period]] |
+| 1581 CE to 1795 CE | [[Dutch Republic]] | culture | [[Early Modern Period]] |
 | 1582 CE to 1639 CE | [[Russian Expansion into Siberia]] | event | [[Early Modern Period]] |
 | 1583 CE to 1663 CE | [[Nzinga of Ndongo and Matamba]] | person | [[Early Modern Period]] |
 | 1589 CE | [[Hiroshima]] | place | [[Early Modern Period]] |

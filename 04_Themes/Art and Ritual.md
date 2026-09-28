@@ -176,6 +176,7 @@ The Observer treats art and ritual as behavior with no obvious direct survival f
 - [[Etruscans]] (800 BCE)
 - [[Nabataeans]] (312 BCE)
 - [[Kushan Empire]] (30 CE)
+- [[Moche Culture]] (100 CE)
 - [[Champa]] (192 CE)
 - [[Gupta Empire]] (320 CE)
 - [[Byzantine Empire]] (330 CE)

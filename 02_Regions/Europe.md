@@ -118,10 +118,12 @@ The Observer cautions against a common habit: a small peninsula's history is oft
 - [[Franks]] (250 CE)
 - [[Huns]] (370 CE)
 - [[Anglo-Saxons]] (450 CE)
+- [[Venetian Republic]] (697 CE)
 - [[Norse]] (793 CE)
 - [[Kievan Rus]] (882 CE)
 - [[Normans]] (911 CE)
 - [[Holy Roman Empire]] (962 CE)
+- [[Dutch Republic]] (1581 CE)
 
 **Places**
 - [[Chauvet Cave]] (36 ka)

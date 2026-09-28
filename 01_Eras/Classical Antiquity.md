@@ -76,6 +76,8 @@ The Observer notes that several distant societies, largely out of contact, devel
 - [[Kushan Empire]] (30 CE)
 - [[Funan]] (100 CE)
 - [[Kingdom of Aksum]] (100 CE)
+- [[Moche Culture]] (100 CE)
+- [[Kingdom of Himyar]] (110 CE)
 - [[Sasanian Empire]] (224 CE)
 - [[Manichaeism]] (240 CE)
 - [[Sogdians]] (300 CE)

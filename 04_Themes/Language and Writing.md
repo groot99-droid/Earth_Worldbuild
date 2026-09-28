@@ -146,6 +146,7 @@ The Observer calls these the sound-code and the mark-code. It notes that languag
 - [[Göktürk Khaganate]] (552 CE)
 - [[Umayyad Caliphate]] (661 CE)
 - [[Swahili Coast City-States]] (800 CE)
+- [[Sukhothai Kingdom]] (1238 CE)
 - [[Maori]] (1250 CE)
 - [[Cherokee]] (1540 CE)
 - [[Garifuna]] (1635 CE)
