@@ -90,12 +90,11 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 2600 BCE to 1900 BCE | [[Indus Valley Civilization]] | culture | [[Bronze Age]] |
 | 2600 BCE | [[Sanitation and Sewers]] | technology | [[Bronze Age]] |
 | 2500 BCE to 1900 BCE | [[Mohenjo-daro]] | place | [[Bronze Age]] |
-| 2300 BCE | [[Babylon]] | place | [[Bronze Age]] |
 | 2285 BCE to 2250 BCE | [[Enheduanna]] | person | [[Bronze Age]] |
+| 2200 BCE | [[Babylon]] | place | [[Bronze Age]] |
 | 2100 BCE to 1800 BCE | [[Sintashta Culture]] | culture | [[Bronze Age]] |
 | 2000 BCE to 1700 BCE | [[Arkaim]] | place | [[Bronze Age]] |
 | 2000 BCE | [[Chariot]] | technology | [[Bronze Age]] |
-| 2000 BCE | [[Mekong River]] | place | [[Bronze Age]] |
 | 2000 BCE to 1450 BCE | [[Minoans]] | culture | [[Bronze Age]] |
 | 1970 BCE | [[Karnak]] | place | [[Bronze Age]] |
 | 1810 BCE to 1750 BCE | [[Hammurabi]] | person | [[Bronze Age]] |
@@ -172,6 +171,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 508 BCE | [[Athens]] | place | [[Classical Antiquity]] |
 | 500 BCE to 1600 CE | [[Amazonian Urbanism and Dark Earths]] | event | [[Classical Antiquity]] |
 | 500 BCE | [[Buddhism]] | culture | [[Iron Age]] |
+| 500 BCE | [[Bukhara]] | place | [[Classical Antiquity]] |
 | 500 BCE | [[Crossbow]] | technology | [[Classical Antiquity]] |
 | 500 BCE to 1221 CE | [[Merv]] | place | [[Classical Antiquity]] |
 | 500 BCE | [[Monte Alban]] | place | [[Classical Antiquity]] |
@@ -187,7 +187,6 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 312 BCE to 106 CE | [[Nabataeans]] | culture | [[Classical Antiquity]] |
 | 312 BCE | [[Petra]] | place | [[Classical Antiquity]] |
 | 304 BCE to 232 BCE | [[Ashoka]] | person | [[Classical Antiquity]] |
-| 300 BCE | [[Bukhara]] | place | [[Classical Antiquity]] |
 | 300 BCE | [[Crucible Steel]] | technology | [[Classical Antiquity]] |
 | 300 BCE | [[Shinto]] | culture | [[Iron Age]] |
 | 285 BCE | [[Library of Alexandria]] | place | [[Classical Antiquity]] |
@@ -196,6 +195,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 250 BCE | [[Paris]] | place | [[Classical Antiquity]] |
 | 246 BCE | [[Mausoleum of Qin Shi Huang]] | place | [[Classical Antiquity]] |
 | 221 BCE to 206 BCE | [[Unification of China under Qin]] | event | [[Classical Antiquity]] |
+| 210 BCE | [[Mekong River]] | place | [[Classical Antiquity]] |
 | 210 BCE | [[Terracotta Army]] | technology | [[Classical Antiquity]] |
 | 209 BCE to 93 CE | [[Xiongnu]] | culture | [[Classical Antiquity]] |
 | 206 BCE to 220 CE | [[Han Dynasty]] | culture | [[Classical Antiquity]] |
@@ -359,7 +359,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1336 CE to 1405 CE | [[Timur]] | person | [[Medieval Period]] |
 | 1340 CE | [[Double-Entry Bookkeeping]] | technology | [[Medieval Period]] |
 | 1346 CE to 1353 CE | [[Black Death]] | event | [[Medieval Period]] |
-| 1350 CE to 1767 CE | [[Ayutthaya]] | place | [[Medieval Period]] |
+| 1351 CE to 1767 CE | [[Ayutthaya]] | place | [[Medieval Period]] |
 | 1351 CE to 1767 CE | [[Ayutthaya Kingdom]] | culture | [[Early Modern Period]] |
 | 1360 CE to 1424 CE | [[Yongle Emperor]] | person | [[Medieval Period]] |
 | 1368 CE to 1644 CE | [[Ming Dynasty]] | culture | [[Medieval Period]] |

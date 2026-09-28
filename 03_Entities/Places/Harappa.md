@@ -19,7 +19,7 @@ fact_checks: ["2026-09-27: Harappa is an archaeological site in Punjab, Pakistan
 Harappa is an archaeological site in Punjab, Pakistan, on a dry bed of the Ravi River, occupied from about 3300 BCE and a major city of the Indus Valley Civilization until its urban phase declined after about 1900 BCE.
 
 ## Facts
-- Harappa was occupied from about 3300 BCE, and its urban "Mature Harappan" phase ran from about 2600 to 1900 BCE, with population estimates of about 20,000 to 40,000.
+- Harappa was occupied from about 3300 BCE, and its urban "Mature Harappan" phase ran from about 2600 to 1900 BCE, with population estimates ranging from as many as 23,500 in site-specific studies to a wider 30,000 to 60,000 suggested for the largest Indus cities generally.
 - Harappa had planned streets, brick drains and standardized weights, and its bricks followed a common size ratio used at other Indus sites.
 - Harappa's seals, carved with animals and signs in a script that has not been deciphered, are found in many Indus cities, and Indus objects such as seals and carnelian beads have been found in Mesopotamian cities.
 - Daya Ram Sahni began excavations at Harappa in 1921, after British engineers had taken bricks from the site in the 1850s for railway ballast.

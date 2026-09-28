@@ -18,7 +18,7 @@ fact_checks: ["2026-09-27: Issyk-Kul has a surface area of 6,236 square kilometr
 Issyk-Kul is a large mountain lake in the northern Tian Shan of Kyrgyzstan, at about 1,600 meters above sea level, on the routes between the steppe and the oases and near cemeteries whose graves have been linked to an early stage of the Black Death.
 
 ## Facts
-- Issyk-Kul has an area of about 6,200 square kilometers, a maximum depth of about 668 meters and no outlet; the lake is slightly saline and does not freeze in winter, and its name means "warm lake" in Kyrgyz.
+- Issyk-Kul has an area of about 6,200 square kilometers, a maximum depth of about 668 meters and no outlet; the lake is slightly saline and rarely freezes despite its elevation and cold winters, and its name is usually rendered "warm lake" in Kyrgyz, though the literal meaning is closer to "hot lake."
 - Saka burial mounds around the lake date from the 1st millennium BCE; the Saka were Iranian-speaking pastoralists related to the Scythians.
 - Underwater surveys have reported settlement remains and objects from the shallows, dated variously from the Bronze Age to the Middle Ages; interpretations vary.
 - Routes across the Tian Shan connecting the steppe with the oases of Central Asia passed near the lake.

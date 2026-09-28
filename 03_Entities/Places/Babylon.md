@@ -4,7 +4,7 @@ type: place
 era: "[[Bronze Age]]"
 region: "[[Mesopotamia]]"
 themes: [science, war, religion]
-date_start: -2300
+date_start: -2200
 date_precision: approx
 related: ["[[Neo-Assyrian Empire]]", "[[Achaemenid Persians]]", "[[Alexander's Conquests]]", "[[Jerusalem]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]

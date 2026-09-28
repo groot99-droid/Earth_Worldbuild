@@ -18,7 +18,7 @@ fact_checks: ["2026-09-27: Carbon-14 dating places the first occupation of Kilwa
 Kilwa Kisiwani is an island town off the coast of southern Tanzania that was a leading Swahili port from about the 12th to the 15th century, trading gold from the interior for goods carried across the Indian Ocean.
 
 ## Facts
-- Kilwa Kisiwani was occupied from about the 9th century CE, and its Great Mosque dates from the 11th or 12th century and was enlarged in the 14th.
+- Kilwa Kisiwani was occupied from about the 9th century CE, and its Great Mosque has an earliest section dated to between 1131 and 1170 (12th century, though local oral tradition places the founding earlier), enlarged in the early 14th century.
 - The Kilwa Chronicle, written in the 16th century, traces the ruling dynasty to a founder from Shiraz in Persia; archaeological and linguistic evidence indicates that Kilwa's society was rooted in African coastal communities that took part in Indian Ocean trade.
 - From about the 13th century Kilwa controlled the gold trade from Sofala, in the south, whose gold came from the interior of Zimbabwe, and the town minted its own coins, among the earliest in sub-Saharan Africa.
 - Sultan al-Hasan ibn Sulaiman built the palace and market complex of Husuni Kubwa in the early 14th century.

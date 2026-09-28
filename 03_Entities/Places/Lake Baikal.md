@@ -20,10 +20,10 @@ Lake Baikal is a rift lake in southern Siberia, Russia, the deepest and oldest l
 ## Facts
 - Lake Baikal lies in a rift valley, is about 636 kilometers long, has a maximum depth of 1,642 meters, and holds about 20 percent of the world's unfrozen surface fresh water.
 - The Baikal rift basin is estimated to be 25 to 30 million years old, which makes the lake the oldest on Earth; this geologic age is far older than any human presence.
-- More than 1,700 species of plants and animals live in and around Lake Baikal, about two thirds of them found nowhere else, including the Baikal seal, a freshwater seal.
+- More than 1,000 species of plants and 2,500 species of animals have been recorded in and around Lake Baikal, with the true totals thought to be higher; many are found nowhere else, including the Baikal seal, a freshwater seal.
 - Hunter-fisher-gatherers of the Kitoi culture buried their dead around the lake from about the 5th millennium BCE, and much older Paleolithic sites, such as Mal'ta, lie nearby.
 - Russian explorers reached Lake Baikal in the 1640s, beginning Russian settlement among the Buryat and Evenki peoples.
-- A pulp and paper mill on the southern shore discharged waste into the lake from 1966 until it closed in 2013, and it was one of the earliest targets of organized environmental protest in the Soviet Union.
+- A pulp and paper mill on the southern shore discharged waste into the lake from 1966, with production interrupted between 2008 and 2010 before a final closure in 2013, and it was one of the earliest targets of organized environmental protest in the Soviet Union.
 - UNESCO inscribed Lake Baikal in 1996.
 
 ## Context & Connections

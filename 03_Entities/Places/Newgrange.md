@@ -15,10 +15,10 @@ fact_checks: ["2026-09-27: Newgrange is a passage tomb in County Meath, Ireland,
 ---
 
 ## Summary
-Newgrange is a large passage tomb in the Boyne Valley of County Meath, Ireland, built about 3200 BCE by Neolithic farmers and aligned so that the winter solstice sunrise lights its inner chamber.
+Newgrange is a large passage tomb in the Boyne Valley of County Meath, Ireland, built about 3200 to 3100 BCE by Neolithic farmers and aligned so that the winter solstice sunrise lights its inner chamber.
 
 ## Facts
-- Newgrange is a mound about 12 meters high and roughly 80 meters across, with a passage about 19 meters long leading to a cross-shaped chamber, and radiocarbon dates place its construction about 3200 BCE, older than the Great Pyramid of Giza.
+- Newgrange is a mound about 12 meters high and about 85 meters across at its widest, with a passage about 19 meters long leading to a cross-shaped chamber, and radiocarbon dates place its construction at about 3200 to 3100 BCE, older than the Great Pyramid of Giza.
 - A "roof box" above the entrance admits sunlight along the passage for about 17 minutes around sunrise at the winter solstice.
 - Kerbstones around the base carry carved designs, including spirals, and cremated remains of a small number of people were found in the chamber.
 - The white quartz wall at the front was reconstructed in the 1970s, and whether it originally looked like that is debated.

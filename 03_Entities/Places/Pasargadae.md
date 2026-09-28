@@ -18,7 +18,7 @@ fact_checks: ["2026-09-27: Pasargadae was founded in the 6th century BCE by Cyru
 Pasargadae was the first capital of the Achaemenid Persian Empire, founded by Cyrus the Great in about 550 BCE on the plateau of Fars in present-day Iran, and the site of his tomb.
 
 ## Facts
-- Pasargadae lies in Fars province, southwestern Iran, about 90 kilometers northeast of Persepolis.
+- Pasargadae lies in Fars province, southwestern Iran, about 90 kilometers northeast of Shiraz and about 40 kilometers from Persepolis.
 - Cyrus the Great founded Pasargadae after defeating the Median king Astyages, in about 550 BCE, and it served as a royal seat until Darius I and his successors developed Persepolis and Susa.
 - Pasargadae has an audience hall, residential palaces, a gate with a relief of a winged figure, and a formal garden with water channels that is regarded as an early example of the Persian garden.
 - Stonemasons from other parts of the empire, including Lydia and Ionia in western Anatolia, contributed to its masonry, and its architecture combines Persian, Elamite, Mesopotamian and Anatolian elements.

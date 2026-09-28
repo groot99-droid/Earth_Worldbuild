@@ -21,7 +21,7 @@ Baghdad is a city on the Tigris River in Iraq, founded in 762 CE by the Abbasid 
 - Baghdad was founded in 762 by the caliph al-Mansur as a round city called Madinat al-Salam ("City of Peace"), near the older Sasanian capital Ctesiphon; no part of the Round City survives above ground.
 - Baghdad became the center of the Translation Movement and the House of Wisdom, and paper mills were operating there by the 790s.
 - Population estimates for Baghdad in the 9th and 10th centuries run from several hundred thousand to over a million, which would have made it one of the largest cities in the world.
-- Baghdad remained the seat of the Abbasid caliphs until 1258, when Mongol forces under Hulagu took the city after a siege and killed the caliph al-Musta'sim; chronicles report 200,000 to a million dead, figures that modern historians regard as too high, though the massacre and destruction were severe.
+- Baghdad remained the seat of the Abbasid caliphs until 1258, when Mongol forces under Hulagu took the city after a siege and killed the caliph al-Musta'sim; chronicles report figures ranging from 200,000 (Hulagu's own estimate) to as much as 2,000,000 (in Muslim sources), figures modern historians regard as unreliable and likely inflated by later epidemics, though the massacre and destruction were severe.
 - Baghdad was under Ottoman rule from 1534, with Safavid periods before and after, until British forces captured it in 1917; it became the capital of the Kingdom of Iraq in 1921.
 - In April 2003, after the US-led invasion, looting of the Iraq National Museum removed about 15,000 objects, some of which have since been recovered.
 

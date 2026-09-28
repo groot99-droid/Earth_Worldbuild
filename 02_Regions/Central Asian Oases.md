@@ -45,7 +45,7 @@ The Observer notes how these cities lived by relaying goods and ideas between la
 
 **Places**
 - [[Samarkand]] (700 BCE)
+- [[Bukhara]] (500 BCE)
 - [[Merv]] (500 BCE)
-- [[Bukhara]] (300 BCE)
 
 <!-- /AUTO:members -->
