@@ -22741,5 +22741,575 @@
   },
   "date": "2026-09-28",
   "batch": "site-063.part9"
+ },
+ "source/britannica-on-the-trans-siberian-railroad": {
+  "src": "28d954965cdc",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the start of construction in 1891 under Sergei Witte, the completion in 1916 of a route wholly within Russian territory, the line's passage through Khabarovsk on the Amur River to Vladivostok, and its status as the longest single rail system in the world.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-09 of britannica.com; the snapshot may differ from the current page (17,617 characters). The page does not give 31 May 1891 or a ceremony at Vladivostok. The earlier citation also named EBSCO Research Starters, 'Completion of the Trans-Siberian Railroad'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part5"
+ },
+ "source/britannica-on-the-treaty-of-verdun": {
+  "src": "7db9aeb1f268",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry records the division of the Carolingian Empire among three sons of Louis I in August 843.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-07-09 of britannica.com; the snapshot may differ from the current page (3,649 characters)."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part5"
+ },
+ "source/britannica-on-the-tunguska-event": {
+  "src": "dc966e4e342a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the 30 June 1908 explosion (7:14 am, an airburst at 5 to 10 km altitude with no crater), an energy of as much as 15 megatons, trees felled radially for 15 to 30 km over some 2,000 square km, and Kulik's expeditions of 1927 to 1930.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-01 of britannica.com; the snapshot may differ from the current page (12,091 characters). The page does not give a count of about 80 million trees felled. The earlier citation also named Royal Observatory Greenwich, 'The Tunguska event explained'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part5"
+ },
+ "source/britannica-on-timur": {
+  "src": "4943b752d2b0",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry gives the birth year as 1336 at Kesh, dominion over Transoxania by the 1360s and proclamation as sovereign of the Chagatai line of khans about 1370, and death at Otrar in February 1405 while preparing an expedition to China.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-25, as raw text from a Wayback Machine snapshot dated 2026-09-20; the live britannica.com page returns HTTP 403 to automated requests, so the snapshot may differ from the current article. The article gives the birth as 1336 at Kesh without qualification, says that about 1370 Timur proclaimed himself at Samarkand sovereign of the Chagatai line after the assassination of Amir Husayn, whom he had besieged in Balkh, and says he fell ill at Otrar and died in February 1405 (19 February in the opening line) after preparing an expedition to China. It does not name the Ming dynasty and does not discuss the argument for a birth in the late 1320s, which the vault takes from Wikipedia on Timur, so the birth year stays contested in the notes. Re-verify before citing in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part5"
+ },
+ "source/britannica-on-vasco-da-gama": {
+  "src": "aa03484d7a24",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the departure from Lisbon on 8 July 1497, arrival at Santa Helena Bay on 7 November, the rounding of the Cape of Good Hope on 22 November, and arrival at Calicut on 20 May 1498.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot dated 2026-09-16 of britannica.com; the snapshot may differ from the current page (11,168 characters). The page does not mention the Portuguese capture of Goa in 1510 or the end of Zheng He's voyages in 1433. The earlier citation also named Britannica, 'Portuguese conquest of Goa' and 'Zheng He'; those pages were not read here, so nothing taken from them is confirmed by this source."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part5"
+ },
+ "source/british-museum-on-the-rosetta-stone": {
+  "src": "a3ffb59041e3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the 196 BCE decree, its 1799 discovery, British acquisition in 1801, and decipherment in 1822.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part5"
+ },
+ "source/kingdom-of-benin-search-summaries": {
+  "src": "5859a7fae4b3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This covers the kingdom's dates and its origin tradition, Ewuare the Great, and the 1897 British expedition, with its looting and the exile of Ovonramwen.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This rests only on web search result summaries gathered on 2026-09-20 (the results named Wikipedia, Britannica, National Museums Scotland, the Art Institute of Chicago and TheCollector); no page itself was opened. The Oranmiyan-Eweka origin story is tradition, not documented history, and since the summaries gave no casualty figures for 1897, none are recorded here."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part7"
+ },
+ "source/kingdom-of-kongo-search-summaries": {
+  "src": "5ac8b52ed1b1",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This covers Portuguese contact in 1483, the conversion of Nzinga Nkuwu, Afonso I's reign (1506 to 1543) with his letters against the slave trade, and the Battle of Mbwila on 29 October 1665.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This rests only on web search result summaries gathered on 2026-09-20 (the results named Wikipedia, EBSCO Research Starters, Britannica, the Dictionary of African Christian Biography and World History Commons); no page itself was opened. The summaries gave no founding date for the kingdom, so the note covers only the documented period from 1483. The count of Afonso's letters, twenty-four, comes from one summary and should be checked against the edited letters."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part7"
+ },
+ "source/kingdom-of-mapungubwe-search-summaries": {
+  "src": "3dc6bbdf7de3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This covers the location, the occupation dates at K2 and Mapungubwe Hill, Indian Ocean trade connections, imported glass beads and celadon, royal-style burials, and the UNESCO listing in 2003.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This rests only on web search result summaries gathered on 2026-09-20 (the results named the Metropolitan Museum of Art, Wikipedia, South African History Online, World History Encyclopedia and southafrica.info); no page itself was opened. Sources give slightly different spans — about 1050 to 1270 at the Metropolitan Museum, about 1220 to 1300 as a trading centre elsewhere — and the summaries did not explain why the site declined."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part7"
+ },
+ "source/kuitems-et-al-2021-l-anse-aux-meadows-dating": {
+  "src": "a3c7de422d99",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Tree-ring dating places Norse activity at L'Anse aux Meadows in 1021 CE.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This drew on web search results gathered on 2026-09-20; the page was not necessarily read in full. Treat it as unverified until checked again before it appears in print — it was accessed via a news report of the paper."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part7"
+ },
+ "source/lambeck-et-al-2014-sea-level-and-ice-volumes": {
+  "src": "bdd31d12517c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This gives the timing of the Last Glacial Maximum and how far sea level fell.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 as raw text from a Wayback Machine snapshot of pnas.org dated 2025-08-08; that snapshot may differ from the current page (66,158 characters). The paper places the fall of equivalent sea level at about 134 m below present at 29 to 21 ka BP, and the glacial maximum at about 30,000 years ago; the wider Last Glacial Maximum window of about 26.5 to 19 thousand years ago, and the range of 120 to 135 m in the Last Glacial Maximum note, are not stated in it. That 26,500 to 19,000 year window in the note comes instead from Clark et al. (2009), seen only in search summaries and not yet read."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part7"
+ },
+ "source/langergraber-et-al-2012-generation-times-and-divergence-dates": {
+  "src": "71a57598c334",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Longer generation times point to earlier human-chimpanzee divergence dates.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The record here reaches only as far as the abstract (the PubMed entry, fetched on 2026-09-26). No route that works for automated requests could reach the full text: europepmc-fulltext, openalex-oa-pdf, publisher-direct and wayback were all tried without success, and no CAPTCHA, cookie wall or paywall was got past. So this source confirms only what its abstract states, and an abstract-only source never carries a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part7"
+ },
+ "source/british-raj-search-summaries": {
+  "src": "a799cc0b3f54",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers the Government of India Act of 1858, the transfer from the East India Company to the Crown, the new offices in London and Calcutta, and the end of the Raj in 1947.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was consulted only through web search result summaries on 2026-09-20 (results listed Britannica, Wikipedia, the UK Parliament Living Heritage site, a university course text and several Indian exam-preparation sites); none of the pages was opened. The summaries did not cover the Empress of India title, the Indian National Congress, railways, or famines, so the note does not assert them; the Bengal famine is covered in its own note. Some listed pages were exam-preparation sites of lower reliability."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part6"
+ },
+ "source/brumm-et-al-2021-sulawesi-warty-pig-painting": {
+  "src": "43cf7e19f4a3",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry gives the minimum age, 45.5 thousand years, of the Leang Tedongnge painting.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was read in full on 2026-09-26 from the Europe PMC full-text XML of the open-access copy (PMC7806210; 40,775 characters)."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part6"
+ },
+ "source/cambridge-classics-on-the-decipherment-of-linear-b": {
+  "src": "b65208f829ec",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers Ventris's 1952 decipherment, Chadwick's collaboration, and the Greek language of Linear B.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part6"
+ },
+ "source/cambridge-world-history": {
+  "src": "7929b0798370",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry describes a scholarly multi-volume world history running from earliest times to the present.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Its different volumes follow different regional and periodization frameworks."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part6"
+ },
+ "source/canadian-encyclopedia-on-the-thule-culture": {
+  "src": "d78e59057a6e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry places Thule origin about 900 CE in Alaska, its spread across the Arctic to Greenland by the 12th century, and the near-absence of Dorset ancestry in Thule and Inuit samples.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part6"
+ },
+ "source/cdc-on-the-1918-influenza-pandemic": {
+  "src": "d0ef28ede70d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This entry covers one third of the world's population (about 500 million) infected, mortality estimates of 17.4 to 100 million, and reconstruction of the virus in 2005.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This was consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-061.part6"
+ },
+ "source/reich-et-al-2010-denisova-genetic-history": {
+  "src": "ea78f22fd55d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This one identifies the Denisovans from the 2008 Denisova Cave finger bone.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26 from the open-access PDF at www.nature.com, the publishedVersion version, 58,399 characters, so wording, figures or pagination may differ slightly from the published version."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part10"
+ },
+ "source/richter-et-al-2017-jebel-irhoud-age": {
+  "src": "c00217382809",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The weighted average age here comes to 315 plus or minus 34 thousand years for the Middle Stone Age artefacts and hominin fossils at Jebel Irhoud, Morocco, supported by a recalculated uranium-series and electron spin resonance date of 286 plus or minus 32 thousand years.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Only the abstract was read here: the Nature page, fetched directly on 2026-09-26, shows the abstract and reference list behind a subscription, and the PubMed abstract matches it. No open-access copy was found. This is the companion dating paper to Hublin et al. 2017 Jebel Irhoud, which describes the fossils and quotes the age as 300 to 350 thousand years. An abstract-only source never moves a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part10"
+ },
+ "source/sandom-et-al-2014-megafauna-extinctions-linked-to-humans": {
+  "src": "2f264fe08929",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Extinction severity is tied here to hominin palaeobiogeography, with minimal losses in sub-Saharan Africa.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This one was read in full on 2026-09-26, drawn from the Europe PMC full-text XML of the open-access copy — PMC4071532, 38,765 characters."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part10"
+ },
+ "source/sankararaman-et-al-2016-neanderthal-and-denisovan-ancestry-map": {
+  "src": "1b418de6dea0",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Present-day non-Africans carry no more than about 2 percent Neanderthal ancestry, and most non-Africans carry under 1 percent Denisovan ancestry, with much higher levels among Oceanians.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Only the abstract was read here, the PubMed record fetched on 2026-09-26. The full text was not reachable by any route that works for automated requests: routes tried without success were europepmc-fulltext, openalex-oa-pdf, publisher-direct, openalex-abstract, and wayback, where web.archive.org answered HTTP 403 to automated requests, and no CAPTCHA, cookie wall or paywall was bypassed. So this source confirms only what the abstract states. The abstract gives about 2 percent Neanderthal ancestry and up to about 5 percent Denisovan ancestry in some present-day humans, with more in Oceanians; it does not say that most non-Africans carry under 1 percent Denisovan ancestry, so that detail in the Out of Africa Dispersal note was removed. Estimates of Denisovan ancestry differ between studies and methods, so the abstract's up to about 5 percent is used only as a figure for some Oceanians, not as a general one. An abstract-only source never moves a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part10"
+ },
+ "source/science-2021-amazonian-reforestation-pollen-study": {
+  "src": "be5f5a0a837a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The finding here, drawn from 39 Amazonian fossil pollen records, is that there was no synchronous reforestation event after European arrival, and that at most sites land abandonment and forest regrowth began about 300 to 600 years before European arrival. The abstract frames this as a test of the hypothesis that a post-contact population collapse — an estimated 90 to 95 percent of Indigenous people in Amazonia — lowered atmospheric carbon dioxide around 1610 CE through reforestation, and it names pre-European pandemics, social strife and environmental change as possible causes of the earlier abandonments.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Only the abstract was read here, the PubMed record fetched on 2026-09-25, together with the accepted-version supplementary materials in the University of Reading repository — methods and site tables, about 7,800 characters — which confirm that 39 lake-sediment records were used. Since science.org returns HTTP 403 and no open-access copy of the main paper was found, its results and discussion were not read. The reply from Alexander Koch and colleagues, and the statement that Bush and McMichael think populations peaked and declined well before 1492, both appear in the Amazon Basin and South American Lowlands note but are not in the text read here; they came from press coverage seen only as search-result summaries and remain unverified. The paper challenges one hypothesis, that post-1492 regrowth cooled the climate; it does not show that no post-contact depopulation occurred, and its abstract cites an estimated 90 to 95 percent loss of Indigenous people."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part10"
+ },
+ "source/science-news-on-the-monte-verde-age-debate": {
+  "src": "c1e549da735d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This one covers the contested dating of Monte Verde: a traditional age of about 14,500 years set against a recent study proposing a much younger age.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "On 2026-09-26 no readable copy could be obtained: science.org returns HTTP 403 to automated requests, and the Wayback Machine has no HTTP 200 capture of this page, its closest-snapshot redirect looping instead. So the page was not read, and the claims that cite it — a traditional age of about 14,500 years from a 1997 panel, and a recent much younger proposal that is disputed — remain unverified. The only text seen earlier was search-result summaries."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-063.part10"
+ },
+ "source/late-colonization-of-easter-island-science-2006": {
+  "src": "c7550f48e590",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Radiocarbon dates from the earliest layers at Anakena, Rapa Nui, imply colonization about 1200 CE, followed by rapid population growth, environmental change and monument building within a century or two.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The record here reaches only as far as the abstract (the PubMed entry, fetched on 2026-09-26). No route that works for automated requests could reach the full text: europepmc-fulltext, openalex-oa-pdf, publisher-direct and wayback (web.archive.org answered HTTP 403 to automated requests) were all tried without success, and no CAPTCHA, cookie wall or paywall was got past. So this source confirms only what its abstract states: radiocarbon dates for the earliest layers at Anakena implying colonization about 1200 CE. A 2024 Journal of Pacific Archaeology paper on re-dating sites at Rano Kau was seen only as a listing and not read, and earlier proposals for settlement as early as about 300 CE were not checked. An abstract-only source never carries a note toward reviewed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part8"
+ },
+ "source/latin-american-independence-dates-search-summaries": {
+  "src": "d977b4d431e2",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This covers Bolivar and San Martin meeting at Guayaquil on 26 and 27 July 1822; Sucre's victory at Ayacucho on 9 December 1824; Gran Colombia proclaimed on 17 December 1819 and dissolved in 1830 and 1831; and the Napoleonic invasion of 1808 as a catalyst, though not the only cause of the independence wars.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This rests only on web search result summaries gathered on 2026-09-25 (the results named Britannica, Wikipedia, EBSCO Research Starters, Encyclopedia.com and university course texts); no page itself was opened. Sources differ on whether Gran Colombia counts from 1819 or from the 1821 Congress of Cucuta, and on whether it dissolved in 1830 or 1831 — the note gives both."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part8"
+ },
+ "source/lazaridis-et-al-2025-indo-european-origins": {
+  "src": "413d5e1f8424",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This traces the ancestral 'proto-Indo-Anatolian' language community to a Caucasus-Lower Volga population (about 4400 to 4000 BCE), with the Yamnaya descending from it and spreading the language later; the Anatolian branch (Hittite and relatives) does not derive from the steppe.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "The Harvard Gazette page was fetched on 2026-09-20 with WebFetch, which returns a model-generated summary; details were supplemented from web search result summaries (Reich lab, Wikipedia and other listings), and the Nature papers themselves were not read. The Gazette account notes no dissent, but a commentary by Paul Heggarty ('Beating the retreat from the Steppe hypothesis') disputes the interpretation; it appeared only in search results and was not read."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part8"
+ },
+ "source/library-of-congress-on-the-first-telegraph-message": {
+  "src": "aa0b7cfc4f5e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This covers Morse's message on 24 May 1844, the failed transatlantic cable of 1858, the successful cable of 1866, and the England-India cable of 1870.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "This drew only on web search result summaries, gathered on 2026-09-20; the page itself went unread in full. Treat it as unverified until checked again before it appears in print."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part8"
+ },
+ "source/lordkipanidze-et-al-2013-dmanisi-skull-5": {
+  "src": "0b35437d234e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "The small-brained Dmanisi skulls date to about 1.8 million years ago, and the argument holds that their variation fits a single population.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Cited from memory, not consulted directly. The single-lineage interpretation of early Homo stays debated."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part8"
+ },
+ "source/love-et-al-2009-cryogenian-sponge-steroids": {
+  "src": "c9659f987806",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This reads 24-isopropylcholestane in rocks 635 million years old or older as a demosponge biomarker.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Cited from memory, not consulted directly. Later work (Nettersheim 2019, Bobrovskiy 2021) argues that algae or protists could make the same compounds, so the claim stays disputed."
+    }
+   ]
+  },
+  "date": "2026-09-28",
+  "batch": "site-062.part8"
  }
 }
