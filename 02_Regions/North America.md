@@ -79,5 +79,17 @@ The Observer notes a wide range of political forms that did not resemble the sta
 - [[Electrical Power Grid]] (1882 CE)
 - [[Airplane]] (1903 CE)
 - [[Insulin]] (1921 CE)
+- [[Liquid-Fueled Rocket]] (1926 CE)
+- [[Nuclear Weapons]] (1945 CE)
+- [[Transistor]] (1947 CE)
+- [[Radiocarbon Dating]] (1949 CE)
+- [[Photovoltaic Cell]] (1954 CE)
+- [[Container Shipping]] (1956 CE)
+- [[Integrated Circuit]] (1958 CE)
+- [[Hormonal Contraception]] (1960 CE)
+- [[Internet]] (1969 CE)
+- [[GPS]] (1978 CE)
+- [[Smartphone]] (1994 CE)
+- [[CRISPR Gene Editing]] (2012 CE)
 
 <!-- /AUTO:members -->

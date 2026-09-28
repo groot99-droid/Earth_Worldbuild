@@ -253,10 +253,13 @@ The Observer treats the planet as the frame for everything else, and the species
 - [[Qanat]] (714 BCE)
 - [[Chinampas]] (1150 CE)
 - [[Haber-Bosch Process]] (1909 CE)
+- [[Photovoltaic Cell]] (1954 CE)
 
 **Observer essays**
 - [[Fire, Then Everything]]
 - [[Frontiers of Extraction]]
+- [[Plague Years - Disease as a Historical Actor]]
+- [[The Long Partnership - Domesticates and the Species]]
 - [[The Settling and Its Bargain]]
 - [[The Species as a Geological Force]]
 

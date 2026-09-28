@@ -196,4 +196,9 @@ The Observer prefers a global reading of this era. It sees a species increasingl
 - [[Movable-Type Printing Press]] (1440 CE)
 - [[Gutenberg Bible]] (1455 CE)
 
+**Observer essays**
+- [[Plague Years - Disease as a Historical Actor]]
+- [[Scripts as Borders - Writing and Identity]]
+- [[Why Every Meaning-Engine Splits]]
+
 <!-- /AUTO:members -->

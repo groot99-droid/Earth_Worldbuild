@@ -111,5 +111,6 @@ The Observer notes that the first states and the first writing arrived together.
 **Observer essays**
 - [[Story-Glue - How Strangers Cooperate at Scale]]
 - [[The Great Outsourcing of Memory]]
+- [[The Kin-Lattice at Scale - From Households to States]]
 
 <!-- /AUTO:members -->

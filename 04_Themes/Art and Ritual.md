@@ -258,6 +258,8 @@ The Observer treats art and ritual as behavior with no obvious direct survival f
 - [[Photography]] (1826 CE)
 
 **Observer essays**
+- [[Sacred Ground - Why Some Places Are Special]]
 - [[Why the Species Buries Its Dead]]
+- [[Why the Species Makes Things That Do Nothing]]
 
 <!-- /AUTO:members -->

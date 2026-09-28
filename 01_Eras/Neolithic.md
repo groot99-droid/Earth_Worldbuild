@@ -85,7 +85,9 @@ The Observer sees the Neolithic as a bargain with consequences: more food, more 
 - [[Irrigation Canals]] (5500 BCE)
 
 **Observer essays**
+- [[Sacred Ground - Why Some Places Are Special]]
 - [[Second Chances - How the Species Ran the Experiment Again]]
+- [[The Long Partnership - Domesticates and the Species]]
 - [[The Settling and Its Bargain]]
 
 <!-- /AUTO:members -->

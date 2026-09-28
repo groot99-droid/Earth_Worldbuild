@@ -127,5 +127,7 @@ The Observer notes that for the first time, every inhabited continent was in con
 
 **Observer essays**
 - [[Frontiers of Extraction]]
+- [[Institutionalized Doubt - How Strangers Learned to Check Each Other]]
+- [[Why Languages Die and Why Some Spread]]
 
 <!-- /AUTO:members -->

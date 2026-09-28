@@ -171,14 +171,20 @@ The Observer sees a species learning to release ancient stored sunlight as fuel.
 - [[Trans-Siberian Railway]] (1891 CE)
 - [[Radio]] (1895 CE)
 - [[X-ray Imaging]] (1895 CE)
+- [[Water Chlorination]] (1897 CE)
 - [[Airplane]] (1903 CE)
 - [[Haber-Bosch Process]] (1909 CE)
 - [[Insulin]] (1921 CE)
+- [[Liquid-Fueled Rocket]] (1926 CE)
 - [[Antibiotics]] (1928 CE)
 - [[Nuclear Fission]] (1938 CE)
 
 **Observer essays**
 - [[Sanctioned Harm]]
+- [[The Aftermath Problem - How Societies Remember Their Wars]]
 - [[The Fiction of Claim-Lines]]
+- [[Who Counts as a Person - The Long Argument over Status]]
+- [[Who Gets Credit for the Machine]]
+- [[Why the Same Discovery Happens Twice]]
 
 <!-- /AUTO:members -->

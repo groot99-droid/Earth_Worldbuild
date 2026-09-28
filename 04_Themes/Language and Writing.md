@@ -182,9 +182,13 @@ The Observer calls these the sound-code and the mark-code. It notes that languag
 - [[Telephone]] (1876 CE)
 - [[Radio]] (1895 CE)
 - [[Digital Computer]] (1945 CE)
+- [[Internet]] (1969 CE)
+- [[World Wide Web]] (1989 CE)
 
 **Observer essays**
+- [[Scripts as Borders - Writing and Identity]]
 - [[The Great Outsourcing of Memory]]
 - [[Who Writes the Record]]
+- [[Why Languages Die and Why Some Spread]]
 
 <!-- /AUTO:members -->

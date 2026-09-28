@@ -355,11 +355,15 @@ The Observer calls this sanctioned harm: violence that a group approves through 
 - [[Gunpowder]] (850 CE)
 - [[Cannon]] (1288 CE)
 - [[Nuclear Fission]] (1938 CE)
+- [[Nuclear Weapons]] (1945 CE)
 
 **Observer essays**
 - [[Frontiers of Extraction]]
 - [[Sanctioned Harm]]
 - [[Story-Glue - How Strangers Cooperate at Scale]]
+- [[The Aftermath Problem - How Societies Remember Their Wars]]
 - [[The Fiction of Claim-Lines]]
+- [[Who Counts as a Person - The Long Argument over Status]]
+- [[Why Empires Keep Forming]]
 
 <!-- /AUTO:members -->

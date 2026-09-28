@@ -577,6 +577,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1895 CE | [[Radio]] | technology | [[Industrial Age]] |
 | 1895 CE | [[X-ray Imaging]] | technology | [[Industrial Age]] |
 | 1896 CE | [[Battle of Adwa]] | event | [[Industrial Age]] |
+| 1897 CE | [[Water Chlorination]] | technology | [[Industrial Age]] |
 | 1898 CE to 1948 CE | [[Sergei Eisenstein]] | person | [[Industrial Age]] |
 | 1899 CE to 1901 CE | [[Boxer Rebellion]] | event | [[Industrial Age]] |
 | 1900 CE to 1978 CE | [[Funmilayo Ransome-Kuti]] | person | [[Information Age]] |
@@ -599,6 +600,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1919 CE to 1923 CE | [[Turkish War of Independence]] | event | [[Industrial Age]] |
 | 1920 CE to 1958 CE | [[Rosalind Franklin]] | person | [[Information Age]] |
 | 1921 CE | [[Insulin]] | technology | [[Industrial Age]] |
+| 1926 CE | [[Liquid-Fueled Rocket]] | technology | [[Industrial Age]] |
 | 1928 CE | [[Antibiotics]] | technology | [[Industrial Age]] |
 | 1932 CE to 1957 CE | [[Kolyma]] | place | [[Industrial Age]] |
 | 1933 CE to 1945 CE | [[Holocaust]] | event | [[Industrial Age]] |
@@ -614,14 +616,28 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1945 CE to 1975 CE | [[Decolonization]] | event | [[Information Age]] |
 | 1945 CE | [[Digital Computer]] | technology | [[Information Age]] |
 | 1945 CE | [[Nuclear Age]] | event | [[Information Age]] |
+| 1945 CE | [[Nuclear Weapons]] | technology | [[Information Age]] |
 | 1947 CE to 1991 CE | [[Cold War]] | event | [[Information Age]] |
 | 1947 CE | [[Partition of India]] | event | [[Information Age]] |
+| 1947 CE | [[Transistor]] | technology | [[Information Age]] |
+| 1949 CE | [[Radiocarbon Dating]] | technology | [[Information Age]] |
 | 1950 CE | [[Great Acceleration]] | event | [[Anthropocene]] |
 | 1953 CE | [[Genomic Revolution]] | event | [[Information Age]] |
+| 1954 CE | [[Photovoltaic Cell]] | technology | [[Information Age]] |
+| 1956 CE | [[Container Shipping]] | technology | [[Information Age]] |
 | 1957 CE | [[Space Age]] | event | [[Information Age]] |
+| 1958 CE | [[Integrated Circuit]] | technology | [[Information Age]] |
+| 1960 CE | [[Hormonal Contraception]] | technology | [[Information Age]] |
+| 1968 CE | [[Oral Rehydration Therapy]] | technology | [[Information Age]] |
 | 1969 CE | [[Digital Revolution]] | event | [[Information Age]] |
+| 1969 CE | [[Internet]] | technology | [[Information Age]] |
 | 1969 CE | [[Moon Landing]] | event | [[Information Age]] |
 | 1978 CE | [[Chinese Reform and Opening]] | event | [[Information Age]] |
+| 1978 CE | [[GPS]] | technology | [[Information Age]] |
 | 1989 CE to 1991 CE | [[Collapse of the Soviet Union]] | event | [[Information Age]] |
+| 1989 CE | [[World Wide Web]] | technology | [[Information Age]] |
+| 1994 CE | [[Smartphone]] | technology | [[Information Age]] |
+| 2012 CE | [[CRISPR Gene Editing]] | technology | [[Information Age]] |
 | 2019 CE to 2023 CE | [[COVID-19 Pandemic]] | event | [[Information Age]] |
+| 2020 CE | [[mRNA Vaccines]] | technology | [[Information Age]] |
 <!-- /AUTO:timeline -->

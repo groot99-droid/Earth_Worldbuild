@@ -311,8 +311,11 @@ The Observer calls these meaning-engines and treats them with respect: they are 
 - [[Gutenberg Bible]] (1455 CE)
 
 **Observer essays**
+- [[Sacred Ground - Why Some Places Are Special]]
 - [[Sanctioned Harm]]
 - [[Story-Glue - How Strangers Cooperate at Scale]]
+- [[Why Every Meaning-Engine Splits]]
+- [[Why Prophets Appear in Clusters]]
 - [[Why the Species Buries Its Dead]]
 
 <!-- /AUTO:members -->

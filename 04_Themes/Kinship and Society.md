@@ -253,13 +253,16 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 **Technologies**
 - [[Code of Hammurabi]] (1754 BCE)
 - [[Vaccination]] (1796 CE)
+- [[Hormonal Contraception]] (1960 CE)
 
 **Observer essays**
 - [[Fire, Then Everything]]
 - [[Second Chances - How the Species Ran the Experiment Again]]
 - [[Story-Glue - How Strangers Cooperate at Scale]]
 - [[The Fiction of Claim-Lines]]
+- [[The Kin-Lattice at Scale - From Households to States]]
 - [[The Settling and Its Bargain]]
+- [[Who Counts as a Person - The Long Argument over Status]]
 - [[Who Writes the Record]]
 - [[Why the Species Buries Its Dead]]
 

@@ -329,12 +329,15 @@ The Observer calls these exchange-webs and notes that they have no owner or cent
 - [[Telegraph and Submarine Cables]] (1844 CE)
 - [[Electrical Power Grid]] (1882 CE)
 - [[Trans-Siberian Railway]] (1891 CE)
+- [[Container Shipping]] (1956 CE)
 
 **Observer essays**
+- [[Cargo That Was Not Goods - What Exchange-Webs Carry]]
 - [[Frontiers of Extraction]]
 - [[Second Chances - How the Species Ran the Experiment Again]]
 - [[Story-Glue - How Strangers Cooperate at Scale]]
 - [[The Fiction of Claim-Lines]]
 - [[The Great Outsourcing of Memory]]
+- [[Why Strangers Trust Strangers - Money as Story-Glue]]
 
 <!-- /AUTO:members -->

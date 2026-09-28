@@ -118,4 +118,8 @@ The Observer notes that several distant societies, largely out of contact, devel
 - [[Zero and Place-Value Notation]] (300 CE)
 - [[Stirrup]] (302 CE)
 
+**Observer essays**
+- [[Cargo That Was Not Goods - What Exchange-Webs Carry]]
+- [[The Ratchet and Its Gaps - Why Some Tool-Lineages Stall]]
+
 <!-- /AUTO:members -->

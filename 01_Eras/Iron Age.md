@@ -93,4 +93,9 @@ The Observer sees the Iron Age as a democratization of tools and, therefore, of 
 - [[Coinage]] (625 BCE)
 - [[Cyrus Cylinder]] (539 BCE)
 
+**Observer essays**
+- [[Why Empires Keep Forming]]
+- [[Why Prophets Appear in Clusters]]
+- [[Why Strangers Trust Strangers - Money as Story-Glue]]
+
 <!-- /AUTO:members -->

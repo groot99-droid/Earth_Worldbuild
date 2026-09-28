@@ -152,8 +152,10 @@ The Observer cautions against a common habit: a small peninsula's history is oft
 - [[Electric Lighting]] (1878 CE)
 - [[Radio]] (1895 CE)
 - [[X-ray Imaging]] (1895 CE)
+- [[Water Chlorination]] (1897 CE)
 - [[Haber-Bosch Process]] (1909 CE)
 - [[Antibiotics]] (1928 CE)
 - [[Nuclear Fission]] (1938 CE)
+- [[World Wide Web]] (1989 CE)
 
 <!-- /AUTO:members -->
