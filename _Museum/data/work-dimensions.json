@@ -1,6 +1,6 @@
 {
  "_schema": "work-dimensions v1",
- "built": "2026-09-28T23:21Z",
+ "built": "2026-09-29T01:17Z",
  "notes": "Real-world sizes in metres (h_m × w_m); disp_* is what the museum hangs (scale < 1 = shown at 1:N). Add \"lock\": true to an entry to keep a hand correction.",
  "works": {
   "a-trip-to-the-moon": {
@@ -1113,7 +1113,8 @@
    "source": "default:handscroll",
    "scale": 1.0,
    "disp_h": 0.35,
-   "disp_w": 1.5625
+   "disp_w": 1.5625,
+   "tried": true
   },
   "genji-suzumushi": {
    "h_m": 0.35,
@@ -1126,7 +1127,8 @@
    "source": "default:handscroll",
    "scale": 1.0,
    "disp_h": 0.35,
-   "disp_w": 0.7955
+   "disp_w": 0.7955,
+   "tried": true
   },
   "genji-yadorigi": {
    "h_m": 0.35,
