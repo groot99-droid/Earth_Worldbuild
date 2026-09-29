@@ -49,7 +49,7 @@ SCHEMA = "work-dimensions v1"
 UA = "ChronicleMuseum/1.0 (https://github.com/groot99-droid/Earth_Worldbuild; groot99@icloud.com)"
 SPARQL = "https://query.wikidata.org/sparql"
 MIN_INTERVAL = 6.0      # s between requests: the Wikimedia edge allows a shared egress IP only a few per half minute
-ATTEMPTS = 4            # tries per request (429/5xx back off between them)
+ATTEMPTS = 5            # tries per request (429/5xx back off between them)
 
 # Display caps: a work taller/wider than this is shown at 1:N (the salon zone is 0.45–5.6 m
 # on a 7 m wall; 4.8 m keeps the widest work inside one wall bay).
@@ -217,6 +217,7 @@ class Net:
         cafile = os.environ.get("SSL_CERT_FILE") or os.environ.get("REQUESTS_CA_BUNDLE")
         self.ctx = ssl.create_default_context(cafile=cafile) if cafile else ssl.create_default_context()
         self.calls = 0
+        self.failures = 0   # requests given up on (rate limit, outage): the work is not marked as tried
 
     def get(self, url: str, params: dict | None = None, accept: str = "application/json"):
         if not self.enabled:
@@ -241,12 +242,14 @@ class Net:
                     pause = float(retry_after) if retry_after and retry_after.isdigit() else 20.0 * (attempt + 1)
                     time.sleep(min(60.0, max(20.0, pause)))
                     continue
+                self.failures += 1
                 print(f"  ! HTTP {e.code} for {url[:100]}", file=sys.stderr)
                 return None
             except (urllib.error.URLError, TimeoutError, OSError) as e:
                 if attempt < ATTEMPTS - 1:
                     time.sleep(3 * (attempt + 1))
                     continue
+                self.failures += 1
                 print(f"  ! {e} for {url[:100]}", file=sys.stderr)
                 return None
         return None
@@ -494,9 +497,10 @@ def main(argv: list[str]) -> int:
             need = True   # a default that was never looked up online
         if not need:
             continue
+        failures = net.failures
         e = resolve_one(work, artist, wings_by_id, net)
-        if not offline and e["source"].startswith("default:") and e["type"] in NET_TYPES:
-            e["tried"] = True
+        if not offline and e["source"].startswith("default:") and e["type"] in NET_TYPES and net.failures == failures:
+            e["tried"] = True   # looked up online with no usable answer; a failed request leaves it for the next run
         if old and old.get("lock"):
             continue
         cache[wid] = e
