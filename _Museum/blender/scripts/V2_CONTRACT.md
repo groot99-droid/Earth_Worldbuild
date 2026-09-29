@@ -1,3 +1,8 @@
+> **Status (2026-09):** the Blender route is retired. The viewer no longer loads a glTF: every scene (the Grand Hall hub
+> and the 16 gallery rooms) is generated at load time from `_Museum/data/museum-layout.json`, which `_Museum/build_layout.py`
+> writes. The naming contract in §2, the FX metadata in §6 and the material slots in §5 still describe what the viewer
+> expects; the Blender paths, tools and stage plan below are history. See `_Museum/README.md`.
+
 # Chronicle Museum v2 — build contract (every agent reads this first)
 
 Goal: Phase 0–2 of the Hyper-Realism Pass. Make the museum read as "Louvre": refined neoclassical galleries and

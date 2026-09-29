@@ -2,11 +2,13 @@
 // can put them back. Storage access is wrapped: private windows and file:// pages may throw.
 import * as THREE from 'three';
 
-const KEY = 'chronicle-museum.pos.v1';
+const KEY = 'chronicle-museum.pos.v2';
 
-export function createPersist({ camera, controls, enabled = true }) {
+export function createPersist({ camera, controls, enabled = true, scenes: scenesIn = null }) {
+  let scenes = scenesIn;
   let acc = 0;
   let last = null;
+  function setScenes(s) { scenes = s; }
 
   function read() {
     try {
@@ -20,7 +22,9 @@ export function createPersist({ camera, controls, enabled = true }) {
       const { yaw, pitch } = controls.getLook();
       const p = camera.position;
       last = [p.x, p.y, p.z];
-      localStorage.setItem(KEY, JSON.stringify({ p: last, yaw, pitch, t: Date.now() }));
+      const sceneId = scenes ? scenes.currentId() : null;
+      if (scenes && !sceneId) return false;
+      localStorage.setItem(KEY, JSON.stringify({ p: last, yaw, pitch, scene: sceneId, t: Date.now() }));
       return true;
     } catch (e) { return false; }
   }
@@ -28,9 +32,15 @@ export function createPersist({ camera, controls, enabled = true }) {
     try { localStorage.removeItem(KEY); } catch (e) { /* ignore */ }
   }
   function hasSave() { return read() !== null; }
-  function restore() {
-    const s = read();
+  async function restore(record = null) {
+    const s = record || read();
     if (!s) return false;
+    if (scenes) {
+      const id = s.scene && scenes.sceneRecord && scenes.sceneRecord(s.scene) ? s.scene : 'hub';
+      if (scenes.currentId() !== id) await scenes.enter(id, { fade: true });
+      else if (scenes.currentId() === null) await scenes.enter('hub', { fade: false });
+      if (id !== s.scene) return true; // unknown scene: the hub's spawn will do
+    }
     controls.teleport(new THREE.Vector3(s.p[0], s.p[1], s.p[2]), { yaw: s.yaw || 0, pitch: s.pitch || 0 });
     return true;
   }
@@ -44,5 +54,5 @@ export function createPersist({ camera, controls, enabled = true }) {
   }
   document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'hidden') save(); });
 
-  return { save, restore, hasSave, tick, read, clear, KEY };
+  return { save, restore, hasSave, tick, read, clear, setScenes, KEY };
 }

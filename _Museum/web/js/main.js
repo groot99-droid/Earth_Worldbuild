@@ -1,26 +1,24 @@
 import * as THREE from 'three';
-import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
-import { blenderToThree, threeToBlender } from './coords.js';
+import { threeToBlender } from './coords.js';
 import { createControls } from './controls.js';
 import { createInteractions } from './interactions.js';
 import { createWaypointTrail } from './waypoints.js';
-import { readRenderOptions, configureRenderer, setupEnvironment, createPipeline, resolveModelUrl } from './render.js';
-import { createLightRig, collectRooms, makeRoomAt } from './lights.js';
-import { patchMaterials } from './materials.js';
-import { createDebug, applyFraming } from './debug.js';
-import { createGeoFactory, applyMezzaninePatch } from './procgeo.js';
+import { readRenderOptions, configureRenderer, setupEnvironment, createPipeline } from './render.js';
+import { createLightRig } from './lights.js';
+import { createDebug } from './debug.js';
 import { createHud } from './hud.js';
 import { createNavigate } from './navigate.js';
 import { createTour } from './tour.js';
 import { createUI } from './ui.js';
 import { createTouchControls } from './touch.js';
 import { createPersist } from './persist.js';
-import { buildProceduralWing } from './procwing.js';
+import { createMaterialLibrary } from './matlib.js';
+import { createModels } from './models.js';
+import { createTitleCard } from './titlecard.js';
+import { createScenes } from './scenes.js';
 
 const MANIFEST_URL = '../data/museum-manifest.json';
-const MODEL_URL = '../export/museum.gltf';
-const MODEL_V2_URL = '../export/museum_v2.gltf'; // ?v2 (falls back to MODEL_URL)
-const RENDER_OPTS = readRenderOptions(window.location.search); // ?classic ?exposure= ?debug ?view= ?test ...
+const RENDER_OPTS = readRenderOptions(window.location.search); // ?classic ?exposure= ?debug ?view= ?test ?room= ?work= ?wing=0 ...
 
 const loadingEl = document.getElementById('loading');
 const blockerEl = document.getElementById('blocker');
@@ -62,8 +60,24 @@ export function buildManifestIndex(manifest) {
   return { wings, wingsById, byMeshName, byWorkId, flatWorks, suggestNext };
 }
 
+// ?wing=0: leave the People wing out (its rooms, doors, artists and menu entries).
+function dropWing(manifest, wingId) {
+  const wing = (manifest.wings || []).find((w) => w.id === wingId);
+  if (!wing) return manifest;
+  const gone = new Set(wing.rooms || []);
+  manifest.wings = manifest.wings.filter((w) => w.id !== wingId);
+  manifest.artists = manifest.artists.filter((a) => (a.wing || 'art-talk') !== wingId);
+  manifest.rooms = manifest.rooms.filter((r) => !gone.has(r.id));
+  for (const r of manifest.rooms) {
+    r.connects_to = (r.connects_to || []).filter((id) => !gone.has(id));
+    for (const id of Object.keys(r.doors || {})) if (gone.has(id)) delete r.doors[id];
+  }
+  return manifest;
+}
+
 async function main() {
   const manifest = await fetch(MANIFEST_URL).then((r) => r.json());
+  if (!RENDER_OPTS.wing) dropWing(manifest, 'people');
   const manifestIndex = buildManifestIndex(manifest);
   const roomsById = new Map(manifest.rooms.map((r) => [r.id, r]));
 
@@ -71,9 +85,7 @@ async function main() {
   scene.background = new THREE.Color(0x0a0806);
 
   const camera = new THREE.PerspectiveCamera(70, window.innerWidth / window.innerHeight, 0.05, 500);
-  const startRoom = roomsById.get('rotunda');
-  const startPos = blenderToThree(startRoom.position);
-  camera.position.set(startPos.x, 1.7, startPos.z + 3);
+  camera.position.set(0, 1.7, 3);
 
   const renderer = new THREE.WebGLRenderer({ antialias: true });
   renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
@@ -97,92 +109,34 @@ async function main() {
   const hemi = new THREE.HemisphereLight(0x9a9488, 0x2a231a, 0.6);
   if (RENDER_OPTS.classic) scene.add(hemi); // otherwise lights.js owns the fill light
 
-  const wallMeshes = [];
-  const floorMeshes = [];
-  const artMeshes = [];
+  // The shared mesh lists: refilled in place by the scene manager on every switch.
+  const lists = { walls: [], floors: [], art: [], doors: [], pickables: [] };
+  const wallMeshes = lists.walls, floorMeshes = lists.floors, artMeshes = lists.art;
 
-  let modelUrl = await resolveModelUrl(RENDER_OPTS, MODEL_URL, MODEL_V2_URL);
-  let gltf;
-  try {
-    gltf = await new GLTFLoader().loadAsync(modelUrl);
-  } catch (err) {
-    if (modelUrl === MODEL_URL) throw err;
-    console.warn(`[museum] ${modelUrl} failed to load (${err.message}); falling back to ${MODEL_URL}`);
-    modelUrl = MODEL_URL;
-    gltf = await new GLTFLoader().loadAsync(modelUrl);
-  }
-  scene.add(gltf.scene);
+  const matlib = createMaterialLibrary(renderer);
+  const models = createModels(renderer);
+  const lights = RENDER_OPTS.classic ? null : createLightRig(scene, renderer, { lightGain: RENDER_OPTS.lightGain });
+  const titlecard = createTitleCard();
 
-  // Procedural geometry is added under gltf.scene BEFORE the classification below, so
-  // collision, floor-following, materials, lights and placards treat it like exported geometry.
-  const geoFactory = createGeoFactory(gltf.scene);
-  if (!RENDER_OPTS.nopatch) applyMezzaninePatch(geoFactory);
-  const procwing = RENDER_OPTS.wing ? await buildProceduralWing(manifest, gltf.scene, { camera, renderer }) : null; // ?wing=0 skips it
-  gltf.scene.updateMatrixWorld(true);
+  const controls = createControls(camera, renderer.domElement, () => ({ walls: lists.walls, floors: lists.floors }));
 
-  gltf.scene.traverse((obj) => {
-    if (!obj.isMesh || !obj.visible) return;
-    const name = obj.name || '';
-    if (name.startsWith('ART-')) {
-      artMeshes.push(obj);
-    } else if (name.includes('wall') || name.includes('outer')) {
-      wallMeshes.push(obj);
-    } else if (name.includes('floor') || name.includes('landing') || name.includes('step')) {
-      floorMeshes.push(obj);
-    }
-  });
-
-  const geoRooms = collectRooms(gltf.scene);
-  const roomAt = makeRoomAt(geoRooms);
-  const materialStats = RENDER_OPTS.classic
-    ? null
-    : patchMaterials(gltf.scene, renderer, { envIntensity: RENDER_OPTS.envIntensity });
-  const lights = RENDER_OPTS.classic
-    ? null
-    : createLightRig(scene, renderer, { root: gltf.scene, lightGain: RENDER_OPTS.lightGain, rooms: geoRooms });
-
-  const waypointTrail = createWaypointTrail(scene, manifest, camera);
-
-  const controls = createControls(camera, renderer.domElement, () => ({
-    walls: wallMeshes,
-    floors: floorMeshes,
-  }));
+  let scenes = null; // created below (needs hud/interactions); referenced through closures
+  const currentScene = () => (scenes ? scenes.currentId() : null);
+  const waypointTrail = createWaypointTrail(scene, manifest, camera, { currentScene });
 
   function getCurrentRoomId() {
-    // Level-aware: the room whose floor mesh is under the camera when it is a manifest room;
-    // otherwise the nearest manifest room on the camera's floor. (Plain 2-D nearest picked
-    // upper-floor Gallery F while standing in Gallery A.)
-    const r = roomAt(camera.position);
+    // The geo room under the camera when it is a manifest room, else the scene itself (every
+    // scene is a manifest room: the hub or one gallery).
+    const r = scenes ? scenes.roomAt(camera.position) : null;
     if (r && roomsById.has(r.manifestId)) return r.manifestId;
-    const feetY = camera.position.y - controls.EYE_HEIGHT;
-    let best = manifest.rooms[0].id;
-    let bestDist = Infinity;
-    for (const room of manifest.rooms) {
-      const p = blenderToThree(room.position);
-      const dx = camera.position.x - p.x;
-      const dz = camera.position.z - p.z;
-      const d = dx * dx + dz * dz + (Math.abs(p.y - feetY) > 3 ? 1e4 : 0);
-      if (d < bestDist) {
-        bestDist = d;
-        best = room.id;
-      }
-    }
-    return best;
+    return currentScene() || manifest.rooms[0].id;
   }
-
-  const debug = createDebug({
-    renderer, scene, camera, pipeline, lights, controls, manifest,
-    roomAt,
-    opts: RENDER_OPTS,
-    info: { model: modelUrl.split('/').pop(), materials: materialStats, ...envInfo },
-  });
 
   const interactions = createInteractions(camera, manifestIndex, waypointTrail, controls.isLocked, getCurrentRoomId, {
     domElement: renderer.domElement,
-    walls: () => wallMeshes,
+    walls: () => lists.walls,
     groundY: controls.groundY,
   });
-  interactions.setArtMeshes(artMeshes);
 
   function enter({ pointerLock = true } = {}) {
     blockerEl.classList.add('hidden');
@@ -195,13 +149,31 @@ async function main() {
   const exploreBtn = document.getElementById('btn-explore');
   if (exploreBtn) exploreBtn.addEventListener('click', () => enter());
 
-  const hud = createHud({ camera, rooms: geoRooms, roomsById, manifest, artMeshes, controls, lights });
+  const hud = createHud({
+    camera, rooms: new Map(), roomsById, manifest, artMeshes: lists.art, controls, lights,
+    onDoor: (id) => scenes && scenes.enter(id, { via: currentScene() }),
+  });
+  const persist = createPersist({ camera, controls, enabled: !RENDER_OPTS.test, scenes: null });
+  scenes = createScenes({
+    scene, renderer, camera, controls, manifest, manifestIndex, roomsById, lights, hud, interactions, waypointTrail,
+    matlib, models, titlecard, persist, opts: RENDER_OPTS, lists,
+  });
+  persist.setScenes && persist.setScenes(scenes);
+  interactions.onDoor((leaf) => scenes.enter(leaf.userData.target, { via: currentScene() }));
+
+  const debug = createDebug({
+    renderer, scene, camera, pipeline, lights, controls, manifest,
+    roomAt: (p) => scenes.roomAt(p),
+    scenes,
+    opts: RENDER_OPTS,
+    info: { model: 'layout', ...envInfo },
+  });
+
   const navigate = createNavigate({
     manifest, manifestIndex, camera, controls, interactions, waypointTrail, getCurrentRoomId,
-    teleportToRoom: hud.teleportToRoom, lights, fade: hud.fade,
+    teleportToRoom: (id) => scenes.teleportToRoom(id), lights, fade: hud.fade, scenes,
   });
-  const tour = createTour({ manifestIndex, roomsById, camera, controls, interactions, getCurrentRoomId, roomAt, opts: { dwell: RENDER_OPTS.tourDwell } });
-  const persist = createPersist({ camera, controls, enabled: !RENDER_OPTS.test });
+  const tour = createTour({ manifestIndex, roomsById, camera, controls, interactions, getCurrentRoomId, scenes, waypointTrail, roomAt: (p) => scenes.roomAt(p), opts: { dwell: RENDER_OPTS.tourDwell } });
   const ui = createUI({ manifest, manifestIndex, controls, interactions, hud, navigate, tour, persist, enter });
   const touch = createTouchControls({ domElement: renderer.domElement, controls, interactions });
 
@@ -218,7 +190,7 @@ async function main() {
     hud.update(delta);
     persist.tick(delta);
     ui.update(delta);
-    if (procwing) procwing.update(delta);
+    scenes.update(delta);
 
     const currentRoomId = getCurrentRoomId();
     if (currentRoomId !== lastRoomId) {
@@ -252,10 +224,10 @@ async function main() {
   function snapshot() {
     const p = camera.position;
     const look = controls.getLook();
-    const geo = roomAt(camera.position);
+    const geo = scenes.roomAt(camera.position);
     return {
       pos: [p.x, p.y, p.z], blender: threeToBlender(p), yaw: look.yaw, pitch: look.pitch,
-      room: getCurrentRoomId(), geoRoom: geo ? geo.id : null,
+      room: getCurrentRoomId(), geoRoom: geo ? geo.id : null, scene: currentScene(),
     };
   }
   function step(dt = 1 / 60, n = 1) {
@@ -263,7 +235,7 @@ async function main() {
     return snapshot();
   }
   function probeArt() {
-    const hit = interactions.pickArt();
+    const hit = interactions.pick();
     return hit ? hit.name : null;
   }
 
@@ -281,22 +253,31 @@ async function main() {
   }
 
   window.museumDebug = {
-    THREE, camera, scene, wallMeshes, floorMeshes, artMeshes, manifest, manifestIndex, roomsById,
-    rooms: geoRooms, roomAt, controls, renderer, pipeline, lights, renderOnce, renderOptions: RENDER_OPTS,
-    materialStats, modelUrl, interactions, waypointTrail, geoFactory, hud, navigate, tour, persist, ui, touch, procwing,
+    THREE, camera, scene, wallMeshes, floorMeshes, artMeshes, lists, manifest, manifestIndex, roomsById,
+    get rooms() { return scenes.geoRooms(); }, roomAt: (p) => scenes.roomAt(p),
+    controls, renderer, pipeline, lights, renderOnce, renderOptions: RENDER_OPTS,
+    interactions, waypointTrail, hud, navigate, tour, persist, ui, touch, scenes, models, matlib, titlecard,
+    enterRoom: (id, opts) => scenes.enter(id, opts), get layout() { return scenes.layout; },
     simulate, frame, step, snapshot, probeArt, setAutoLoop, getCurrentRoomId, enter,
     setView: (name) => debug.setView(name).then((ok) => { renderOnce(); return ok; }),
-    applyFraming: (f) => { applyFraming(camera, f); controls.syncLook(); if (lights) lights.update(camera, 0, true); renderOnce(); },
     measure: debug.measure, probe: debug.probe, tune: debug.tune,
     ready: false,
   };
 
+  // ---- start: pick the first scene, then honour the deep links --------------------------
+  await scenes.layoutReady;
+  const workEntry = RENDER_OPTS.work ? manifestIndex.byWorkId.get(RENDER_OPTS.work) : null;
+  const saved = RENDER_OPTS.resume ? persist.read() : null;
+  let startScene = 'hub';
+  if (RENDER_OPTS.room && scenes.sceneRecord(RENDER_OPTS.room)) startScene = RENDER_OPTS.room;
+  else if (workEntry && scenes.sceneRecord(workEntry.room)) startScene = workEntry.room;
+  else if (saved && saved.scene && scenes.sceneRecord(saved.scene)) startScene = saved.scene;
+  await scenes.enter(startScene, { fade: false });
   await interactions.rewritesReady; // the placard overlay is small and local; ready means fully loaded
   loadingEl.classList.add('hidden');
-  // Deep links: ?work=<id> / ?room=<id> / ?resume=1 skip the blocker.
-  if (RENDER_OPTS.work && navigate.goToWork(RENDER_OPTS.work)) enter({ pointerLock: false });
-  else if (RENDER_OPTS.room && hud.teleportToRoom(RENDER_OPTS.room)) enter({ pointerLock: false });
-  else if (RENDER_OPTS.resume && persist.restore()) enter({ pointerLock: false });
+  if (workEntry) { await navigate.goToWork(RENDER_OPTS.work); enter({ pointerLock: false }); }
+  else if (RENDER_OPTS.room && startScene === RENDER_OPTS.room) enter({ pointerLock: false });
+  else if (saved) { await persist.restore(saved); enter({ pointerLock: false }); }
   window.museumDebug.ready = true;
   if (autoLoop) animate();
   else renderOnce();

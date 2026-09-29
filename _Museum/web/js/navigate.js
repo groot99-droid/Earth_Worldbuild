@@ -7,7 +7,7 @@ function esc(t) {
   return String(t).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 }
 
-export function createNavigate({ manifest, manifestIndex, camera, controls, interactions, waypointTrail, getCurrentRoomId, teleportToRoom = null, lights = null, fade = null }) {
+export function createNavigate({ manifest, manifestIndex, camera, controls, interactions, waypointTrail, getCurrentRoomId, teleportToRoom = null, lights = null, fade = null, scenes = null }) {
   const roomsById = new Map(manifest.rooms.map((r) => [r.id, r]));
 
   const panel = document.createElement('div');
@@ -115,8 +115,12 @@ export function createNavigate({ manifest, manifestIndex, camera, controls, inte
     return visibleCount;
   }
 
-  // Stand in front of the work (and open its placard).
-  function goToEntry(entry, { open = true, distance = 2.2 } = {}) {
+  // Stand in front of the work (and open its placard), entering its room's scene first.
+  async function goToEntry(entry, { open = true, distance = null } = {}) {
+    if (scenes && scenes.currentId() !== entry.room) {
+      const w = await scenes.enter(entry.room, { via: null, fade: true });
+      if (!w) return false;
+    }
     const spot = interactions.spotFor(entry, distance);
     if (!spot) return false;
     if (fade) fade();
@@ -129,7 +133,7 @@ export function createNavigate({ manifest, manifestIndex, camera, controls, inte
   }
   function goToWork(workId, opts) {
     const entry = manifestIndex.byWorkId.get(workId);
-    return entry ? goToEntry(entry, opts) : false;
+    return entry ? goToEntry(entry, opts) : Promise.resolve(false);
   }
   function guideTo(entry) {
     waypointTrail.showPathTo(getCurrentRoomId(), entry.room, camera.position);
@@ -138,6 +142,7 @@ export function createNavigate({ manifest, manifestIndex, camera, controls, inte
   function open() {
     isOpen = true;
     panel.classList.add('open');
+    if (document.pointerLockElement && document.exitPointerLock) document.exitPointerLock(); // the panel is clicked with a free cursor
     // focus once the slide-in has started; never grab it if the panel was closed meanwhile
     // (a focused hidden input would swallow every hotkey)
     setTimeout(() => { if (isOpen) input.focus({ preventScroll: true }); }, 50);

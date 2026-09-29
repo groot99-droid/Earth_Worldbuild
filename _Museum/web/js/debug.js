@@ -6,22 +6,6 @@
 // Camera position is shown in BLENDER coordinates (x, y-north, z-up) = three (x, -z, y).
 import * as THREE from 'three';
 
-export const FRAMINGS_URL = '../blender/scripts/framings.json';
-
-let framingsPromise = null;
-export function loadFramings() {
-  if (!framingsPromise) {
-    framingsPromise = fetch(FRAMINGS_URL)
-      .then((r) => (r.ok ? r.json() : Promise.reject(new Error(`HTTP ${r.status}`))))
-      .then((j) => j.framings || {})
-      .catch((e) => {
-        console.warn('[museum] framings.json unavailable:', e.message);
-        framingsPromise = null;
-        return {};
-      });
-  }
-  return framingsPromise;
-}
 
 // Blender Z-up -> three Y-up
 function b2t([x, y, z]) { return new THREE.Vector3(x, z, -y); }
@@ -51,7 +35,7 @@ function makeOverlay() {
   return el;
 }
 
-export function createDebug({ renderer, scene, camera, pipeline, lights, controls, manifest, roomAt, opts, info = {} }) {
+export function createDebug({ renderer, scene, camera, pipeline, lights, controls, manifest, roomAt, opts, info = {}, scenes = null }) {
   const overlay = opts.debug ? makeOverlay() : null;
   let frames = 0;
   let acc = 0;
@@ -59,25 +43,10 @@ export function createDebug({ renderer, scene, camera, pipeline, lights, control
   let sinceText = 0;
   let viewName = null;
 
-  function nearestManifestRoom() {
-    if (!manifest) return null;
-    let best = null;
-    let bd = Infinity;
-    const feetY = camera.position.y - 1.7;
-    for (const r of manifest.rooms) {
-      const p = b2t(r.position);
-      // same floor only (the museum stacks Gallery F over Gallery A)
-      const d = (camera.position.x - p.x) ** 2 + (camera.position.z - p.z) ** 2 + (Math.abs(p.y - feetY) > 3 ? 1e4 : 0);
-      if (d < bd) { bd = d; best = r; }
-    }
-    return best;
-  }
-
   function roomLabel() {
     const geo = roomAt ? roomAt(camera.position) : null;
-    const man = nearestManifestRoom();
     const g = geo ? geo.id : '-';
-    return `${g}  (manifest: ${man ? man.id : '-'})`;
+    return `${g}  (scene: ${scenes ? scenes.currentId() || '-' : '-'})`;
   }
 
   function text() {
@@ -89,7 +58,7 @@ export function createDebug({ renderer, scene, camera, pipeline, lights, control
       `textures ${r.memory.textures}   geometries ${r.memory.geometries}   programs ${r.programs ? r.programs.length : '?'}`,
       `cam (blender) ${bl}   fov ${camera.fov.toFixed(1)}${viewName ? `   view ${viewName}` : ''}`,
       `room ${roomLabel()}`,
-      `model ${info.model || '?'}   pipeline ${pipeline ? pipeline.mode : '?'}   env ${info.environment || '-'}   bg ${info.background || '-'}`,
+      `scene ${scenes ? scenes.currentId() || '?' : '?'}   pipeline ${pipeline ? pipeline.mode : '?'}   env ${info.environment || '-'}   bg ${info.background || '-'}`,
     ];
     if (pipeline && pipeline.state) {
       const s = pipeline.state();
@@ -120,14 +89,13 @@ export function createDebug({ renderer, scene, camera, pipeline, lights, control
   }
 
   async function setView(name) {
-    const framings = await loadFramings();
-    const f = framings[name];
-    if (!f) {
-      console.warn(`[museum] unknown framing "${name}". Known: ${Object.keys(framings).join(', ')}`);
+    if (!scenes) return false;
+    const r = scenes.applyView(name);
+    if (!r) {
+      console.warn(`[museum] unknown view "${name}". Known: ${scenes.views().join(', ')}`);
       return false;
     }
-    applyFraming(camera, f);
-    if (controls && controls.syncLook) controls.syncLook();
+    await r;
     viewName = name;
     const blocker = document.getElementById('blocker');
     if (blocker) blocker.classList.add('hidden');
@@ -135,6 +103,7 @@ export function createDebug({ renderer, scene, camera, pipeline, lights, control
     if (overlay) overlay.textContent = text();
     return true;
   }
+  function loadFramings() { return Promise.resolve(scenes ? scenes.views() : []); }
 
   // ---- look-dev helpers (window.museumDebug.measure / probe / tune) -------------------------
   // All of them render one frame first (renderOnce), because a hidden tab does not run rAF.

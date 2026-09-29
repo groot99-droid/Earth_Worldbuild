@@ -48,13 +48,14 @@ jobs:
             --exclude='07_Sources' \
             --exclude='08_Canvas_Maps' \
             --exclude='_Templates' \
+            --exclude='_Museum/blender' \
+            --exclude='_Museum/tools' \
+            --exclude='__pycache__' \
             ./ "$STAGE"/
 
-          # _Museum/blender/ is ~49MB of Blender source (.blend files,
-          # review screenshots); the museum page only reads
-          # scripts/framings.json out of it.
-          find "$STAGE/_Museum/blender" -mindepth 1 -maxdepth 1 ! -name scripts -exec rm -rf {} +
-          find "$STAGE/_Museum/blender/scripts" -mindepth 1 ! -name framings.json -exec rm -rf {} +
+          # The museum viewer reads only _Museum/data, _Museum/assets and _Museum/web
+          # (plus Art-Talk-main/images and _Site/images for the works); the Blender
+          # spec folder and the Playwright harness are dev-only.
 
           # Actions-based Pages deploys don't run Jekyll by default, but
           # make it explicit given how many folders here start with "_".

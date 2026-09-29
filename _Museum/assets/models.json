@@ -1,0 +1,1139 @@
+{
+ "_schema": "models v1",
+ "_doc": "Curated third-party 3D models the museum places on pedestals, walls, ceilings and floors. fetch_models.py downloads them into assets/models/<id>/ and fills in file/bytes/bbox_m. Smithsonian packages are CC0 Voyager scenes (3d-api.si.edu); Poly Haven assets are CC0 (polyhaven.com). A `local` entry is a hand-dropped file (e.g. a Scan the World CC-BY-NC scan converted to GLB) that the fetcher only validates. target_h is the height the model is shown at (metres, its real size unless noted).",
+ "budget_mb": 45,
+ "models": {
+  "si-greek-slave": {
+   "source": "smithsonian",
+   "package": "3d_package:8edffe56-c358-4c3a-a61f-019f615ccef0",
+   "quality": "Low",
+   "title": "Model of the Greek Slave",
+   "artist": "Hiram Powers",
+   "date": "1843",
+   "museum": "Smithsonian American Art Museum",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/model-greek-slave:8edffe56-c358-4c3a-a61f-019f615ccef0",
+   "target_h": 1.69,
+   "pinned": true,
+   "file": "model.glb",
+   "bytes": 854724,
+   "units": "in",
+   "bbox_m": [
+    0.5099,
+    1.6828,
+    0.5004
+   ],
+   "bbox_min_m": [
+    -0.2795,
+    -0.6303,
+    -1.3465
+   ],
+   "voyager_rotation": [
+    1.3e-05,
+    -0.7075367,
+    -5.7e-06,
+    0.7066766
+   ],
+   "draco": true,
+   "faces": 150000,
+   "image_size": 1024,
+   "preview": "preview.jpg"
+  },
+  "si-greenough-washington": {
+   "source": "smithsonian",
+   "package": "3d_package:789cf90a-4387-4ac1-9e96-c7d6a7b9d26f",
+   "quality": "Low",
+   "title": "George Washington",
+   "artist": "Horatio Greenough",
+   "date": "1840",
+   "museum": "Smithsonian American Art Museum",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/george-washington:789cf90a-4387-4ac1-9e96-c7d6a7b9d26f",
+   "target_h": 3.45,
+   "pinned": true,
+   "file": "model.glb",
+   "bytes": 1002248,
+   "units": "mm",
+   "bbox_m": [
+    2.8437,
+    3.6771,
+    2.339
+   ],
+   "bbox_min_m": [
+    -1.1472,
+    0.158,
+    -1.0425
+   ],
+   "voyager_rotation": [
+    0.0013064,
+    -0.757188,
+    0.0015144,
+    0.653194
+   ],
+   "draco": true,
+   "faces": 150000,
+   "image_size": 1024,
+   "preview": "preview.jpg"
+  },
+  "si-old-arrow-maker": {
+   "source": "smithsonian",
+   "package": "3d_package:082c87e9-1fe0-4772-b4c6-fe6d59bd6e74",
+   "quality": "Thumb",
+   "title": "Old Arrow Maker",
+   "artist": "Edmonia Lewis",
+   "date": "1872",
+   "museum": "Smithsonian American Art Museum",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/old-arrow-maker:082c87e9-1fe0-4772-b4c6-fe6d59bd6e74",
+   "target_h": 0.545,
+   "units": "m",
+   "bbox_m": [
+    0.3389,
+    0.5153,
+    0.3289
+   ],
+   "bbox_min_m": [
+    -0.1559,
+    -0.0012,
+    -0.168
+   ],
+   "voyager_rotation": null,
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": null,
+   "file": "model.glb",
+   "bytes": 162372
+  },
+  "si-dying-tecumseh": {
+   "source": "smithsonian",
+   "package": "3d_package:a572abe8-d60a-4ad5-aa86-6609e85ec4a6",
+   "quality": "Low",
+   "title": "The Dying Tecumseh",
+   "artist": "Ferdinand Pettrich",
+   "date": "1856",
+   "museum": "Smithsonian American Art Museum",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/dying-tecumseh:a572abe8-d60a-4ad5-aa86-6609e85ec4a6",
+   "target_h": 0.93,
+   "file": "model.glb",
+   "bytes": 900588,
+   "units": "m",
+   "bbox_m": [
+    1.9701,
+    1.0147,
+    1.567
+   ],
+   "bbox_min_m": [
+    -0.8945,
+    -0.004,
+    -0.5841
+   ],
+   "voyager_rotation": null,
+   "draco": true,
+   "faces": 150000,
+   "image_size": 1024,
+   "preview": null
+  },
+  "si-wounded-scout": {
+   "source": "smithsonian",
+   "package": "3d_package:a09bb967-a8b8-46a2-9322-37b25a452b46",
+   "quality": "Thumb",
+   "title": "The Wounded Scout, a Friend in the Swamp",
+   "artist": "John Rogers",
+   "date": "1864",
+   "museum": "Smithsonian American Art Museum",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/wounded-scout-friend-swamp:a09bb967-a8b8-46a2-9322-37b25a452b46",
+   "target_h": 0.563,
+   "file": "model.glb",
+   "bytes": 177796,
+   "units": "m",
+   "bbox_m": [
+    0.2856,
+    0.5631,
+    0.2166
+   ],
+   "bbox_min_m": [
+    -0.1478,
+    -0.0002,
+    -0.1182
+   ],
+   "voyager_rotation": null,
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": null
+  },
+  "si-girl-skating": {
+   "source": "smithsonian",
+   "package": "3d_package:e8d1f790-28a8-492d-84f5-cf2817f8cdcf",
+   "quality": "Thumb",
+   "title": "Girl Skating",
+   "artist": "Abastenia St. Leger Eberle",
+   "date": "1906",
+   "museum": "Smithsonian American Art Museum",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/girl-skating:e8d1f790-28a8-492d-84f5-cf2817f8cdcf",
+   "target_h": 0.328,
+   "file": "model.glb",
+   "bytes": 134840,
+   "units": "m",
+   "bbox_m": [
+    0.2775,
+    0.3307,
+    0.1718
+   ],
+   "bbox_min_m": [
+    -0.152,
+    -0.0002,
+    -0.0923
+   ],
+   "voyager_rotation": null,
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": null
+  },
+  "si-waterston-bust": {
+   "source": "smithsonian",
+   "package": "3d_package:d825c526-69dd-472a-8d47-7da7fbe88fb7",
+   "quality": "Thumb",
+   "title": "Helen Ruthven Waterston",
+   "artist": "Edmonia Lewis",
+   "date": "1862",
+   "museum": "Smithsonian American Art Museum",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/helen-ruthven-waterston:d825c526-69dd-472a-8d47-7da7fbe88fb7",
+   "target_h": 0.302,
+   "file": "model.glb",
+   "bytes": 137360,
+   "units": "m",
+   "bbox_m": [
+    0.1884,
+    0.1297,
+    0.303
+   ],
+   "bbox_min_m": [
+    -0.0944,
+    -0.0455,
+    -0.3129
+   ],
+   "voyager_rotation": [
+    0.0019998,
+    0.0149994,
+    -3e-05,
+    0.9998855
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": null
+  },
+  "si-cosmic-buddha": {
+   "source": "smithsonian",
+   "package": "3d_package:d8c62be8-4ebc-11ea-b77f-2e728ce88125",
+   "quality": "Low",
+   "title": "Buddha draped in robes portraying the Realms of Desire (the Cosmic Buddha)",
+   "artist": "Northern Qi dynasty, China",
+   "date": "550–577",
+   "museum": "National Museum of Asian Art (Freer Gallery)",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/cosmic-buddha:d8c62be8-4ebc-11ea-b77f-2e728ce88125",
+   "target_h": 1.513,
+   "file": "model.glb",
+   "bytes": 907128,
+   "units": "mm",
+   "bbox_m": [
+    0.5896,
+    1.5147,
+    0.5441
+   ],
+   "bbox_min_m": [
+    -0.3243,
+    -0.1544,
+    0.4899
+   ],
+   "voyager_rotation": [
+    0,
+    0.9454587,
+    0,
+    -0.3257419
+   ],
+   "draco": true,
+   "faces": 150000,
+   "image_size": 1024,
+   "preview": "preview.jpg"
+  },
+  "si-winged-monster": {
+   "source": "smithsonian",
+   "package": "3d_package:0dc68216-3651-44c7-99cf-18e5d4d1eb9f",
+   "quality": "Thumb",
+   "title": "Kneeling winged monster",
+   "artist": "Northern Qi dynasty, China",
+   "date": "550–577",
+   "museum": "National Museum of Asian Art (Freer Gallery)",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/kneeling-winged-monster:0dc68216-3651-44c7-99cf-18e5d4d1eb9f",
+   "target_h": 0.884,
+   "units": "mm",
+   "bbox_m": [
+    0.4928,
+    0.8693,
+    0.4066
+   ],
+   "bbox_min_m": [
+    -0.8482,
+    0.0429,
+    -0.2454
+   ],
+   "voyager_rotation": null,
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": "preview.jpg",
+   "file": "model.glb",
+   "bytes": 161720
+  },
+  "si-gathering-of-buddhas": {
+   "source": "smithsonian",
+   "package": "3d_package:476ad7f6-6add-448d-af7f-9f2ca9ba9cb6",
+   "quality": "Low",
+   "title": "Gathering of Buddhas and bodhisattvas",
+   "artist": "Northern Qi dynasty, China",
+   "date": "550–577",
+   "museum": "National Museum of Asian Art (Freer Gallery)",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/gathering-buddhas-and-bodhisattvas:476ad7f6-6add-448d-af7f-9f2ca9ba9cb6",
+   "target_h": 1.208,
+   "kind": "relief",
+   "file": "model.glb",
+   "bytes": 1064384,
+   "units": "cm",
+   "bbox_m": [
+    3.4543,
+    1.2882,
+    0.1095
+   ],
+   "bbox_min_m": [
+    -1.6811,
+    -0.6453,
+    0.1502
+   ],
+   "voyager_rotation": null,
+   "draco": true,
+   "faces": 150000,
+   "image_size": 1024,
+   "preview": null
+  },
+  "si-western-paradise": {
+   "source": "smithsonian",
+   "package": "3d_package:727b4bb6-ce87-40de-b07d-d492c1404221",
+   "quality": "Low",
+   "title": "Western Paradise of the Buddha Amitabha",
+   "artist": "Northern Qi dynasty, China",
+   "date": "550–577",
+   "museum": "National Museum of Asian Art (Freer Gallery)",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/western-paradise-buddha-amitabha:727b4bb6-ce87-40de-b07d-d492c1404221",
+   "target_h": 1.593,
+   "kind": "relief",
+   "file": "model.glb",
+   "bytes": 1065072,
+   "units": "mm",
+   "bbox_m": [
+    3.4633,
+    1.7156,
+    0.1368
+   ],
+   "bbox_min_m": [
+    -1.8601,
+    -0.0501,
+    -0.078
+   ],
+   "voyager_rotation": null,
+   "draco": true,
+   "faces": 150000,
+   "image_size": 1024,
+   "preview": null
+  },
+  "si-gong-ewer": {
+   "source": "smithsonian",
+   "package": "3d_package:d8c646aa-4ebc-11ea-b77f-2e728ce88125",
+   "quality": "Thumb",
+   "title": "Ritual wine ewer (gong) with masks, dragons and real animals",
+   "artist": "Shang dynasty, China",
+   "date": "ca. 1100–1050 BCE",
+   "museum": "National Museum of Asian Art (Freer Gallery)",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/ritual-wine-ewer-gong:d8c646aa-4ebc-11ea-b77f-2e728ce88125",
+   "target_h": 0.322,
+   "file": "model.glb",
+   "bytes": 202852,
+   "units": "m",
+   "bbox_m": [
+    0.26,
+    0.1423,
+    0.1461
+   ],
+   "bbox_min_m": [
+    -0.0642,
+    -0.0735,
+    0.1653
+   ],
+   "voyager_rotation": null,
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": null
+  },
+  "si-fangyi": {
+   "source": "smithsonian",
+   "package": "3d_package:d8c62f94-4ebc-11ea-b77f-2e728ce88125",
+   "quality": "Thumb",
+   "title": "Ritual wine container (fangyi) with masks, serpents and birds",
+   "artist": "Shang dynasty, China",
+   "date": "ca. 1100 BCE",
+   "museum": "National Museum of Asian Art (Freer Gallery)",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/ritual-wine-container-fangyi:d8c62f94-4ebc-11ea-b77f-2e728ce88125",
+   "target_h": 0.353,
+   "file": "model.glb",
+   "bytes": 226332,
+   "units": "mm",
+   "bbox_m": [
+    0.2327,
+    0.1847,
+    0.2478
+   ],
+   "bbox_min_m": [
+    -0.1301,
+    0.0001,
+    -0.1674
+   ],
+   "voyager_rotation": null,
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": null
+  },
+  "si-xianglu": {
+   "source": "smithsonian",
+   "package": "3d_package:ce850625-2cf1-4c6f-9086-0d5845d9a664",
+   "quality": "Thumb",
+   "title": "Lidded incense burner (xianglu) with geometric decoration and narrative scenes",
+   "artist": "Western Han dynasty, China",
+   "date": "ca. 2nd century BCE",
+   "museum": "National Museum of Asian Art (Freer Gallery)",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/lidded-incense-burner-xianglu:ce850625-2cf1-4c6f-9086-0d5845d9a664",
+   "target_h": 0.179,
+   "file": "model.glb",
+   "bytes": 132220,
+   "units": "mm",
+   "bbox_m": [
+    0.1009,
+    0.1,
+    0.1794
+   ],
+   "bbox_min_m": [
+    -0.0493,
+    -0.0504,
+    -0.0006
+   ],
+   "voyager_rotation": [
+    -0.7071068,
+    0,
+    0,
+    0.7071068
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": "preview.jpg"
+  },
+  "si-kangxi-baluster-vase": {
+   "source": "smithsonian",
+   "package": "3d_package:d8c6393a-4ebc-11ea-b77f-2e728ce88125",
+   "quality": "Thumb",
+   "title": "Baluster vase from a five-piece garniture",
+   "artist": "Kangxi reign, Qing dynasty, China",
+   "date": "1662–1722",
+   "museum": "National Museum of Asian Art (Freer Gallery)",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/baluster-vase:d8c6393a-4ebc-11ea-b77f-2e728ce88125",
+   "target_h": 0.463,
+   "file": "model.glb",
+   "bytes": 120744,
+   "units": "m",
+   "bbox_m": [
+    0.4105,
+    0.1709,
+    0.278
+   ],
+   "bbox_min_m": [
+    -0.2333,
+    -0.0843,
+    0.8204
+   ],
+   "voyager_rotation": [
+    0.1622001,
+    -0.1643311,
+    0.6897842,
+    0.68621
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": "preview.jpg"
+  },
+  "si-kangxi-beaker-vase": {
+   "source": "smithsonian",
+   "package": "3d_package:d8c63a70-4ebc-11ea-b77f-2e728ce88125",
+   "quality": "Thumb",
+   "title": "Beaker-shaped vase from a five-piece garniture",
+   "artist": "Kangxi reign, Qing dynasty, China",
+   "date": "1662–1722",
+   "museum": "National Museum of Asian Art (Freer Gallery)",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/beaker-shaped-vase:d8c63a70-4ebc-11ea-b77f-2e728ce88125",
+   "target_h": 0.425,
+   "file": "model.glb",
+   "bytes": 113980,
+   "units": "m",
+   "bbox_m": [
+    0.2106,
+    0.2109,
+    0.4244
+   ],
+   "bbox_min_m": [
+    -0.0857,
+    -1.0969,
+    0.4989
+   ],
+   "voyager_rotation": [
+    0.0653088,
+    -0.7024576,
+    -0.7064958,
+    -0.0561407
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": "preview.jpg"
+  },
+  "si-houdon-washington": {
+   "source": "smithsonian",
+   "package": "3d_package:ff28cb3a-ad00-43b3-a928-fa61ab0a288f",
+   "quality": "Thumb",
+   "title": "George Washington",
+   "artist": "Jean-Antoine Houdon",
+   "date": "c. 1786",
+   "museum": "National Portrait Gallery",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/george-washington-houdon:ff28cb3a-ad00-43b3-a928-fa61ab0a288f",
+   "target_h": 0.559,
+   "units": "mm",
+   "bbox_m": [
+    0.3053,
+    0.4116,
+    0.4957
+   ],
+   "bbox_min_m": [
+    -0.1757,
+    -0.1061,
+    -1.473
+   ],
+   "voyager_rotation": [
+    -0.0311292,
+    0.8498295,
+    -0.4599163,
+    0.2555343
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": null,
+   "file": "model.glb",
+   "bytes": 162828
+  },
+  "si-ravenna-washington": {
+   "source": "smithsonian",
+   "package": "3d_package:d8c63fde-4ebc-11ea-b77f-2e728ce88125",
+   "quality": "Thumb",
+   "title": "George Washington",
+   "artist": "Massimiliano Ravenna, after Giuseppe Ceracchi",
+   "date": "c. 1819",
+   "museum": "National Portrait Gallery",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/george-washington-ravenna:d8c63fde-4ebc-11ea-b77f-2e728ce88125",
+   "target_h": 0.695,
+   "file": "model.glb",
+   "bytes": 122368,
+   "units": "mm",
+   "bbox_m": [
+    0.2271,
+    0.1343,
+    0.227
+   ],
+   "bbox_min_m": [
+    0.5876,
+    0.1893,
+    1.1201
+   ],
+   "voyager_rotation": [
+    0,
+    1,
+    0,
+    0
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": null
+  },
+  "si-lincoln-mills-mask": {
+   "source": "smithsonian",
+   "package": "3d_package:c02c239d-5ebf-4a7a-a368-e2288bbf4b31",
+   "quality": "Thumb",
+   "title": "Abraham Lincoln (life mask)",
+   "artist": "Clark Mills",
+   "date": "1865",
+   "museum": "National Portrait Gallery",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/abraham-lincoln-mills:c02c239d-5ebf-4a7a-a368-e2288bbf4b31",
+   "target_h": 0.298,
+   "file": "model.glb",
+   "bytes": 157520,
+   "units": "mm",
+   "bbox_m": [
+    0.1969,
+    0.2765,
+    0.2221
+   ],
+   "bbox_min_m": [
+    -0.0683,
+    -0.1615,
+    0.3831
+   ],
+   "voyager_rotation": [
+    0.9226339,
+    -0.003969,
+    -0.198375,
+    0.3307239
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": "preview.jpg"
+  },
+  "si-garfield": {
+   "source": "smithsonian",
+   "package": "3d_package:d2887438-0f09-4e72-887d-0966ff177149",
+   "quality": "Thumb",
+   "title": "James Garfield",
+   "artist": "John Quincy Adams Ward",
+   "date": "c. 1883–87",
+   "museum": "National Portrait Gallery",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/james-garfield:d2887438-0f09-4e72-887d-0966ff177149",
+   "target_h": 0.476,
+   "file": "model.glb",
+   "bytes": 150916,
+   "units": "mm",
+   "bbox_m": [
+    0.4744,
+    0.1697,
+    0.2957
+   ],
+   "bbox_min_m": [
+    -0.3406,
+    -0.0742,
+    -0.9817
+   ],
+   "voyager_rotation": [
+    0.4435062,
+    0.6447971,
+    0.5421373,
+    0.3059839
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": "preview.jpg"
+  },
+  "si-jackson-mills": {
+   "source": "smithsonian",
+   "package": "3d_package:80a9e13c-8e58-4b74-8482-63fd5ee197d8",
+   "quality": "Thumb",
+   "title": "Andrew Jackson",
+   "artist": "Clark Mills",
+   "date": "1855",
+   "museum": "National Portrait Gallery",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/andrew-jackson-mills:80a9e13c-8e58-4b74-8482-63fd5ee197d8",
+   "target_h": 0.673,
+   "file": "model.glb",
+   "bytes": 179688,
+   "units": "mm",
+   "bbox_m": [
+    0.5019,
+    0.6127,
+    0.2636
+   ],
+   "bbox_min_m": [
+    -0.957,
+    0.1009,
+    -1.067
+   ],
+   "voyager_rotation": [
+    0,
+    0.7919525,
+    0,
+    0.6105828
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": null
+  },
+  "si-helen-keller": {
+   "source": "smithsonian",
+   "package": "3d_package:d8c64ccc-4ebc-11ea-b77f-2e728ce88125",
+   "quality": "Thumb",
+   "title": "Helen Adams Keller",
+   "artist": "Onorio Ruotolo",
+   "date": "1916",
+   "museum": "National Portrait Gallery",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/helen-keller:d8c64ccc-4ebc-11ea-b77f-2e728ce88125",
+   "target_h": 0.273,
+   "file": "model.glb",
+   "bytes": 98568,
+   "units": "in",
+   "bbox_m": [
+    0.2478,
+    0.5294,
+    0.311
+   ],
+   "bbox_min_m": [
+    -0.7312,
+    -0.0561,
+    -0.1484
+   ],
+   "voyager_rotation": [
+    -0.0056964,
+    -0.31833,
+    -0.0044352,
+    0.9479525
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": "preview.jpg"
+  },
+  "si-roosevelt-relief": {
+   "source": "smithsonian",
+   "package": "3d_package:1788235b-d2bc-4287-8fb5-f2965a069fd9",
+   "quality": "Thumb",
+   "title": "Theodore Roosevelt",
+   "artist": "Sally James Farnham",
+   "date": "1906",
+   "museum": "National Portrait Gallery",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/theodore-roosevelt-farnham:1788235b-d2bc-4287-8fb5-f2965a069fd9",
+   "target_h": 0.527,
+   "kind": "relief",
+   "file": "model.glb",
+   "bytes": 139376,
+   "units": "mm",
+   "bbox_m": [
+    0.6066,
+    0.4919,
+    0.4165
+   ],
+   "bbox_min_m": [
+    -0.273,
+    -0.3836,
+    0.6027
+   ],
+   "voyager_rotation": [
+    -0.6201486,
+    0.7176958,
+    -0.2694497,
+    0.1665093
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": "preview.jpg"
+  },
+  "si-temne-horn": {
+   "source": "smithsonian",
+   "package": "3d_package:ad94884b-fdd7-4fc3-a692-e53b787d78e6",
+   "quality": "Thumb",
+   "title": "Hunting horn",
+   "artist": "Temne artist, Sierra Leone",
+   "date": "late 15th century",
+   "museum": "National Museum of African Art",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/hunting-horn:ad94884b-fdd7-4fc3-a692-e53b787d78e6",
+   "target_h": 0.642,
+   "file": "model.glb",
+   "bytes": 165664,
+   "units": "mm",
+   "bbox_m": [
+    0.6403,
+    0.188,
+    0.088
+   ],
+   "bbox_min_m": [
+    -0.2183,
+    -0.1874,
+    -0.0724
+   ],
+   "voyager_rotation": [
+    0,
+    0,
+    -0.7071068,
+    0.7071068
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": null
+  },
+  "si-kongo-tusk": {
+   "source": "smithsonian",
+   "package": "3d_package:c3a1b002-84cd-462f-841d-109dc4aeea36",
+   "quality": "Thumb",
+   "title": "Carved tusk",
+   "artist": "Kongo artist, Loango coast",
+   "date": "ca. 1860",
+   "museum": "National Museum of African Art",
+   "license": "CC0",
+   "url": "https://3d.si.edu/object/3d/tusk:c3a1b002-84cd-462f-841d-109dc4aeea36",
+   "target_h": 0.724,
+   "file": "model.glb",
+   "bytes": 197952,
+   "units": "m",
+   "bbox_m": [
+    591.515,
+    439.0048,
+    58.75
+   ],
+   "bbox_min_m": [
+    -355.4779,
+    -184.8157,
+    -0.5892
+   ],
+   "voyager_rotation": [
+    0.8386452,
+    -0.5446718,
+    -0.001426,
+    0.0021956
+   ],
+   "draco": true,
+   "faces": 20000,
+   "image_size": 512,
+   "preview": null
+  },
+  "ph-marble-bust": {
+   "source": "polyhaven",
+   "asset": "marble_bust_01",
+   "res": "1k",
+   "title": "Marble bust",
+   "artist": "Poly Haven (photoscan)",
+   "date": "",
+   "museum": "Poly Haven",
+   "license": "CC0",
+   "url": "https://polyhaven.com/a/marble_bust_01",
+   "target_h": 0.515,
+   "file": "marble_bust_01_1k.gltf",
+   "bytes": 898283,
+   "units": "m",
+   "bbox_m": [
+    0.2717,
+    0.5149,
+    0.2997
+   ],
+   "bbox_min_m": [
+    -0.1229,
+    -0.0283,
+    -0.1446
+   ],
+   "draco": false
+  },
+  "ph-gothic-statue": {
+   "source": "polyhaven",
+   "asset": "gothic_statue",
+   "res": "1k",
+   "title": "Gothic statue",
+   "artist": "Poly Haven (photoscan)",
+   "date": "",
+   "museum": "Poly Haven",
+   "license": "CC0",
+   "url": "https://polyhaven.com/a/gothic_statue",
+   "target_h": 1.74,
+   "file": "gothic_statue_1k.gltf",
+   "bytes": 3978633,
+   "units": "m",
+   "bbox_m": [
+    1.4775,
+    1.7399,
+    1.5638
+   ],
+   "bbox_min_m": [
+    -0.7543,
+    -1.2078,
+    -1.4615
+   ],
+   "draco": false
+  },
+  "ph-bull-head": {
+   "source": "polyhaven",
+   "asset": "bull_head",
+   "res": "1k",
+   "title": "Bull head",
+   "artist": "Poly Haven (photoscan)",
+   "date": "",
+   "museum": "Poly Haven",
+   "license": "CC0",
+   "url": "https://polyhaven.com/a/bull_head",
+   "target_h": 0.433,
+   "file": "bull_head_1k.gltf",
+   "bytes": 2021370,
+   "units": "m",
+   "bbox_m": [
+    0.3064,
+    0.433,
+    0.2807
+   ],
+   "bbox_min_m": [
+    -0.1479,
+    -0.0003,
+    -0.1702
+   ],
+   "draco": false
+  },
+  "ph-horse-head": {
+   "source": "polyhaven",
+   "asset": "horse_head",
+   "res": "1k",
+   "title": "Horse head",
+   "artist": "Poly Haven (photoscan)",
+   "date": "",
+   "museum": "Poly Haven",
+   "license": "CC0",
+   "url": "https://polyhaven.com/a/horse_head",
+   "target_h": 0.419,
+   "file": "horse_head_1k.gltf",
+   "bytes": 1765312,
+   "units": "m",
+   "bbox_m": [
+    0.2149,
+    0.4187,
+    0.3341
+   ],
+   "bbox_min_m": [
+    -0.1074,
+    0.0,
+    -0.1111
+   ],
+   "draco": false
+  },
+  "ph-chandelier-02": {
+   "source": "polyhaven",
+   "asset": "Chandelier_02",
+   "res": "1k",
+   "title": "Chandelier",
+   "artist": "Poly Haven",
+   "date": "",
+   "museum": "Poly Haven",
+   "license": "CC0",
+   "url": "https://polyhaven.com/a/Chandelier_02",
+   "target_h": 0.848,
+   "kind": "fixture",
+   "pinned": true,
+   "file": "Chandelier_02_1k.gltf",
+   "bytes": 1182054,
+   "units": "m",
+   "bbox_m": [
+    0.679,
+    0.8481,
+    0.6191
+   ],
+   "bbox_min_m": [
+    -0.3404,
+    0.0597,
+    -0.3057
+   ],
+   "draco": false
+  },
+  "ph-chandelier-01": {
+   "source": "polyhaven",
+   "asset": "Chandelier_01",
+   "res": "1k",
+   "title": "Chandelier",
+   "artist": "Poly Haven",
+   "date": "",
+   "museum": "Poly Haven",
+   "license": "CC0",
+   "url": "https://polyhaven.com/a/Chandelier_01",
+   "target_h": 0.798,
+   "kind": "fixture",
+   "pinned": true,
+   "file": "Chandelier_01_1k.gltf",
+   "bytes": 1306295,
+   "units": "m",
+   "bbox_m": [
+    0.7465,
+    0.8155,
+    0.7983
+   ],
+   "bbox_min_m": [
+    -0.373,
+    -0.4022,
+    -0.0
+   ],
+   "draco": false
+  },
+  "ph-lantern-chandelier": {
+   "source": "polyhaven",
+   "asset": "lantern_chandelier_01",
+   "res": "1k",
+   "title": "Lantern chandelier",
+   "artist": "Poly Haven",
+   "date": "",
+   "museum": "Poly Haven",
+   "license": "CC0",
+   "url": "https://polyhaven.com/a/lantern_chandelier_01",
+   "target_h": 0.878,
+   "kind": "fixture",
+   "pinned": true,
+   "file": "lantern_chandelier_01_1k.gltf",
+   "bytes": 1480125,
+   "units": "m",
+   "bbox_m": [
+    0.5792,
+    0.8776,
+    0.5746
+   ],
+   "bbox_min_m": [
+    -0.2854,
+    -0.8653,
+    -0.2873
+   ],
+   "draco": false
+  },
+  "ph-ornate-mirror": {
+   "source": "polyhaven",
+   "asset": "ornate_mirror_01",
+   "res": "1k",
+   "title": "Ornate mirror",
+   "artist": "Poly Haven",
+   "date": "",
+   "museum": "Poly Haven",
+   "license": "CC0",
+   "url": "https://polyhaven.com/a/ornate_mirror_01",
+   "target_h": 0.744,
+   "kind": "prop",
+   "file": "ornate_mirror_01_1k.gltf",
+   "bytes": 677241,
+   "units": "m",
+   "bbox_m": [
+    0.4865,
+    0.7442,
+    0.026
+   ],
+   "bbox_min_m": [
+    -0.2432,
+    -0.411,
+    0.0003
+   ],
+   "draco": false
+  },
+  "ph-brass-vase": {
+   "source": "polyhaven",
+   "asset": "brass_vase_01",
+   "res": "1k",
+   "title": "Brass vase",
+   "artist": "Poly Haven",
+   "date": "",
+   "museum": "Poly Haven",
+   "license": "CC0",
+   "url": "https://polyhaven.com/a/brass_vase_01",
+   "target_h": 0.692,
+   "kind": "prop",
+   "file": "brass_vase_01_1k.gltf",
+   "bytes": 842226,
+   "units": "m",
+   "bbox_m": [
+    0.2273,
+    0.6925,
+    0.2273
+   ],
+   "bbox_min_m": [
+    -0.1137,
+    0.0015,
+    -0.1137
+   ],
+   "draco": false
+  },
+  "ph-ceramic-vase": {
+   "source": "polyhaven",
+   "asset": "antique_ceramic_vase_01",
+   "res": "1k",
+   "title": "Antique ceramic vase",
+   "artist": "Poly Haven",
+   "date": "",
+   "museum": "Poly Haven",
+   "license": "CC0",
+   "url": "https://polyhaven.com/a/antique_ceramic_vase_01",
+   "target_h": 0.44,
+   "kind": "prop",
+   "file": "antique_ceramic_vase_01_1k.gltf",
+   "bytes": 525941,
+   "units": "m",
+   "bbox_m": [
+    0.255,
+    0.4396,
+    0.255
+   ],
+   "bbox_min_m": [
+    -0.1275,
+    -0.0001,
+    -0.1275
+   ],
+   "draco": false
+  },
+  "ph-bench": {
+   "source": "polyhaven",
+   "asset": "painted_wooden_bench",
+   "res": "1k",
+   "title": "Painted wooden bench",
+   "artist": "Poly Haven",
+   "date": "",
+   "museum": "Poly Haven",
+   "license": "CC0",
+   "url": "https://polyhaven.com/a/painted_wooden_bench",
+   "target_h": 0.889,
+   "kind": "prop",
+   "pinned": true,
+   "file": "painted_wooden_bench_1k.gltf",
+   "bytes": 1989639,
+   "units": "m",
+   "bbox_m": [
+    1.1649,
+    0.8893,
+    0.4965
+   ],
+   "bbox_min_m": [
+    -0.5761,
+    -0.0005,
+    -0.2537
+   ],
+   "draco": false
+  }
+ }
+}

@@ -1,16 +1,17 @@
-// Floor-plan minimap and the large map (M): rooms come from the geometry (lights.js
-// collectRooms boxes, which include the corridors the manifest lacks), doors from the
-// manifest, art dots from the ART meshes. Only the player's level is drawn. Clicking a
-// room on the large map teleports there.
+// Floor-plan minimap and the large map (M) for the current scene: rooms come from the geometry
+// (lights.js collectRooms boxes), doors from the DOOR- meshes (labelled in the hub), art dots
+// from the ART meshes. Clicking a door on the large map enters that room; clicking a room
+// teleports inside the current scene.
 import * as THREE from 'three';
 import { blenderToThree, yawToward } from './coords.js';
 import { artCenter, roomArtCentroid } from './artgeom.js';
 
-const CORRIDOR_NAMES = { spine1: 'Spine Hall', spine2: 'Upper Spine Hall', stairhall: 'Staircase Hall', futurewing: 'Vestibule' };
-
-export function createHud({ camera, rooms, roomsById, manifest, artMeshes, controls, lights = null, onTeleport = null, redrawHz = 10 }) {
-  const roomList = [...rooms.values()];
+export function createHud({ camera, rooms, roomsById, manifest, artMeshes, controls, lights = null, onTeleport = null, onDoor = null, redrawHz = 10 }) {
+  let roomList = [...rooms.values()];
   let artPts = artMeshes.map((m) => artCenter(m, new THREE.Vector3()));
+  let doors = [];
+  let sceneId = null;
+  let sceneRec = null;
   const fadeEl = document.getElementById('fade');
 
   // ---- DOM ----------------------------------------------------------------------------
@@ -23,7 +24,7 @@ export function createHud({ camera, rooms, roomsById, manifest, artMeshes, contr
   const largeCanvas = document.createElement('canvas');
   const caption = document.createElement('div');
   caption.className = 'map-caption';
-  caption.textContent = 'Floor plan · click a room to go there · M / Esc to close';
+  caption.textContent = 'Floor plan · click a door to go through it, a room to go there · M / Esc to close';
   large.appendChild(largeCanvas);
   large.appendChild(caption);
   document.body.appendChild(mini);
@@ -38,15 +39,37 @@ export function createHud({ camera, rooms, roomsById, manifest, artMeshes, contr
   const levelRooms = (feet) => roomList.filter((r) => feet >= r.floorY - 3 && feet <= r.ceilY - 1);
   const roomName = (r) => {
     const m = roomsById.get(r.manifestId);
-    return m ? m.name : (CORRIDOR_NAMES[r.id] || r.id);
+    return m ? m.name : r.id;
   };
+
+  function setScene({ rooms: newRooms, doors: newDoors = [], artMeshes: newArt = [], sceneId: id = null, rec = null }) {
+    roomList = [...newRooms.values()];
+    doors = newDoors;
+    artPts = newArt.map((m) => artCenter(m, new THREE.Vector3()));
+    sceneId = id;
+    sceneRec = rec;
+    draw();
+  }
 
   function heading() {
     const { yaw } = controls.getLook();
     return { hx: -Math.sin(yaw), hy: Math.cos(yaw) }; // Blender x/y components of the view direction
   }
 
-  // Draw the level's plan. `view` = {cx, cy (Blender centre), scale (px/m), W, H, labels}
+  function wrapText(ctx, text, w) {
+    const words = String(text).split(/\s+/);
+    const lines = [];
+    let cur = '';
+    for (const word of words) {
+      const t = cur ? `${cur} ${word}` : word;
+      if (ctx.measureText(t).width <= w || !cur) cur = t;
+      else { lines.push(cur); cur = word; }
+    }
+    if (cur) lines.push(cur);
+    return lines;
+  }
+
+  // Draw the scene's plan. `view` = {cx, cy (Blender centre), scale (px/m), W, H, labels}
   function drawPlan(ctx, view, current) {
     const { W, H, scale } = view;
     const sx = (bx) => W / 2 + (bx - view.cx) * scale;
@@ -64,7 +87,7 @@ export function createHud({ camera, rooms, roomsById, manifest, artMeshes, contr
       ctx.rect(Math.min(x0, x1), Math.min(y0, y1), Math.abs(x1 - x0), Math.abs(y1 - y0));
       ctx.fill();
       ctx.stroke();
-      if (view.labels) {
+      if (view.labels && sceneId !== 'hub') {
         ctx.fillStyle = isCur ? '#f2ead9' : '#b9ac8f';
         ctx.font = `${Math.max(10, Math.min(16, scale * 1.6))}px Georgia, serif`;
         ctx.textAlign = 'center';
@@ -72,33 +95,31 @@ export function createHud({ camera, rooms, roomsById, manifest, artMeshes, contr
         const name = roomName(r);
         const w = Math.abs(x1 - x0) - 6;
         const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2;
-        if (ctx.measureText(name).width <= w) {
-          ctx.fillText(name, cx, cy);
-        } else {
-          // wrap long names onto up to three lines that fit the room box
-          const words = name.split(/\s+/);
-          const lines = [];
-          let cur = '';
-          for (const word of words) {
-            const t = cur ? `${cur} ${word}` : word;
-            if (ctx.measureText(t).width <= w || !cur) cur = t;
-            else { lines.push(cur); cur = word; }
-          }
-          if (cur) lines.push(cur);
-          const lh = Math.max(11, Math.min(17, scale * 1.7));
-          if (lines.length <= 3 && lines.every((l) => ctx.measureText(l).width <= w) && lines.length * lh <= Math.abs(y1 - y0)) {
-            lines.forEach((l, i) => ctx.fillText(l, cx, cy + (i - (lines.length - 1) / 2) * lh));
-          }
-        }
+        const lines = wrapText(ctx, name, w);
+        const lh = Math.max(11, Math.min(17, scale * 1.7));
+        if (lines.length <= 3) lines.forEach((l, i) => ctx.fillText(l, cx, cy + (i - (lines.length - 1) / 2) * lh));
       }
     }
-    // doors (manifest, same level)
-    ctx.fillStyle = '#e0b95e';
-    for (const room of manifest.rooms) {
-      for (const d of Object.values(room.doors || {})) {
-        if (Math.abs(d[2] - feet) > 3) continue;
-        const s = Math.max(2, scale * 0.9);
-        ctx.fillRect(sx(d[0]) - s / 2, sy(d[1]) - s / 2, s, s);
+    // doors of this scene (from the DOOR- meshes), labelled on the large map
+    const s = Math.max(3, scale * 1.1);
+    for (const d of doors) {
+      const c = d.userData.center;
+      if (!c) continue;
+      const px = sx(c.x), py = sy(-c.z);
+      ctx.fillStyle = '#e0b95e';
+      ctx.fillRect(px - s / 2, py - s / 2, s, s);
+      if (view.labels) {
+        const f = d.userData.facing || new THREE.Vector3(0, 0, -1);
+        const label = d.userData.name || d.userData.target;
+        ctx.fillStyle = '#f2ead9';
+        ctx.font = `${Math.max(10, Math.min(13, scale * 1.4))}px Georgia, serif`;
+        ctx.textAlign = 'center';
+        ctx.textBaseline = f.z > 0.5 ? 'top' : f.z < -0.5 ? 'bottom' : 'middle';
+        const off = s * 0.8 + 4;
+        const lx = px - f.x * off * 0; // labels sit inside the scene, on the far side of the wall from the player
+        const ly = py + (f.z > 0.5 ? -off : f.z < -0.5 ? off : 0);
+        const lines = wrapText(ctx, label, Math.max(60, scale * 7));
+        lines.slice(0, 2).forEach((l, i) => ctx.fillText(l, lx, ly + (f.z > 0.5 ? -1 : 1) * (i * 12) * (f.z > 0.5 ? -1 : 1) - (f.z < -0.5 ? (lines.length - 1 - i) * 12 : -i * 12) + (f.z < -0.5 ? 0 : 0)));
       }
     }
     // art dots
@@ -147,8 +168,8 @@ export function createHud({ camera, rooms, roomsById, manifest, artMeshes, contr
     if (!level.length) return;
     const box = new THREE.Box3();
     for (const r of level) box.union(r.box);
-    const spanX = box.max.x - box.min.x + 8;
-    const spanY = box.max.z - box.min.z + 8;
+    const spanX = box.max.x - box.min.x + 10;
+    const spanY = box.max.z - box.min.z + 10;
     const maxW = Math.floor(window.innerWidth * 0.86), maxH = Math.floor(window.innerHeight * 0.8);
     const scale = Math.min(maxW / spanX, maxH / spanY);
     const W = Math.max(200, Math.round(spanX * scale)), H = Math.max(200, Math.round(spanY * scale));
@@ -197,15 +218,15 @@ export function createHud({ camera, rooms, roomsById, manifest, artMeshes, contr
     return best;
   }
 
-  // Teleport to a manifest room (spawn ?? position) or a geometry room (box centre).
+  // Teleport inside the current scene: a manifest room (spawn ?? position) or a geometry room (box centre).
   function teleportToRoom(id) {
     const man = roomsById.get(id);
     let pos;
-    if (man) {
+    if (man && (man.scene === sceneId || !man.scene)) {
       pos = blenderToThree(man.spawn || man.position);
       pos.y += controls.EYE_HEIGHT;
     } else {
-      const g = rooms.get(id);
+      const g = roomList.find((r) => r.id === id);
       if (!g) return false;
       pos = new THREE.Vector3(g.center.x, g.floorY + controls.EYE_HEIGHT, g.center.z);
     }
@@ -215,7 +236,7 @@ export function createHud({ camera, rooms, roomsById, manifest, artMeshes, contr
     if (centroid && centroid.distanceTo(pos) > 1.5) {
       controls.teleport(pos, { lookAt: new THREE.Vector3(centroid.x, pos.y, centroid.z) });
     } else {
-      controls.teleport(pos, { yaw: yawToward(1, 0) });
+      controls.teleport(pos, { yaw: yawToward(0, -1) });
     }
     if (lights) lights.update(camera, 0, true);
     if (onTeleport) onTeleport(id);
@@ -223,21 +244,40 @@ export function createHud({ camera, rooms, roomsById, manifest, artMeshes, contr
     return true;
   }
 
-  function roomAtScreen(clientX, clientY) {
+  // What is under a large-map click: {kind: 'door', id} within 1.6 m of a door, else {kind: 'room', id}.
+  function hitAtScreen(clientX, clientY) {
     if (!largeView) return null;
     const rect = largeCanvas.getBoundingClientRect();
     const x = clientX - rect.left, y = clientY - rect.top;
     const bx = largeView.cx + (x - largeView.W / 2) / largeView.scale;
     const by = largeView.cy - (y - largeView.H / 2) / largeView.scale;
+    let bestDoor = null, bd = 1.6;
+    for (const d of doors) {
+      const c = d.userData.center;
+      if (!c) continue;
+      const dist = Math.hypot(bx - c.x, by - (-c.z));
+      if (dist < bd) { bd = dist; bestDoor = d; }
+    }
+    if (bestDoor) return { kind: 'door', id: bestDoor.userData.target, mesh: bestDoor };
     let best = null;
     for (const r of largeView.level) {
       if (bx < r.box.min.x || bx > r.box.max.x || -by < r.box.min.z || -by > r.box.max.z) continue;
       if (!best || r.area < best.area) best = r;
     }
-    return best;
+    return best ? { kind: 'room', id: roomsById.has(best.manifestId) ? best.manifestId : best.id, room: best } : null;
+  }
+  function roomAtScreen(clientX, clientY) {
+    const h = hitAtScreen(clientX, clientY);
+    return h && h.kind === 'room' ? h.room : null;
   }
 
-  function openMap() { mapOpen = true; large.classList.add('open'); drawLarge(); }
+  function openMap() {
+    mapOpen = true;
+    large.classList.add('open');
+    drawLarge();
+    // the map is clicked with a free cursor: release a captured mouse (pointer-locked clicks never reach it)
+    if (document.pointerLockElement && document.exitPointerLock) document.exitPointerLock();
+  }
   function closeMap() { mapOpen = false; large.classList.remove('open'); }
   function toggleMap() { if (mapOpen) closeMap(); else openMap(); }
   function isMapOpen() { return mapOpen; }
@@ -245,15 +285,17 @@ export function createHud({ camera, rooms, roomsById, manifest, artMeshes, contr
   mini.addEventListener('click', (e) => { e.stopPropagation(); toggleMap(); });
   largeCanvas.addEventListener('click', (e) => {
     e.stopPropagation();
-    const r = roomAtScreen(e.clientX, e.clientY);
-    if (!r) return;
+    const h = hitAtScreen(e.clientX, e.clientY);
+    if (!h) return;
     closeMap();
-    teleportToRoom(roomsById.has(r.manifestId) ? r.manifestId : r.id);
+    if (h.kind === 'door') { if (onDoor) onDoor(h.id, h.mesh); return; }
+    teleportToRoom(h.id);
   });
   large.addEventListener('click', (e) => { if (e.target === large) closeMap(); });
 
   function setArtMeshes(list) { artPts = list.map((m) => artCenter(m, new THREE.Vector3())); }
 
   draw();
-  return { update, draw, toggleMap, openMap, closeMap, isMapOpen, teleportToRoom, setArtMeshes, roomAtScreen, currentGeoRoom, fade };
+  return { update, draw, toggleMap, openMap, closeMap, isMapOpen, teleportToRoom, setArtMeshes, setScene, roomAtScreen, hitAtScreen, currentGeoRoom, fade,
+    get sceneId() { return sceneId; }, get doors() { return doors; } };
 }
