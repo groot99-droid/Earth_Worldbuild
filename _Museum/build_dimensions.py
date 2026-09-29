@@ -8,8 +8,8 @@ per work in `source`:
   medium          "H × W cm|m" inside the Art-Talk `medium` string (height first)
   medium-height   only a height was given (or the stated size did not match the image's
                   aspect, i.e. the image is a detail); width from the image aspect
-  wikidata:Q…     the Commons file page names the Wikidata item -> P2048 (height) / P2049 (width)
-  search:Q…       Wikidata search by title, kept only when the item's creator is the artist
+  wikidata:Q…     the Wikidata item whose image (P18) is the work's Commons file -> P2048 (height) / P2049 (width)
+  search:Q…       Wikidata entity search by title, kept only when the item's creator is the artist
   default:<type>  a per-type default height (film still, print, manuscript folio, hanging
                   scroll, architecture photo ...), width from the image aspect
 
@@ -48,10 +48,8 @@ SCHEMA = "work-dimensions v1"
 
 UA = "ChronicleMuseum/1.0 (https://github.com/groot99-droid/Earth_Worldbuild; groot99@icloud.com)"
 SPARQL = "https://query.wikidata.org/sparql"
-WD_API = "https://www.wikidata.org/w/api.php"
-COMMONS_API = "https://commons.wikimedia.org/w/api.php"
-COMMONS_RAW = "https://commons.wikimedia.org/w/index.php"
-MIN_INTERVAL = 1.5      # s between requests (Wikimedia rate-limits shared egress IPs; Retry-After is honoured)
+MIN_INTERVAL = 6.0      # s between requests: the Wikimedia edge allows a shared egress IP only a few per half minute
+ATTEMPTS = 4            # tries per request (429/5xx back off between them)
 
 # Display caps: a work taller/wider than this is shown at 1:N (the salon zone is 0.45–5.6 m
 # on a 7 m wall; 4.8 m keeps the widest work inside one wall bay).
@@ -229,30 +227,32 @@ class Net:
         if wait > 0:
             time.sleep(wait)
         req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": accept})
-        for attempt in range(3):
+        for attempt in range(ATTEMPTS):
             self.last = time.monotonic()
             self.calls += 1
             try:
                 with urllib.request.urlopen(req, timeout=45, context=self.ctx) as r:
                     return r.read().decode("utf-8", "replace")
             except urllib.error.HTTPError as e:
-                if e.code in (429, 500, 502, 503, 504) and attempt < 2:
+                if e.code in (429, 500, 502, 503, 504) and attempt < ATTEMPTS - 1:
+                    # The edge's 429 carries a canned Retry-After (1000 s); a short back-off is what
+                    # actually clears it, so the wait is bounded.
                     retry_after = e.headers.get("Retry-After") if e.headers else None
                     pause = float(retry_after) if retry_after and retry_after.isdigit() else 20.0 * (attempt + 1)
-                    time.sleep(min(120.0, pause))
+                    time.sleep(min(60.0, max(20.0, pause)))
                     continue
                 print(f"  ! HTTP {e.code} for {url[:100]}", file=sys.stderr)
                 return None
             except (urllib.error.URLError, TimeoutError, OSError) as e:
-                if attempt < 2:
+                if attempt < ATTEMPTS - 1:
                     time.sleep(3 * (attempt + 1))
                     continue
                 print(f"  ! {e} for {url[:100]}", file=sys.stderr)
                 return None
         return None
 
-    def json(self, url: str, params: dict | None = None):
-        t = self.get(url, params)
+    def json(self, url: str, params: dict | None = None, accept: str = "application/json"):
+        t = self.get(url, params, accept=accept)
         if not t:
             return None
         try:
@@ -261,23 +261,27 @@ class Net:
             return None
 
 
-def commons_qid(net: Net, file_title: str):
-    """Wikidata item a Commons file depicts / represents (P6243 in its structured data, else the wikitext)."""
-    title = file_title if file_title.lower().startswith("file:") else "File:" + file_title
-    j = net.json(COMMONS_API, {"action": "wbgetentities", "sites": "commonswiki", "titles": title, "props": "claims", "format": "json"})
-    if j and j.get("entities"):
-        for ent in j["entities"].values():
-            for prop in ("P6243", "P921", "P180"):
-                for claim in (ent.get("claims") or {}).get(prop, []):
-                    v = ((claim.get("mainsnak") or {}).get("datavalue") or {}).get("value") or {}
-                    if v.get("id"):
-                        return v["id"], prop
-    raw = net.get(COMMONS_RAW, {"title": title, "action": "raw"}, accept="text/plain")
-    if raw:
-        m = re.search(r"\|\s*wikidata\s*=\s*(Q\d+)", raw)
-        if m:
-            return m.group(1), "wikitext"
-    return None, None
+def sparql(net: Net, query: str):
+    return net.json(SPARQL, {"query": query}, accept="application/sparql-results+json")
+
+
+def _collect_dims(j) -> tuple[list[str], dict]:
+    """Bindings of ?item ?h ?w ?creatorLabel ?classLabel -> (item order, {qid: {"h", "w", "creators", "classes"}})."""
+    order, out = [], {}
+    for b in (j or {}).get("results", {}).get("bindings", []):
+        qid = b["item"]["value"].rsplit("/", 1)[-1]
+        if qid not in out:
+            order.append(qid)
+        e = out.setdefault(qid, {"h": None, "w": None, "creators": set(), "classes": set()})
+        if "h" in b and e["h"] is None:
+            e["h"] = float(b["h"]["value"])
+        if "w" in b and e["w"] is None:
+            e["w"] = float(b["w"]["value"])
+        if "creatorLabel" in b:
+            e["creators"].add(b["creatorLabel"]["value"])
+        if "classLabel" in b:
+            e["classes"].add(b["classLabel"]["value"])
+    return order, out
 
 
 def sparql_dims(net: Net, qids: list[str]):
@@ -293,27 +297,29 @@ def sparql_dims(net: Net, qids: list[str]):
   OPTIONAL {{ ?item wdt:P31 ?class }}
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
 }}"""
-    j = net.json(SPARQL, {"query": q, "format": "json"})
-    out = {}
-    if not j:
-        return out
-    for b in j.get("results", {}).get("bindings", []):
-        qid = b["item"]["value"].rsplit("/", 1)[-1]
-        e = out.setdefault(qid, {"h": None, "w": None, "creators": set(), "classes": set()})
-        if "h" in b and e["h"] is None:
-            e["h"] = float(b["h"]["value"])
-        if "w" in b and e["w"] is None:
-            e["w"] = float(b["w"]["value"])
-        if "creatorLabel" in b:
-            e["creators"].add(b["creatorLabel"]["value"])
-        if "classLabel" in b:
-            e["classes"].add(b["classLabel"]["value"])
-    return out
+    return _collect_dims(sparql(net, q))[1]
 
 
-def search_qids(net: Net, title: str, limit: int = 7) -> list[str]:
-    j = net.json(WD_API, {"action": "wbsearchentities", "search": title, "language": "en", "type": "item", "limit": limit, "format": "json"})
-    return [r["id"] for r in (j or {}).get("search", [])]
+def sparql_search_dims(net: Net, title: str, limit: int = 8) -> list[tuple[str, dict]]:
+    """Entity search by title (the indexed search behind the query service) joined with each
+    hit's size and creator, in search order: one request instead of a label scan plus a
+    dimensions query. Only items that carry both a height and a width come back."""
+    t = title.replace("\\", "\\\\").replace('"', '\\"')
+    q = f"""SELECT ?item ?ord ?h ?w ?creatorLabel ?classLabel WHERE {{
+  SERVICE wikibase:mwapi {{
+    bd:serviceParam wikibase:api "EntitySearch"; wikibase:endpoint "www.wikidata.org";
+                    mwapi:search "{t}"; mwapi:language "en"; mwapi:limit "{limit}" .
+    ?item wikibase:apiOutputItem mwapi:item .
+    ?ord wikibase:apiOrdinal true .
+  }}
+  ?item p:P2048/psn:P2048/wikibase:quantityAmount ?h .
+  ?item p:P2049/psn:P2049/wikibase:quantityAmount ?w .
+  OPTIONAL {{ ?item wdt:P170 ?creator }}
+  OPTIONAL {{ ?item wdt:P31 ?class }}
+  SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
+}} ORDER BY ?ord"""
+    order, out = _collect_dims(sparql(net, q))
+    return [(qid, out[qid]) for qid in order]
 
 
 def _file_urls(file_title: str) -> list[str]:
@@ -327,18 +333,10 @@ def sparql_by_image(net: Net, file_title: str):
     """Wikidata item whose image (P18) is this Commons file, via the query service (indexed lookup)."""
     values = " ".join(f"<{u}>" for u in _file_urls(file_title))
     q = f"SELECT ?item WHERE {{ VALUES ?img {{ {values} }} ?item wdt:P18 ?img }} LIMIT 3"
-    j = net.json(SPARQL, {"query": q, "format": "json"})
+    j = sparql(net, q)
     for b in (j or {}).get("results", {}).get("bindings", []):
         return b["item"]["value"].rsplit("/", 1)[-1]
     return None
-
-
-def sparql_by_label(net: Net, title: str, limit: int = 8) -> list[str]:
-    """Items whose English label is exactly `title` (case-sensitive; the label index makes this fast)."""
-    t = title.replace("\\", "\\\\").replace('"', '\\"')
-    q = f'SELECT ?item WHERE {{ ?item rdfs:label "{t}"@en . ?item wdt:P31 ?c . FILTER(?c != wd:Q4167410) }} LIMIT {limit}'
-    j = net.json(SPARQL, {"query": q, "format": "json"})
-    return [b["item"]["value"].rsplit("/", 1)[-1] for b in (j or {}).get("results", {}).get("bindings", [])]
 
 
 def _tokens(s: str):
@@ -414,25 +412,21 @@ def resolve_one(work: dict, artist: dict, wings_by_id: dict, net: Net) -> dict:
                     e["w_m"] = d["h"] * aspect
                     e["note"] = f"wikidata {qid} size does not match the image aspect (detail/crop?)"
                 return finish(e)
-        title = clean_title(work.get("title") or "")
+        raw_title = work.get("title") or ""
+        title = clean_title(raw_title)
         if title:
-            cands = sparql_by_label(net, work.get("title") or "")
-            if not cands and title != (work.get("title") or ""):
-                cands = sparql_by_label(net, title)
-            if cands:
-                dims = sparql_dims(net, cands)
-                for q in cands:
-                    d = dims.get(q)
-                    if not d or not d["h"] or not d["w"]:
-                        continue
-                    if not creator_matches(d["creators"], artist):
-                        continue
-                    e = {"h_m": d["h"], "w_m": d["w"], "px": px, "type": t, "source": f"search:{q}", "qid": q}
-                    if abs((d["w"] / d["h"]) / aspect - 1) > 0.35:
-                        e["w_m"] = d["h"] * aspect
-                        e["source"] = "medium-height"
-                        e["note"] = f"wikidata {q} size does not match the image aspect (detail/crop?)"
-                    return finish(e)
+            hits = sparql_search_dims(net, raw_title)
+            if not hits and title != raw_title:
+                hits = sparql_search_dims(net, title)
+            for q, d in hits:
+                if not d["h"] or not d["w"] or not creator_matches(d["creators"], artist):
+                    continue
+                e = {"h_m": d["h"], "w_m": d["w"], "px": px, "type": t, "source": f"search:{q}", "qid": q}
+                if abs((d["w"] / d["h"]) / aspect - 1) > 0.35:
+                    e["w_m"] = d["h"] * aspect
+                    e["source"] = "medium-height"
+                    e["note"] = f"wikidata {q} size does not match the image aspect (detail/crop?)"
+                return finish(e)
     return default_entry(work, artist, t, aspect, px)
 
 

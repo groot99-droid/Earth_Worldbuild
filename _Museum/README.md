@@ -77,8 +77,8 @@ about Blender any more: `blender/scripts/` is kept as the spec of the naming con
 
 Every work gets a height and width in metres, in this order of preference (kept per work in
 `work-dimensions.json` as `source`): the "H × W cm" in the Art-Talk `medium` string (146 works,
-checked against the image aspect); the Wikidata item the Commons image belongs to (`P18`) or an exact
-title match with the artist as creator (`P2048`/`P2049`); else a typical size for the type of thing
+checked against the image aspect); the Wikidata item the Commons image belongs to (`P18`) or a title
+search whose hit has the artist as creator (`P2048`/`P2049`); else a typical size for the type of thing
 (film still, woodblock print, manuscript folio, hanging scroll, architecture photograph, portrait
 photograph...). Works larger than 3.8 × 4.8 m are hung at 1:N and the placard says so. The cache is
 committed; `python3 _Museum/build_dimensions.py` refreshes only what is missing (`--offline` never
