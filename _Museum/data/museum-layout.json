@@ -897,26 +897,6 @@
 0.0
 ],
 "material": "marble_white"
-},
-{
-"name": "GEO-hub_oculus_glow",
-"kind": "disc",
-"center": [
--7.0,
-0.0,
-16.04218881241056
-],
-"radius": 1.2,
-"segments": 32,
-"phi": [
-0.0,
-360.0
-],
-"z": [
-0.0,
-0.02
-],
-"material": "laylight"
 }
 ],
 "mouldings": [
