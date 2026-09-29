@@ -578,6 +578,55 @@ test('touch_tap_reads', async (c) => {
   return r;
 });
 
+test('gamepad_walk_look_buttons', async (c) => {
+  await c.load('test');
+  const r = await c.ev(async () => {
+    const D = window.museumDebug;
+    D.enter({ pointerLock: false });
+    await D.navigate.goToWork('the-scream');
+    D.interactions.closePlacard();
+    D.step(1 / 60, 2);
+    const pad = { mapping: 'standard', connected: true, axes: [0, 0, 0, 0], buttons: Array.from({ length: 16 }, () => ({ pressed: false, value: 0 })) };
+    D.gamepad.setSource(() => pad);
+    const press = (i) => { pad.buttons[i].pressed = true; D.step(1 / 60, 1); pad.buttons[i].pressed = false; D.step(1 / 60, 1); };
+    const out = {};
+    const s0 = D.snapshot();
+    pad.axes = [0, -1, 0, 0]; // left stick forward
+    const s1 = D.step(1 / 60, 30);
+    out.walked = Math.hypot(s1.pos[0] - s0.pos[0], s1.pos[2] - s0.pos[2]);
+    pad.axes = [0, 0, 0, 0];
+    const s2 = D.step(1 / 60, 10);
+    out.rest = Math.hypot(s2.pos[0] - s1.pos[0], s2.pos[2] - s1.pos[2]);
+    pad.axes = [0, 0, 1, 0]; // right stick right
+    const s3 = D.step(1 / 60, 30);
+    out.turned = s2.yaw - s3.yaw;
+    pad.axes = [0, 0, 0, 0];
+    out.connected = D.gamepad.connected();
+    out.toast = document.getElementById('gamepad-toast').classList.contains('visible');
+    // back to the work, then buttons
+    await D.navigate.goToWork('the-scream');
+    D.interactions.closePlacard();
+    D.step(1 / 60, 3);
+    press(0); out.aOpens = D.interactions.isOpen();
+    press(1); out.bCloses = !D.interactions.isOpen();
+    press(2); out.xMap = D.hud.isMapOpen();
+    press(1); out.bClosesMap = !D.hud.isMapOpen();
+    press(3); out.yGoto = D.navigate.isOpen();
+    press(1); out.bClosesGoto = !D.navigate.isOpen();
+    press(9); out.menuHelp = D.ui.isHelpOpen();
+    press(1); out.bClosesHelp = !D.ui.isHelpOpen();
+    D.gamepad.setSource(null);
+    return out;
+  });
+  assert(Math.abs(r.walked - 4.2 * 0.5) < 0.3, `left stick walks ~2.1 m in half a second: ${r.walked.toFixed(2)}`);
+  assert(r.rest < 1e-6, `released stick stops: ${r.rest}`);
+  const expectTurn = 2.4 * 0.5;
+  assert(r.turned > 0 && Math.abs(r.turned - expectTurn) < 0.15, `right stick turns right by ~${expectTurn} rad: ${r.turned.toFixed(3)}`);
+  assert(r.connected && r.toast, `connection state and toast: ${JSON.stringify(r)}`);
+  for (const k of ['aOpens', 'bCloses', 'xMap', 'bClosesMap', 'yGoto', 'bClosesGoto', 'menuHelp', 'bClosesHelp']) assert(r[k], `${k}: ${JSON.stringify(r)}`);
+  return r;
+});
+
 // ---- 5. look, fixtures, models, budgets ------------------------------------------------------
 test('textures_pbr_world_uv', async (c) => {
   await c.load('test');

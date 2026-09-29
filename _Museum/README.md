@@ -36,6 +36,7 @@ museum is live at `<pages-url>/_Museum/web/`.
 | `Esc` | close panels, end the tour, release the mouse |
 | `?` / `H` | help |
 | touch | left half of the screen: joystick to walk · right half: drag to look · tap a work or door |
+| controller | Xbox or any "standard"-mapped gamepad (Bluetooth / USB): left stick or D-pad walk · right stick look · `A` read / go through the door (Explore on the start screen) · `B` back · `X` map · `Y` go to · `LB` `RB` previous / next · Menu help · View tour |
 
 The placard shows the work's real size ("379 cm × 454 cm · shown at actual size", or "shown at 1:2"
 for the few works too big for a wall), previous / next work buttons and, under "Suggested next",
@@ -132,7 +133,7 @@ Romanticism, Edmonia Lewis and the presidential busts along the Industrial bays)
 | `navigate.js` | the "Go to" panel |
 | `tour.js` | guided tour: walks a scene's segment, goes through the door, continues |
 | `titlecard.js` | the room title card shown on entry |
-| `ui.js`, `touch.js`, `persist.js` | key router / help / buttons, virtual joystick, last scene + position in localStorage |
+| `ui.js`, `touch.js`, `gamepad.js`, `persist.js` | key router / help / buttons, virtual joystick, gamepad polling, last scene + position in localStorage |
 | `render.js`, `lights.js`, `materials.js`, `debug.js` | AgX + composer, the constant 8-light pool re-anchored per scene, material patches, `?debug` overlay |
 
 Mesh-name classification: `ART-<slug>__<id>` = clickable work; `DOOR-<room>` = clickable door (it

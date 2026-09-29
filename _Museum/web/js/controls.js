@@ -52,12 +52,16 @@ export function createControls(camera, domElement, getCollidables) {
       case 'KeyD': case 'ArrowRight': keys.right = false; break;
     }
   }
-  function applyLook(movementX, movementY) {
-    yaw -= movementX * 0.0022;
-    pitch -= movementY * 0.0022;
+  // Turn by radians (positive dYaw turns right, positive dPitch looks down, like mouse deltas).
+  function rotateRadians(dYaw, dPitch) {
+    yaw -= dYaw;
+    pitch -= dPitch;
     pitch = Math.max(-Math.PI / 2 + 0.05, Math.min(Math.PI / 2 - 0.05, pitch));
     euler.set(pitch, yaw, 0);
     camera.quaternion.setFromEuler(euler);
+  }
+  function applyLook(movementX, movementY) {
+    rotateRadians(movementX * 0.0022, movementY * 0.0022);
   }
   function onMouseMove(e) {
     if (pointerLocked || dragLooking) {
@@ -252,7 +256,7 @@ export function createControls(camera, domElement, getCollidables) {
 
   return {
     update, isLocked, isPointerLocked, setPosition, engage, release, dispose, EYE_HEIGHT,
-    syncLook, setLook, getLook, lookAt, rotateBy,
+    syncLook, setLook, getLook, lookAt, rotateBy, rotateRadians,
     setKeys, setMoveAxis, setCollision, getCollision, groundY, teleport, state,
   };
 }
