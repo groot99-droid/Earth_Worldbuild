@@ -159,10 +159,14 @@ The Observer calls this the tool-lineage: an inheritance in which each tool make
 - [[Sintashta Culture]] (2100 BCE)
 - [[Polynesians]] (1300 BCE)
 - [[Kingdom of Kush]] (1070 BCE)
+- [[Nok Culture]] (900 BCE)
+- [[Yayoi Culture]] (300 BCE)
 - [[Han Dynasty]] (206 BCE)
 - [[Funan]] (100 CE)
 - [[Casarabe Culture]] (500 CE)
+- [[Sui Dynasty]] (581 CE)
 - [[Norse]] (793 CE)
+- [[Igbo-Ukwu Culture]] (800 CE)
 - [[Khmer Empire]] (802 CE)
 - [[Song Dynasty]] (960 CE)
 - [[Inuit and the Thule Expansion]] (1000 CE)
@@ -261,18 +265,30 @@ The Observer calls this the tool-lineage: an inheritance in which each tool make
 - [[Trans-Siberian Railway]] (1891 CE)
 - [[Radio]] (1895 CE)
 - [[X-ray Imaging]] (1895 CE)
+- [[Water Chlorination]] (1897 CE)
 - [[Airplane]] (1903 CE)
 - [[Haber-Bosch Process]] (1909 CE)
+- [[Liquid-Fueled Rocket]] (1926 CE)
 - [[Antibiotics]] (1928 CE)
 - [[Nuclear Fission]] (1938 CE)
 - [[Digital Computer]] (1945 CE)
+- [[Transistor]] (1947 CE)
+- [[Photovoltaic Cell]] (1954 CE)
+- [[Integrated Circuit]] (1958 CE)
+- [[Internet]] (1969 CE)
+- [[GPS]] (1978 CE)
+- [[World Wide Web]] (1989 CE)
+- [[Smartphone]] (1994 CE)
 
 **Observer essays**
 - [[Fire, Then Everything]]
 - [[Sanctioned Harm]]
 - [[Second Chances - How the Species Ran the Experiment Again]]
 - [[The Great Outsourcing of Memory]]
+- [[The Ratchet and Its Gaps - Why Some Tool-Lineages Stall]]
 - [[The Settling and Its Bargain]]
 - [[The Species as a Geological Force]]
+- [[Who Gets Credit for the Machine]]
+- [[Why the Same Discovery Happens Twice]]
 
 <!-- /AUTO:members -->

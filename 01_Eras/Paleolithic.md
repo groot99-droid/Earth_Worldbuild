@@ -64,5 +64,6 @@ The Observer notes that for roughly 99 percent of the tool-making record the spe
 **Observer essays**
 - [[Fire, Then Everything]]
 - [[Why the Species Buries Its Dead]]
+- [[Why the Species Makes Things That Do Nothing]]
 
 <!-- /AUTO:members -->

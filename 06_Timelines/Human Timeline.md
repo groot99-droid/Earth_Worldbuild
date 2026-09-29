@@ -49,6 +49,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 9500 BCE to 3000 BCE | [[The Agricultural Revolution]] | event | [[Neolithic]] |
 | 9000 BCE | [[Jericho]] | place | [[Neolithic]] |
 | 8500 BCE | [[Animal Domestication]] | event | [[Neolithic]] |
+| 8000 BCE | [[Khoisan Peoples]] | culture | [[Neolithic]] |
 | 8000 BCE | [[Uluru]] | place | [[Holocene Epoch]] |
 | 7100 BCE to 5700 BCE | [[Çatalhöyük]] | place | [[Neolithic]] |
 | 7000 BCE | [[Brewing and Fermentation]] | technology | [[Neolithic]] |
@@ -72,17 +73,23 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 3300 BCE | [[Bronze Metallurgy]] | technology | [[Bronze Age]] |
 | 3300 BCE to 1900 BCE | [[Harappa]] | place | [[Bronze Age]] |
 | 3300 BCE to 2600 BCE | [[Yamnaya Culture]] | culture | [[Bronze Age]] |
+| 3200 BCE to 539 BCE | [[Elamites]] | culture | [[Bronze Age]] |
 | 3200 BCE | [[Newgrange]] | place | [[Neolithic]] |
 | 3100 BCE to 30 BCE | [[Ancient Egyptians]] | culture | [[Bronze Age]] |
 | 3100 BCE | [[Unification of Egypt]] | event | [[Bronze Age]] |
 | 3000 BCE | [[Austronesian Expansion]] | event | [[Bronze Age]] |
 | 3000 BCE to 1000 CE | [[Bantu Expansion]] | event | [[Iron Age]] |
+| 3000 BCE | [[Basques]] | culture | [[Bronze Age]] |
+| 3000 BCE | [[Berbers]] | culture | [[Bronze Age]] |
+| 3000 BCE | [[Evenki]] | culture | [[Neolithic]] |
 | 3000 BCE to 1000 BCE | [[Indo-European Language Spread]] | event | [[Bronze Age]] |
 | 3000 BCE | [[Jerusalem]] | place | [[Bronze Age]] |
 | 3000 BCE | [[Stonehenge]] | place | [[Neolithic]] |
 | 3000 BCE | [[Troy]] | place | [[Bronze Age]] |
+| 3000 BCE | [[Tupi-Guarani]] | culture | [[Neolithic]] |
 | 2900 BCE | [[Papyrus]] | technology | [[Bronze Age]] |
 | 2800 BCE to 2500 BCE | [[Gilgamesh]] | person | [[Bronze Age]] |
+| 2750 BCE to 1800 BCE | [[Beaker Culture]] | culture | [[Bronze Age]] |
 | 2700 BCE | [[Calendars]] | technology | [[Bronze Age]] |
 | 2700 BCE | [[Sericulture]] | technology | [[Bronze Age]] |
 | 2600 BCE to 2000 BCE | [[Caral]] | place | [[Bronze Age]] |
@@ -90,6 +97,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 2600 BCE to 1900 BCE | [[Indus Valley Civilization]] | culture | [[Bronze Age]] |
 | 2600 BCE | [[Sanitation and Sewers]] | technology | [[Bronze Age]] |
 | 2500 BCE to 1900 BCE | [[Mohenjo-daro]] | place | [[Bronze Age]] |
+| 2334 BCE to 2154 BCE | [[Akkadian Empire]] | culture | [[Bronze Age]] |
 | 2285 BCE to 2250 BCE | [[Enheduanna]] | person | [[Bronze Age]] |
 | 2200 BCE | [[Babylon]] | place | [[Bronze Age]] |
 | 2100 BCE to 1800 BCE | [[Sintashta Culture]] | culture | [[Bronze Age]] |
@@ -97,6 +105,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 2000 BCE | [[Chariot]] | technology | [[Bronze Age]] |
 | 2000 BCE to 1450 BCE | [[Minoans]] | culture | [[Bronze Age]] |
 | 1970 BCE | [[Karnak]] | place | [[Bronze Age]] |
+| 1894 BCE to 539 BCE | [[Babylonian Empire]] | culture | [[Bronze Age]] |
 | 1810 BCE to 1750 BCE | [[Hammurabi]] | person | [[Bronze Age]] |
 | 1800 BCE | [[Alphabet]] | technology | [[Bronze Age]] |
 | 1800 BCE | [[Judaism]] | culture | [[Bronze Age]] |
@@ -112,6 +121,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1500 BCE | [[Ganges River]] | place | [[Bronze Age]] |
 | 1500 BCE | [[Hinduism]] | culture | [[Bronze Age]] |
 | 1500 BCE | [[Lake Titicaca]] | place | [[Bronze Age]] |
+| 1500 BCE to 1523 CE | [[Mixtec]] | culture | [[Bronze Age]] |
 | 1500 BCE to 1070 BCE | [[Valley of the Kings]] | place | [[Bronze Age]] |
 | 1500 BCE to 500 BCE | [[Vedic Period]] | event | [[Bronze Age]] |
 | 1400 BCE | [[Water Clock]] | technology | [[Bronze Age]] |
@@ -126,14 +136,19 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1200 BCE to 400 BCE | [[Olmecs]] | culture | [[Iron Age]] |
 | 1200 BCE to 300 BCE | [[Phoenicians]] | culture | [[Iron Age]] |
 | 1070 BCE to 350 CE | [[Kingdom of Kush]] | culture | [[Iron Age]] |
+| 1046 BCE to 256 BCE | [[Zhou Dynasty]] | culture | [[Bronze Age]] |
+| 1025 BCE to 586 BCE | [[Kingdom of Israel and Judah]] | culture | [[Iron Age]] |
 | 1000 BCE | [[Amazon River]] | place | [[Bronze Age]] |
 | 1000 BCE to 300 CE | [[Incense Trade]] | event | [[Iron Age]] |
 | 1000 BCE to 275 CE | [[Kingdom of Saba]] | culture | [[Iron Age]] |
 | 1000 BCE to 950 CE | [[Tikal]] | place | [[Iron Age]] |
 | 1000 BCE | [[Zoroastrianism]] | culture | [[Iron Age]] |
 | 911 BCE to 609 BCE | [[Neo-Assyrian Empire]] | culture | [[Iron Age]] |
+| 900 BCE to 250 BCE | [[Chavín Culture]] | culture | [[Iron Age]] |
+| 900 BCE to 1 CE | [[Nok Culture]] | culture | [[Iron Age]] |
 | 900 BCE to 200 BCE | [[Scythians]] | culture | [[Iron Age]] |
 | 814 BCE to 146 BCE | [[Carthage]] | place | [[Iron Age]] |
+| 814 BCE to 146 BCE | [[Carthaginian Empire]] | culture | [[Iron Age]] |
 | 814 BCE to 760 BCE | [[Dido]] | person | [[Iron Age]] |
 | 800 BCE to 146 BCE | [[Ancient Greeks]] | culture | [[Classical Antiquity]] |
 | 800 BCE to 200 BCE | [[Axial Age]] | event | [[Iron Age]] |
@@ -162,6 +177,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 550 BCE to 486 BCE | [[Darius I]] | person | [[Iron Age]] |
 | 550 BCE | [[Laozi]] | person | [[Iron Age]] |
 | 550 BCE | [[Pasargadae]] | place | [[Iron Age]] |
+| 544 BCE to 320 CE | [[Magadha]] | culture | [[Iron Age]] |
 | 544 BCE to 496 BCE | [[Sun Tzu]] | person | [[Iron Age]] |
 | 539 BCE | [[Cyrus Cylinder]] | technology | [[Iron Age]] |
 | 530 BCE | [[Tomyris]] | person | [[Iron Age]] |
@@ -176,9 +192,11 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 500 BCE to 1221 CE | [[Merv]] | place | [[Classical Antiquity]] |
 | 500 BCE | [[Monte Alban]] | place | [[Classical Antiquity]] |
 | 500 BCE to 500 CE | [[Upano Valley Settlements]] | place | [[Classical Antiquity]] |
+| 500 BCE to 900 CE | [[Zapotec Civilization]] | culture | [[Classical Antiquity]] |
 | 495 BCE to 429 BCE | [[Pericles]] | person | [[Classical Antiquity]] |
 | 400 BCE to 1600 CE | [[Marajó Island]] | place | [[Iron Age]] |
 | 400 BCE to 500 CE | [[Nazca Lines]] | place | [[Iron Age]] |
+| 400 BCE to 400 CE | [[Sarmatians]] | culture | [[Iron Age]] |
 | 384 BCE to 322 BCE | [[Aristotle]] | person | [[Classical Antiquity]] |
 | 356 BCE to 323 BCE | [[Alexander the Great]] | person | [[Classical Antiquity]] |
 | 340 BCE to 297 BCE | [[Chandragupta Maurya]] | person | [[Classical Antiquity]] |
@@ -186,13 +204,17 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 322 BCE to 185 BCE | [[Maurya Empire]] | culture | [[Classical Antiquity]] |
 | 312 BCE to 106 CE | [[Nabataeans]] | culture | [[Classical Antiquity]] |
 | 312 BCE | [[Petra]] | place | [[Classical Antiquity]] |
+| 305 BCE to 30 BCE | [[Ptolemaic Kingdom]] | culture | [[Classical Antiquity]] |
 | 304 BCE to 232 BCE | [[Ashoka]] | person | [[Classical Antiquity]] |
 | 300 BCE | [[Crucible Steel]] | technology | [[Classical Antiquity]] |
+| 300 BCE to 1200 CE | [[Gandhara]] | culture | [[Iron Age]] |
 | 300 BCE | [[Shinto]] | culture | [[Iron Age]] |
+| 300 BCE to 250 CE | [[Yayoi Culture]] | culture | [[Iron Age]] |
 | 285 BCE | [[Library of Alexandria]] | place | [[Classical Antiquity]] |
 | 259 BCE to 210 BCE | [[Qin Shi Huang]] | person | [[Classical Antiquity]] |
 | 250 BCE | [[Dead Sea Scrolls]] | technology | [[Classical Antiquity]] |
 | 250 BCE | [[Paris]] | place | [[Classical Antiquity]] |
+| 247 BCE to 224 CE | [[Parthian Empire]] | culture | [[Iron Age]] |
 | 246 BCE | [[Mausoleum of Qin Shi Huang]] | place | [[Classical Antiquity]] |
 | 221 BCE to 206 BCE | [[Unification of China under Qin]] | event | [[Classical Antiquity]] |
 | 210 BCE | [[Mekong River]] | place | [[Classical Antiquity]] |
@@ -200,6 +222,8 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 209 BCE to 93 CE | [[Xiongnu]] | culture | [[Classical Antiquity]] |
 | 206 BCE to 220 CE | [[Han Dynasty]] | culture | [[Classical Antiquity]] |
 | 202 BCE to 904 CE | [[Chang'an]] | place | [[Classical Antiquity]] |
+| 200 BCE to 700 CE | [[Hopewell Tradition]] | culture | [[Classical Antiquity]] |
+| 200 BCE to 30 BCE | [[Yuezhi]] | culture | [[Iron Age]] |
 | 196 BCE | [[Rosetta Stone]] | technology | [[Classical Antiquity]] |
 | 150 BCE | [[Córdoba]] | place | [[Classical Antiquity]] |
 | 130 BCE to 1450 CE | [[Opening of the Silk Roads]] | event | [[Classical Antiquity]] |
@@ -209,8 +233,10 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 100 BCE to 550 CE | [[Teotihuacan]] | place | [[Classical Antiquity]] |
 | 69 BCE to 30 BCE | [[Cleopatra VII]] | person | [[Classical Antiquity]] |
 | 63 BCE to 14 CE | [[Augustus]] | person | [[Classical Antiquity]] |
+| 57 BCE to 935 CE | [[Silla]] | culture | [[Iron Age]] |
 | 54 BCE to 53 BCE | [[Ambiorix]] | person | [[Classical Antiquity]] |
 | 40 BCE to 10 BCE | [[Amanirenas]] | person | [[Classical Antiquity]] |
+| 37 BCE to 668 CE | [[Goguryeo]] | culture | [[Iron Age]] |
 | 1 CE to 25 CE | [[Amanitore]] | person | [[Classical Antiquity]] |
 | 30 CE | [[Christianity]] | culture | [[Classical Antiquity]] |
 | 30 CE to 375 CE | [[Kushan Empire]] | culture | [[Classical Antiquity]] |
@@ -222,13 +248,17 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 100 CE | [[Codex]] | technology | [[Classical Antiquity]] |
 | 100 CE to 550 CE | [[Funan]] | culture | [[Classical Antiquity]] |
 | 100 CE to 940 CE | [[Kingdom of Aksum]] | culture | [[Classical Antiquity]] |
+| 100 CE to 800 CE | [[Moche Culture]] | culture | [[Classical Antiquity]] |
+| 110 CE to 525 CE | [[Kingdom of Himyar]] | culture | [[Classical Antiquity]] |
 | 132 CE | [[Seismoscope]] | technology | [[Classical Antiquity]] |
 | 192 CE to 1832 CE | [[Champa]] | culture | [[Medieval Period]] |
+| 224 CE to 651 CE | [[Sasanian Empire]] | culture | [[Classical Antiquity]] |
 | 240 CE to 1300 CE | [[Manichaeism]] | culture | [[Classical Antiquity]] |
 | 240 CE to 274 CE | [[Zenobia]] | person | [[Classical Antiquity]] |
 | 248 CE | [[Ba Trieu]] | person | [[Classical Antiquity]] |
 | 250 CE to 987 CE | [[Franks]] | culture | [[Medieval Period]] |
 | 250 CE to 900 CE | [[Maya]] | culture | [[Medieval Period]] |
+| 250 CE to 710 CE | [[Yamato Court]] | culture | [[Iron Age]] |
 | 300 CE | [[Sogdians]] | culture | [[Classical Antiquity]] |
 | 300 CE | [[Zero and Place-Value Notation]] | technology | [[Classical Antiquity]] |
 | 302 CE | [[Stirrup]] | technology | [[Classical Antiquity]] |
@@ -238,31 +268,40 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 330 CE to 1453 CE | [[Constantinople]] | place | [[Classical Antiquity]] |
 | 350 CE to 415 CE | [[Hypatia]] | person | [[Classical Antiquity]] |
 | 366 CE | [[Mogao Caves]] | place | [[Classical Antiquity]] |
+| 370 CE to 469 CE | [[Huns]] | culture | [[Classical Antiquity]] |
 | 400 CE to 1300 CE | [[Marajoara Culture]] | culture | [[Classical Antiquity]] |
 | 406 CE to 453 CE | [[Attila]] | person | [[Classical Antiquity]] |
 | 427 CE to 1200 CE | [[Nalanda]] | place | [[Classical Antiquity]] |
 | 450 CE to 1066 CE | [[Anglo-Saxons]] | culture | [[Medieval Period]] |
 | 476 CE | [[Fall of the Western Roman Empire]] | event | [[Classical Antiquity]] |
 | 500 CE to 1400 CE | [[Casarabe Culture]] | culture | [[Medieval Period]] |
+| 500 CE to 1365 CE | [[Kingdom of Makuria]] | culture | [[Medieval Period]] |
 | 500 CE | [[Mecca]] | place | [[Medieval Period]] |
 | 500 CE | [[Venice]] | place | [[Medieval Period]] |
 | 550 CE to 1300 CE | [[Mesa Verde]] | place | [[Medieval Period]] |
+| 550 CE to 1000 CE | [[Tiwanaku]] | culture | [[Medieval Period]] |
 | 552 CE to 744 CE | [[Göktürk Khaganate]] | culture | [[Medieval Period]] |
 | 555 CE to 619 CE | [[Khadija bint Khuwaylid]] | person | [[Medieval Period]] |
 | 570 CE to 632 CE | [[Muhammad]] | person | [[Medieval Period]] |
+| 581 CE to 618 CE | [[Sui Dynasty]] | culture | [[Medieval Period]] |
 | 600 CE | [[Porcelain]] | technology | [[Medieval Period]] |
+| 600 CE to 1050 CE | [[Wari Empire]] | culture | [[Medieval Period]] |
 | 602 CE to 664 CE | [[Xuanzang]] | person | [[Medieval Period]] |
 | 603 CE to 683 CE | [[Pakal the Great]] | person | [[Medieval Period]] |
 | 610 CE | [[Islam]] | culture | [[Medieval Period]] |
 | 610 CE to 750 CE | [[Rise of Islam]] | event | [[Medieval Period]] |
 | 614 CE to 678 CE | [[Aisha bint Abi Bakr]] | person | [[Medieval Period]] |
 | 618 CE to 907 CE | [[Tang Dynasty]] | culture | [[Medieval Period]] |
+| 618 CE to 842 CE | [[Tibetan Empire]] | culture | [[Medieval Period]] |
 | 622 CE | [[Medina]] | place | [[Medieval Period]] |
 | 624 CE to 705 CE | [[Wu Zetian]] | person | [[Medieval Period]] |
+| 632 CE to 661 CE | [[Rashidun Caliphate]] | culture | [[Medieval Period]] |
 | 632 CE to 647 CE | [[Seondeok]] | person | [[Medieval Period]] |
+| 650 CE to 969 CE | [[Khazar Khaganate]] | culture | [[Medieval Period]] |
 | 650 CE to 1377 CE | [[Srivijaya]] | culture | [[Medieval Period]] |
 | 661 CE to 750 CE | [[Umayyad Caliphate]] | culture | [[Medieval Period]] |
 | 682 CE to 741 CE | [[Lady Six Sky]] | person | [[Medieval Period]] |
+| 697 CE to 1797 CE | [[Venetian Republic]] | culture | [[Medieval Period]] |
 | 700 CE to 1300 CE | [[Ancestral Puebloans]] | culture | [[Medieval Period]] |
 | 700 CE to 1500 CE | [[Indian Ocean Trade Network]] | event | [[Medieval Period]] |
 | 700 CE | [[Woodblock Printing]] | technology | [[Medieval Period]] |
@@ -270,6 +309,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 711 CE to 1492 CE | [[Al-Andalus]] | culture | [[Medieval Period]] |
 | 748 CE to 814 CE | [[Charlemagne]] | person | [[Medieval Period]] |
 | 750 CE to 1258 CE | [[Abbasid Caliphate]] | culture | [[Medieval Period]] |
+| 750 CE to 1161 CE | [[Pala Empire]] | culture | [[Medieval Period]] |
 | 750 CE to 950 CE | [[Translation Movement and the House of Wisdom]] | event | [[Medieval Period]] |
 | 751 CE | [[Battle of Talas]] | event | [[Medieval Period]] |
 | 762 CE | [[Baghdad]] | place | [[Medieval Period]] |
@@ -280,6 +320,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 800 CE | [[Chichen Itza]] | place | [[Medieval Period]] |
 | 800 CE to 950 CE | [[Classic Maya Collapse]] | event | [[Medieval Period]] |
 | 800 CE to 1240 CE | [[Ghana Empire]] | culture | [[Medieval Period]] |
+| 800 CE to 1000 CE | [[Igbo-Ukwu Culture]] | culture | [[Medieval Period]] |
 | 800 CE | [[Kilwa Kisiwani]] | place | [[Medieval Period]] |
 | 800 CE to 1500 CE | [[Swahili Coast City-States]] | culture | [[Medieval Period]] |
 | 802 CE to 1431 CE | [[Angkor]] | place | [[Medieval Period]] |
@@ -288,13 +329,21 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 850 CE to 1150 CE | [[Chaco Canyon]] | place | [[Medieval Period]] |
 | 850 CE to 1279 CE | [[Chola Dynasty]] | culture | [[Medieval Period]] |
 | 850 CE | [[Gunpowder]] | technology | [[Medieval Period]] |
+| 882 CE to 1240 CE | [[Kievan Rus]] | culture | [[Medieval Period]] |
+| 900 CE to 1470 CE | [[Chimú]] | culture | [[Medieval Period]] |
 | 900 CE to 1893 CE | [[Kanem-Bornu Empire]] | culture | [[Medieval Period]] |
 | 900 CE to 1100 CE | [[Kupe]] | person | [[Medieval Period]] |
 | 900 CE to 1628 CE | [[Nan Madol]] | place | [[Medieval Period]] |
+| 900 CE to 1550 CE | [[Tapajós Culture]] | culture | [[Medieval Period]] |
+| 900 CE to 1150 CE | [[Toltec]] | culture | [[Medieval Period]] |
 | 900 CE | [[Windmill]] | technology | [[Medieval Period]] |
+| 911 CE to 1194 CE | [[Normans]] | culture | [[Medieval Period]] |
 | 927 CE | [[Astrolabe]] | technology | [[Medieval Period]] |
+| 938 CE to 1802 CE | [[Đại Việt]] | culture | [[Medieval Period]] |
+| 950 CE to 1500 CE | [[Tui Tonga Empire]] | culture | [[Medieval Period]] |
 | 958 CE to 1025 CE | [[Basil II]] | person | [[Medieval Period]] |
 | 960 CE to 1279 CE | [[Song Dynasty]] | culture | [[Medieval Period]] |
+| 962 CE to 1806 CE | [[Holy Roman Empire]] | culture | [[Medieval Period]] |
 | 973 CE to 1048 CE | [[Al-Biruni]] | person | [[Medieval Period]] |
 | 973 CE to 1014 CE | [[Murasaki Shikibu]] | person | [[Medieval Period]] |
 | 980 CE to 1037 CE | [[Ibn Sina]] | person | [[Medieval Period]] |
@@ -308,18 +357,22 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1000 CE to 1650 CE | [[Quipu]] | technology | [[Medieval Period]] |
 | 1000 CE | [[Taino]] | culture | [[Medieval Period]] |
 | 1015 CE to 1066 CE | [[Harald Hardrada]] | person | [[Medieval Period]] |
+| 1040 CE to 1147 CE | [[Almoravid Dynasty]] | culture | [[Medieval Period]] |
 | 1044 CE to 1287 CE | [[Pagan Kingdom]] | culture | [[Medieval Period]] |
 | 1050 CE to 1350 CE | [[Cahokia]] | place | [[Medieval Period]] |
 | 1050 CE to 1270 CE | [[Kingdom of Mapungubwe]] | culture | [[Medieval Period]] |
 | 1051 CE | [[Isfahan]] | place | [[Medieval Period]] |
+| 1077 CE to 1231 CE | [[Khwarazmian Empire]] | culture | [[Medieval Period]] |
 | 1084 CE to 1155 CE | [[Li Qingzhao]] | person | [[Medieval Period]] |
 | 1095 CE to 1291 CE | [[Crusades]] | event | [[Medieval Period]] |
+| 1100 CE | [[Chukchi]] | culture | [[Medieval Period]] |
 | 1100 CE to 1450 CE | [[Great Zimbabwe]] | place | [[Medieval Period]] |
 | 1100 CE | [[Magnetic Compass]] | technology | [[Medieval Period]] |
 | 1100 CE | [[Timbuktu]] | place | [[Medieval Period]] |
 | 1122 CE to 1190 CE | [[Frederick Barbarossa]] | person | [[Medieval Period]] |
 | 1122 CE to 1218 CE | [[Jayavarman VII]] | person | [[Medieval Period]] |
 | 1124 CE to 1204 CE | [[Eleanor of Aquitaine]] | person | [[Medieval Period]] |
+| 1124 CE to 1218 CE | [[Kara-Khitan Khanate]] | culture | [[Medieval Period]] |
 | 1137 CE to 1193 CE | [[Saladin]] | person | [[Medieval Period]] |
 | 1137 CE to 1270 CE | [[Zagwe Dynasty]] | culture | [[Medieval Period]] |
 | 1150 CE | [[Chinampas]] | technology | [[Medieval Period]] |
@@ -339,24 +392,31 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1217 CE to 1255 CE | [[Sundiata Keita]] | person | [[Medieval Period]] |
 | 1235 CE to 1388 CE | [[Karakorum]] | place | [[Medieval Period]] |
 | 1235 CE to 1670 CE | [[Mali Empire]] | culture | [[Medieval Period]] |
+| 1238 CE to 1438 CE | [[Sukhothai Kingdom]] | culture | [[Medieval Period]] |
+| 1242 CE to 1480 CE | [[Golden Horde]] | culture | [[Medieval Period]] |
+| 1250 CE to 1517 CE | [[Mamluk Sultanate]] | culture | [[Medieval Period]] |
 | 1250 CE | [[Maori]] | culture | [[Medieval Period]] |
 | 1250 CE to 1395 CE | [[Sarai]] | place | [[Medieval Period]] |
 | 1251 CE to 1284 CE | [[Hojo Tokimune]] | person | [[Medieval Period]] |
 | 1253 CE to 1325 CE | [[Amir Khusrau]] | person | [[Medieval Period]] |
 | 1267 CE to 1337 CE | [[Giotto]] | person | [[Medieval Period]] |
+| 1271 CE to 1368 CE | [[Yuan Dynasty]] | culture | [[Medieval Period]] |
 | 1274 CE to 1329 CE | [[Robert the Bruce]] | person | [[Medieval Period]] |
 | 1280 CE to 1337 CE | [[Mansa Musa]] | person | [[Medieval Period]] |
+| 1282 CE to 1918 CE | [[Habsburg Monarchy]] | culture | [[Medieval Period]] |
 | 1286 CE | [[Eyeglasses]] | technology | [[Medieval Period]] |
 | 1288 CE | [[Cannon]] | technology | [[Medieval Period]] |
 | 1293 CE to 1527 CE | [[Majapahit]] | culture | [[Medieval Period]] |
 | 1299 CE to 1922 CE | [[Ottoman Empire]] | culture | [[Medieval Period]] |
 | 1300 CE | [[Mechanical Clock]] | technology | [[Medieval Period]] |
+| 1300 CE | [[Nenets]] | culture | [[Medieval Period]] |
 | 1300 CE | [[Yakut (Sakha)]] | culture | [[Medieval Period]] |
 | 1304 CE to 1369 CE | [[Ibn Battuta]] | person | [[Medieval Period]] |
 | 1325 CE to 1521 CE | [[Tenochtitlan]] | place | [[Medieval Period]] |
 | 1328 CE to 1350 CE | [[Gitarja]] | person | [[Medieval Period]] |
 | 1332 CE to 1406 CE | [[Ibn Khaldun]] | person | [[Medieval Period]] |
 | 1336 CE to 1405 CE | [[Timur]] | person | [[Medieval Period]] |
+| 1336 CE to 1565 CE | [[Vijayanagara Empire]] | culture | [[Medieval Period]] |
 | 1340 CE | [[Double-Entry Bookkeeping]] | technology | [[Medieval Period]] |
 | 1346 CE to 1353 CE | [[Black Death]] | event | [[Medieval Period]] |
 | 1351 CE to 1767 CE | [[Ayutthaya]] | place | [[Medieval Period]] |
@@ -366,10 +426,14 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1370 CE to 1507 CE | [[Timurid Empire]] | culture | [[Medieval Period]] |
 | 1371 CE to 1433 CE | [[Zheng He]] | person | [[Medieval Period]] |
 | 1373 CE to 1399 CE | [[Jadwiga]] | person | [[Medieval Period]] |
+| 1375 CE to 1894 CE | [[Buganda]] | culture | [[Medieval Period]] |
 | 1390 CE to 1441 CE | [[Jan van Eyck]] | person | [[Medieval Period]] |
+| 1392 CE to 1897 CE | [[Joseon Dynasty]] | culture | [[Medieval Period]] |
 | 1394 CE to 1449 CE | [[Ulugh Beg]] | person | [[Medieval Period]] |
 | 1400 CE to 1468 CE | [[Johannes Gutenberg]] | person | [[Medieval Period]] |
+| 1400 CE to 1889 CE | [[Luba Empire]] | culture | [[Medieval Period]] |
 | 1400 CE to 1511 CE | [[Malacca Sultanate]] | culture | [[Medieval Period]] |
+| 1400 CE to 1836 CE | [[Oyo Empire]] | culture | [[Medieval Period]] |
 | 1400 CE to 1600 CE | [[Renaissance]] | event | [[Medieval Period]] |
 | 1402 CE to 1472 CE | [[Nezahualcoyotl]] | person | [[Medieval Period]] |
 | 1406 CE to 1924 CE | [[Forbidden City]] | place | [[Medieval Period]] |
@@ -404,6 +468,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1498 CE to 1546 CE | [[Mirabai]] | person | [[Early Modern Period]] |
 | 1498 CE | [[Portuguese Sea Route to India]] | event | [[Early Modern Period]] |
 | 1500 CE to 1529 CE | [[Malinche]] | person | [[Early Modern Period]] |
+| 1500 CE | [[Moriori]] | culture | [[Medieval Period]] |
 | 1500 CE | [[Sugar Plantation Complex]] | event | [[Early Modern Period]] |
 | 1501 CE to 1866 CE | [[Atlantic Slave Trade]] | event | [[Early Modern Period]] |
 | 1501 CE to 1736 CE | [[Safavid Empire]] | culture | [[Early Modern Period]] |
@@ -432,14 +497,17 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1560 CE to 1600 CE | [[Basawan]] | person | [[Early Modern Period]] |
 | 1564 CE to 1642 CE | [[Galileo Galilei]] | person | [[Early Modern Period]] |
 | 1565 CE to 1815 CE | [[Manila Galleon Trade]] | event | [[Early Modern Period]] |
+| 1569 CE to 1795 CE | [[Polish-Lithuanian Commonwealth]] | culture | [[Early Modern Period]] |
 | 1571 CE to 1610 CE | [[Caravaggio]] | person | [[Early Modern Period]] |
 | 1576 CE to 1610 CE | [[Queen Amina of Zazzau]] | person | [[Early Modern Period]] |
 | 1577 CE to 1645 CE | [[Nur Jahan]] | person | [[Early Modern Period]] |
+| 1581 CE to 1795 CE | [[Dutch Republic]] | culture | [[Early Modern Period]] |
 | 1582 CE to 1639 CE | [[Russian Expansion into Siberia]] | event | [[Early Modern Period]] |
 | 1583 CE to 1663 CE | [[Nzinga of Ndongo and Matamba]] | person | [[Early Modern Period]] |
 | 1589 CE | [[Hiroshima]] | place | [[Early Modern Period]] |
 | 1593 CE to 1654 CE | [[Artemisia Gentileschi]] | person | [[Early Modern Period]] |
 | 1599 CE to 1660 CE | [[Diego Velázquez]] | person | [[Early Modern Period]] |
+| 1600 CE to 1894 CE | [[Kingdom of Dahomey]] | culture | [[Early Modern Period]] |
 | 1602 CE to 1799 CE | [[Dutch East India Company]] | event | [[Early Modern Period]] |
 | 1603 CE to 1868 CE | [[Tokugawa Shogunate]] | culture | [[Early Modern Period]] |
 | 1606 CE to 1669 CE | [[Rembrandt van Rijn]] | person | [[Early Modern Period]] |
@@ -456,12 +524,17 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1644 CE to 1912 CE | [[Qing Dynasty]] | culture | [[Early Modern Period]] |
 | 1648 CE | [[Peace of Westphalia]] | event | [[Early Modern Period]] |
 | 1648 CE to 1695 CE | [[Sor Juana Inés de la Cruz]] | person | [[Early Modern Period]] |
+| 1650 CE | [[Maroon Communities]] | culture | [[Early Modern Period]] |
 | 1655 CE to 1692 CE | [[Port Royal]] | place | [[Early Modern Period]] |
 | 1658 CE to 1996 CE | [[Robben Island]] | place | [[Early Modern Period]] |
+| 1670 CE to 1902 CE | [[Asante Empire]] | culture | [[Early Modern Period]] |
 | 1672 CE to 1725 CE | [[Peter the Great]] | person | [[Early Modern Period]] |
+| 1674 CE to 1818 CE | [[Maratha Empire]] | culture | [[Early Modern Period]] |
 | 1676 CE to 1759 CE | [[Jeong Seon]] | person | [[Early Modern Period]] |
 | 1681 CE to 1741 CE | [[Vitus Bering]] | person | [[Early Modern Period]] |
+| 1700 CE to 1875 CE | [[Comanche]] | culture | [[Early Modern Period]] |
 | 1700 CE to 1789 CE | [[Enlightenment]] | event | [[Early Modern Period]] |
+| 1700 CE | [[Sami]] | culture | [[Early Modern Period]] |
 | 1712 CE | [[Steam Engine]] | technology | [[Early Modern Period]] |
 | 1725 CE to 1770 CE | [[Tupaia]] | person | [[Early Modern Period]] |
 | 1727 CE | [[Ajuricaba]] | person | [[Early Modern Period]] |
@@ -489,6 +562,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1795 CE to 1893 CE | [[Hawaiian Kingdom]] | culture | [[Industrial Age]] |
 | 1796 CE | [[Vaccination]] | technology | [[Early Modern Period]] |
 | 1797 CE to 1858 CE | [[Utagawa Hiroshige]] | person | [[Industrial Age]] |
+| 1799 CE to 1849 CE | [[Sikh Empire]] | culture | [[Early Modern Period]] |
 | 1800 CE | [[Battery]] | technology | [[Industrial Age]] |
 | 1803 CE to 1815 CE | [[Napoleonic Wars]] | event | [[Industrial Age]] |
 | 1804 CE to 1903 CE | [[Sokoto Caliphate]] | culture | [[Industrial Age]] |
@@ -554,11 +628,13 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1862 CE to 1944 CE | [[Hilma af Klint]] | person | [[Industrial Age]] |
 | 1862 CE to 1954 CE | [[Lumière Brothers]] | person | [[Industrial Age]] |
 | 1863 CE to 1944 CE | [[Edvard Munch]] | person | [[Industrial Age]] |
+| 1863 CE to 1868 CE | [[Navajo]] | culture | [[Industrial Age]] |
 | 1866 CE to 1925 CE | [[Sun Yat-sen]] | person | [[Industrial Age]] |
 | 1866 CE to 1944 CE | [[Wassily Kandinsky]] | person | [[Industrial Age]] |
 | 1867 CE to 1959 CE | [[Frank Lloyd Wright]] | person | [[Industrial Age]] |
 | 1867 CE to 1934 CE | [[Marie Curie]] | person | [[Industrial Age]] |
 | 1868 CE to 1928 CE | [[Charles Rennie Mackintosh]] | person | [[Industrial Age]] |
+| 1869 CE | [[Ainu]] | culture | [[Industrial Age]] |
 | 1869 CE to 1948 CE | [[Mahatma Gandhi]] | person | [[Industrial Age]] |
 | 1873 CE to 1968 CE | [[Alice Guy-Blaché]] | person | [[Industrial Age]] |
 | 1876 CE | [[Telephone]] | technology | [[Industrial Age]] |
@@ -577,6 +653,7 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1895 CE | [[Radio]] | technology | [[Industrial Age]] |
 | 1895 CE | [[X-ray Imaging]] | technology | [[Industrial Age]] |
 | 1896 CE | [[Battle of Adwa]] | event | [[Industrial Age]] |
+| 1897 CE | [[Water Chlorination]] | technology | [[Industrial Age]] |
 | 1898 CE to 1948 CE | [[Sergei Eisenstein]] | person | [[Industrial Age]] |
 | 1899 CE to 1901 CE | [[Boxer Rebellion]] | event | [[Industrial Age]] |
 | 1900 CE to 1978 CE | [[Funmilayo Ransome-Kuti]] | person | [[Information Age]] |
@@ -599,6 +676,8 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1919 CE to 1923 CE | [[Turkish War of Independence]] | event | [[Industrial Age]] |
 | 1920 CE to 1958 CE | [[Rosalind Franklin]] | person | [[Information Age]] |
 | 1921 CE | [[Insulin]] | technology | [[Industrial Age]] |
+| 1922 CE to 1991 CE | [[Soviet Union]] | culture | [[Industrial Age]] |
+| 1926 CE | [[Liquid-Fueled Rocket]] | technology | [[Industrial Age]] |
 | 1928 CE | [[Antibiotics]] | technology | [[Industrial Age]] |
 | 1932 CE to 1957 CE | [[Kolyma]] | place | [[Industrial Age]] |
 | 1933 CE to 1945 CE | [[Holocaust]] | event | [[Industrial Age]] |
@@ -608,20 +687,35 @@ Includes events, people, cultures, technologies, and places dated from about 300
 | 1939 CE to 1945 CE | [[World War II]] | event | [[Industrial Age]] |
 | 1940 CE to 1945 CE | [[Auschwitz-Birkenau]] | place | [[Industrial Age]] |
 | 1940 CE to 2011 CE | [[Wangari Maathai]] | person | [[Information Age]] |
+| 1940 CE | [[Yanomami]] | culture | [[Industrial Age]] |
 | 1943 CE to 1944 CE | [[Bengal Famine of 1943]] | event | [[Industrial Age]] |
 | 1944 CE to 1988 CE | [[Chico Mendes]] | person | [[Information Age]] |
 | 1944 CE to 1970 CE | [[Green Revolution]] | event | [[Information Age]] |
 | 1945 CE to 1975 CE | [[Decolonization]] | event | [[Information Age]] |
 | 1945 CE | [[Digital Computer]] | technology | [[Information Age]] |
 | 1945 CE | [[Nuclear Age]] | event | [[Information Age]] |
+| 1945 CE | [[Nuclear Weapons]] | technology | [[Information Age]] |
 | 1947 CE to 1991 CE | [[Cold War]] | event | [[Information Age]] |
 | 1947 CE | [[Partition of India]] | event | [[Information Age]] |
+| 1947 CE | [[Transistor]] | technology | [[Information Age]] |
+| 1949 CE | [[Radiocarbon Dating]] | technology | [[Information Age]] |
 | 1950 CE | [[Great Acceleration]] | event | [[Anthropocene]] |
 | 1953 CE | [[Genomic Revolution]] | event | [[Information Age]] |
+| 1954 CE | [[Photovoltaic Cell]] | technology | [[Information Age]] |
+| 1956 CE | [[Container Shipping]] | technology | [[Information Age]] |
 | 1957 CE | [[Space Age]] | event | [[Information Age]] |
+| 1958 CE | [[Integrated Circuit]] | technology | [[Information Age]] |
+| 1960 CE | [[Hormonal Contraception]] | technology | [[Information Age]] |
+| 1968 CE | [[Oral Rehydration Therapy]] | technology | [[Information Age]] |
 | 1969 CE | [[Digital Revolution]] | event | [[Information Age]] |
+| 1969 CE | [[Internet]] | technology | [[Information Age]] |
 | 1969 CE | [[Moon Landing]] | event | [[Information Age]] |
 | 1978 CE | [[Chinese Reform and Opening]] | event | [[Information Age]] |
+| 1978 CE | [[GPS]] | technology | [[Information Age]] |
 | 1989 CE to 1991 CE | [[Collapse of the Soviet Union]] | event | [[Information Age]] |
+| 1989 CE | [[World Wide Web]] | technology | [[Information Age]] |
+| 1994 CE | [[Smartphone]] | technology | [[Information Age]] |
+| 2012 CE | [[CRISPR Gene Editing]] | technology | [[Information Age]] |
 | 2019 CE to 2023 CE | [[COVID-19 Pandemic]] | event | [[Information Age]] |
+| 2020 CE | [[mRNA Vaccines]] | technology | [[Information Age]] |
 <!-- /AUTO:timeline -->

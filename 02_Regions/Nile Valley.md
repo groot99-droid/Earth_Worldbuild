@@ -49,6 +49,9 @@ The Observer sees the Nile as a natural clock: predictable flooding produced pre
 **Peoples and cultures**
 - [[Ancient Egyptians]] (3100 BCE)
 - [[Kingdom of Kush]] (1070 BCE)
+- [[Ptolemaic Kingdom]] (305 BCE)
+- [[Kingdom of Makuria]] (500 CE)
+- [[Mamluk Sultanate]] (1250 CE)
 
 **Places**
 - [[Nile River]] (5500 BCE)
@@ -59,6 +62,8 @@ The Observer sees the Nile as a natural clock: predictable flooding produced pre
 
 **Species**
 - [[Donkey]] (4000 BCE)
+- [[Honeybee]] (2450 BCE)
+- [[Variola Virus]] (1157 BCE)
 
 **Technologies**
 - [[Papyrus]] (2900 BCE)

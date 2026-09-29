@@ -42,13 +42,19 @@ The Observer notes that the coldest lands of the planet hold some of the best re
 
 **Peoples and cultures**
 - [[Mal'ta and the Ancient North Eurasians]] (22 ka)
+- [[Evenki]] (3000 BCE)
 - [[Inuit and the Thule Expansion]] (1000 CE)
+- [[Chukchi]] (1100 CE)
+- [[Nenets]] (1300 CE)
 - [[Yakut (Sakha)]] (1300 CE)
 
 **Places**
 - [[Beringia]] (30 ka)
 - [[Lake Baikal]] (5000 BCE)
 - [[Kolyma]] (1932 CE)
+
+**Species**
+- [[Yersinia pestis]] (3500 BCE)
 
 **Technologies**
 - [[Trans-Siberian Railway]] (1891 CE)

@@ -42,9 +42,13 @@ The Observer notes how a mobile way of life without cities repeatedly rearranged
 - [[Botai Culture]] (3700 BCE)
 - [[Sintashta Culture]] (2100 BCE)
 - [[Scythians]] (900 BCE)
+- [[Sarmatians]] (400 BCE)
 - [[Xiongnu]] (209 BCE)
+- [[Yuezhi]] (200 BCE)
 - [[Göktürk Khaganate]] (552 CE)
+- [[Khazar Khaganate]] (650 CE)
 - [[Mongol Empire]] (1206 CE)
+- [[Golden Horde]] (1242 CE)
 
 **Places**
 - [[Arkaim]] (2000 BCE)

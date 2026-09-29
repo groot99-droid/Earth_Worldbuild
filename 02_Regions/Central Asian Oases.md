@@ -41,6 +41,8 @@ The Observer notes how these cities lived by relaying goods and ideas between la
 **Peoples and cultures**
 - [[Kushan Empire]] (30 CE)
 - [[Sogdians]] (300 CE)
+- [[Khwarazmian Empire]] (1077 CE)
+- [[Kara-Khitan Khanate]] (1124 CE)
 - [[Timurid Empire]] (1370 CE)
 
 **Places**

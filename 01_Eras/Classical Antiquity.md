@@ -65,18 +65,25 @@ The Observer notes that several distant societies, largely out of contact, devel
 **Peoples and cultures**
 - [[Ancient Greeks]] (800 BCE)
 - [[Romans]] (509 BCE)
+- [[Zapotec Civilization]] (500 BCE)
 - [[Maurya Empire]] (322 BCE)
 - [[Nabataeans]] (312 BCE)
+- [[Ptolemaic Kingdom]] (305 BCE)
 - [[Xiongnu]] (209 BCE)
 - [[Han Dynasty]] (206 BCE)
+- [[Hopewell Tradition]] (200 BCE)
 - [[Christianity]] (30 CE)
 - [[Kushan Empire]] (30 CE)
 - [[Funan]] (100 CE)
 - [[Kingdom of Aksum]] (100 CE)
+- [[Moche Culture]] (100 CE)
+- [[Kingdom of Himyar]] (110 CE)
+- [[Sasanian Empire]] (224 CE)
 - [[Manichaeism]] (240 CE)
 - [[Sogdians]] (300 CE)
 - [[Gupta Empire]] (320 CE)
 - [[Byzantine Empire]] (330 CE)
+- [[Huns]] (370 CE)
 - [[Marajoara Culture]] (400 CE)
 
 **Places**
@@ -103,6 +110,7 @@ The Observer notes that several distant societies, largely out of contact, devel
 
 **Species**
 - [[Tea Plant]] (200 BCE)
+- [[Black Rat]] (100 BCE)
 
 **Technologies**
 - [[Crossbow]] (500 BCE)
@@ -116,5 +124,9 @@ The Observer notes that several distant societies, largely out of contact, devel
 - [[Seismoscope]] (132 CE)
 - [[Zero and Place-Value Notation]] (300 CE)
 - [[Stirrup]] (302 CE)
+
+**Observer essays**
+- [[Cargo That Was Not Goods - What Exchange-Webs Carry]]
+- [[The Ratchet and Its Gaps - Why Some Tool-Lineages Stall]]
 
 <!-- /AUTO:members -->

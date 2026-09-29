@@ -49,7 +49,9 @@ The Observer regards Oceania as home to the species' most spectacular feats of n
 - [[Aboriginal Australians]] (50 ka)
 - [[Lapita Culture]] (1600 BCE)
 - [[Polynesians]] (1300 BCE)
+- [[Tui Tonga Empire]] (950 CE)
 - [[Maori]] (1250 CE)
+- [[Moriori]] (1500 CE)
 - [[Hawaiian Kingdom]] (1795 CE)
 
 **Places**

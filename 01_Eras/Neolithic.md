@@ -42,8 +42,11 @@ The Observer sees the Neolithic as a bargain with consequences: more food, more 
 
 **Peoples and cultures**
 - [[Jomon Culture]] (14 ka)
+- [[Khoisan Peoples]] (8000 BCE)
 - [[Chinchorro Culture]] (5450 BCE)
 - [[Botai Culture]] (3700 BCE)
+- [[Evenki]] (3000 BCE)
+- [[Tupi-Guarani]] (3000 BCE)
 
 **Places**
 - [[Doggerland]] (10 ka)
@@ -66,9 +69,11 @@ The Observer sees the Neolithic as a bargain with consequences: more food, more 
 - [[Sheep]] (9000 BCE)
 - [[Cattle]] (8500 BCE)
 - [[Goat]] (8000 BCE)
+- [[Plasmodium falciparum]] (8000 BCE)
 - [[Potato]] (8000 BCE)
 - [[Domestic Cat]] (7500 BCE)
 - [[Maize]] (7000 BCE)
+- [[Mycobacterium tuberculosis]] (7000 BCE)
 - [[Rice]] (7000 BCE)
 - [[Soybean]] (7000 BCE)
 - [[Cassava]] (4600 BCE)
@@ -76,13 +81,16 @@ The Observer sees the Neolithic as a bargain with consequences: more food, more 
 - [[Llama and Alpaca]] (4000 BCE)
 - [[Sugarcane]] (4000 BCE)
 - [[Sorghum]] (3500 BCE)
+- [[Yersinia pestis]] (3500 BCE)
 
 **Technologies**
 - [[Brewing and Fermentation]] (7000 BCE)
 - [[Irrigation Canals]] (5500 BCE)
 
 **Observer essays**
+- [[Sacred Ground - Why Some Places Are Special]]
 - [[Second Chances - How the Species Ran the Experiment Again]]
+- [[The Long Partnership - Domesticates and the Species]]
 - [[The Settling and Its Bargain]]
 
 <!-- /AUTO:members -->

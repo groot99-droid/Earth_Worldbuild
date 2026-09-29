@@ -52,11 +52,14 @@ The Observer notes that a shared inland sea acted like a village square for very
 - [[Ibn Khaldun]] (1332 CE)
 
 **Peoples and cultures**
+- [[Berbers]] (3000 BCE)
 - [[Minoans]] (2000 BCE)
 - [[Mycenaean Greeks]] (1600 BCE)
+- [[Carthaginian Empire]] (814 BCE)
 - [[Ancient Greeks]] (800 BCE)
 - [[Romans]] (509 BCE)
 - [[Al-Andalus]] (711 CE)
+- [[Almoravid Dynasty]] (1040 CE)
 
 **Places**
 - [[Knossos]] (7000 BCE)

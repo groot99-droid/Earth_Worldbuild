@@ -44,6 +44,7 @@ The Observer sees a zone created by connection: an ocean crossing that turned is
 - [[Taino]] (1000 CE)
 - [[Kalinago]] (1200 CE)
 - [[Garifuna]] (1635 CE)
+- [[Maroon Communities]] (1650 CE)
 
 **Places**
 - [[Hispaniola]] (4000 BCE)

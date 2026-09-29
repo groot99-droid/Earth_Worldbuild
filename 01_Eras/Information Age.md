@@ -60,6 +60,20 @@ The Observer sees a species that has, for the first time, built tools able to en
 
 **Technologies**
 - [[Digital Computer]] (1945 CE)
+- [[Nuclear Weapons]] (1945 CE)
+- [[Transistor]] (1947 CE)
+- [[Radiocarbon Dating]] (1949 CE)
+- [[Photovoltaic Cell]] (1954 CE)
+- [[Container Shipping]] (1956 CE)
+- [[Integrated Circuit]] (1958 CE)
+- [[Hormonal Contraception]] (1960 CE)
+- [[Oral Rehydration Therapy]] (1968 CE)
+- [[Internet]] (1969 CE)
+- [[GPS]] (1978 CE)
+- [[World Wide Web]] (1989 CE)
+- [[Smartphone]] (1994 CE)
+- [[CRISPR Gene Editing]] (2012 CE)
+- [[mRNA Vaccines]] (2020 CE)
 
 **Observer essays**
 - [[Who Writes the Record]]

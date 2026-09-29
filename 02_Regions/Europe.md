@@ -113,11 +113,23 @@ The Observer cautions against a common habit: a small peninsula's history is oft
 
 **Peoples and cultures**
 - [[Yamnaya Culture]] (3300 BCE)
+- [[Basques]] (3000 BCE)
+- [[Beaker Culture]] (2750 BCE)
 - [[Celts]] (800 BCE)
 - [[Etruscans]] (800 BCE)
 - [[Franks]] (250 CE)
+- [[Huns]] (370 CE)
 - [[Anglo-Saxons]] (450 CE)
+- [[Venetian Republic]] (697 CE)
 - [[Norse]] (793 CE)
+- [[Kievan Rus]] (882 CE)
+- [[Normans]] (911 CE)
+- [[Holy Roman Empire]] (962 CE)
+- [[Habsburg Monarchy]] (1282 CE)
+- [[Polish-Lithuanian Commonwealth]] (1569 CE)
+- [[Dutch Republic]] (1581 CE)
+- [[Sami]] (1700 CE)
+- [[Soviet Union]] (1922 CE)
 
 **Places**
 - [[Chauvet Cave]] (36 ka)
@@ -152,8 +164,10 @@ The Observer cautions against a common habit: a small peninsula's history is oft
 - [[Electric Lighting]] (1878 CE)
 - [[Radio]] (1895 CE)
 - [[X-ray Imaging]] (1895 CE)
+- [[Water Chlorination]] (1897 CE)
 - [[Haber-Bosch Process]] (1909 CE)
 - [[Antibiotics]] (1928 CE)
 - [[Nuclear Fission]] (1938 CE)
+- [[World Wide Web]] (1989 CE)
 
 <!-- /AUTO:members -->

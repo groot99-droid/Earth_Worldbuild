@@ -98,9 +98,18 @@ The Observer notes that for the first time, every inhabited continent was in con
 - [[Safavid Empire]] (1501 CE)
 - [[Mughal Empire]] (1526 CE)
 - [[Mapuche]] (1546 CE)
+- [[Polish-Lithuanian Commonwealth]] (1569 CE)
+- [[Dutch Republic]] (1581 CE)
+- [[Kingdom of Dahomey]] (1600 CE)
 - [[Tokugawa Shogunate]] (1603 CE)
 - [[Garifuna]] (1635 CE)
 - [[Qing Dynasty]] (1644 CE)
+- [[Maroon Communities]] (1650 CE)
+- [[Asante Empire]] (1670 CE)
+- [[Maratha Empire]] (1674 CE)
+- [[Comanche]] (1700 CE)
+- [[Sami]] (1700 CE)
+- [[Sikh Empire]] (1799 CE)
 
 **Places**
 - [[Elmina Castle]] (1482 CE)
@@ -115,6 +124,9 @@ The Observer notes that for the first time, every inhabited continent was in con
 - [[Robben Island]] (1658 CE)
 - [[Botany Bay]] (1770 CE)
 
+**Species**
+- [[Influenza A Virus]] (1580 CE)
+
 **Technologies**
 - [[Variolation]] (1549 CE)
 - [[Telescope]] (1608 CE)
@@ -124,5 +136,7 @@ The Observer notes that for the first time, every inhabited continent was in con
 
 **Observer essays**
 - [[Frontiers of Extraction]]
+- [[Institutionalized Doubt - How Strangers Learned to Check Each Other]]
+- [[Why Languages Die and Why Some Spread]]
 
 <!-- /AUTO:members -->

@@ -168,12 +168,18 @@ The Observer treats art and ritual as behavior with no obvious direct survival f
 - [[Indus Valley Civilization]] (2600 BCE)
 - [[Minoans]] (2000 BCE)
 - [[Lapita Culture]] (1600 BCE)
+- [[Mixtec]] (1500 BCE)
 - [[Olmecs]] (1200 BCE)
+- [[Chavín Culture]] (900 BCE)
+- [[Nok Culture]] (900 BCE)
 - [[Scythians]] (900 BCE)
 - [[Ancient Greeks]] (800 BCE)
 - [[Etruscans]] (800 BCE)
 - [[Nabataeans]] (312 BCE)
+- [[Gandhara]] (300 BCE)
+- [[Goguryeo]] (37 BCE)
 - [[Kushan Empire]] (30 CE)
+- [[Moche Culture]] (100 CE)
 - [[Champa]] (192 CE)
 - [[Gupta Empire]] (320 CE)
 - [[Byzantine Empire]] (330 CE)
@@ -181,8 +187,12 @@ The Observer treats art and ritual as behavior with no obvious direct survival f
 - [[Tang Dynasty]] (618 CE)
 - [[Ancestral Puebloans]] (700 CE)
 - [[Al-Andalus]] (711 CE)
+- [[Pala Empire]] (750 CE)
+- [[Igbo-Ukwu Culture]] (800 CE)
 - [[Khmer Empire]] (802 CE)
 - [[Chola Dynasty]] (850 CE)
+- [[Chimú]] (900 CE)
+- [[Tapajós Culture]] (900 CE)
 - [[Mississippian Culture]] (1000 CE)
 - [[Muisca]] (1000 CE)
 - [[Pagan Kingdom]] (1044 CE)
@@ -258,6 +268,8 @@ The Observer treats art and ritual as behavior with no obvious direct survival f
 - [[Photography]] (1826 CE)
 
 **Observer essays**
+- [[Sacred Ground - Why Some Places Are Special]]
 - [[Why the Species Buries Its Dead]]
+- [[Why the Species Makes Things That Do Nothing]]
 
 <!-- /AUTO:members -->
