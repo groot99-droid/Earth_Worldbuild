@@ -126,16 +126,24 @@ The Observer calls these the sound-code and the mark-code. It notes that languag
 - [[Knud Rasmussen]] (1879 CE)
 
 **Peoples and cultures**
+- [[Khoisan Peoples]] (8000 BCE)
 - [[Sumerians]] (4500 BCE)
 - [[Yamnaya Culture]] (3300 BCE)
+- [[Elamites]] (3200 BCE)
+- [[Basques]] (3000 BCE)
+- [[Berbers]] (3000 BCE)
+- [[Tupi-Guarani]] (3000 BCE)
+- [[Akkadian Empire]] (2334 BCE)
 - [[Hittites]] (1650 BCE)
 - [[Mycenaean Greeks]] (1600 BCE)
 - [[Shang Dynasty]] (1600 BCE)
+- [[Mixtec]] (1500 BCE)
 - [[Phoenicians]] (1200 BCE)
 - [[Kingdom of Saba]] (1000 BCE)
 - [[Neo-Assyrian Empire]] (911 BCE)
 - [[Celts]] (800 BCE)
 - [[Romans]] (509 BCE)
+- [[Zapotec Civilization]] (500 BCE)
 - [[Kingdom of Aksum]] (100 CE)
 - [[Maya]] (250 CE)
 - [[Sogdians]] (300 CE)
@@ -143,9 +151,13 @@ The Observer calls these the sound-code and the mark-code. It notes that languag
 - [[Göktürk Khaganate]] (552 CE)
 - [[Umayyad Caliphate]] (661 CE)
 - [[Swahili Coast City-States]] (800 CE)
+- [[Đại Việt]] (938 CE)
+- [[Sukhothai Kingdom]] (1238 CE)
 - [[Maori]] (1250 CE)
+- [[Joseon Dynasty]] (1392 CE)
 - [[Cherokee]] (1540 CE)
 - [[Garifuna]] (1635 CE)
+- [[Ainu]] (1869 CE)
 
 **Places**
 - [[Knossos]] (7000 BCE)
@@ -182,9 +194,13 @@ The Observer calls these the sound-code and the mark-code. It notes that languag
 - [[Telephone]] (1876 CE)
 - [[Radio]] (1895 CE)
 - [[Digital Computer]] (1945 CE)
+- [[Internet]] (1969 CE)
+- [[World Wide Web]] (1989 CE)
 
 **Observer essays**
+- [[Scripts as Borders - Writing and Identity]]
 - [[The Great Outsourcing of Memory]]
 - [[Who Writes the Record]]
+- [[Why Languages Die and Why Some Spread]]
 
 <!-- /AUTO:members -->

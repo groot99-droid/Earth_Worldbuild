@@ -62,13 +62,19 @@ The Observer notes the extraordinary density of meaning-engines and mathematics 
 - [[Indus Valley Civilization]] (2600 BCE)
 - [[Hinduism]] (1500 BCE)
 - [[Jainism]] (599 BCE)
+- [[Magadha]] (544 BCE)
 - [[Buddhism]] (500 BCE)
 - [[Maurya Empire]] (322 BCE)
+- [[Gandhara]] (300 BCE)
 - [[Gupta Empire]] (320 CE)
+- [[Pala Empire]] (750 CE)
 - [[Chola Dynasty]] (850 CE)
 - [[Delhi Sultanate]] (1206 CE)
+- [[Vijayanagara Empire]] (1336 CE)
 - [[Sikhism]] (1469 CE)
 - [[Mughal Empire]] (1526 CE)
+- [[Maratha Empire]] (1674 CE)
+- [[Sikh Empire]] (1799 CE)
 
 **Places**
 - [[Harappa]] (3300 BCE)
@@ -80,10 +86,13 @@ The Observer notes the extraordinary density of meaning-engines and mathematics 
 
 **Species**
 - [[Cotton]] (3000 BCE)
+- [[Black Rat]] (100 BCE)
+- [[Vibrio cholerae]] (1817 CE)
 
 **Technologies**
 - [[Sanitation and Sewers]] (2600 BCE)
 - [[Crucible Steel]] (300 BCE)
 - [[Zero and Place-Value Notation]] (300 CE)
+- [[Oral Rehydration Therapy]] (1968 CE)
 
 <!-- /AUTO:members -->

@@ -56,18 +56,31 @@ The Observer sees the Iron Age as a democratization of tools and, therefore, of 
 - [[Olmecs]] (1200 BCE)
 - [[Phoenicians]] (1200 BCE)
 - [[Kingdom of Kush]] (1070 BCE)
+- [[Kingdom of Israel and Judah]] (1025 BCE)
 - [[Kingdom of Saba]] (1000 BCE)
 - [[Zoroastrianism]] (1000 BCE)
 - [[Neo-Assyrian Empire]] (911 BCE)
+- [[Chavín Culture]] (900 BCE)
+- [[Nok Culture]] (900 BCE)
 - [[Scythians]] (900 BCE)
+- [[Carthaginian Empire]] (814 BCE)
 - [[Celts]] (800 BCE)
 - [[Etruscans]] (800 BCE)
 - [[Daoism]] (600 BCE)
 - [[Jainism]] (599 BCE)
 - [[Confucianism]] (551 BCE)
 - [[Achaemenid Persians]] (550 BCE)
+- [[Magadha]] (544 BCE)
 - [[Buddhism]] (500 BCE)
+- [[Sarmatians]] (400 BCE)
+- [[Gandhara]] (300 BCE)
 - [[Shinto]] (300 BCE)
+- [[Yayoi Culture]] (300 BCE)
+- [[Parthian Empire]] (247 BCE)
+- [[Yuezhi]] (200 BCE)
+- [[Silla]] (57 BCE)
+- [[Goguryeo]] (37 BCE)
+- [[Yamato Court]] (250 CE)
 
 **Places**
 - [[Tikal]] (1000 BCE)
@@ -83,11 +96,19 @@ The Observer sees the Iron Age as a democratization of tools and, therefore, of 
 - [[Marajó Island]] (400 BCE)
 - [[Nazca Lines]] (400 BCE)
 
+**Species**
+- [[Variola Virus]] (1157 BCE)
+
 **Technologies**
 - [[Iron Smelting]] (1200 BCE)
 - [[Qanat]] (714 BCE)
 - [[Aqueduct]] (690 BCE)
 - [[Coinage]] (625 BCE)
 - [[Cyrus Cylinder]] (539 BCE)
+
+**Observer essays**
+- [[Why Empires Keep Forming]]
+- [[Why Prophets Appear in Clusters]]
+- [[Why Strangers Trust Strangers - Money as Story-Glue]]
 
 <!-- /AUTO:members -->

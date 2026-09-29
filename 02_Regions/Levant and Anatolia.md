@@ -51,6 +51,7 @@ The Observer notes how many meaning-engines share this region as a birthplace or
 - [[Judaism]] (1800 BCE)
 - [[Hittites]] (1650 BCE)
 - [[Phoenicians]] (1200 BCE)
+- [[Kingdom of Israel and Judah]] (1025 BCE)
 - [[Christianity]] (30 CE)
 - [[Byzantine Empire]] (330 CE)
 - [[Umayyad Caliphate]] (661 CE)
@@ -69,6 +70,7 @@ The Observer notes how many meaning-engines share this region as a birthplace or
 - [[Wheat]] (9600 BCE)
 - [[Cattle]] (8500 BCE)
 - [[Domestic Cat]] (7500 BCE)
+- [[Mycobacterium tuberculosis]] (7000 BCE)
 
 **Technologies**
 - [[Alphabet]] (1800 BCE)

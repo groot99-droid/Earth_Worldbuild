@@ -60,16 +60,24 @@ The Observer notes that the species' longest history happened here. Every non-Af
 - [[Wangari Maathai]] (1940 CE)
 
 **Peoples and cultures**
+- [[Khoisan Peoples]] (8000 BCE)
+- [[Nok Culture]] (900 BCE)
 - [[Kingdom of Aksum]] (100 CE)
 - [[Ghana Empire]] (800 CE)
+- [[Igbo-Ukwu Culture]] (800 CE)
 - [[Swahili Coast City-States]] (800 CE)
 - [[Kanem-Bornu Empire]] (900 CE)
 - [[Kingdom of Mapungubwe]] (1050 CE)
 - [[Zagwe Dynasty]] (1137 CE)
 - [[Kingdom of Benin]] (1200 CE)
 - [[Mali Empire]] (1235 CE)
+- [[Buganda]] (1375 CE)
+- [[Luba Empire]] (1400 CE)
+- [[Oyo Empire]] (1400 CE)
 - [[Songhai Empire]] (1464 CE)
 - [[Kingdom of Kongo]] (1483 CE)
+- [[Kingdom of Dahomey]] (1600 CE)
+- [[Asante Empire]] (1670 CE)
 - [[Sokoto Caliphate]] (1804 CE)
 - [[Zulu Kingdom]] (1816 CE)
 
@@ -88,6 +96,7 @@ The Observer notes that the species' longest history happened here. Every non-Af
 - [[Australopithecus afarensis]] (3.85 Ma)
 - [[Homo habilis]] (2.4 Ma)
 - [[Homo naledi]] (335 ka)
+- [[Plasmodium falciparum]] (8000 BCE)
 - [[Sorghum]] (3500 BCE)
 
 **Technologies**

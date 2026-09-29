@@ -186,7 +186,16 @@ The Observer treats the planet as the frame for everything else, and the species
 
 **Peoples and cultures**
 - [[Mal'ta and the Ancient North Eurasians]] (22 ka)
+- [[Evenki]] (3000 BCE)
+- [[Moche Culture]] (100 CE)
+- [[Tiwanaku]] (550 CE)
+- [[Wari Empire]] (600 CE)
 - [[Ancestral Puebloans]] (700 CE)
+- [[Tapajós Culture]] (900 CE)
+- [[Chukchi]] (1100 CE)
+- [[Nenets]] (1300 CE)
+- [[Sami]] (1700 CE)
+- [[Yanomami]] (1940 CE)
 
 **Places**
 - [[Jack Hills Zircons]] (4.4 Ga)
@@ -235,20 +244,31 @@ The Observer treats the planet as the frame for everything else, and the species
 - [[Homo naledi]] (335 ka)
 - [[Homo floresiensis]] (100 ka)
 - [[Cattle]] (8500 BCE)
+- [[Plasmodium falciparum]] (8000 BCE)
 - [[Potato]] (8000 BCE)
 - [[Domestic Cat]] (7500 BCE)
+- [[Mycobacterium tuberculosis]] (7000 BCE)
 - [[Sorghum]] (3500 BCE)
+- [[Yersinia pestis]] (3500 BCE)
+- [[Honeybee]] (2450 BCE)
 - [[Chicken]] (1250 BCE)
+- [[Variola Virus]] (1157 BCE)
+- [[Black Rat]] (100 BCE)
+- [[Influenza A Virus]] (1580 CE)
+- [[Vibrio cholerae]] (1817 CE)
 
 **Technologies**
 - [[Irrigation Canals]] (5500 BCE)
 - [[Qanat]] (714 BCE)
 - [[Chinampas]] (1150 CE)
 - [[Haber-Bosch Process]] (1909 CE)
+- [[Photovoltaic Cell]] (1954 CE)
 
 **Observer essays**
 - [[Fire, Then Everything]]
 - [[Frontiers of Extraction]]
+- [[Plague Years - Disease as a Historical Actor]]
+- [[The Long Partnership - Domesticates and the Species]]
 - [[The Settling and Its Bargain]]
 - [[The Species as a Geological Force]]
 

@@ -121,5 +121,6 @@ The Observer treats the planet as the primary unit of analysis, and human region
 **Technologies**
 - [[Telegraph and Submarine Cables]] (1844 CE)
 - [[Digital Computer]] (1945 CE)
+- [[mRNA Vaccines]] (2020 CE)
 
 <!-- /AUTO:members -->

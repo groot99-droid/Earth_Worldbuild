@@ -1,53 +1,68 @@
 <!-- batch site-041 · target site · 30 items · rules: _Rewrite/VOICES.md -->
 
-=== event/domestication-of-the-dog
-src: 97358289f76f
+=== event/eocene-oligocene-transition
+src: d57280a74a48
 mode: epic-fantasy
-observer_mode: confessional-poetry
+observer_mode: essay-self-help
 --- summary
-Dogs descend from a now-extinct population of Pleistocene wolves, a people of the ice long gone from the world, yet when and where the taming happened is one of the most disputed dates in the whole domestication record. Genetic studies set the parting from the nearest known wolf relatives at roughly 40,000 to 20,000 years ago; the oldest widely accepted dog remains, from Bonn-Oberkassel in Germany, are about 14,200 years old.
+The Eocene-Oligocene transition was a swift chilling of the whole Earth, about 34 million years ago, when ice took hold on Antarctica and did not let go. It marks the turning point where a warm, greenhouse world began its long slide toward the colder Cenozoic that followed.
 --- fact 1
-A 2020 study of 27 ancient dog genomes found that all dogs share an ancestry distinct from any wolf population sampled today, all flowing from a single extinct Pleistocene lineage like streams from one vanished spring.
+The boundary between the Eocene and the Oligocene falls at about 33.9 million years ago. The record held in ocean sediment shows oxygen isotopes climbing in steps, read as the joined signature of cooling seas and growing ice.
 --- fact 2
-The same and related studies set the genetic divergence at roughly 40,000 to 27,000 years ago, with some estimates stretching to about 20,000; no tighter date is agreed, and the years stay blurred as breath on cold air.
+Within a few hundred thousand years the Antarctic ice sheet swelled to a size close to today's, and sea level fell by tens of metres.
 --- fact 3
-Whether the taming happened once or twice, in separate Eurasian wolf populations that later merged, is argued both ways; a large 2020 study favors a single origin, but other ancient-wolf-genome work has pried the dual-origin question open again.
+A leading explanation is a threshold crossed: atmospheric carbon dioxide falling low enough to tip the balance. Another is the opening of ocean gateways around Antarctica — the Drake Passage and the Tasmanian Gateway — which let a great current circle the continent and seal it in cold; when these gateways truly opened, somewhere between about 50 and 30 million years ago, is debated.
 --- fact 4
-The Bonn-Oberkassel dog, laid in the earth with two humans about 14,200 years ago, is one of the first remains universally agreed to be a dog and not a wolf.
---- fact 5
-Older candidate "Paleolithic dogs" from Goyet Cave, Belgium, and Předmostí, Czech Republic, roughly 30,000 years old or more, remain disputed: their skulls do not clearly shut the wolf out, and one Předmostí specimen is genetically closer to wolves.
---- fact 6
-The evidence points to a cradle somewhere in Eurasia, often argued to be Siberia, though the region remains as unsettled as drifting snow.
+In Europe the change lines up with the Grande Coupure, a turning-over in which Asian mammals largely replaced the older beasts of Europe. The plankton of the seas suffered their own extinctions in turn.
 --- context
-The taming of the dog falls within the [[era/paleolithic|Paleolithic]], likely spanning the [[era/upper-paleolithic|Upper Paleolithic]], and is bound to the hunter-gatherer groups of [[species/homo-sapiens|Homo sapiens]]. It is the earliest known domestication of any animal, coming well before plants and livestock. Its threads run into [[theme/kinship-and-society|Kinship and Society]] and [[theme/technology|Technology]].
+The Eocene-Oligocene Transition follows the warmth of the [[event/paleocene-eocene-thermal-maximum|Paleocene-Eocene Thermal Maximum]] within the [[era/paleogene-period|Paleogene Period]] and lays the ground for the later [[event/onset-of-northern-hemisphere-glaciation|Onset of Northern Hemisphere Glaciation]]. It belongs to the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].
 --- observer
-I keep coming back to this: the species' oldest tool-lineage partnership was with another animal. I picture both of them still hunting large Ice Age prey, long before writing, long before farming.
-
-I cannot give you the year. The range of dates is wide and unsettled, and bone shape alone will not always tell an early dog from a wolf, so I hold every specific date here as provisional. Would I let this reading go? Yes, if an uncontested dog skeleton were found well outside the 40,000-to-14,000-year range. Our oldest partner was never one of us.
+Notice the shape of the change: a slow decline in carbon dioxide, and then a rapid reorganisation once some critical threshold was crossed. You can file this under threshold behaviour, a feature the climate record shows plainly and that resists forecasting in detail even now. The reading would weaken if the ice growth turned out to be gradual after all, tracking carbon dioxide smoothly rather than crossing a line.
 --- question 1
-Was the dog tamed once, or more than once?
+Was falling carbon dioxide or the opening of Southern Ocean gateways the main cause?
 --- question 2
-Which of the disputed "Paleolithic dog" specimens were true dogs, and which were wolves all along?
+How quickly did the ice sheet reach its full size?
 
-=== event/dutch-east-india-company
-src: cfbf2c163408
+=== event/fall-of-the-western-roman-empire
+src: e2c22db86c4a
+mode: epic-fantasy
+observer_mode: essay-self-help
+--- summary
+The Western Roman Empire came to its end in 476 CE, when the Germanic general Odoacer cast down Romulus Augustulus, the last emperor to rule in the west.
+--- fact 1
+The 'fall' was no single stroke but a long unraveling, marked by such wounds as the sack of Rome by the Visigoths in 410.
+--- fact 2
+The Eastern Roman empire, the Byzantine realm, endured on until 1453.
+--- fact 3
+Political authority in the west passed into the hands of the kingdoms that succeeded it.
+--- fact 4
+Whether this was a collapse or a transformation, historians still debate.
+--- context
+See the [[culture/romans|Romans]], the city of [[place/rome|Rome]], and [[place/constantinople|Constantinople]]. This event closes [[era/classical-antiquity|Classical Antiquity]] in the west and opens the [[era/medieval-period|Medieval Period]].
+--- observer
+A date, you should remember, is a convenient marker laid over a slow process. Most people living through 476 likely had no idea that an era had ended around them.
+--- question 1
+Was this ending a collapse, or a transformation?
+
+=== event/first-fleet-and-the-colonization-of-australia
+src: dae1984cdf9d
 mode: essay-self-help
 observer_mode: essay-self-help
 --- summary
-The Dutch East India Company (VOC) was a chartered trading company founded in 1602 with a monopoly on Dutch trade in Asia, and it stands among the first companies to issue tradable shares. Notice the pairing: a state's charter on one side, a trader's share on the other.
+In January 1788, eleven British ships — the First Fleet — reached Botany Bay carrying about 1,400 people, roughly half of them convicts, and from this beginning the colony of New South Wales was founded at Sydney Cove.
 --- fact 1
-In 1602 the Dutch States General granted its charter, the founding covenant.
+The fleet arrived at Botany Bay on 18 to 20 January 1788 and moved to settle at Sydney Cove on 26 January.
 --- fact 2
-Its shares were traded on the Amsterdam exchange, and it is often described as one of the first publicly traded companies: ownership made into paper that passed from hand to hand.
+Aboriginal Australians had already lived on the continent for at least 50,000 years, and before 1788 they spoke more than 250 languages.
 --- fact 3
-It held powers to wage war, build forts and make treaties in Asia, the prerogatives we usually reserve for a sovereign.
+The British claimed this land under the legal doctrine of terra nullius — land belonging to no one — a doctrine the High Court of Australia rejected in the Mabo decision of 3 June 1992.
 --- fact 4
-In 1619 it founded Batavia, the city now called Jakarta.
+A smallpox epidemic struck Aboriginal communities around Sydney in 1789.
 --- fact 5
-In 1621 its forces killed or expelled most of the population of the Banda Islands to secure a monopoly on nutmeg, and that should be said plainly, without softening; the company itself was dissolved in 1799.
+Colonization brought conflict, dispossession, and a decline in Aboriginal population that followed from it.
 --- context
-The company built on the sea route opened by the [[event/portuguese-sea-route-to-india|Portuguese Sea Route to India]] and competed within the [[event/indian-ocean-trade-network|Indian Ocean Trade Network]]. Its ledger also records the transport of enslaved people and a part in the wider [[event/atlantic-slave-trade|Atlantic Slave Trade]] system. The company belongs to the [[era/early-modern-period|Early Modern Period]] and to the region of [[region/southeast-asia|Southeast Asia]], and to the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/war-and-conflict|War and Conflict]].
+The fleet founded a colony on land occupied for tens of thousands of years by [[culture/aboriginal-australians|Aboriginal Australians]], descendants of the [[event/peopling-of-sahul|Peopling of Sahul]]. It stands in contrast to the [[event/treaty-of-waitangi|Treaty of Waitangi]], signed in New Zealand in 1840. First Fleet and the Colonization of Australia sits within the [[era/industrial-age|Industrial Age]] and the region of [[region/oceania|Oceania]], within the theme threads of [[theme/war-and-conflict|War and Conflict]] and [[theme/kinship-and-society|Kinship and Society]].
 --- observer
-The Observer notes that a joint-stock company could raise fleets, fight wars and rule territory while being owned by strangers who held paper shares. Picture a shareholder who never saw the sea holding a claim on warships. It is a story-glue entity, bound by belief in the paper, with more sovereignty than most kings. A shared fiction that commands a fleet is no small fiction.
+Here you find two conflicting claims laid over the same ground: one built on tens of millennia of use, the other on a legal fiction that declared the land unowned. Which claim prevailed in 1788 was settled by weapons and disease, not by argument, and only much later was it revised by courts.
 --- question 1
-How much of the company's commercial success rested on violence?
+What was the Aboriginal population of the continent in 1788?

@@ -1,68 +1,114 @@
 <!-- batch site-040 · target site · 32 items · rules: _Rewrite/VOICES.md -->
 
-=== event/bantu-expansion
-src: 88a23664e50f
-mode: epic-fantasy
-observer_mode: confessional-poetry
---- summary
-Over about four thousand years, Bantu-speaking peoples spread from a homeland in West-Central Africa (present-day Nigeria and Cameroon) across central, eastern, and southern Africa, the way a river in flood spreads across a plain.
---- fact 1
-Today about 350 million people speak one of roughly 500 Bantu languages, a forest of tongues whose count shifts with the counting: estimates range from about 440 to 680, depending on how languages are reckoned.
---- fact 2
-Linguistic and archaeological evidence alike follow the trail of the spread back to about 3000 BCE.
---- fact 3
-The expansion is bound up with farming and, in places, with the forge-light of iron working.
---- fact 4
-It was a braid of migration, intermarriage, and language shift, not only the replacement of one population by another.
---- context
-In the codex of [[region/sub-saharan-africa|Sub-Saharan Africa]], the expansion stands as a defining event of the [[era/iron-age|Iron Age]]. Among the states that belong to its story is [[place/great-zimbabwe|Great Zimbabwe]].
---- observer
-I see one language family covering a third of a continent. I look for conquest and find something quieter. I find it in the mix of farming and mobility. I find it in daily contact: a word across a field, a word at a wedding, a word over a meal.
-
-How does a tongue cross a continent? The same way it crosses a table. Language travels through daily contact, not only conquest.
---- question 1
-How much of the spread was people on the move, and how much was people taking up a new language?
-
-=== event/battle-of-adwa
-src: 0294a92c3519
+=== event/chinese-reform-and-opening
+src: edf2e1140078
 mode: essay-self-help
 observer_mode: essay-self-help
 --- summary
-On 1 March 1896, at the Battle of Adwa, the Ethiopian army under Emperor Menelik II decisively defeated an invading Italian force, and with that victory secured Ethiopia's independence.
+Beginning in December 1978, China under Deng Xiaoping rewrote the architecture of its economy: market reforms went in, foreign trade opened up, and across the following decades growth compounded at a pace the world had rarely seen.
 --- fact 1
-Consider the scale: Ethiopian forces numbered roughly 73,000 to over 100,000, facing about 14,500 to 18,000 Italian and colonial troops.
+The reforms were launched at the Third Plenum of the 11th Central Committee, in December 1978.
 --- fact 2
-The ledger of loss was heavy: more than 6,000 of the Italian army were killed, slightly more than half of them Italians and the rest African askari, and between 3,000 and 4,000 of those fighting under Italian command were taken prisoner.
+Agricultural reform — the household responsibility system — replaced collective farming in the early 1980s.
 --- fact 3
-The war grew from a dispute over Article 17 of the Treaty of Wuchale, a clause that read one way in Amharic and another in Italian.
+Special Economic Zones, Shenzhen among them, were established starting in 1980.
 --- fact 4
-In October 1896 Italy signed the Treaty of Addis Ababa, which abrogated Wuchale.
---- context
-Here is what the victory secured: Ethiopia became one of two African states to stay independent through the [[event/scramble-for-africa|Scramble for Africa]]. For the emperor who led the army, see [[person/menelik-ii|Menelik II]].
---- observer
-The Observer notes that a single word in a treaty translation set two states on the road to war. Words are load-bearing: the architecture of an agreement is only as sound as its translation. Adwa also became a symbol across the African diaspora of what resistance could achieve. A symbol, too, is a kind of covenant with the future.
---- question 1
-Where, exactly, did the two versions of the treaty part ways?
-
-=== event/battle-of-kadesh
-src: 5b16d65cc20b
-mode: essay-self-help
-observer_mode: essay-self-help
---- summary
-The Battle of Kadesh, fought around 1274 BCE near the Orontes River in what is now Syria, set Ramesses II of Egypt against Muwatalli II of the Hittite Empire in one of the largest chariot battles on record.
---- fact 1
-Ancient and modern estimates alike put the chariots involved in the thousands on both sides.
---- fact 2
-The outcome was indecisive, and yet both sides claimed victory.
---- fact 3
-Ramesses made the battle a monument, commemorating it in temple reliefs and texts at Abu Simbel, Karnak, and other sites.
---- fact 4
-Accounts from both the Hittite and the Egyptian side survive, which is unusual for the period.
+China's economy grew at high rates, averaging roughly nine to ten percent a year for several decades.
 --- fact 5
-About fifteen years later, around 1259 BCE, the two powers concluded a peace treaty, and versions of it survive in both Egyptian and Hittite archives.
+Hundreds of millions of people were lifted out of extreme poverty.
 --- context
-Read Kadesh as a portrait of the balance between the [[culture/hittites|Hittites]] and the [[culture/ancient-egyptians|Ancient Egyptians]], taken just before the [[event/bronze-age-collapse|Bronze Age Collapse]]. The battle sits in the [[era/bronze-age|Bronze Age]] and the region of [[region/levant-and-anatolia|Levant and Anatolia]], within the theme thread of [[theme/war-and-conflict|War and Conflict]].
+The reforms transformed the world's largest population within the setting of the [[event/cold-war|Cold War]], and drew on the global manufacturing networks built by the [[event/digital-revolution|Digital Revolution]]. Rising food output owed much to advances like the [[event/green-revolution|Green Revolution]]. Chinese Reform and Opening sits within the [[era/information-age|Information Age]] and the region of [[region/east-asia|East Asia]], part of the theme thread of [[theme/trade-and-economy|Trade and Economy]] and [[theme/technology|Technology]].
 --- observer
-The Observer notes that the same event is remembered as a triumph on both sides, and that the peace treaty that followed is preserved in two languages. Think about what that means: each side told its own story of triumph, and then both sides set down one shared peace. Declaring victory and formalizing peace appear to be the same social technology working in different directions. The pen that claims a victory is the same pen that seals a peace.
+The Observer notes that one of history's fastest rises in living standards came from a state rewriting its rules of ownership while keeping its ruling party unchanged. Economic and political architecture, it turns out, are separable to a degree no theory had predicted.
 --- question 1
-How large were the forces, really, and what were the true losses?
+How much of the growth is owed to the reforms themselves, and how much to the wider global economy?
+
+=== event/classic-maya-collapse
+src: 29ecceea62cf
+mode: horror-prose
+observer_mode: essay-self-help
+--- summary
+Between about 800 and 950 CE, one city after another in the southern Maya lowlands stopped raising monuments. Some were abandoned outright. Elsewhere, Maya communities went on.
+--- fact 1
+The last dated monument in the Long Count calendar stands at Tonina. 909 CE.
+--- fact 2
+Populations in the southern lowlands fell sharply. But the Maya did not disappear. Several million people speak Mayan languages today.
+--- fact 3
+In the north, Yucatan cities like Chichen Itza flourished after.
+--- fact 4
+Severe droughts, recorded in cave and lake sediments. Warfare. Political fragmentation. Environmental degradation. All proposed.
+--- fact 5
+No single cause is accepted.
+--- context
+The [[culture/maya|Maya]] city-states of the southern lowlands lost their height here, and power shifted north — to places like [[place/chichen-itza|Chichen Itza]]. It came after the earlier decline of [[place/teotihuacan|Teotihuacan]]. Classic Maya Collapse sits in the [[era/medieval-period|Medieval Period]] and the region [[region/mesoamerica|Mesoamerica]], within the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/war-and-conflict|War and Conflict]].
+--- observer
+The Observer notes that the word collapse names the end of one political order, not of a people. That framing shapes which questions get asked, and it lets the survivors go easily overlooked.
+--- question 1
+How much did drought contribute, compared with warfare?
+
+=== event/closure-of-the-isthmus-of-panama
+src: b6f1821bc2b2
+mode: epic-fantasy
+observer_mode: essay-self-help
+--- summary
+A slender bridge of land rose between two continents: the Isthmus of Panama, traditionally dated to about 3 million years ago, joined North and South America, sealed the sea-road between the Pacific and the Atlantic, and set loose a great exchange of beasts.
+--- fact 1
+Across that bridge came the Great American Biotic Interchange, in which mammals crossed between the two continents.
+--- fact 2
+Ground sloths, armadillos, and opossums wandered north; cats, dogs, horses, and other kinds wandered south.
+--- fact 3
+The closing ended the meeting of Pacific and Atlantic waters at low latitudes, and is thought to have strengthened the Atlantic's currents.
+--- fact 4
+The timing is debated: some studies argue the land connection began much earlier, while others hold to about 3 million years ago.
+--- fact 5
+Northern glaciation began at about the same time.
+--- context
+The isthmus's closing binds ocean currents, climate, and the geography of animals together within the [[era/cenozoic-era|Cenozoic Era]], not long before the first members of the genus Homo, such as [[species/homo-habilis|Homo habilis]]. Closure of the Isthmus of Panama sits in the [[era/cenozoic-era|Cenozoic Era]] and the region [[region/planet-wide|Planet-wide]], within the theme thread of [[theme/earth-systems-and-life|Earth Systems and Life]].
+--- observer
+The Observer notes that a strip of land only a few dozen kilometers wide changed the fate of thousands of species across two continents. That same narrow crossing would later matter to you too: as a migration route, and much later, as a canal.
+--- question 1
+When did the land bridge become continuous, and how did that relate to changes in the ocean?
+
+=== event/cold-war
+src: ce793fd2595b
+mode: essay-self-help
+observer_mode: essay-self-help
+--- summary
+The Cold War, about 1947 to 1991, was a global rivalry between the United States and the Soviet Union and their allies — fought mainly through arms races, alliances, and proxy wars rather than direct battle.
+--- fact 1
+The rivals built alliances — NATO in 1949, the Warsaw Pact in 1955 — and stockpiled nuclear weapons.
+--- fact 2
+The Cuban Missile Crisis of October 1962 is often called the closest approach to nuclear war.
+--- fact 3
+Proxy wars included Korea, from 1950 to 1953, and Vietnam.
+--- fact 4
+The Berlin Wall stood from 1961 to 1989; the Soviet Union dissolved in December 1991.
+--- context
+The Cold War shaped the [[event/nuclear-age|Nuclear Age]] and the [[event/space-age|Space Age]], and its rivalry influenced [[event/decolonization|Decolonization]].
+--- observer
+The Observer notes that two superpowers held between them the means to destroy each other, and did not use them. That restraint is a remarkable feature of the historical record, and its causes remain debated.
+--- question 1
+What role did luck play in avoiding nuclear war?
+
+=== event/collapse-of-the-soviet-union
+src: dfcf6a08e679
+mode: essay-self-help
+observer_mode: essay-self-help
+--- summary
+The Soviet Union dissolved on 26 December 1991, following the revolutions of 1989 across Eastern Europe and a failed coup in August 1991 — and with it, the Cold War ended.
+--- fact 1
+The Berlin Wall opened on 9 November 1989.
+--- fact 2
+Mikhail Gorbachev's reforms — glasnost, openness, and perestroika, restructuring — began in the mid-1980s.
+--- fact 3
+Hardliners attempted a coup from 18 to 22 August 1991. It failed.
+--- fact 4
+Russia, Ukraine, and Belarus agreed to dissolve the Union on 8 December 1991.
+--- fact 5
+Fifteen successor states emerged.
+--- context
+The collapse ended the [[event/cold-war|Cold War]] and the state built by the [[event/russian-revolution|Russian Revolution]] seventy years before. Collapse of the Soviet Union sits within the [[era/information-age|Information Age]] and the region [[region/europe|Europe]], part of the theme thread of [[theme/war-and-conflict|War and Conflict]].
+--- observer
+The Observer notes that one of the two largest powers on the planet came apart with very little fighting among its central institutions. Few observers had predicted this outcome, which suggests that the architecture of a state can be more fragile than its armies imply.
+--- question 1
+Why was the collapse so widely unforeseen?

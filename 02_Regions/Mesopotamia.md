@@ -44,6 +44,8 @@ The Observer treats Mesopotamia as a laboratory for large-scale coordination: bo
 
 **Peoples and cultures**
 - [[Sumerians]] (4500 BCE)
+- [[Akkadian Empire]] (2334 BCE)
+- [[Babylonian Empire]] (1894 BCE)
 - [[Neo-Assyrian Empire]] (911 BCE)
 - [[Manichaeism]] (240 CE)
 - [[Abbasid Caliphate]] (750 CE)

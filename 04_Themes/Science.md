@@ -223,12 +223,24 @@ The Observer calls this pattern-taming: the species' long effort to find regular
 - [[Anesthesia]] (1846 CE)
 - [[Electrical Power Grid]] (1882 CE)
 - [[X-ray Imaging]] (1895 CE)
+- [[Water Chlorination]] (1897 CE)
 - [[Insulin]] (1921 CE)
+- [[Liquid-Fueled Rocket]] (1926 CE)
 - [[Antibiotics]] (1928 CE)
 - [[Nuclear Fission]] (1938 CE)
 - [[Digital Computer]] (1945 CE)
+- [[Nuclear Weapons]] (1945 CE)
+- [[Transistor]] (1947 CE)
+- [[Radiocarbon Dating]] (1949 CE)
+- [[Hormonal Contraception]] (1960 CE)
+- [[Oral Rehydration Therapy]] (1968 CE)
+- [[GPS]] (1978 CE)
+- [[CRISPR Gene Editing]] (2012 CE)
+- [[mRNA Vaccines]] (2020 CE)
 
 **Observer essays**
+- [[Institutionalized Doubt - How Strangers Learned to Check Each Other]]
 - [[Who Writes the Record]]
+- [[Why the Same Discovery Happens Twice]]
 
 <!-- /AUTO:members -->

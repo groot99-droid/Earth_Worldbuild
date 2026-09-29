@@ -56,16 +56,24 @@ The Observer notes that the first states and the first writing arrived together.
 **Peoples and cultures**
 - [[Sumerians]] (4500 BCE)
 - [[Yamnaya Culture]] (3300 BCE)
+- [[Elamites]] (3200 BCE)
 - [[Ancient Egyptians]] (3100 BCE)
+- [[Basques]] (3000 BCE)
+- [[Berbers]] (3000 BCE)
+- [[Beaker Culture]] (2750 BCE)
 - [[Indus Valley Civilization]] (2600 BCE)
+- [[Akkadian Empire]] (2334 BCE)
 - [[Sintashta Culture]] (2100 BCE)
 - [[Minoans]] (2000 BCE)
+- [[Babylonian Empire]] (1894 BCE)
 - [[Judaism]] (1800 BCE)
 - [[Hittites]] (1650 BCE)
 - [[Lapita Culture]] (1600 BCE)
 - [[Mycenaean Greeks]] (1600 BCE)
 - [[Shang Dynasty]] (1600 BCE)
 - [[Hinduism]] (1500 BCE)
+- [[Mixtec]] (1500 BCE)
+- [[Zhou Dynasty]] (1046 BCE)
 
 **Places**
 - [[Uruk]] (4000 BCE)
@@ -90,6 +98,7 @@ The Observer notes that the first states and the first writing arrived together.
 - [[Cacao]] (3300 BCE)
 - [[Cotton]] (3000 BCE)
 - [[Dromedary and Bactrian Camels]] (2500 BCE)
+- [[Honeybee]] (2450 BCE)
 - [[Horse]] (2200 BCE)
 - [[Tobacco]] (1400 BCE)
 - [[Chicken]] (1250 BCE)
@@ -110,5 +119,6 @@ The Observer notes that the first states and the first writing arrived together.
 **Observer essays**
 - [[Story-Glue - How Strangers Cooperate at Scale]]
 - [[The Great Outsourcing of Memory]]
+- [[The Kin-Lattice at Scale - From Households to States]]
 
 <!-- /AUTO:members -->

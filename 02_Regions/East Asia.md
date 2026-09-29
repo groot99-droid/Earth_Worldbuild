@@ -69,15 +69,25 @@ The Observer notes a distinctive continuity: a written language and administrati
 **Peoples and cultures**
 - [[Jomon Culture]] (14 ka)
 - [[Shang Dynasty]] (1600 BCE)
+- [[Zhou Dynasty]] (1046 BCE)
 - [[Daoism]] (600 BCE)
 - [[Confucianism]] (551 BCE)
 - [[Shinto]] (300 BCE)
+- [[Yayoi Culture]] (300 BCE)
 - [[Han Dynasty]] (206 BCE)
+- [[Silla]] (57 BCE)
+- [[Goguryeo]] (37 BCE)
+- [[Yamato Court]] (250 CE)
+- [[Sui Dynasty]] (581 CE)
 - [[Tang Dynasty]] (618 CE)
+- [[Tibetan Empire]] (618 CE)
 - [[Song Dynasty]] (960 CE)
+- [[Yuan Dynasty]] (1271 CE)
 - [[Ming Dynasty]] (1368 CE)
+- [[Joseon Dynasty]] (1392 CE)
 - [[Tokugawa Shogunate]] (1603 CE)
 - [[Qing Dynasty]] (1644 CE)
+- [[Ainu]] (1869 CE)
 
 **Places**
 - [[Yellow River]] (6000 BCE)
@@ -94,6 +104,7 @@ The Observer notes a distinctive continuity: a written language and administrati
 - [[Rice]] (7000 BCE)
 - [[Soybean]] (7000 BCE)
 - [[Tea Plant]] (200 BCE)
+- [[Influenza A Virus]] (1580 CE)
 
 **Technologies**
 - [[Pottery]] (18 ka)

@@ -200,31 +200,59 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 **Peoples and cultures**
 - [[Aboriginal Australians]] (50 ka)
 - [[Mal'ta and the Ancient North Eurasians]] (22 ka)
+- [[Khoisan Peoples]] (8000 BCE)
 - [[Chinchorro Culture]] (5450 BCE)
 - [[Botai Culture]] (3700 BCE)
 - [[Yamnaya Culture]] (3300 BCE)
+- [[Basques]] (3000 BCE)
+- [[Berbers]] (3000 BCE)
+- [[Evenki]] (3000 BCE)
+- [[Tupi-Guarani]] (3000 BCE)
+- [[Beaker Culture]] (2750 BCE)
 - [[Sintashta Culture]] (2100 BCE)
 - [[Polynesians]] (1300 BCE)
+- [[Zhou Dynasty]] (1046 BCE)
 - [[Confucianism]] (551 BCE)
+- [[Sarmatians]] (400 BCE)
+- [[Yayoi Culture]] (300 BCE)
 - [[Xiongnu]] (209 BCE)
+- [[Yamato Court]] (250 CE)
+- [[Huns]] (370 CE)
 - [[Marajoara Culture]] (400 CE)
 - [[Anglo-Saxons]] (450 CE)
 - [[Casarabe Culture]] (500 CE)
+- [[Holy Roman Empire]] (962 CE)
 - [[Inuit and the Thule Expansion]] (1000 CE)
 - [[Mississippian Culture]] (1000 CE)
 - [[Taino]] (1000 CE)
+- [[Chukchi]] (1100 CE)
 - [[Mongol Empire]] (1206 CE)
+- [[Mamluk Sultanate]] (1250 CE)
 - [[Maori]] (1250 CE)
+- [[Habsburg Monarchy]] (1282 CE)
+- [[Nenets]] (1300 CE)
 - [[Yakut (Sakha)]] (1300 CE)
+- [[Buganda]] (1375 CE)
+- [[Joseon Dynasty]] (1392 CE)
 - [[Inca Empire]] (1438 CE)
 - [[Haudenosaunee Confederacy]] (1450 CE)
+- [[Moriori]] (1500 CE)
 - [[Cherokee]] (1540 CE)
 - [[Mapuche]] (1546 CE)
+- [[Polish-Lithuanian Commonwealth]] (1569 CE)
+- [[Kingdom of Dahomey]] (1600 CE)
 - [[Garifuna]] (1635 CE)
 - [[Qing Dynasty]] (1644 CE)
+- [[Maroon Communities]] (1650 CE)
+- [[Comanche]] (1700 CE)
+- [[Sami]] (1700 CE)
 - [[Lakota]] (1760 CE)
 - [[Hawaiian Kingdom]] (1795 CE)
 - [[Zulu Kingdom]] (1816 CE)
+- [[Navajo]] (1863 CE)
+- [[Ainu]] (1869 CE)
+- [[Soviet Union]] (1922 CE)
+- [[Yanomami]] (1940 CE)
 
 **Places**
 - [[Beringia]] (30 ka)
@@ -253,13 +281,16 @@ The Observer calls this the kin-lattice. It notes that the species can extend ki
 **Technologies**
 - [[Code of Hammurabi]] (1754 BCE)
 - [[Vaccination]] (1796 CE)
+- [[Hormonal Contraception]] (1960 CE)
 
 **Observer essays**
 - [[Fire, Then Everything]]
 - [[Second Chances - How the Species Ran the Experiment Again]]
 - [[Story-Glue - How Strangers Cooperate at Scale]]
 - [[The Fiction of Claim-Lines]]
+- [[The Kin-Lattice at Scale - From Households to States]]
 - [[The Settling and Its Bargain]]
+- [[Who Counts as a Person - The Long Argument over Status]]
 - [[Who Writes the Record]]
 - [[Why the Species Buries Its Dead]]
 

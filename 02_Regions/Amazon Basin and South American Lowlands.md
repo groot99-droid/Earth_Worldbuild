@@ -39,8 +39,11 @@ The Observer notes how the phrase 'untouched wilderness' can hide a history of l
 - [[Chico Mendes]] (1944 CE)
 
 **Peoples and cultures**
+- [[Tupi-Guarani]] (3000 BCE)
 - [[Marajoara Culture]] (400 CE)
 - [[Casarabe Culture]] (500 CE)
+- [[Tapajós Culture]] (900 CE)
+- [[Yanomami]] (1940 CE)
 
 **Places**
 - [[Amazon River]] (1000 BCE)

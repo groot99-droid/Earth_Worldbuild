@@ -1,24 +1,24 @@
 {
- "notes": 1540,
- "index": 1540,
- "detail": 1540,
+ "notes": 1660,
+ "index": 1660,
+ "detail": 1660,
  "by_type": {
   "era": 41,
   "region": 21,
-  "technology": 72,
+  "technology": 88,
   "event": 166,
   "person": 203,
-  "culture": 105,
+  "culture": 183,
   "place": 111,
-  "species": 50,
+  "species": 58,
   "theme": 9,
-  "observer-note": 11,
+  "observer-note": 29,
   "timeline": 3,
   "source": 748
  },
  "images": 1861,
  "with_image": 944,
- "edges": 9033,
+ "edges": 10345,
  "unresolved_wikilinks": [
   "species/homo-sapiens -> Observer's Charter"
  ],
