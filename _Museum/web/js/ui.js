@@ -64,6 +64,7 @@ export function createUI({ manifest, manifestIndex, controls, interactions, hud,
         <tr><td><kbd>Esc</kbd></td><td>close panels, end the tour, release the mouse</td></tr>
         <tr><td><kbd>?</kbd> / <kbd>H</kbd></td><td>this help</td></tr>
         <tr><td>touch</td><td>left half: joystick to walk · right half: drag to look · tap a work to read</td></tr>
+        <tr><td>controller</td><td>left stick / D-pad walk · right stick look · <kbd>A</kbd> read, go through the door · <kbd>B</kbd> back · <kbd>X</kbd> map · <kbd>Y</kbd> go to · <kbd>LB</kbd> <kbd>RB</kbd> previous / next · Menu help · View tour</td></tr>
       </table>
       <button type="button" class="help-close">Close</button>
     </div>`;
@@ -89,7 +90,7 @@ export function createUI({ manifest, manifestIndex, controls, interactions, hud,
   };
   mk('Map', 'Floor plan (M)', () => hud.toggleMap());
   mk('Go to', 'Artists and works (Tab)', () => navigate.toggle());
-  const tourBtn = mk('Tour', 'Guided tour', () => { if (tour.active()) tour.stop(); else tour.start({ works: tourWorks() }); });
+  const tourBtn = mk('Tour', 'Guided tour', () => toggleTour());
   mk('?', 'Help (?)', toggleHelp);
   document.body.appendChild(hudButtons);
 
@@ -126,6 +127,18 @@ export function createUI({ manifest, manifestIndex, controls, interactions, hud,
   }
 
   // ---- key router -------------------------------------------------------------------------
+  // The Esc cascade: close the topmost thing (help, map, Go to, placard, then the tour). Also the
+  // controller's B button. Returns true when something was closed.
+  function back() {
+    if (helpOpen) hideHelp();
+    else if (hud.isMapOpen()) hud.closeMap();
+    else if (navigate.isOpen()) navigate.close();
+    else if (interactions.isOpen()) interactions.closePlacard();
+    else if (tour.active()) tour.stop();
+    else return false;
+    return true;
+  }
+  function toggleTour() { if (tour.active()) tour.stop(); else tour.start({ works: tourWorks() }); }
   function onKey(e) {
     if (isEditable(e.target)) return;
     if (e.key === '?') { toggleHelp(); return; }
@@ -134,13 +147,7 @@ export function createUI({ manifest, manifestIndex, controls, interactions, hud,
         if (interactions.isOpen()) interactions.closePlacard();
         else if (interactions.openAtCrosshair()) e.preventDefault();
         break;
-      case 'Escape':
-        if (helpOpen) hideHelp();
-        else if (hud.isMapOpen()) hud.closeMap();
-        else if (navigate.isOpen()) navigate.close();
-        else if (interactions.isOpen()) interactions.closePlacard();
-        else if (tour.active()) tour.stop();
-        break;
+      case 'Escape': back(); break;
       case 'KeyM': hud.toggleMap(); break;
       case 'Tab': e.preventDefault(); navigate.toggle(); break;
       case 'KeyH': toggleHelp(); break;
@@ -156,5 +163,5 @@ export function createUI({ manifest, manifestIndex, controls, interactions, hud,
     if (tourBtn) tourBtn.textContent = active ? 'End tour' : 'Tour';
   }
 
-  return { setSubtitle, showHelp, hideHelp, toggleHelp, isHelpOpen: () => helpOpen, update, blocker, btnExplore, btnTour, btnResume };
+  return { setSubtitle, showHelp, hideHelp, toggleHelp, isHelpOpen: () => helpOpen, back, toggleTour, update, blocker, btnExplore, btnTour, btnResume };
 }

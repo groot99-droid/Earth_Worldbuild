@@ -11,6 +11,7 @@ import { createNavigate } from './navigate.js';
 import { createTour } from './tour.js';
 import { createUI } from './ui.js';
 import { createTouchControls } from './touch.js';
+import { createGamepadControls } from './gamepad.js';
 import { createPersist } from './persist.js';
 import { createMaterialLibrary } from './matlib.js';
 import { createModels } from './models.js';
@@ -176,12 +177,14 @@ async function main() {
   const tour = createTour({ manifestIndex, roomsById, camera, controls, interactions, getCurrentRoomId, scenes, waypointTrail, roomAt: (p) => scenes.roomAt(p), opts: { dwell: RENDER_OPTS.tourDwell } });
   const ui = createUI({ manifest, manifestIndex, controls, interactions, hud, navigate, tour, persist, enter });
   const touch = createTouchControls({ domElement: renderer.domElement, controls, interactions });
+  const gamepad = createGamepadControls({ controls, interactions, hud, navigate, tour, ui, enter, blockerEl });
 
   // ---- simulation / rendering -------------------------------------------------------------
   let lastRoomId = null;
   let roomLabelTimer = 0;
 
   function simulate(delta) {
+    gamepad.update(delta); // before the move step so this frame's stick drives this frame's walk
     if (tour.active()) tour.update(delta);
     else if (controls.isLocked()) controls.update(delta);
     camera.updateMatrixWorld(); // raycasts below (look prompt, picks, tests) see this frame's pose, not the last rendered one
@@ -256,7 +259,7 @@ async function main() {
     THREE, camera, scene, wallMeshes, floorMeshes, artMeshes, lists, manifest, manifestIndex, roomsById,
     get rooms() { return scenes.geoRooms(); }, roomAt: (p) => scenes.roomAt(p),
     controls, renderer, pipeline, lights, renderOnce, renderOptions: RENDER_OPTS,
-    interactions, waypointTrail, hud, navigate, tour, persist, ui, touch, scenes, models, matlib, titlecard,
+    interactions, waypointTrail, hud, navigate, tour, persist, ui, touch, gamepad, scenes, models, matlib, titlecard,
     enterRoom: (id, opts) => scenes.enter(id, opts), get layout() { return scenes.layout; },
     simulate, frame, step, snapshot, probeArt, setAutoLoop, getCurrentRoomId, enter,
     setView: (name) => debug.setView(name).then((ok) => { renderOnce(); return ok; }),

@@ -223,6 +223,8 @@ export function createInteractions(camera, manifestIndex, waypointTrail, isLocke
     if (kind === 'art') return openPlacard(hit.name);
     return null;
   }
+  function prevWork() { stepWork(-1); }
+  function nextWork() { stepWork(1); }
   function openAtCrosshair() { return activate(pick()); }
   function openAtScreen(x, y) { return activate(pick(x, y)); }
 
@@ -277,7 +279,7 @@ export function createInteractions(camera, manifestIndex, waypointTrail, isLocke
   }
 
   return {
-    setArtMeshes, setPickables, setTeleporter, onDoor, openPlacard, openSculpture, closePlacard, isOpen, openAtCrosshair, openAtScreen,
+    setArtMeshes, setPickables, setTeleporter, onDoor, openPlacard, openSculpture, closePlacard, isOpen, openAtCrosshair, openAtScreen, prevWork, nextWork,
     current: () => current, hovered: () => hovered, update, imageUrl, spotFor, pick, pickArt, rewritesReady,
   };
 }
