@@ -15,6 +15,13 @@ AO / roughness / metalness) and tiles them in world space (`web/js/matlib.js`).
 `texture_downloads.json` / `texture_map.json` record how the sets were fetched (the v2 Blender pack they describe is retired).
 Paintings and portraits: see the per-work credits in `data/museum-manifest.json` (Wikimedia Commons / the Earth Chronicle site).
 
+## Sky
+
+`sky.jpg` is the scene background (equirectangular, sRGB; `web/js/render.js`), seen through the rotunda oculus and
+wherever a view leaves the building: [Kloofendal 48d Partly Cloudy (Pure Sky)](https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky)
+by Greg Zaal (sky edits Jarod Guest), Poly Haven, CC0 ([polyhaven.com/license](https://polyhaven.com/license)); the
+tonemapped JPG downscaled to 2048 × 1024.
+
 ## Models
 
 Third-party 3D models placed in the museum (fetched by `_Museum/fetch_models.py` from `assets/models.json`).

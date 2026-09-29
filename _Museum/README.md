@@ -63,6 +63,7 @@ Art-Talk-main/artists/*.md + data/image-credits.json      _Site/data/notes-perso
 data/museum-manifest.json   rooms (hub + galleries), wings, artists, works with `dims`
 data/museum-layout.json     per scene: boxes, lathes, mouldings, doors, hangs, frames, fixtures, props, views
 assets/models.json  ── fetch_models.py ──▶ assets/models/<id>/   CC0 sculptures and props (26 MB)
+assets/sky.jpg      CC0 sky backdrop (Poly Haven, 2K equirectangular; credits in assets/CREDITS.md)
         ▼
 web/js/scenes.js  builds one scene at a time with procroom.js (geometry, materials, hangs, frames,
                   fixtures, pedestals, texture streaming), doors.js (themed doors), models.js (GLB cache)

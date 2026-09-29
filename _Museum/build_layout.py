@@ -516,6 +516,7 @@ def build_hub(art_rooms, people_rooms):
          "phi": [open_half, 360.0 - open_half],
          "profile_rz": [[ROTUNDA_R + t, 0.0], [ROTUNDA_R + t, HUB_H + 1.0], [ROTUNDA_R - t, HUB_H + 1.0], [ROTUNDA_R - t, 0.0]],
          "material": "plaster_wall"},
+        # coffered dome ending in an open 2.4 m oculus (the sky backdrop shows through; FX-hub_oculus_0 is its light)
         {"name": "GEO-hub_dome", "kind": "lathe", "center": [cx, cy, HUB_H + 1.0], "segments": 48, "phi": [0.0, 360.0],
          "profile_rz": [[ROTUNDA_R - t, 0.0]] + [[(ROTUNDA_R - t) * math.cos(math.radians(a)), (ROTUNDA_R - t) * 0.85 * math.sin(math.radians(a))] for a in range(10, 81, 10)] + [[1.2, (ROTUNDA_R - t) * 0.85 * math.sin(math.radians(80))], [1.2, (ROTUNDA_R - t) * 0.85 * math.sin(math.radians(80)) + 0.4]],
          "material": "plaster_ceiling"},
@@ -525,7 +526,6 @@ def build_hub(art_rooms, people_rooms):
         {"name": "GEO-hub_apse_dome", "kind": "lathe", "center": [L, 0.0, HUB_H - 0.01], "segments": 32, "phi": [-90.0, 90.0],
          "profile_rz": [[APSE_R - t, 0.0]] + [[(APSE_R - t) * math.cos(math.radians(a)), (APSE_R - t) * math.sin(math.radians(a))] for a in range(15, 91, 15)], "material": "plaster_ceiling"},
         {"name": "GEO-hub_floor_apse", "kind": "disc", "center": [L, 0.0, 0.0], "radius": APSE_R + t, "segments": 32, "phi": [-90.0, 90.0], "z": [-0.2, 0.0], "material": "marble_white"},
-        {"name": "GEO-hub_oculus_glow", "kind": "disc", "center": [cx, cy, HUB_H + 1.0 + (ROTUNDA_R - t) * 0.85 * math.sin(math.radians(80)) + 0.35], "radius": 1.2, "segments": 32, "phi": [0.0, 360.0], "z": [0.0, 0.02], "material": "laylight"},
     ]
     # caps that close the drum's cut edges where it meets the hall walls
     boxes.append(box("GEO-hub_wallW_0", (x_open - 0.6, x_open - 0.1), (hw - t, hw + t), (0, HUB_H + 1.0), "plaster_wall"))

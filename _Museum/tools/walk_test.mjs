@@ -94,7 +94,7 @@ const H = {
   snap: () => window.museumDebug.snapshot(),
 };
 
-const ignoreConsole = (t) => /sky\.jpg|favicon\.ico/.test(t);
+const ignoreConsole = (t) => /favicon\.ico/.test(t);
 
 class Ctx {
   constructor(browser, base) { this.browser = browser; this.base = base; this.page = null; this.errors = []; this.query = null; this.context = null; }
@@ -206,6 +206,8 @@ test('load', async (c) => {
   assert(/53 artists, 299 works/.test(sub) && /203 people, 387 portraits/.test(sub), `subtitle: ${sub}`);
   const layout = await c.ev(() => Object.keys(window.museumDebug.layout.scenes).length);
   assert(layout === 17, `layout scenes: ${layout}`);
+  const sky = await c.ev(() => { const b = window.museumDebug.scene.background; return b && b.isTexture ? [b.image.width, b.image.height] : null; });
+  assert(sky && sky[0] === 2 * sky[1], `assets/sky.jpg should be the equirectangular background, got ${JSON.stringify(sky)}`);
   assert(c.errors.length === 0, `console errors: ${c.errors.join(' | ')}`);
   await c.ev(async () => { await window.museumDebug.scenes.world().whenLoaded(); window.museumDebug.renderOnce(); });
   await c.shot('view_hub_spawn');
