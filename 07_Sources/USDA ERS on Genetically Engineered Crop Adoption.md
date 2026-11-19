@@ -25,4 +25,4 @@ USDA Economic Research Service. 'Adoption of Genetically Engineered Crops in the
 GE seeds for major field crops were commercially introduced in 1996, and herbicide-tolerant soybeans rose from 17 percent of domestic soybean acres in 1997 to 68 percent in 2001 and 94 percent in 2014.
 
 ## Caveats
-Read in full on 2026-11-19 from the live page (HTML converted to text). The page does not give a 2010 figure; the vault's 93 percent for 2010 is not confirmed by this text.
+Read in full on 2026-11-19 from the live page (HTML converted to text). The page does not give a 2010 figure; the vault's 93 percent for 2010 is confirmed instead by the ERS data file, [[USDA ERS GE Varieties by State Data 2000-25]].

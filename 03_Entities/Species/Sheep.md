@@ -7,18 +7,18 @@ themes: [trade, technology]
 date_start: -9000
 date_precision: approx
 related: ["[[Animal Domestication]]", "[[The Agricultural Revolution]]", "[[Goat]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Sheep]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Sheep]]", "[[Chessa et al. 2009 History of Sheep Domestication]]"]
 confidence: medium
 status: seed
 tags: []
-fact_checks: ["2026-11-19: Selection for woolly sheep may have begun around 6000 BC, several thousand years after domestication; the two-thousand-year interval in the source runs from then to the earliest woven wool garments about 4000 BC [Wikipedia on Sheep]"]
+fact_checks: ["2026-11-19: Selection for woolly sheep may have begun around 6000 BC, several thousand years after domestication; the two-thousand-year interval in the source runs from then to the earliest woven wool garments about 4000 BC [Wikipedia on Sheep]", "2026-11-19: Sheep domestication is estimated at about 9000 to 8500 BC, in the region from the northern Zagros Mountains to southeastern Anatolia, and the practice had reached Mehrgarh in the Indus Valley by about 7000 BC [Wikipedia on Sheep]", "2026-11-19: Farming with domesticated livestock began in South-West Asia about 11,000 years before present, and sheep and goats were the first livestock species to be domesticated [Chessa et al. 2009 History of Sheep Domestication]"]
 ---
 
 ## Summary
-The domestic sheep was bred from the wild mouflon in Mesopotamia between about 11,000 and 9000 BCE, first kept for meat, milk and skins, and only later selectively bred for wool, and it now numbers well over a billion animals worldwide.
+The domestic sheep was bred from the wild mouflon in Mesopotamia between about 9000 and 8500 BCE, first kept for meat, milk and skins, and only later selectively bred for wool, and it now numbers well over a billion animals worldwide.
 
 ## Facts
-- Sheep were domesticated from the mouflon, a wild sheep of southwestern Asia, in an estimated window between 11,000 and 9000 BCE in Mesopotamia, and the practice had spread to Mehrgarh in the Indus Valley by about 7000 BCE.
+- Sheep were domesticated from the mouflon, a wild sheep of southwestern Asia, in an estimated window between about 9000 and 8500 BCE in Mesopotamia, and the practice had spread to Mehrgarh in the Indus Valley by about 7000 BCE.
 - Early domestic sheep were kept mainly for meat, milk and skins rather than fleece; archaeological evidence, including statuary from Iran, suggests deliberate selection for woolly sheep began around 6000 BCE, several thousand years after initial domestication, a shift sometimes called the secondary products revolution.
 - The earliest known woven wool garments date to around 4000 BCE, and Neolithic farmers in what is now France, among the Castelnovien people, were keeping domestic sheep by about 6000 BCE.
 - Sheep are raised in large numbers today across Australia, New Zealand, the southern regions of South America, South Africa and the British Isles, and China and India also hold very large flocks by absolute count; the world's domestic sheep population was estimated at around 1.2 billion in 2019.

@@ -7,11 +7,11 @@ themes: [trade, technology]
 date_start: -7000
 date_precision: approx
 related: ["[[The Agricultural Revolution]]", "[[Green Revolution]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Tempeh]]", "[[USDA ERS on Genetically Engineered Crop Adoption]]", "[[Wikipedia on Genetically modified soybean]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Tempeh]]", "[[USDA ERS on Genetically Engineered Crop Adoption]]", "[[Wikipedia on Genetically modified soybean]]", "[[USDA ERS GE Varieties by State Data 2000-25]]"]
 confidence: medium
 status: seed
 tags: []
-fact_checks: ["2026-11-19: Tempeh is a fermented soybean food native to the island of Java in Indonesia [Wikipedia on Tempeh]", "2026-11-19: Genetically engineered seeds for major field crops were commercially introduced in the United States in 1996, the first genetically modified soybean among them, and herbicide-tolerant soybeans rose from 17 percent of domestic soybean acres in 1997 to 68 percent in 2001 [USDA ERS on Genetically Engineered Crop Adoption; Wikipedia on Genetically modified soybean]"]
+fact_checks: ["2026-11-19: Tempeh is a fermented soybean food native to the island of Java in Indonesia [Wikipedia on Tempeh]", "2026-11-19: Genetically engineered seeds for major field crops were commercially introduced in the United States in 1996, the first genetically modified soybean among them, and herbicide-tolerant soybeans rose from 17 percent of domestic soybean acres in 1997 to 68 percent in 2001 [USDA ERS on Genetically Engineered Crop Adoption; Wikipedia on Genetically modified soybean]", "2026-11-19: Herbicide-tolerant soybeans made up 93 percent of all soybeans planted in the United States in 2010 [USDA ERS GE Varieties by State Data 2000-25]"]
 ---
 
 ## Summary
