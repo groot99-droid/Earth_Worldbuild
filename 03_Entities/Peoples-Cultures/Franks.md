@@ -8,10 +8,11 @@ date_start: 250
 date_end: 987
 date_precision: approx
 related: ["[[Charlemagne]]", "[[Fall of the Western Roman Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Clovis I]]"]
 confidence: medium
 status: seed
 tags: []
+fact_checks: ["2026-11-19: Clovis I reigned as king of the Salian Franks from about 481 to 509 and as king of the Franks from about 509 to 511, his conflict with the Frankish king Ragnachar being dated to 509 [Wikipedia on Clovis I]"]
 ---
 
 ## Summary
@@ -19,7 +20,7 @@ The Franks were a Germanic people who moved into Roman Gaul and built one of ear
 
 ## Facts
 - The Franks appear in Roman records in the third century CE on the lower Rhine and expanded into Gaul as Roman power weakened.
-- Clovis I of the Merovingian dynasty defeated the last major Roman official in Gaul in 486 and had united the Frankish tribes by about 501.
+- Clovis I of the Merovingian dynasty defeated the last major Roman official in Gaul in 486 and had united the Frankish tribes by about 509.
 - Clovis converted to Catholic Christianity, and his people's adoption of it helped unite the Franks and set them apart from neighboring Germanic kingdoms that followed other Christian traditions.
 - The Merovingians ruled until the eighth century, when Pepin the Short, with papal support, founded the Carolingian dynasty.
 - The Carolingian kingdom peaked under Charlemagne and later divided among his descendants. Its territories became the basis of medieval France, Germany and the Holy Roman Empire (not yet a vault note).

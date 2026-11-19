@@ -8,10 +8,11 @@ date_start: -800
 date_end: -50
 date_precision: approx
 related: ["[[Romans]]", "[[Alexander's Conquests]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Arverni]]"]
 confidence: medium
 status: seed
 tags: []
+fact_checks: ["2026-11-19: The Arvernian king Bituitus was defeated by the Romans under Domitius Ahenobarbus and Fabius Maximus in 121 BC [Wikipedia on Arverni]"]
 ---
 
 ## Summary
@@ -21,7 +22,7 @@ The Celts were related peoples across Iron Age Europe, sharing related languages
 - The Celts were many related tribal groups, including the Gauls of mainland Europe, speaking branches of the Celtic language family such as Gaulish.
 - The La Tène culture, known for swirling metalwork, flourished from about 450 BCE until Roman conquest, following the earlier Hallstatt culture.
 - Druids held major religious and political influence in many Celtic societies before Roman conquest, though their role varied by region and period.
-- Rome attacked the Arverni in 125 BCE, and Julius Caesar completed the conquest of Gaul by 50 BCE despite resistance under leaders such as Vercingetorix.
+- Rome defeated the Arverni in 121 BCE, and Julius Caesar completed the conquest of Gaul by 50 BCE despite resistance under leaders such as Vercingetorix.
 - Rome targeted the druids directly, and continental and southern British Celts were largely assimilated, while Celtic culture lasted longer in Ireland and northern Britain.
 
 ## Context & Connections

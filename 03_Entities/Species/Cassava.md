@@ -7,14 +7,15 @@ themes: [trade, technology]
 date_start: -4600
 date_precision: approx
 related: ["[[Columbian Exchange]]", "[[Atlantic Slave Trade]]", "[[The Agricultural Revolution]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Cassava]]"]
 confidence: medium
 status: seed
 tags: []
+fact_checks: ["2026-11-19: Wild Manihot esculenta subspecies flabellifolia, the progenitor of domesticated cassava, is centered in west-central Brazil, where cassava was likely first domesticated no more than 10,000 years ago [Wikipedia on Cassava]"]
 ---
 
 ## Summary
-Cassava is a starchy root crop domesticated in south-central Brazil, likely within the last 10,000 years, that requires processing to remove natural toxins and that Portuguese and Spanish traders carried to Africa and Asia in the 16th century, where it became a staple for hundreds of millions of people.
+Cassava is a starchy root crop domesticated in west-central Brazil, likely within the last 10,000 years, that requires processing to remove natural toxins and that Portuguese and Spanish traders carried to Africa and Asia in the 16th century, where it became a staple for hundreds of millions of people.
 
 ## Facts
 - Cassava was domesticated from wild relatives centered in west-central Brazil; the date of domestication is imprecise, likely within the last 10,000 years, and cassava pollen appears in Gulf of Mexico lowland sediment by about 4600 BCE, with the oldest direct evidence of cultivation coming from the Maya site of Joya de Cerén in El Salvador, about 1,400 years old.
@@ -31,4 +32,4 @@ The Observer notes that cassava is unusual among staple crops in requiring a too
 
 ## Open Questions
 - How did processing knowledge for detoxifying cassava spread alongside the crop itself in Africa and Asia?
-- How much do modern reliance on a narrow range of cassava varieties leave current staple supplies vulnerable to disease, as happened with the potato in 19th-century Europe?
+- How much does modern reliance on a narrow range of cassava varieties leave current staple supplies vulnerable to disease, as happened with the potato in 19th-century Europe?

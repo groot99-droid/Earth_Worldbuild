@@ -7,10 +7,11 @@ themes: [trade, technology]
 date_start: -7000
 date_precision: approx
 related: ["[[Domestication of Rice]]", "[[The Agricultural Revolution]]", "[[Green Revolution]]", "[[Yellow River]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Yangshao culture]]"]
 confidence: medium
 status: seed
 tags: []
+fact_checks: ["2026-11-19: The main food of the Neolithic Yangshao people of the middle Yellow River was millet, and they grew and ate rice to a lesser extent [Wikipedia on Yangshao culture]"]
 ---
 
 ## Summary
@@ -25,7 +26,7 @@ Rice is a cereal grass domesticated from a wild ancestor in the Yangtze valley o
 - Global rice production reached about 800 million tonnes in 2023, with about 90 percent grown in Asia, and less than 8 percent of the crop traded internationally.
 
 ## Context & Connections
-Rice's domestication is described in more detail under [[Domestication of Rice]] and belongs to [[The Agricultural Revolution]] alongside cereals domesticated elsewhere; its 20th-century breeding is part of the [[Green Revolution]]. Rice farming shaped the population and economy of the [[Yellow River]] region and other East Asian river valleys. It sits in the [[Neolithic]] and the region [[East Asia]], and belongs to the theme threads of [[Trade and Economy]] and [[Technology]].
+Rice's domestication is described in more detail under [[Domestication of Rice]] and belongs to [[The Agricultural Revolution]] alongside cereals domesticated elsewhere; its 20th-century breeding is part of the [[Green Revolution]]. Rice farming shaped the population and economy of the Yangtze valley and other East Asian river valleys; Neolithic farming in the [[Yellow River]] region rested mainly on millet, with rice grown there to a lesser extent. It sits in the [[Neolithic]] and the region [[East Asia]], and belongs to the theme threads of [[Trade and Economy]] and [[Technology]].
 
 ## Observer's Reading
 The Observer notes that rice farming, especially the flooded-field methods used across much of Asia, ties a community to sustained cooperative labor: building and maintaining paddies, canals and terraces is a task larger than any one household, which the Observer reads as a kin-lattice pressure toward dense, cooperative settlement. That most of the world's rice is grown and eaten within Asia, with little traded across borders, shows a staple that remains tied to the regions that farm it rather than becoming a fully global exchange-good in the way wheat has. The reading would weaken if paddy-field cooperation proves to have mattered less to social organization than dry-field cereal farming elsewhere.

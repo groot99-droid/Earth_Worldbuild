@@ -8,10 +8,11 @@ date_start: -400
 date_end: 500
 date_precision: approx
 related: ["[[Cusco]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Cusco]]", "[[Wikipedia on Nazca Lines]]"]
 confidence: medium
 status: seed
 tags: []
+fact_checks: ["2026-11-19: Cusco lies at about 13.5 degrees south and 72.0 degrees west and the Nazca Lines at about 14.7 degrees south and 75.1 degrees west, so Cusco is north-east of the Lines, not south of them [Wikipedia on Cusco; Wikipedia on Nazca Lines]"]
 ---
 
 ## Summary
@@ -27,7 +28,7 @@ The Nazca Lines are a group of geoglyphs in the desert of southern Peru, made be
 - The site has been damaged by squatters, a limestone quarry, a 2014 Greenpeace protest that left marks near one geoglyph, and a 2018 truck crossing, and erosion and off-road vehicles remain ongoing threats.
 
 ## Context & Connections
-The Nazca Lines were made well before the rise of [[Cusco]] and the Inca state farther south in the Andes. They sit in the [[Iron Age]] and the region [[Andes]], and belong to the theme threads of [[Religion and Belief]] and [[Science]].
+The Nazca Lines were made well before the rise of [[Cusco]] and the Inca state, centered in the Andean highlands to the north-east. They sit in the [[Iron Age]] and the region [[Andes]], and belong to the theme threads of [[Religion and Belief]] and [[Science]].
 
 ## Observer's Reading
 The Observer notes that a mark made to be read from the ground and a mark made to be read from the air are different kinds of pattern-taming, and the debate over the Lines is partly a debate over which kind their makers intended. Reiche's proposal that they served as an astronomical instrument was a claim about precision that later analysis did not confirm, which the Observer treats as an example of how a compelling reading can outrun its evidence. Because no written record from the makers survives, every purpose offered here is inference from the marks themselves. The reading would weaken if excavation along the lines turns up consistent ritual deposits that point to one purpose over the others.

@@ -7,10 +7,11 @@ themes: [trade, kinship]
 date_start: -9000
 date_precision: approx
 related: ["[[Wheat]]", "[[The Agricultural Revolution]]", "[[Ur]]", "[[Babylon]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Barley]]"]
 confidence: medium
 status: seed
 tags: []
+fact_checks: ["2026-11-19: Domesticated barley reached eastern Finland by 4200 BC, traces of its cultivation appear in the Harappan civilization 5,700 to 3,300 years ago, its use spread throughout Eurasia by 2000 BC, and it has been grown on the Korean Peninsula since the Early Mumun period, about 1500 to 850 BC [Wikipedia on Barley]"]
 ---
 
 ## Summary
@@ -21,7 +22,7 @@ Barley is a cereal grass domesticated in the Fertile Crescent from around 9000 B
 - Domestication produced grain heads that hold together instead of shattering, making the plant far easier to harvest but dependent on deliberate replanting.
 - Barley was likely among the first grains brewed into beer, one of the earliest alcoholic drinks made by Neolithic farmers.
 - In Mesopotamia, barley served as a de facto currency, with the shekel functioning as a standard unit of its weight, and cuneiform records from around 2350 BCE, under the ruler Urukagina, describe monthly barley rations issued to adults.
-- By about 2000 BCE barley had spread across Eurasia, reaching Finland by about 4200 BCE, the Indus civilization region between roughly 5,700 and 3,300 years ago, and the Korean peninsula by about 1500 to 850 BCE.
+- Barley spread from the Fertile Crescent across Eurasia, reaching eastern Finland by about 4200 BCE and the Indus civilization region between roughly 5,700 and 3,300 years ago; its use had spread throughout Eurasia by about 2000 BCE, and it was grown on the Korean peninsula from about 1500 to 850 BCE.
 - Global production reached about 146 million tonnes in 2023, the fourth largest cereal harvest after maize, rice and wheat; about 70 percent goes to animal feed and about 30 percent to malting for beer and whisky.
 
 ## Context & Connections
