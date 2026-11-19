@@ -2,8 +2,9 @@
 
 This is the brief every rewrite follows, for the Earth Chronicle site (`_Site`) and the Chronicle Museum (`_Museum`).
 
-**Where the voices come from.** The four voices belong to the creative-writing tool in
-`C:\Users\utopi\OneDrive\Desktop\Pipelines\creative-writing`. Its authority is `vault/CLAUDE.md`
+**Where the voices come from.** The four voices belong to the creative-writing tool, `creative-writing/` in the
+`groot99-droid/Pipelines-Plugin` repository (on the owner's machine,
+`C:\Users\utopi\OneDrive\Desktop\Pipelines\creative-writing`). Its authority is `vault/CLAUDE.md`
 ("Writing Style & Narrative Style, by mode" and "Anti-Style / do-not list"); `pipeline/spec.yaml` (`modes:`) is the
 machine-readable form. This file condenses those rules for *retelling history*, not for writing new fiction. If they
 change, update this file to match. Never edit anything in that vault.

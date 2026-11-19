@@ -1,7 +1,7 @@
 # Rewrite layer
 
 The text of the Earth Chronicle site (`_Site/`) and the Chronicle Museum (`_Museum/`), retold by AI in the four voices of the
-creative-writing tool (`Pipelines/creative-writing`): epic-fantasy, horror-prose, essay/self-help and confessional poetry,
+creative-writing tool (`creative-writing/` in the `groot99-droid/Pipelines-Plugin` repository): epic-fantasy, horror-prose, essay/self-help and confessional poetry,
 each where it fits. The rewrite is a **layer**: the vault notes and the museum manifest are never edited, and both sites label
 the rewritten text ("AI rewrite", plus its voice).
 
@@ -9,6 +9,9 @@ the rewritten text ("AI rewrite", plus its voice).
 - Museum: every placard description.
 - `VOICES.md` is the brief (which voice fits where, the fidelity rules, the batch format).
 - `.claude/agents/chronicle-rewriter.md` is the agent that does the writing.
+- `HANDOFF.md` says where the work stands (as of 2026-11-19: every site note rewritten; 387 of the museum's 686 placards,
+  the People wing, still waiting) and how to resume. `vault-issues.md` lists possible errors in vault notes that the
+  writers flagged; they are not fixed by this layer.
 
 ## Layout
 
