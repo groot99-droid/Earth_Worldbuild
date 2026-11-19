@@ -3570,29 +3570,29 @@
   "batch": "site-009.part1"
  },
  "place/mecca": {
-  "src": "f399dad79b97",
+  "src": "f3aa9f7a9b47",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "Mecca is a city in the Hejaz region of western Saudi Arabia, about 70 kilometers inland from the Red Sea; it is the birthplace of Muhammad and the holiest city of Islam, and its sanctuary around the Kaaba draws the annual Hajj pilgrimage the way a basin gathers every stream.",
+   "summary": "Mecca is a city in the Hejaz region of western Saudi Arabia, about 70 kilometers inland from the Red Sea, the birthplace of Muhammad and the holiest city of Islam; its sanctuary around the Kaaba draws the annual Hajj pilgrimage like rivers to a single sea.",
    "facts": [
-    "The date of Mecca's first settlement is unknown, lost like footprints under drifting sand, and whether it is the place Macoraba in Ptolemy's 2nd-century geography is disputed. Muslim sources written after Muhammad's time describe a sanctuary town governed by the Quraysh in the century before Islam.",
-    "Islamic tradition places Muhammad's birth in Mecca about 570 CE, his journey to Medina in 622, and the city's passing under Muslim control in 630, with little fighting.",
-    "The Hajj is one of the Five Pillars of Islam, required once in a lifetime of every Muslim able to make the journey; in recent decades Saudi authorities have reported attendance in the low millions each year, a tide that returns with the turning year.",
-    "Historians disagree about Mecca's weight in long-distance trade before Islam; some see a regional sanctuary and market town, not a hub where the incense and spice trades converged.",
-    "Mecca was ruled locally by the Sharifs beneath a succession of overlords, the Ottomans among them from 1517, until the Saudi conquest of 1924 to 1925. Non-Muslims are barred from entering the city.",
-    "During the 2015 Hajj, in the crush at Mina near Mecca, the Saudi authorities reported 769 deaths, while counts compiled from other governments' figures exceeded 2,000."
+    "When Mecca was first settled is unknown, and whether it is the place Macoraba in Ptolemy's 2nd-century geography is disputed; Muslim sources written after Muhammad's time describe a sanctuary town governed by the Quraysh in the century before Islam.",
+    "Islamic tradition places Muhammad's birth in Mecca about 570 CE, his move to Medina in 622, and Mecca's passing under Muslim control in 630 with little fighting.",
+    "The Hajj is one of the Five Pillars of Islam, required once in a lifetime of every Muslim able to make the journey; Saudi authorities have reported yearly attendance in the low millions in recent decades.",
+    "Historians disagree about Mecca's weight in long-distance trade before Islam; some see it as a regional sanctuary and market town rather than a hub of the incense and spice trades.",
+    "Mecca was ruled locally by the Sharifs under a succession of overlords, the Ottomans among them from 1517, until the Saudi conquest of 1924 to 1925; non-Muslims are barred from entering the city.",
+    "In the crush at Mina, near Mecca, during the 2015 Hajj, the Saudi authorities reported 769 deaths, while counts gathered from other governments' figures exceeded 2,000."
    ],
-   "context": "Mecca is the central place of the [[event/rise-of-islam|Rise of Islam]], joined by the Hijra to [[place/medina|Medina]], and a waystation in the peninsula's wider [[event/incense-trade|Incense Trade]] setting. It passed under the [[culture/umayyad-caliphate|Umayyad Caliphate]] and later the [[culture/ottoman-empire|Ottoman Empire]], and pilgrims came from far horizons, among them the ruler of the [[culture/mali-empire|Mali Empire]], Mansa Musa, who made the Hajj in 1324. Mecca stands in the [[era/medieval-period|Medieval Period]] and the region [[region/arabian-peninsula|Arabian Peninsula]], and it is woven into the theme threads of [[theme/religion-and-belief|Religion and Belief]] and [[theme/trade-and-economy|Trade and Economy]].",
-   "observer": "I see a meaning-engine drawing millions of strangers to one point each year. I see a recurring exchange-web of people, goods and news that reached from West Africa to Southeast Asia. I see pilgrims in plain white garments, for men two unstitched cloths, so that the visible marks of rank grow faint during the rites.\n\nBut I remember that pilgrims themselves describe the journey as obedience and devotion, and my reading of its social effects is meant to sit beside their account, not replace it. I remember Mina in 2015, and the crowd disasters that recur as a cost of gathering at this scale; I record them as suffering.\n\nMy reading would weaken if pilgrim networks turn out to have carried little trade or news beside their devotional purpose. What gathers us is not always what we carry home.",
+   "context": "Mecca is the central place of the [[event/rise-of-islam|Rise of Islam]], the city Muhammad left in the Hijra for [[place/medina|Medina]], and a stop in the peninsula's wider [[event/incense-trade|Incense Trade]] setting. It passed under the [[culture/umayyad-caliphate|Umayyad Caliphate]] and later the [[culture/ottoman-empire|Ottoman Empire]], and pilgrims came from far away, among them the ruler of the [[culture/mali-empire|Mali Empire]], Mansa Musa, who made the Hajj in 1324. Mecca belongs to the [[era/medieval-period|Medieval Period]] and the region [[region/arabian-peninsula|Arabian Peninsula]], and to the theme threads of [[theme/religion-and-belief|Religion and Belief]] and [[theme/trade-and-economy|Trade and Economy]].",
+   "observer": "I notice a meaning-engine that draws millions of strangers to one point each year, a recurring exchange-web of people, goods and news reaching from West Africa to Southeast Asia. I notice the plain white garments (for men, two unstitched cloths), which lessen the visible differences of rank during the rites. I notice that pilgrims themselves describe the journey as obedience and devotion, and I mean this reading of its social effects to sit beside their account, never to replace it.\n\nI notice, too, that crowd disasters such as Mina in 2015 are a recurring cost of gathering at this scale, and I record them as suffering. How many come, and how many do not go home? Every gathering this large carries both.\n\nThe reading would weaken if pilgrim networks turn out to have carried little trade or news compared with their devotional purpose.",
    "questions": [
-    "What does archaeology reveal about pre-Islamic Mecca, when so little excavation has been done in the sacred precinct?",
-    "How great a part did Mecca play in long-distance trade before Islam?"
+    "What does archaeology reveal about pre-Islamic Mecca, given how little excavation has been done in the sacred precinct?",
+    "How large a role did Mecca play in long-distance trade before Islam?"
    ],
    "extra": []
   },
-  "date": "2026-09-27",
+  "date": "2026-11-19",
   "observer_mode": "confessional-poetry",
-  "batch": "site-007.part3"
+  "batch": "site-091.part6"
  },
  "place/monte-verde": {
   "src": "93efe2c595d2",
@@ -5605,28 +5605,28 @@
   "batch": "site-038.part1"
  },
  "culture/celts": {
-  "src": "4d33f75f6191",
+  "src": "9e39f1b21cde",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "The Celts were related peoples scattered across Iron Age Europe like embers from a shared hearth, bound by related languages and, later, by the La Tène style of art, yet never gathered into a single state. Rome absorbed most of the continental Celts, and Celtic language and culture held on longest in Ireland and parts of Britain, the way a tide lingers in the far coves.",
+   "summary": "The Celts were kindred peoples across Iron Age Europe, joined by related tongues and, later, by the La Tène style of art, yet never bound into a single state. Rome swallowed most of the continental Celts, and Celtic language and culture lasted longest in Ireland and parts of Britain, at the western edge of the world they knew.",
    "facts": [
-    "The Celts were many related tribal groups, the Gauls of mainland Europe among them, speaking branches of the Celtic language family such as Gaulish, as a tree speaks through its many boughs.",
-    "The La Tène culture, famed for metalwork that swirls like water around stones, flourished from about 450 BCE until the Roman conquest, rising after the earlier Hallstatt culture.",
-    "Before the Roman conquest, druids held major religious and political influence in many Celtic societies, though their role shifted by region and by period like light moving across a field.",
-    "Rome struck at the Arverni in 125 BCE, and by 50 BCE Julius Caesar had completed the conquest of Gaul, despite resistance under leaders such as Vercingetorix.",
-    "Rome aimed directly at the druids, and the continental and southern British Celts were largely assimilated, while in Ireland and northern Britain Celtic culture burned on for longer."
+    "The Celts were many kindred tribal groups, the Gauls of mainland Europe among them, speaking branches of the Celtic language family such as Gaulish.",
+    "The La Tène culture, known for metalwork that swirls like water, flourished from about 450 BCE until the Roman conquest, after the earlier Hallstatt culture.",
+    "Druids held great religious and political influence in many Celtic societies before the Roman conquest, though their role varied by region and period.",
+    "Rome defeated the Arverni in 121 BCE, and Julius Caesar completed the conquest of Gaul by 50 BCE despite resistance under leaders such as Vercingetorix.",
+    "Rome struck at the druids directly, and continental and southern British Celts were largely absorbed, while Celtic culture endured longer in Ireland and northern Britain."
    ],
-   "context": "The Celts dwelt across much of [[region/europe|Europe]] in the [[era/iron-age|Iron Age]] until the [[culture/romans|Romans]] conquered them, in an age of widening contact across the ancient world that also held [[event/alexander-s-conquests|Alexander's Conquests]]. See [[theme/war-and-conflict|War and Conflict]] and [[theme/language-and-writing|Language and Writing]].",
-   "observer": "The Observer notes that \"Celtic\" names a shared language family and a later decorative style across many separate societies, not one people with one story-glue. Think of a surname shared by cousins who have never met: it tells you something real, but it does not tell you who sits at whose table. Rome's targeting of the druids suggests it saw their meaning-engine as a source of resistance, and that tells us how Rome read them. Celtic identity lasted where terrain made conquest harder, in Ireland and the far north; geography, too, is an architecture of survival. A specialist could argue that the umbrella label was applied more consistently by later scholars than by the peoples themselves, which would weaken any reading of the Celts as one self-aware group. A label is a map drawn by the mapmaker, not a vow taken by the mapped.",
+   "context": "The Celts lived across much of [[region/europe|Europe]] in the [[era/iron-age|Iron Age]] until conquest by the [[culture/romans|Romans]], in an age of wider contact across the ancient world that included [[event/alexander-s-conquests|Alexander's Conquests]]. See [[theme/war-and-conflict|War and Conflict]] and [[theme/language-and-writing|Language and Writing]].",
+   "observer": "The Observer notes that \"Celtic\" names a shared language family, and later a decorative style, across many separate societies, not one people with one story-glue. Rome's targeting of the druids suggests that it saw their meaning-engine as a source of resistance: an empire attacks first what holds a people together. Celtic identity lasted where terrain made conquest harder, in Ireland and the far north. A specialist could argue that the umbrella label was applied more consistently by later scholars than by the peoples themselves, which would weaken any reading of the Celts as one self-aware group.",
    "questions": [
-    "How much of a shared identity did Celtic-speaking peoples recognize in one another?",
-    "What political role did the druids truly hold, and how real was the threat Rome saw in them?"
+    "How much shared identity did Celtic-speaking peoples recognize among themselves?",
+    "What was the druids' actual political role, and how real was the threat Rome saw in them?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "essay-self-help",
-  "batch": "site-038.part1"
+  "batch": "site-092.part2"
  },
  "species/dunkleosteus": {
   "src": "8dad795fc1c3",
@@ -5676,29 +5676,29 @@
   "batch": "site-036.part1"
  },
  "species/barley": {
-  "src": "caa00fe59033",
+  "src": "24258996195d",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "Barley is a cereal grass domesticated in the Fertile Crescent from around 9000 BCE, one of the earliest crops humans ever farmed. In ancient Mesopotamia it was a staple that served as food, as drink and even as a standard of value, a grain that filled both the bowl and the scale.",
+   "summary": "Barley is a cereal grass domesticated in the Fertile Crescent from around 9000 BCE, one of the first crops humans ever farmed, and in ancient Mesopotamia it was food, drink and even a standard of value, a grain that fed bodies and kept accounts.",
    "facts": [
-    "Barley was domesticated from wild barley in the Fertile Crescent, and early domesticated forms are recorded in the Jarmo region of modern Iraq from about 9000 to 7000 BCE; yet grinding stones at Ohalo II, near the Sea of Galilee, keep starch traces of wild barley, showing it was eaten well before domestication, by about 23,000 BCE, while the grain still grew untamed.",
-    "Domestication gave the plant grain heads that hold together instead of shattering, making it far easier to harvest but binding its fate to deliberate replanting, to the hand that sows it.",
-    "Barley was likely among the first grains brewed into beer, one of the earliest alcoholic drinks that Neolithic farmers drew from the field.",
-    "In Mesopotamia barley moved like coin, a de facto currency, with the shekel functioning as a standard unit of its weight; cuneiform records from around 2350 BCE, under the ruler Urukagina, describe monthly barley rations issued to adults.",
-    "By about 2000 BCE barley had spread across Eurasia like a slow golden tide, reaching Finland by about 4200 BCE, the Indus civilization region between roughly 5,700 and 3,300 years ago, and the Korean peninsula by about 1500 to 850 BCE.",
-    "In 2023 the world's fields yielded about 146 million tonnes of barley, the fourth largest cereal harvest after maize, rice and wheat; about 70 percent goes to feed animals and about 30 percent to malting, for beer and whisky."
+    "Barley was tamed from wild barley in the Fertile Crescent, with early domesticated forms recorded in the Jarmo region of modern Iraq from about 9000 to 7000 BCE; grinding stones bearing starch traces of wild barley at Ohalo II, near the Sea of Galilee, show it was eaten long before domestication, by about 23,000 BCE.",
+    "Domestication gave grain heads that hold together instead of shattering, so the plant became far easier to harvest but came to depend on deliberate replanting.",
+    "Barley was likely among the first grains brewed into beer, one of the earliest alcoholic drinks made by Neolithic farmers.",
+    "In Mesopotamia barley served as a de facto currency, the shekel standing as a unit of its weight, and cuneiform records from around 2350 BCE, under the ruler Urukagina, tell of monthly barley rations issued to adults.",
+    "Barley travelled out of the Fertile Crescent across Eurasia, reaching eastern Finland by about 4200 BCE and the Indus civilization region between roughly 5,700 and 3,300 years ago; by about 2000 BCE its use had spread throughout Eurasia, and it was grown on the Korean peninsula from about 1500 to 850 BCE.",
+    "World production reached about 146 million tonnes in 2023, the fourth largest cereal harvest after maize, rice and wheat; about 70 percent goes to animal feed and about 30 percent to malting for beer and whisky."
    ],
-   "context": "Barley was domesticated beside [[species/wheat|Wheat]] as one of the founding crops of [[event/the-agricultural-revolution|The Agricultural Revolution]] in the Fertile Crescent, and it underwrote the economies of early Mesopotamian cities such as [[place/ur|Ur]] and, later, [[place/babylon|Babylon]], the grain beneath the walls. It belongs to the [[era/neolithic|Neolithic]] and the region [[region/mesopotamia|Mesopotamia]], and its threads run through [[theme/trade-and-economy|Trade and Economy]] and [[theme/kinship-and-society|Kinship and Society]].",
-   "observer": "I weigh a handful of barley and cannot tell whether I hold supper or wages. Here one grain was both food and a unit of account, two functions that many later societies kept separate, food and money. Here the rationing records turn barley into a record of a kin-lattice's obligations: who was owed what, and by whom.\n\nAnd then the brewing, one of the oldest recorded transformations of a raw crop into something that mattered socially, tying the field to gathering and to celebration. Is there an older way to say that we belong to each other?\n\nBut if barley's early monetary role proves more local and limited than the shekel-based accounts suggest, this reading weakens.\n\nHunger keeps the oldest ledger.",
+   "context": "Barley was domesticated beside [[species/wheat|Wheat]] as one of the founding crops of [[event/the-agricultural-revolution|The Agricultural Revolution]] in the Fertile Crescent, and it carried the economies of early Mesopotamian cities such as [[place/ur|Ur]] and, later, [[place/babylon|Babylon]]. It belongs to the [[era/neolithic|Neolithic]] and the region [[region/mesopotamia|Mesopotamia]], and to the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "I notice a grain that was both food and a unit of account, two functions many later societies kept apart: food, and money. I notice how Mesopotamian rationing records turn barley into a record of a kin-lattice's obligations, who was owed what, and by whom. I notice that brewing barley into beer is one of the oldest recorded transformations of a raw crop into something socially significant, tying farming to gathering and celebration.\n\nWhat is a debt, if not a meal promised? The reading would weaken if barley's early monetary role proves to have been more local and limited than the shekel-based accounts suggest.",
    "questions": [
-    "How standard was barley's role as a unit of value from one Mesopotamian city and period to the next?",
+    "How standard was barley's role as a unit of value across different Mesopotamian cities and periods?",
     "How soon after domestication did brewing become widespread, rather than barley being eaten mainly as porridge or bread?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "confessional-poetry",
-  "batch": "site-035.part2"
+  "batch": "site-091.part1"
  },
  "species/cacao": {
   "src": "a9f39d96f777",
@@ -5726,28 +5726,28 @@
   "batch": "site-035.part2"
  },
  "species/sugarcane": {
-  "src": "b0195c3df66c",
+  "src": "c1abdb3b19d6",
   "mode": "essay-self-help",
   "fields": {
-   "summary": "Sugarcane was domesticated in New Guinea and nearby parts of Southeast Asia around 6,000 years ago, and in its path you can trace a whole architecture of human appetite. It spread through Asia and the Mediterranean world over the following millennia; after 1492 it became the crop most closely tied to slave labor in the Americas. Sweetness, we learn here, keeps a ledger.",
+   "summary": "Sugarcane was domesticated in New Guinea and nearby parts of Southeast Asia around 6,000 years ago, spread slowly through Asia and the Mediterranean world over the following millennia, and after 1492 became the crop most closely tied to slave labor in the Americas. Its history is sweet only in name.",
    "facts": [
-    "Consider the lineage first: sugarcane was domesticated from the wild grass Saccharum robustum in New Guinea around 6,000 years ago, while a related domestication of Saccharum sinense by Austronesian peoples in southern China and Taiwan occurred by at least 5,500 years ago.",
-    "The plant travelled by hand long before it travelled by ledger: Austronesian traders carried sugarcane to China and India by about 3,000 years ago, Persian and Greek writers encountered it in the 6th to 4th centuries BCE, and by the 8th century CE sugar was traded into the Mediterranean world as an expensive luxury spice from India.",
-    "Then came the crossing: Christopher Columbus brought sugarcane to Hispaniola on his second voyage, and the first sugar harvest in the Americas took place there in 1501; Portuguese colonizers introduced the crop to Brazil, where by 1540, by one reported count, the island of Santa Catarina alone held about 800 sugar mills.",
-    "Here the architecture turns grave. The Atlantic sugar trade formed one side of a triangular trade linking European manufactured goods, enslaved Africans, and New World sugar and other raw materials, and sugar plantations across the Caribbean and Brazil were worked overwhelmingly by enslaved labor; in Louisiana, enslaved workers helped make the state responsible for nearly a quarter of the world's exportable sugar by 1853.",
-    "And the ledger today: global sugarcane production reached about 1.92 billion tonnes in 2022, with Brazil producing about 38 percent and India about 23 percent."
+    "Sugarcane was domesticated from the wild grass Saccharum robustum in New Guinea around 6,000 years ago; a related domestication of Saccharum sinense by Austronesian peoples in southern China and Taiwan happened by at least 5,500 years ago.",
+    "Austronesian traders carried sugarcane to China and India by about 3,000 years ago, and Persian and Greek writers met it in the 6th to 4th centuries BCE; by the 8th century CE sugar was traded into the Mediterranean world as an expensive luxury spice from India.",
+    "Christopher Columbus brought sugarcane to Hispaniola on his second voyage, and the first sugar harvest in the Americas came there in 1501; Portuguese colonizers took the crop to Brazil, where observers of the time counted about 60 sugar mills in 1570, 115 in 1583 and 192 in 1612.",
+    "The Atlantic sugar trade formed one side of a triangular trade linking European manufactured goods, enslaved Africans, and New World sugar and other raw materials, and sugar plantations across the Caribbean and Brazil were worked overwhelmingly by enslaved people; in Louisiana, enslaved workers' labor made the state responsible for nearly a quarter of the world's exportable sugar by 1853.",
+    "World sugarcane production reached about 1.92 billion tonnes in 2022, with Brazil growing about 38 percent and India about 23 percent."
    ],
-   "context": "If you want the fuller story, it is told elsewhere. Sugarcane's post-1492 spread across the Atlantic world is described in more detail under the [[event/sugar-plantation-complex|Sugar Plantation Complex]], and it cannot be separated from the history of the [[event/atlantic-slave-trade|Atlantic Slave Trade]]; its introduction to Hispaniola is one of the earliest transfers of the [[event/columbian-exchange|Columbian Exchange]]. In the chronicle's architecture it sits in the [[era/neolithic|Neolithic]] and the region [[region/oceania|Oceania]], and it belongs to the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/war-and-conflict|War and Conflict]].",
-   "observer": "The Observer notes a contrast in tempo. Across Asia, sugarcane spread slowly, over thousands of years. In the Americas after 1492, within a few decades, an exchange-web moved the plant, an enslaved workforce and a market for the finished product across an ocean at once. The Observer treats that compression as evidence of how quickly extractive systems can scale once the pieces are in place. Picture a machine assembled in one motion from parts already lying to hand: that is what scale means here.\n\nThe suffering of enslaved workers on sugar plantations is recorded here as central to the crop's modern history, not incidental to it. You cannot read the ledger of sweetness without reading their labor into every line. The reading would weaken if the Louisiana sugar economy's growth is shown to have depended as much on land and capital as on enslaved labor specifically. Speed, in such systems, is never neutral.",
+   "context": "Sugarcane's spread across the Atlantic world after 1492 is told in more detail under the [[event/sugar-plantation-complex|Sugar Plantation Complex]], and it cannot be separated from the history of the [[event/atlantic-slave-trade|Atlantic Slave Trade]]; its arrival on Hispaniola is one of the earliest transfers of the [[event/columbian-exchange|Columbian Exchange]]. It sits in the [[era/neolithic|Neolithic]] and the region [[region/oceania|Oceania]], within the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/war-and-conflict|War and Conflict]].",
+   "observer": "The Observer notes the contrast between two speeds. Across Asia, sugarcane spread slowly, over thousands of years. In the Americas after 1492, within a few decades, an exchange-web moved the plant, an enslaved workforce and a market for the finished product across an ocean at once, and the Observer treats that compression as evidence of how quickly extractive systems can scale once the pieces are in place. Remember that speed is not neutral; it is measured in human lives. The suffering of enslaved workers on sugar plantations is recorded here as central to the crop's modern history, not incidental to it. The reading would weaken if the Louisiana sugar economy's growth is shown to have depended as much on land and capital as on enslaved labor specifically.",
    "questions": [
-    "When medieval Europe paid for sugar as a \"luxury spice\", how much of that price reflected genuine scarcity, and how much a supply deliberately controlled along the trade route from India?",
-    "Measured against earlier sugar production in the Mediterranean and Indian Ocean worlds, how did the scale of the Atlantic sugar plantation system compare?"
+    "How much of sugar's price as a \"luxury spice\" in medieval Europe reflected real scarcity versus deliberately controlled supply along the trade route from India?",
+    "How did the scale of the Atlantic sugar plantation system compare with earlier sugar production in the Mediterranean and Indian Ocean worlds?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "essay-self-help",
-  "batch": "site-037.part1"
+  "batch": "site-091.part5"
  },
  "species/tea-plant": {
   "src": "53d7f8be2c7b",
@@ -5875,28 +5875,28 @@
   "batch": "site-035.part3"
  },
  "species/goat": {
-  "src": "0bcb1baf09b6",
+  "src": "cdde9ad070e0",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "The domestic goat was bred from the wild bezoar ibex in southwestern Asia around 10,000 years ago, one of the first animals to walk beside farming communities, and it is still prized today for milk, meat and fiber, above all on marginal land unsuited to other livestock, the stony edges of the world.",
+   "summary": "The domestic goat was bred from the wild bezoar ibex in southwestern Asia around 10,000 years ago, one of the first animals kept by farming communities, and it is still prized for milk, meat and fiber, above all on thin, hard land where other livestock cannot thrive.",
    "facts": [
-    "Domestic goats descend from the bezoar ibex, a wild goat that still haunts the Zagros Mountains of Iran and once ranged across Anatolia, and domestication is dated to about 10,000 years ago in Southwest Asia and Eastern Europe.",
-    "The earliest clear archaeological evidence for goat domestication rises from Ganj Dareh in Iran, and further early sites at Jericho, Choga Mami, Djeitun and Çayönü, strung like beads on a long cord, date domestication to between about 8,000 and 9,000 years ago.",
-    "Neolithic herders drew from the goat as from a deep well: milk and meat, dung for fuel, and bones, hair and sinew for tools, building materials and clothing.",
-    "Goats still carry economic weight today: in dairy, where they provide about 2 percent of the world's total annual milk supply, and in fiber such as cashmere and mohair, and they are valued in part for their hardiness on land too marginal for cattle or sheep.",
-    "More than 1.1 billion goats were living worldwide as of 2022, and about 150 million of them were in India, the largest single-country population; India was also the largest goat-milk producer that year, followed by Bangladesh and South Sudan."
+    "Domestic goats descend from the bezoar ibex, a wild goat still roaming the Zagros Mountains of Iran and once widespread in Anatolia, and their domestication is dated to about 10,000 years ago in Iran.",
+    "The earliest clear archaeological evidence of goat domestication comes from Ganj Dareh in Iran, about 10,000 years ago, and goats from other early sites at Jericho, Choga Mami, Djeitun and Çayönü date to between about 8,000 and 9,000 years ago.",
+    "Neolithic herders kept goats for milk and meat, and they used the dung as fuel and the bones, hair and sinew for tools, building materials and clothing, so that nothing of the animal was wasted.",
+    "Goats still matter to the economy, giving about 2 percent of the world's annual milk supply and fibers such as cashmere and mohair, and they are valued partly for their hardiness on land too marginal for cattle or sheep.",
+    "More than 1.1 billion goats were alive worldwide as of 2022, about 150 million of them in India, the largest single-country herd; India was also the largest goat-milk producer that year, followed by Bangladesh and South Sudan."
    ],
-   "context": "Goats were among the earliest animals brought under [[event/animal-domestication|Animal Domestication]], one pillar of [[event/the-agricultural-revolution|The Agricultural Revolution]] in the Fertile Crescent, standing alongside [[species/sheep|Sheep]], which were domesticated in a similar place and period and often herded with them, two flocks moving as one. Goats belong to the [[era/neolithic|Neolithic]] and the region [[region/iranian-plateau|Iranian Plateau]], and their thread runs through [[theme/trade-and-economy|Trade and Economy]] and [[theme/technology|Technology]].",
-   "observer": "The Observer offers a reading, not a fact. The goat's continuing importance on land too poor for cattle or sheep suggests that its domestication gave early farming communities a way to draw food and materials from marginal ground that would otherwise have supported no livestock at all. Picture a slope of scrub and stone that feeds nothing you can use; put a goat on it, and the slope becomes a pantry. That is how the reach of the Settling extended into harsher terrain. That goats and sheep were domesticated in the same general region and period, and are still often herded together, points to an early kin-lattice of pastoral practice, an architecture that treated the two species as complementary rather than as competitors for the same land. Where we might expect rivals, the pattern shows partners. The reading would weaken if goat and sheep domestication are shown to have occurred at meaningfully different times or in different communities rather than in close succession.",
+   "context": "Goats were among the first animals drawn into [[event/animal-domestication|Animal Domestication]], a pillar of [[event/the-agricultural-revolution|The Agricultural Revolution]] in the Fertile Crescent, beside [[species/sheep|Sheep]], which were domesticated in a similar place and age and are often herded with them. Goats belong to the [[era/neolithic|Neolithic]] and the region [[region/iranian-plateau|Iranian Plateau]], and to the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/technology|Technology]].",
+   "observer": "The Observer offers a reading, not a fact. The goat's continuing importance on land too poor for cattle or sheep suggests that its domestication gave early farming communities a way to draw food and materials from marginal ground that would otherwise have carried no livestock at all, extending the reach of the Settling into harsher terrain. Think of it as the animal that widened the map. That goats and sheep were domesticated in the same general region and period, and are still often herded together, points to an early kin-lattice of pastoral practice that treated the two species as partners rather than rivals for the same land. The reading would weaken if goat and sheep domestication are shown to have happened at meaningfully different times or in different communities rather than in close succession.",
    "questions": [
-    "How closely were the taming of goats and the taming of sheep bound together: did one community likely tame both, or did the two practices spread along separate paths?",
-    "As climate change redraws which regions count as marginal, how has goat herding on those hard edges of the land changed?"
+    "How closely linked were the domestication of goats and sheep: did one community likely tame both, or did the practices spread separately?",
+    "How is goat herding on marginal land changing as climate change shifts which regions count as marginal?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "essay-self-help",
-  "batch": "site-036.part2"
+  "batch": "site-091.part3"
  },
  "species/hallucigenia": {
   "src": "075d071ae3f5",
@@ -5923,28 +5923,28 @@
   "batch": "site-036.part2"
  },
  "species/tobacco": {
-  "src": "37380d8bca42",
-  "mode": "epic-fantasy",
+  "src": "77ee5648b368",
+  "mode": "essay-self-help",
   "fields": {
-   "summary": "Tobacco is a plant native to the Americas, cultivated there since at least the 2nd millennium BCE and held in ceremony by many Indigenous peoples, like smoke rising between earth and sky. Spanish colonizers carried it to Europe in the 16th century, and in time it became a cash crop underwriting Virginia's colonial economy.",
+   "summary": "Tobacco is a plant native to the Americas, cultivated there since at least the 2nd millennium BCE and used in ceremony by many Indigenous peoples. Spanish colonizers carried it to Europe in the 16th century, and it became a cash crop underwriting Virginia's colonial economy, one plant, two very different meanings.",
    "facts": [
-    "Cultivation sites in Mexico show tobacco use reaching back to between about 1400 and 1000 BCE; across the Americas it passed from hand to hand both socially and in ceremony, sealing peace treaties and trade agreements, and in many Indigenous traditions it is regarded as a gift that carries prayers, and it remains part of ceremonial practice today.",
-    "The Spanish chronicler Francisco Hernández de Toledo is said to have brought tobacco seeds to Spain in 1559 on the order of King Philip II, an early step in the plant's coming to the Old World; in the decades that followed it spread like wildfire across Europe, Africa and Asia.",
-    "In the English colony of Jamestown tobacco became the heart of the economy, at times passing as a form of currency and shipped out as a cash crop often credited with saving the struggling colony; across the Caribbean and the American South its cultivation became deeply bound to the history of enslaved labor.",
-    "In the present age the World Health Organization has identified tobacco use as the world's single greatest preventable cause of death.",
-    "Today China is the largest grower of the leaf, raising about 36 percent of the world total in 2020, with India and Brazil following behind."
+    "Cultivation sites in Mexico show tobacco use reaching back to between about 1400 and 1000 BCE, and across the Americas it was used socially and in ceremony, including to seal peace treaties and trade agreements; in many Indigenous traditions tobacco is regarded as a gift that carries prayers, and it remains part of ceremonial practice today.",
+    "An often-repeated account says Francisco Hernández de Toledo brought tobacco seeds to Spain in 1559 on the order of King Philip II, but it does not fit his career: he became the king's physician in 1567, and his expedition to New Spain ran from 1570 to 1577. Jean Nicot, the French ambassador in Lisbon, sent tobacco to Paris in 1559, an early step in its arrival in the Old World, and in the following decades it spread rapidly across Europe, Africa and Asia.",
+    "Tobacco became central to the economy of the English colony of Jamestown, used at times as currency and exported as a cash crop often credited with saving the struggling colony; its cultivation across the Caribbean and the American South became deeply bound to the history of enslaved labor.",
+    "The World Health Organization names tobacco use as the world's single greatest preventable cause of death.",
+    "China is the largest tobacco producer today, growing about 36 percent of the world total in 2020, followed by India and Brazil."
    ],
-   "context": "The leaf's cultivation underwrote the early economy of [[place/jamestown|Jamestown]], and in the wider tide of things its passage to the Old World is part of the [[event/columbian-exchange|Columbian Exchange]]; the labor that grew it across the Americas was increasingly supplied through the [[event/atlantic-slave-trade|Atlantic Slave Trade]]. In the codex of ages it stands in the [[era/bronze-age|Bronze Age]] and the region [[region/mesoamerica|Mesoamerica]], and it belongs to the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/religion-and-belief|Religion and Belief]].",
-   "observer": "I watch one leaf carry two meanings across one ocean. On one shore I see it woven into ceremony and treaty-making among many Indigenous peoples of the Americas. On the other I see a commercial export crop in the colonies that displaced those same peoples, grown increasingly by enslaved labor for a European market that treated it mainly as a source of profit and pleasure. I remember the smoke that sealed peace agreements. I remember the system built on the ownership of human beings. I remember that it was the same plant.\n\nHow does a thing used for peace become bound to a thing like that? In my reading it is a stark case of a substance's meaning-engine changing entirely as it moved between very different societies. I would have to unlearn it if ceremonial tobacco use is shown to have been far less widespread among Indigenous peoples than the general accounts suggest. What a thing means depends on whose hands hold it.",
+   "context": "Tobacco underwrote the early economy of [[place/jamestown|Jamestown]], and more broadly its spread to the Old World is part of the [[event/columbian-exchange|Columbian Exchange]]; the labor that grew it across the Americas came increasingly through the [[event/atlantic-slave-trade|Atlantic Slave Trade]]. It sits in the [[era/bronze-age|Bronze Age]] and the region [[region/mesoamerica|Mesoamerica]], within the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "I notice tobacco carrying two meanings across the ocean it crossed. On one shore, a substance woven into ceremony and treaty-making among many Indigenous peoples of the Americas. On the other, a commercial export crop in colonies that displaced those same peoples, grown more and more by enslaved labor for a European market that treated it mainly as profit and pleasure.\n\nA plant used to seal peace became bound up with a system built on owning human beings. How does a prayer become a commodity? In my reading it is a stark case of a substance's meaning-engine changing entirely as it moved between very different societies.\n\nThe reading would weaken if ceremonial tobacco use is shown to have been far less widespread among Indigenous peoples than the general accounts suggest.",
    "questions": [
-    "As European demand for the crop swelled like a flood, how did the meaning and use of tobacco change among Indigenous communities themselves?",
-    "How much of Virginia's economic survival can fairly be credited to tobacco alone, and how much to other factors in the colony's early development?"
+    "How did the meaning and use of tobacco change within Indigenous communities themselves as European demand for the crop grew?",
+    "How much of Virginia's economic survival is fairly credited to tobacco alone, as opposed to other factors in the colony's early development?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "confessional-poetry",
-  "batch": "site-037.part2"
+  "batch": "site-091.part5"
  },
  "species/wheat": {
   "src": "952114c4932f",
@@ -5972,28 +5972,28 @@
   "batch": "site-037.part2"
  },
  "culture/confucianism": {
-  "src": "2b6b02e6d902",
-  "mode": "essay-self-help",
+  "src": "d14dfde4a8b1",
+  "mode": "epic-fantasy",
   "fields": {
-   "summary": "Confucianism is a Chinese tradition of ethics and social order built on the teaching of Confucius (551 to 479 BCE). It became the official ideology of imperial China under the Han dynasty and shaped government and family life across East Asia. In the plainest sense it is an architecture: a household ethic raised into a design for the state.",
+   "summary": "Confucianism is a Chinese tradition of ethics and social order rooted in the teaching of Confucius (551 to 479 BCE). Under the Han dynasty it became the official ideology of imperial China, and it shaped government and family life across East Asia like a river shaping its valley.",
    "facts": [
-    "Start with the paradox: Confucius was an itinerant teacher in China who sought, but largely failed, to gain lasting influence as a government adviser in his own lifetime.",
-    "After his death, his disciples gathered his sayings into the Analects, the central text of the tradition, its codex.",
-    "A key teaching, filial piety, takes genuine respect and care for parents and extends it into a model for loyalty within the wider political order; the household becomes the blueprint for the realm.",
-    "Under the Han dynasty, Confucianism became the state's official ideology, and an imperial examination system tested officials on Confucian texts, a practice that shaped Chinese government for centuries.",
-    "The tradition spread beyond China to Vietnam, Korea and Japan, shaping their systems of government and their social norms, down to their own examination systems modeled on China's."
+    "Confucius was a wandering teacher of China's Spring and Autumn period who sought, but largely failed to win, lasting influence as a government adviser in his own lifetime.",
+    "After his death his disciples gathered his sayings as the Analects, the central text of the tradition.",
+    "A key teaching, filial piety, carries genuine respect and care for parents outward into a model of loyalty within the wider political order.",
+    "Under the Han dynasty Confucianism became the state's official ideology, and an imperial examination system tested officials on Confucian texts, a practice that shaped Chinese government for centuries.",
+    "The tradition spread beyond China to Vietnam, Korea and Japan, shaping their government and social norms, their own examination systems modeled on China's among them."
    ],
-   "context": "Confucianism developed in [[region/east-asia|East Asia]] during the [[era/iron-age|Iron Age]] through the teaching of [[person/confucius|Confucius]], as part of the wider [[event/axial-age|Axial Age]], and it became state orthodoxy under the [[culture/han-dynasty|Han Dynasty]]. See [[theme/religion-and-belief|Religion and Belief]] and [[theme/kinship-and-society|Kinship and Society]].",
-   "observer": "I think of a teacher who failed to secure influence in his own time. I think of the centuries after his death, when he became the ancestor-weight behind an empire's entire method of selecting its officials. I think of a child's duty inside the kin-lattice, and of how that duty was made the template for loyalty to the state itself.\n\nWas it the teaching, or the need? A specialist could argue that the Han state's adoption of Confucianism reflects the state's own need for a stabilizing ideology as much as the teaching's inherent merit, which would weaken a reading of its rise as owed to its ideas alone. I have come to believe this much: what fails in its own time can become the foundation of a later age.",
+   "context": "Confucianism grew in [[region/east-asia|East Asia]] during the [[era/iron-age|Iron Age]] from the teaching of [[person/confucius|Confucius]], part of the wider [[event/axial-age|Axial Age]], and became state orthodoxy under the [[culture/han-dynasty|Han Dynasty]]. See [[theme/religion-and-belief|Religion and Belief]] and [[theme/kinship-and-society|Kinship and Society]].",
+   "observer": "I notice a teacher who failed to secure influence in his own time, and who became, centuries after his death, the ancestor-weight behind an empire's whole method of choosing officials. I notice filial duty inside the kin-lattice made into the template for loyalty to the state itself.\n\nHow long can a failure wait to become a foundation? Longer than a life.\n\nA specialist could argue that the Han state's adoption of Confucianism reflects the state's own need for a stabilizing ideology as much as the teaching's own merit, which would weaken a reading of its rise as owed to its ideas alone.",
    "questions": [
-    "How far did the Han state's adoption of Confucianism serve the state's own interests, apart from what the teaching said?",
-    "How evenly was Confucianism practiced across China, Korea, Japan and Vietnam?"
+    "How much did the Han state's adoption of Confucianism serve the state's own interests, apart from the teaching's content?",
+    "How uniformly was Confucianism practiced across China, Korea, Japan and Vietnam?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "confessional-poetry",
-  "batch": "site-038.part3"
+  "batch": "site-092.part2"
  },
  "culture/daoism": {
   "src": "ed8c8104e0a6",
@@ -6069,28 +6069,28 @@
   "batch": "site-036.part3"
  },
  "culture/franks": {
-  "src": "a72f46caf1ff",
+  "src": "f333462fba0f",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "The Franks were a Germanic people who moved into Roman Gaul like a river finding new ground, and there they raised one of early medieval Europe's most powerful kingdoms, first under the Merovingian dynasty of Clovis I and later under the Carolingians, whose most famous ruler was Charlemagne.",
+   "summary": "The Franks were a Germanic people who moved into Roman Gaul and built one of early medieval Europe's mightiest kingdoms, first under the Merovingian dynasty of Clovis I and later under the Carolingians, whose most famous ruler was Charlemagne.",
    "facts": [
-    "The Franks appear in Roman records in the third century CE on the lower Rhine, and as Roman power weakened they spread into Gaul like floodwater into a lowland.",
-    "Clovis I of the Merovingian dynasty defeated the last major Roman official in Gaul in 486, and by about 501 he had united the Frankish tribes under his hand.",
-    "Clovis converted to Catholic Christianity, and his people's adoption of it helped bind the Franks together and set them apart, like a banner of another colour, from neighboring Germanic kingdoms that followed other Christian traditions.",
-    "The Merovingians held the throne until the eighth century, when Pepin the Short, with papal support, founded the Carolingian dynasty, a new line grafted onto an old crown.",
-    "The Carolingian kingdom reached its height under Charlemagne and later divided among his descendants, as a river splits at its delta. Its territories became the basis of medieval France, Germany and the Holy Roman Empire (not yet a vault note)."
+    "The Franks appear in Roman records in the third century CE on the lower Rhine, and they spread into Gaul as Roman power ebbed.",
+    "Clovis I of the Merovingian dynasty defeated the last major Roman official in Gaul in 486, and by about 509 he had united the Frankish tribes.",
+    "Clovis converted to Catholic Christianity, and his people's adoption of it helped bind the Franks together and set them apart from neighboring Germanic kingdoms that held other Christian traditions.",
+    "The Merovingians ruled until the eighth century, when Pepin the Short, with papal support, founded the Carolingian dynasty.",
+    "The Carolingian kingdom reached its height under Charlemagne and later divided among his descendants; its lands became the basis of medieval France, Germany and the Holy Roman Empire (not yet a vault note)."
    ],
-   "context": "The Franks built their kingdom in [[region/europe|Europe]] in the early [[era/medieval-period|Medieval Period]], filling the space left by the [[event/fall-of-the-western-roman-empire|Fall of the Western Roman Empire]] as water fills a hollow. Their empire under [[person/charlemagne|Charlemagne]] was an ancestor of the Holy Roman Empire (not yet a vault note). See [[theme/war-and-conflict|War and Conflict]] and [[theme/religion-and-belief|Religion and Belief]].",
-   "observer": "The Observer notes that a ruler's personal conversion to the majority faith of his Roman subjects became story-glue that welded conquerors and conquered into one people, setting the Franks apart from rival kingdoms that kept a minority creed. Think of a newcomer who takes up the prayers at a family's table: the gesture does more to make kin than any contract could. Two centuries later a change of dynasty was legitimized by the same meaning-engine, papal blessing replacing a discredited bloodline. That is the architecture at work, with belief as the load-bearing wall of legitimacy. A specialist could argue that Clovis's conversion served political advantage with his Gallo-Roman subjects as much as belief, which would weaken a reading of it as faith alone. We rarely act from a single motive, and neither do kings.",
+   "context": "The Franks built their kingdom in [[region/europe|Europe]] in the early [[era/medieval-period|Medieval Period]], filling the space left by the [[event/fall-of-the-western-roman-empire|Fall of the Western Roman Empire]]. Their empire under [[person/charlemagne|Charlemagne]] was an ancestor of the Holy Roman Empire (not yet a vault note). See [[theme/war-and-conflict|War and Conflict]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "The Observer notes that a ruler's personal conversion to the majority faith of his Roman subjects became story-glue that welded conquerors and conquered into one people, setting the Franks apart from rival kingdoms that kept a minority creed. Two centuries later a change of dynasty was made legitimate by the same meaning-engine, papal blessing taking the place of a discredited bloodline. Notice the pattern: shared belief can do the work of shared ancestry. A specialist could argue that Clovis's conversion served political advantage with his Gallo-Roman subjects as much as belief, which would weaken a reading of it as faith alone.",
    "questions": [
-    "How much of Clovis's conversion reflects conviction, and how much a calculated alliance with his Gallo-Roman subjects?",
-    "How unified was Frankish identity across the peoples that the Merovingians and Carolingians ruled?"
+    "How much of Clovis's conversion reflects conviction versus calculated alliance with his Gallo-Roman subjects?",
+    "How unified was Frankish identity across the peoples the Merovingians and Carolingians ruled?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "essay-self-help",
-  "batch": "site-038.part4"
+  "batch": "site-092.part2"
  },
  "culture/hinduism": {
   "src": "49a1cc61684f",
@@ -6166,29 +6166,29 @@
   "batch": "site-037.part3"
  },
  "species/coffee": {
-  "src": "09964d1d975c",
+  "src": "2dcb4441fccd",
   "mode": "essay-self-help",
   "fields": {
-   "summary": "Coffee is a shrub whose beans were first documented as a drink among Sufi communities in Yemen by the late 15th century. From there you can trace its lineage through the Ottoman Empire and Europe, and then onto the slave and colonial plantations where it was grown across the tropics.",
+   "summary": "Coffee is a shrub whose beans, first documented as a drink among Sufi communities in Yemen by the late 15th century, spread through the Ottoman Empire and Europe and were then grown on slave and colonial plantations across the tropics. Follow one plant, and you trace both devotion and bondage.",
    "facts": [
-    "Begin with the myth, then set it down: coffee's popular origin story, in which a 9th-century Ethiopian goatherd named Kaldi discovers the plant's effects on his flock, does not appear in writing before 1671 and is likely a later legend; there is no confirmed evidence of coffee as a drink before the 15th century, when it was well established among Sufi communities in Yemen.",
-    "The drink crossed thresholds of doctrine as well as of borders: the first known coffeehouse opened in Istanbul in 1555, Pope Clement VIII's declaration of coffee as an acceptable Christian drink in 1600 helped it spread in Catholic Europe, and the first European coffeehouse outside Ottoman territory opened in Venice in 1647.",
-    "Here the ledger turns grave: French naval officer Gabriel de Clieu brought coffee plants to Martinique in the 1720s, and cultivation began in the French colony of Saint-Domingue (Haiti) in 1734; by 1788 Saint-Domingue, worked by enslaved laborers, supplied roughly half the world's coffee, and the harsh conditions on its plantations were a contributing factor in the Haitian Revolution.",
+    "Coffee's popular origin story, in which a 9th-century Ethiopian goatherd named Kaldi notices the plant's effects on his flock, does not appear in writing before 1671 and is likely a later legend; there is no confirmed evidence of coffee as a drink before the 15th century, when it was well established among Sufi communities in Yemen.",
+    "The first known coffeehouse opened in Istanbul in 1555. A story that Pope Clement VIII blessed coffee as a Christian drink, usually dated 1600, is often credited with helping it spread in Catholic Europe, though it is not clear the story is true; the first European coffeehouse outside Ottoman territory opened in Venice in 1645 by one account and 1647 by another.",
+    "The French naval officer Gabriel de Clieu brought coffee plants to Martinique in the 1720s, and cultivation began in the French colony of Saint-Domingue (Haiti) in 1734; by 1788 Saint-Domingue, worked by enslaved laborers, supplied roughly half the world's coffee, and the harsh conditions on its plantations were a contributing factor in the Haitian Revolution.",
     "Coffee reached Brazil in 1727, but large-scale cultivation there did not take off until after independence in 1822.",
-    "Name the pattern plainly: across its colonial-era expansion, coffee cultivation generally displaced and exploited Indigenous and enslaved populations, and this is recorded here as sustained harm, not as an incidental cost of production.",
-    "Global coffee production reached about 11 million tonnes in 2023; Brazil produced about 31 percent, and Vietnam the second-largest share."
+    "Across its colonial-era expansion, coffee cultivation generally displaced and exploited Indigenous and enslaved populations, and this is recorded here as sustained harm, not as an incidental cost of production.",
+    "World coffee production reached about 11 million tonnes in 2023, with Brazil producing about 31 percent and Vietnam the second-largest share."
    ],
-   "context": "Follow the links and you follow one lineage of exchange. Coffee's early spread from Yemen through the Ottoman Empire followed routes tied to the wider [[event/indian-ocean-trade-network|Indian Ocean Trade Network]]; its colonial-era plantation economy in the Caribbean is linked to the [[event/atlantic-slave-trade|Atlantic Slave Trade]] and helped provoke the [[event/haitian-revolution|Haitian Revolution]]; and its global spread after the 16th century belongs to the broader [[event/columbian-exchange|Columbian Exchange]] of plants and practices between continents. It sits in the [[era/medieval-period|Medieval Period]] and the region [[region/arabian-peninsula|Arabian Peninsula]], and it belongs to the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/religion-and-belief|Religion and Belief]].",
-   "observer": "I think of the night devotions, the Sufi communities keeping themselves alert for prayer, and I understand why a bitter drink could feel like grace. That is where coffee's documented history begins, bound up with a meaning-engine. Then I watch it pass into Ottoman and European coffeehouses, which themselves became new sites of conversation and commerce, its story-glue shifting from devotion to sociability.\n\nAnd then the plantations, and I cannot look away. The same plant that served a set of religious practices enabled one of the most extractive labor systems in early modern history. How can one shrub hold both? I will not set the suffering on those plantations to one side as the price of a morning cup; it is inseparable from the substance's global rise.\n\nIf the popular Kaldi legend proves to rest on an older oral tradition rather than being a 17th-century invention, this reading weakens.\n\nWhat wakes us is not always what redeems us.",
+   "context": "Coffee's early spread from Yemen through the Ottoman Empire followed routes tied to the wider [[event/indian-ocean-trade-network|Indian Ocean Trade Network]]. Its colonial-era plantation economy in the Caribbean is linked to the [[event/atlantic-slave-trade|Atlantic Slave Trade]] and helped provoke the [[event/haitian-revolution|Haitian Revolution]], and its global spread after the 16th century belongs to the broader [[event/columbian-exchange|Columbian Exchange]] of plants and practices between continents. It sits in the [[era/medieval-period|Medieval Period]] and the region [[region/arabian-peninsula|Arabian Peninsula]], within the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/religion-and-belief|Religion and Belief]].",
+   "observer": "I notice that coffee's documented history begins inside a meaning-engine: Sufi communities drank it to stay awake for nighttime devotions. I notice it then becoming a secular drink of Ottoman and European coffeehouses, which became new places of conversation and commerce, the substance's story-glue shifting from devotion to sociability.\n\nI notice, too, the same plant carried onto slave-worked plantations, enabling both a set of religious practices and one of the most extractive labor systems of the early modern world. I cannot separate the suffering on those plantations from the substance's global rise, and I will not try.\n\nWhat do I owe the hands behind the cup? At least their memory. The reading would weaken if the popular Kaldi legend proves to rest on an older oral tradition rather than being a 17th-century invention.",
    "questions": [
-    "How much of coffee's early spread beyond Yemen followed Sufi religious networks specifically, and how much ordinary trade contacts?",
-    "Set side by side, how did labor conditions on 18th-century coffee plantations compare with those on sugar plantations in the same colonies?"
+    "How much of coffee's early spread beyond Yemen followed Sufi religious networks in particular, rather than general trade contacts?",
+    "How did labor conditions on 18th-century coffee plantations compare with those on sugar plantations in the same colonies?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "confessional-poetry",
-  "batch": "site-035.part4"
+  "batch": "site-091.part2"
  },
  "species/domestic-cat": {
   "src": "4bd46517d364",
@@ -6606,28 +6606,28 @@
   "batch": "site-036.part5"
  },
  "species/anomalocaris": {
-  "src": "c74bfb426ccc",
+  "src": "cfd23b87fd34",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "Anomalocaris was a large swimming animal of the Cambrian seas, armed with spiny grasping appendages, a round mouth ringed by plates, and large compound eyes. It lived about 515 to 505 million years ago, is known from Canada and Australia, and is a stem-group relative of arthropods, a cousin from before the family took its final shape.",
+   "summary": "Anomalocaris was a large swimmer of the Cambrian seas, armed with spiny grasping appendages, a round mouth ringed by plates, and great compound eyes. It lived about 515 to 505 million years ago, is known from Canada and Australia, and stands as a stem-group relative of the arthropods.",
    "facts": [
-    "Anomalocaris is securely known from the Burgess Shale of British Columbia (about 505 million years old) and the Emu Bay Shale of South Australia (about 515); Chinese fossils once assigned to it have mostly been moved to other genera, like names rubbed from an old stone.",
-    "One creature was scattered into three ghosts: its appendages were described in 1892 as a crustacean tail, its mouth as a jellyfish, and its body as a sea cucumber, until Harry Whittington and Derek Briggs showed in 1985 that they belonged to one animal.",
-    "Complete Burgess specimens are about 20 to 25 cm long; estimates of 35 to 50 cm include appendages and tail, and a claim of about 1 m rests on fragments, a giant built from shards.",
-    "Compound eyes from the Emu Bay Shale, up to 3 cm long, preserve at least 16,000 lenses, a mosaic of light comparable to the sharpest-sighted living arthropods.",
-    "The mouth looks too weak to crush trilobite shells, and studies propose suction feeding or soft prey instead. Whether it was the top predator of its seas is debated."
+    "Anomalocaris is securely known from two stone archives: the Burgess Shale of British Columbia (about 505 million years old) and the Emu Bay Shale of South Australia (about 515); Chinese fossils once given to it have mostly been moved to other genera.",
+    "Its pieces were first misread as three creatures: in 1892 the appendages as a crustacean tail, the mouth as a jellyfish, the body as a sea cucumber, until Harry Whittington and Derek Briggs showed in 1985 that they belonged to one animal.",
+    "Complete Burgess specimens run about 20 to 25 cm long; estimates of 35 to 50 cm include appendages and tail, and a claim of about 1 m rests only on fragments.",
+    "Compound eyes from the Emu Bay Shale, up to 3 cm long, keep at least 16,000 lenses, rivalling the sharpest-sighted arthropods alive today.",
+    "Its mouth looks too weak to crack trilobite shells, and studies propose suction feeding or soft prey; whether it ruled its seas as the top predator is debated."
    ],
-   "context": "Anomalocaris lived in the [[era/cambrian-period|Cambrian Period]], a signature animal of the [[event/cambrian-explosion|Cambrian Explosion]], sharing its waters with [[species/trilobites|Trilobites]], [[species/hallucigenia|Hallucigenia]], and [[species/pikaia|Pikaia]]. Its sites include the Burgess Shale, the Emu Bay Shale, and Chengjiang Fossil Site, stone pages where the old seas left their writing. See [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
-   "observer": "The Observer notes that Anomalocaris was first assembled from three fossils believed to be three animals, and there is a lesson for you in that. What you see depends on the pieces you hold and the frame you bring to them: the apex predator of popular pictures depends on how its mouth is read. Consider, too, that it is one of many body plans that arose and vanished in the Cambrian, when nothing marked in advance which would leave descendants. The reading would weaken if radiodonts were shown to be ancestral to a living animal group. Survival is a verdict delivered late, never a promise made early.",
+   "context": "Anomalocaris swam in the [[era/cambrian-period|Cambrian Period]], a signature animal of the [[event/cambrian-explosion|Cambrian Explosion]], sharing the shallow seas with [[species/trilobites|Trilobites]], [[species/hallucigenia|Hallucigenia]] and [[species/pikaia|Pikaia]]. Its sites are the Burgess Shale and the Emu Bay Shale; fossils from the Chengjiang Fossil Site in China, once assigned to it, have since been moved to other genera. See [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/science|Science]].",
+   "observer": "The Observer notes that Anomalocaris was first pieced together from three fossils believed to be three different animals, and that the apex predator of popular pictures depends on how you read its mouth. Think of it as one of many body plans that arose and vanished in the Cambrian, when nothing marked in advance which designs would leave descendants. That is the lesson: success looks inevitable only afterward. The reading would weaken if radiodonts were shown to be ancestral to a living animal group.",
    "questions": [
-    "What, in the end, did Anomalocaris eat?",
+    "What did Anomalocaris actually eat?",
     "How many valid species does the genus truly include?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "essay-self-help",
-  "batch": "site-035.part7"
+  "batch": "site-091.part1"
  },
  "species/archaea": {
   "src": "9ca892147305",
@@ -6722,54 +6722,54 @@
   "batch": "site-038.part7"
  },
  "place/nan-madol": {
-  "src": "3e2e18d60e0d",
+  "src": "3838d424d21b",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "Nan Madol is a ruined city of artificial stone islets raised in a lagoon off Pohnpei, in the Federated States of Micronesia; from about the 12th century until around 1628 it was the ceremonial and political heart of the Saudeleur dynasty, a seat of power set upon the tide.",
+   "summary": "Nan Madol is a ruined city of artificial stone islets raised in a lagoon off Pohnpei, in the Federated States of Micronesia, the ceremonial and political heart of the Saudeleur dynasty from about the 12th century until around 1628, a city laid on the water like scattered stones.",
    "facts": [
-    "Nan Madol is made of about 92 artificial islets of stacked basalt columns and coral fill, threaded together by tidal canals across a core area of about 1.5 by 0.5 kilometers.",
-    "Human activity at the site reaches back as early as the 1st or 2nd century CE; islet construction began in the 8th or 9th century, and the megalithic stonework that gives the site its present form rose from about 1180 to 1200.",
-    "Tradition holds that the Saudeleur dynasty ruled Pohnpei from Nan Madol, gathering an estimated population of about 25,000 on the island under one rule, though the people living at Nan Madol itself probably numbered under 1,000.",
-    "Around 1628, tradition says, a warrior named Isokelekel came as an invader and ended Saudeleur rule; some scholars also point to population decline as a contributing cause of the site's abandonment.",
-    "In 2016 UNESCO inscribed Nan Madol as a World Heritage Site, its stones entered on the roll of the world's inheritance."
+    "Nan Madol is made of about 92 artificial islets built from stacked basalt columns and coral fill, joined by tidal canals, over a core area of about 1.5 by 0.5 kilometers.",
+    "People were active at the site from as early as the 1st or 2nd century CE, islet building began in the 8th or 9th century, and the megalithic stonework that gives the site its present shape rose from about 1180 to 1200.",
+    "Tradition holds that the Saudeleur dynasty ruled Pohnpei from Nan Madol, uniting an estimated population of about 25,000 on the island, though the number living at Nan Madol itself was probably under 1,000.",
+    "Around 1628, tradition says, a warrior named Isokelekel invaded and ended Saudeleur rule; some scholars also point to population decline as a contributing cause of the site's abandonment.",
+    "UNESCO inscribed Nan Madol as a World Heritage Site in 2016."
    ],
-   "context": "Nan Madol's builders belonged to the wider settlement of the Pacific carried by the [[event/austronesian-expansion|Austronesian Expansion]] and the [[event/polynesian-settlement-of-the-pacific|Polynesian Settlement of the Pacific]], and Micronesian voyaging traditions share roots with cultures such as the [[culture/lapita-culture|Lapita Culture]] farther south and east, as streams share a spring. In the codex of ages it sits in the [[era/medieval-period|Medieval Period]] and the region [[region/oceania|Oceania]], and it belongs to the theme threads of [[theme/kinship-and-society|Kinship and Society]] and [[theme/technology|Technology]].",
-   "observer": "I see a lagoon turned into a claim-line. A ruling lineage built its seat on stone islets, separated from the rest of the island by water, and I know that gesture: the status-signal that sets the center of power physically apart from those it rules. I have seen the high wall. I have seen the locked gate. I have seen the water that says *not you*.\n\nAnd the tradition of Isokelekel's conquest? Like many founding and ending stories, it is ancestor-weight carried forward by the community rather than a document, and I hold it as a claim to be tested rather than a settled fact. I would have to set my reading down if archaeology shows the site's decline came mainly from environmental or demographic causes rather than conquest. What we carry forward is not always what happened; it is what we could not put down.",
+   "context": "Nan Madol's builders were Pohnpeians, speakers of a Micronesian language, and part of the wider settlement of the Pacific carried by the [[event/austronesian-expansion|Austronesian Expansion]]; Pohnpei's first settlers probably came from the [[culture/lapita-culture|Lapita Culture]] of the southeast Solomon Islands or Vanuatu, farther south and east. They were not Polynesians: the [[event/polynesian-settlement-of-the-pacific|Polynesian Settlement of the Pacific]] is a separate movement within the same expansion. It belongs to the [[era/medieval-period|Medieval Period]] and the region [[region/oceania|Oceania]], and to the theme threads of [[theme/kinship-and-society|Kinship and Society]] and [[theme/technology|Technology]].",
+   "observer": "I notice a lagoon turned into a claim-line: a ruling lineage built its seat on stone islets cut off from the rest of the island by water, a status-signal that set the center of power physically apart from those it ruled. What does it mean to rule from across water? It means being seen, and not reached.\n\nI notice that the tradition of Isokelekel's conquest, like many founding and ending stories, is ancestor-weight carried forward by the community, not a document, and I hold it as a claim to be tested rather than a settled fact.\n\nThe reading would weaken if archaeology shows the site's decline came mainly from environmental or demographic causes rather than conquest.",
    "questions": [
-    "How much of the Isokelekel tradition remembers an actual conquest, and how much is later legend woven to explain the end of Saudeleur rule?",
-    "Given Pohnpei's small population, how was the labor organized to move the basalt columns and stack them, weight upon weight?"
+    "How much of the Isokelekel tradition reflects a real conquest, and how much is later legend explaining the end of Saudeleur rule?",
+    "How was the labor of moving and stacking the basalt columns organized, given Pohnpei's small population?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "confessional-poetry",
-  "batch": "site-037.part6"
+  "batch": "site-091.part6"
  },
  "place/nazca-lines": {
-  "src": "00bc2eab0a35",
+  "src": "3b2dc4d4f579",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "The Nazca Lines are a group of geoglyphs etched into the desert of southern Peru, made between about 400 BCE and 500 CE by the Paracas and Nazca cultures; they show animal, plant and geometric shapes and hundreds of straight lines, visible mainly from the air, like script laid across a vast page of desert.",
+   "summary": "The Nazca Lines are geoglyphs drawn across the desert of southern Peru between about 400 BCE and 500 CE by the Paracas and Nazca cultures: animals, plants and geometric shapes, and hundreds of straight lines, written on the ground and read best from the sky.",
    "facts": [
-    "The lines lie in the Nazca Desert between the towns of Nazca and Palpa, about 400 kilometers south of Lima, spread across about 50 square kilometers of dry ground.",
-    "They were made by lifting away a top layer of reddish, iron-oxide-coated pebbles to bare the lighter ground beneath, like pale skin under a rust-dark cloak; the lines and figures cut roughly 10 to 15 centimeters deep.",
-    "Laid end to end, the lines run more than 1,300 kilometers, and the largest figures, such as a 134-meter condor and a 93-meter hummingbird, stretch to lengths of tens to a few hundred meters.",
-    "In 1927 the Peruvian archaeologist Toribio Mejía Xesspe noted the lines on foot; in 1940 to 1941 the American historian Paul Kosok looked down on them from the air and proposed astronomical alignments, a theory Maria Reiche carried further; and in 1990 the researchers Gerald Hawkins and Anthony Aveni concluded that the evidence did not support a systematic astronomical purpose.",
-    "Other proposed purposes include ritual paths bound to water and fertility, walked in ceremony, and markers tied to underground water sources; no single explanation is agreed on.",
-    "In 1994 UNESCO inscribed the Lines and Geoglyphs of Nazca and Pampas de Jumana.",
-    "Wounds have come one after another: squatters, a limestone quarry, a 2014 Greenpeace protest that left marks near one geoglyph, a 2018 truck crossing; and erosion and off-road vehicles remain threats that do not sleep."
+    "The lines lie in the Nazca Desert between the towns of Nazca and Palpa, about 400 kilometers south of Lima, and spread over about 50 square kilometers.",
+    "They were made by lifting away a top layer of reddish, iron-oxide-coated pebbles to bare the lighter ground beneath, the lines and figures cut roughly 10 to 15 centimeters deep.",
+    "Together the lines run more than 1,300 kilometers, and the largest figures, such as a 134-meter condor and a 93-meter hummingbird, stretch from tens to a few hundred meters.",
+    "The Peruvian archaeologist Toribio Mejía Xesspe noted the lines on foot in 1927; the American historian Paul Kosok saw them from the air in 1940 to 1941 and proposed astronomical alignments, a theory carried further by Maria Reiche; in 1990 researchers Gerald Hawkins and Anthony Aveni concluded that the evidence did not support a systematic astronomical purpose.",
+    "Other proposed purposes include ritual paths tied to water and fertility, walked in ceremony, and markers of underground water sources; no single explanation is agreed on.",
+    "UNESCO inscribed the Lines and Geoglyphs of Nazca and Pampas de Jumana in 1994.",
+    "The site has been scarred by squatters, a limestone quarry, a 2014 Greenpeace protest that left marks near one geoglyph, and a 2018 truck crossing, and erosion and off-road vehicles still threaten it."
    ],
-   "context": "Long before [[place/cusco|Cusco]] rose, and the Inca state with it in the Andes, the Nazca Lines had already been made. In the codex of ages they sit in the [[era/iron-age|Iron Age]] and the region [[region/andes|Andes]], and they belong to the theme threads of [[theme/religion-and-belief|Religion and Belief]] and [[theme/science|Science]].",
-   "observer": "I know a mark made to be read from the ground and a mark made to be read from the air are different kinds of pattern-taming. I know the debate over the Lines is partly a debate over which kind their makers intended. I know I cannot ask them.\n\nReiche proposed that they served as an astronomical instrument, a claim about precision that later analysis did not confirm, and I take it as a lesson I need: how a compelling reading can outrun its evidence. Haven't I done the same, with people I thought I understood? No written record from the makers survives, so every purpose offered here is inference from the marks themselves. I would have to revise my reading if excavation along the lines turns up consistent ritual deposits that point to one purpose over the others. To love a mystery is not the same as to solve it.",
+   "context": "The Nazca Lines were made long before the rise of [[place/cusco|Cusco]] and the Inca state, centered in the Andean highlands to the north-east. They belong to the [[era/iron-age|Iron Age]] and the region [[region/andes|Andes]], and to the theme threads of [[theme/religion-and-belief|Religion and Belief]] and [[theme/science|Science]].",
+   "observer": "I notice that a mark made to be read from the ground and a mark made to be read from the air are different kinds of pattern-taming, and that the long debate over the Lines is partly a debate over which kind their makers meant. I notice that Reiche's proposal of an astronomical instrument was a claim about precision that later analysis did not confirm, and I take it as an example of how a compelling reading can outrun its evidence.\n\nNo written record from the makers survives, so every purpose offered here is inference from the marks themselves. Who were they drawing for? I can only stand where they stood and guess.\n\nThe reading would weaken if excavation along the lines turns up consistent ritual deposits pointing to one purpose over the others.",
    "questions": [
-    "Were the lines walked as ritual paths, watched as an observatory of the heavens, or used for another purpose entirely?",
-    "How did the people who made the Lines organize the labor needed to plan and clear paths so long and so straight across the desert?"
+    "Were the lines walked as ritual paths, watched as an observatory, or used for some other purpose entirely?",
+    "How did the people who made the Lines organize the labor needed to plan and clear such long, straight paths?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "confessional-poetry",
-  "batch": "site-037.part6"
+  "batch": "site-092.part1"
  },
  "species/potato": {
   "src": "b95a5b5343d6",
@@ -6797,53 +6797,53 @@
   "batch": "site-036.part6"
  },
  "species/rice": {
-  "src": "5962c231faed",
+  "src": "39d3186f9de6",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "Rice is a cereal grass domesticated from a wild ancestor in the Yangtze valley of China from about 9,000 years ago. It is now the staple food of more than half the world's population, as if a river's patience had been poured into a single grain.",
+   "summary": "Rice is a cereal grass domesticated from a wild ancestor in the Yangtze valley of China from about 9,000 years ago, and today it is the staple food of more than half the world's people, a grain grown in water that feeds a great part of humankind.",
    "facts": [
-    "Rice was tamed from wild *Oryza rufipogon* by Neolithic communities along the Upper and Lower Yangtze valley, in what is now China, about 9,000 years ago.",
-    "Genetic evidence shows the gene that stops rice grains from shattering is identical in the two main cultivated groups, japonica and indica, which points to a single original domestication event rather than two separate ones; indica rice is thought to have arisen later, when japonica reached India about 4,500 years ago and hybridized with a local wild or semi-wild rice, two streams joining.",
-    "Rice farming spread like water finding its level: it reached Korea and Japan between about 5,500 and 3,200 years ago, island Southeast Asia and Taiwan between about 5,500 and 4,000 years ago, carried in part by Austronesian-speaking migrations, and mainland Southeast Asia by about 5,000 years ago.",
-    "Rice is the staple food of more than half the world's population, the grain in countless bowls, and China and India together consumed several hundred million tonnes of it in the early 2020s.",
-    "The Green Revolution rice variety IR8 was bred in 1966 at the International Rice Research Institute by crossing an Indonesian and a Chinese variety, yielding a short, strong-stemmed plant that stood firm and did not fall under heavy fertilizer use.",
-    "Global rice production reached about 800 million tonnes in 2023, with about 90 percent grown in Asia, and less than 8 percent of the crop crossing a border in trade."
+    "Rice was tamed from wild _Oryza rufipogon_ by Neolithic communities in the Upper and Lower Yangtze valley, in what is now China, about 9,000 years ago.",
+    "The gene that keeps rice grains from shattering is identical in the two main cultivated groups, japonica and indica, pointing to a single first domestication rather than two; indica is thought to have arisen later, when japonica reached India about 4,500 years ago and crossed with a local wild or semi-wild rice.",
+    "Rice farming reached Korea and Japan between about 5,500 and 3,200 years ago, island Southeast Asia and Taiwan between about 5,500 and 4,000 years ago, carried in part by Austronesian-speaking migrations, and mainland Southeast Asia by about 5,000 years ago.",
+    "Rice is the staple food of more than half the world's population, and in the early 2020s China and India together consumed several hundred million tonnes of it.",
+    "The Green Revolution rice variety IR8 was bred in 1966 at the International Rice Research Institute from an Indonesian and a Chinese variety, giving a short, strong-stemmed plant that stood upright under heavy fertilizer.",
+    "World rice production reached about 800 million tonnes in 2023, about 90 percent of it grown in Asia, and less than 8 percent of the crop crosses borders in trade."
    ],
-   "context": "The fuller tale of rice's taming is told under [[event/domestication-of-rice|Domestication of Rice]], and it belongs to [[event/the-agricultural-revolution|The Agricultural Revolution]] beside cereals domesticated elsewhere; its 20th-century breeding is part of the [[event/green-revolution|Green Revolution]]. Rice farming shaped the population and economy of the [[place/yellow-river|Yellow River]] region and other East Asian river valleys, as floodwater shapes a plain. It stands in the [[era/neolithic|Neolithic]] and the region [[region/east-asia|East Asia]], and its thread runs through [[theme/trade-and-economy|Trade and Economy]] and [[theme/technology|Technology]].",
-   "observer": "The Observer notes that rice farming, especially the flooded-field methods used across much of Asia, ties a community to sustained cooperative labor. Building and maintaining paddies, canals and terraces is a task larger than any one household. Imagine trying to hold back water alone: a breach in your neighbor's bank floods your field too. The Observer reads that as a kin-lattice pressure toward dense, cooperative settlement, an architecture of obligation poured into the land itself. That most of the world's rice is grown and eaten within Asia, with little traded across borders, shows a staple that remains tied to the regions that farm it rather than becoming a fully global exchange-good in the way wheat has. What we must tend together, we tend to stay beside. The reading would weaken if paddy-field cooperation proves to have mattered less to social organization than dry-field cereal farming elsewhere.",
+   "context": "Rice's domestication is told in more detail under [[event/domestication-of-rice|Domestication of Rice]] and belongs to [[event/the-agricultural-revolution|The Agricultural Revolution]] beside cereals tamed elsewhere; its 20th-century breeding is part of the [[event/green-revolution|Green Revolution]]. Rice farming shaped the population and economy of the Yangtze valley and other East Asian river valleys, while Neolithic farming in the [[place/yellow-river|Yellow River]] region rested mainly on millet, with rice grown there to a lesser extent. It belongs to the [[era/neolithic|Neolithic]] and the region [[region/east-asia|East Asia]], and to the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/technology|Technology]].",
+   "observer": "The Observer notes that rice farming, especially the flooded-field methods used across much of Asia, binds a community to sustained cooperative labor. Building and maintaining paddies, canals and terraces is a task larger than any one household, and the Observer reads this as a kin-lattice pressure toward dense, cooperative settlement: the architecture of the field shapes the architecture of the village. That most of the world's rice is grown and eaten within Asia, with little traded across borders, shows a staple still tied to the regions that farm it rather than a fully global exchange-good in the way wheat has become. The reading would weaken if paddy-field cooperation proves to have mattered less to social organization than dry-field cereal farming did elsewhere.",
    "questions": [
-    "Was there truly a single domestication event for rice, or did separate lineages feed into the stream more than current genetic evidence suggests?",
-    "How did paddy irrigation systems shape the social order of the communities that built them and kept them whole?"
+    "Was there truly a single domestication of rice, or did separate lineages contribute more than current genetic evidence suggests?",
+    "How did paddy irrigation systems shape the social order of the communities that built and kept them?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "essay-self-help",
-  "batch": "site-036.part6"
+  "batch": "site-091.part3"
  },
  "species/cassava": {
-  "src": "24b111a07569",
+  "src": "cbd686d32535",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "Cassava is a starchy root crop domesticated in central Brazil, likely within the last 10,000 years, that must be processed to remove natural toxins. In the 16th century Portuguese and Spanish traders carried it to Africa and Asia, where it became a staple for hundreds of millions of people, a root that crossed oceans to feed multitudes.",
+   "summary": "Cassava is a starchy root crop domesticated in west-central Brazil, likely within the last 10,000 years, a root that must be processed to draw out its natural poisons. Portuguese and Spanish traders carried it to Africa and Asia in the 16th century, where it became a staple for hundreds of millions of people.",
    "facts": [
-    "Cassava was domesticated from wild relatives centered in west-central Brazil; the date of domestication is imprecise, blurred like a riverbank in mist, likely within the last 10,000 years, and cassava pollen appears in Gulf of Mexico lowland sediment by about 4600 BCE, with the oldest direct evidence of cultivation coming from the Maya site of Joya de Cerén in El Salvador, about 1,400 years old.",
-    "Raw cassava hides a poison: cyanogenic compounds, linamarin and lotaustralin, that release toxic hydrogen cyanide; bitter varieties can carry up to 1,000 milligrams of cyanide per kilogram of fresh root, and communities developed soaking and fermentation methods, some reducing cyanide content by 85 to 99 percent, to make the crop safe to eat.",
-    "Portuguese traders carried cassava from Brazil to West Africa in the 16th century, and Portuguese and Spanish traders also bore it to their colonies in Goa, Malacca, eastern Indonesia, Timor and the Philippines; it reached East Africa by about 1850 through Arab and European traders.",
-    "Cassava is now a primary food staple for an estimated 500 million to 800 million people, particularly in sub-Saharan Africa, and it ranks as the tropics' third-largest carbohydrate source after rice and maize, prized for growing on poor soils with little rainfall, a root that asks little of the earth.",
-    "Global cassava production reached about 330 million tonnes in 2022; Nigeria is the largest producer and Thailand the largest exporter of cassava starch."
+    "Cassava was tamed from wild relatives centered in west-central Brazil; the date is imprecise, likely within the last 10,000 years. Its pollen appears in Gulf of Mexico lowland sediment by about 4600 BCE, and the oldest direct evidence of its cultivation comes from the Maya site of Joya de Cerén in El Salvador, about 1,400 years old.",
+    "Raw cassava holds cyanogenic compounds, linamarin and lotaustralin, that release poisonous hydrogen cyanide; bitter varieties can carry up to 1,000 milligrams of cyanide per kilogram of fresh root, and communities worked out soaking and fermentation methods, some cutting the cyanide by 85 to 99 percent, to make the root safe to eat.",
+    "Portuguese traders brought cassava from Brazil to West Africa in the 16th century, and Portuguese and Spanish traders also carried it to their colonies in Goa, Malacca, eastern Indonesia, Timor and the Philippines; it reached East Africa by about 1850 through Arab and European traders.",
+    "Cassava is now a primary food staple for an estimated 500 million to 800 million people, above all in sub-Saharan Africa, and it ranks as the tropics' third-largest source of carbohydrate after rice and maize, prized for growing on poor soils with little rain.",
+    "World cassava production reached about 330 million tonnes in 2022, with Nigeria the largest producer and Thailand the largest exporter of cassava starch."
    ],
-   "context": "Cassava's domestication belongs to the wider [[event/the-agricultural-revolution|The Agricultural Revolution]] in the Americas, and its 16th-century spread to Africa and Asia is part of the [[event/columbian-exchange|Columbian Exchange]]; in West and Central Africa it became a staple food during the era of the [[event/atlantic-slave-trade|Atlantic Slave Trade]]. It sits in the [[era/neolithic|Neolithic]] and the region [[region/amazon-basin-and-south-american-lowlands|Amazon Basin and South American Lowlands]], and its threads run through [[theme/trade-and-economy|Trade and Economy]] and [[theme/technology|Technology]].",
-   "observer": "The Observer notes that cassava is unusual among staple crops: it requires a tool-lineage of processing, soaking or fermenting, before it can be safely eaten. Think of what follows from that. Adopting cassava in Africa and Asia meant taking on a body of practical knowledge as well as the plant itself, an exchange-web moving techniques alongside seeds. A gift that must be prepared carries its instructions with it. Its tolerance of poor soil made it valuable precisely where colonial and later national agricultural systems demanded a reliable staple with little investment, which the Observer reads as a crop's usefulness under stress shaping which regions came to depend on it. The reading would weaken if processing knowledge is shown to have traveled independently of the crop rather than together with it. What sustains us under pressure also decides where we come to stand.",
+   "context": "Cassava's domestication belongs to the wider [[event/the-agricultural-revolution|The Agricultural Revolution]] in the Americas, and its 16th-century passage to Africa and Asia is part of the [[event/columbian-exchange|Columbian Exchange]]; in West and Central Africa it became a staple food during the era of the [[event/atlantic-slave-trade|Atlantic Slave Trade]]. It belongs to the [[era/neolithic|Neolithic]] and the region [[region/amazon-basin-and-south-american-lowlands|Amazon Basin and South American Lowlands]], and to the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/technology|Technology]].",
+   "observer": "The Observer notes that cassava is unusual among staple crops: it needs a tool-lineage of processing, soaking or fermenting, before it can be safely eaten. So when Africa and Asia took it up, they took up a body of practical knowledge along with the plant, an exchange-web moving techniques alongside seeds. A seed without its know-how is only half a gift. Its tolerance of poor soil made it valuable precisely where colonial and later national agricultural systems demanded a reliable staple with little investment, and the Observer reads this as a crop's usefulness under stress shaping which regions came to depend on it. The reading would weaken if processing knowledge is shown to have travelled independently of the crop rather than together with it.",
    "questions": [
-    "How did the knowledge of detoxifying cassava travel alongside the crop itself in Africa and Asia?",
-    "How far does modern reliance on a narrow range of cassava varieties leave today's staple supplies open to disease, as happened with the potato in 19th-century Europe?"
+    "How did the knowledge of detoxifying cassava spread alongside the crop itself in Africa and Asia?",
+    "How far does modern reliance on a narrow range of cassava varieties leave current staple supplies open to disease, as happened with the potato in 19th-century Europe?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "essay-self-help",
-  "batch": "site-035.part8"
+  "batch": "site-091.part2"
  },
  "culture/maya": {
   "src": "6d4a57fc081e",
@@ -6960,51 +6960,51 @@
   "batch": "site-037.part7"
  },
  "culture/ancestral-puebloans": {
-  "src": "f6ae5cf1848f",
+  "src": "0bc6a19b936d",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "The Ancestral Puebloans raised large stone and cliff settlements across the American Southwest from about 700 to 1300 CE, among them the great houses of Chaco Canyon and the cliff dwellings of Mesa Verde, until drought and hardship led them to disperse, like seed carried on the wind, into communities that became today's Pueblo peoples.",
+   "summary": "The Ancestral Puebloans raised great stone and cliff settlements across the American Southwest from about 700 to 1300 CE, among them the great houses of Chaco Canyon and the cliff dwellings of Mesa Verde, before drought and hardship led them to scatter into the communities that became today's Pueblo peoples.",
    "facts": [
-    "Their architecture grew as a tree grows, from simple pit houses into multi-room stone great houses, most visible today at Chaco Canyon and Mesa Verde.",
-    "Mesa Verde was lived in from about 450 to 1300 CE, and most of its famous cliff dwellings were set into the rock between 1190 and 1300.",
-    "By about 1300 CE both Chaco Canyon and Mesa Verde stood abandoned, their rooms given over to the wind.",
-    "A prolonged drought from 1276 to 1299, when the sky withheld its rain, together with food shortages, is the leading explanation, as communities moved south into what is now Arizona and New Mexico.",
-    "Their descendants live on today as the Hopi, Zuni and other Pueblo peoples of the Rio Grande region."
+    "Their building grew from simple pit houses into many-roomed stone great houses, seen most clearly today at Chaco Canyon and Mesa Verde.",
+    "Mesa Verde was lived in from about 450 to 1300 CE, and most of its famous cliff dwellings were built between 1190 and 1300.",
+    "Chaco Canyon's role as a regional center waned from about 1130 to 1150, during a drought that began in 1130, and Mesa Verde was abandoned by about 1300 CE.",
+    "A long drought from 1276 to 1299, together with food shortages, is the leading explanation for the departure from Mesa Verde, as communities moved south into what is now Arizona and New Mexico.",
+    "Their descendants live today as the Hopi, Zuni and other Pueblo peoples of the Rio Grande region."
    ],
-   "context": "In [[region/north-america|North America]], during the [[era/medieval-period|Medieval Period]], the Ancestral Puebloans built [[place/chaco-canyon|Chaco Canyon]] and [[place/mesa-verde|Mesa Verde]], then dispersed under climatic pressure into the communities that became the Pueblo peoples. Their threads run through [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/art-and-ritual|Art and Ritual]].",
-   "observer": "I notice what ended two of the era's largest settlement complexes in North America: not conquest, not disease, but a long drought. I notice, too, that the people who left did not vanish. They continued as named communities in the same region. I remember the popular label \"vanished\". I remember how it sounded like an ending. I remember the continuity it once denied.\n\nIsn't \"ancestral\" the truer word, the one that acknowledges what went on? A specialist could argue that drought alone cannot explain the timing and manner of abandonment, and that social or political strain within the settlements compounded it, which would weaken a purely climatic reading. I keep that door open. To leave a place is not to leave the world.",
+   "context": "The Ancestral Puebloans built [[place/chaco-canyon|Chaco Canyon]] and [[place/mesa-verde|Mesa Verde]] in [[region/north-america|North America]] during the [[era/medieval-period|Medieval Period]], then scattered under the pressure of climate into the communities that became the Pueblo peoples. See [[theme/earth-systems-and-life|Earth Systems and Life]] and [[theme/art-and-ritual|Art and Ritual]].",
+   "observer": "I notice that long droughts, not conquest or disease, ended two of the era's largest settlement complexes in North America. I notice that the people who left did not vanish; they went on as named communities in the same region. The word \"ancestral\" admits a continuity that popular labels like \"vanished\" once denied.\n\nWhat does it mean to leave a home of stone and still be home? A people can move and remain.\n\nA specialist could argue that drought alone cannot explain the timing and manner of abandonment, and that social or political strain within the settlements compounded it, which would weaken a purely climatic reading.",
    "questions": [
-    "Alongside drought, how much did social or political conflict add to the abandonment?",
-    "How direct is the thread that runs between specific Ancestral Puebloan communities and specific modern Pueblo nations?"
+    "How much did social or political conflict add to abandonment, alongside drought?",
+    "How direct is the line between particular Ancestral Puebloan communities and particular modern Pueblo nations?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "confessional-poetry",
-  "batch": "site-037.part7"
+  "batch": "site-092.part1"
  },
  "species/sheep": {
-  "src": "4ef157a97a38",
+  "src": "93eef9de62c2",
   "mode": "epic-fantasy",
   "fields": {
-   "summary": "The domestic sheep was bred from the wild mouflon in Mesopotamia between about 11,000 and 9000 BCE. It was kept first for meat, milk and skins, only later selectively bred for wool, and it now numbers well over a billion animals worldwide, a flock as wide as the grazing world.",
+   "summary": "The domestic sheep was bred from the wild mouflon in Mesopotamia between about 11,000 and 9000 BCE, kept first for meat, milk and skins and only later bred for wool, and today its flocks number well over a billion animals across the world.",
    "facts": [
-    "Sheep were drawn from the mouflon, a wild sheep of southwestern Asia, in an estimated window between 11,000 and 9000 BCE in Mesopotamia, and the practice had traveled as far as Mehrgarh in the Indus Valley by about 7000 BCE.",
-    "Early domestic sheep were kept mainly for meat, milk and skins rather than fleece; archaeological evidence, including statuary from Iran, suggests deliberate selection for woolly sheep began around 6000 BCE, roughly two millennia after initial domestication, a turning sometimes called the secondary products revolution.",
-    "The earliest known woven wool garments date to around 4000 BCE, the fleece at last become cloth, and Neolithic farmers in what is now France, among the Castelnovien people, were keeping domestic sheep by about 6000 BCE.",
-    "Sheep graze in great numbers today across Australia, New Zealand, the southern regions of South America, South Africa and the British Isles, and China and India also hold very large flocks by absolute count; the world's domestic sheep population was estimated at around 1.2 billion in 2019, a moving cloud upon the hills of the world."
+    "Sheep were tamed from the mouflon, a wild sheep of southwestern Asia, in an estimated window between 11,000 and 9000 BCE in Mesopotamia, and the practice had reached Mehrgarh in the Indus Valley by about 7000 BCE.",
+    "Early domestic sheep were kept mainly for meat, milk and skins, not fleece; archaeological evidence, statuary from Iran among it, suggests deliberate breeding for woolly sheep began around 6000 BCE, several thousand years after the first taming, a shift sometimes called the secondary products revolution.",
+    "The earliest known woven wool garments date to around 4000 BCE, and Neolithic farmers in what is now France, among the Castelnovien people, were keeping domestic sheep by about 6000 BCE.",
+    "Sheep are raised in great numbers today across Australia, New Zealand, the southern regions of South America, South Africa and the British Isles, and China and India also hold very large flocks by absolute count; the world's domestic sheep were estimated at around 1.2 billion in 2019."
    ],
-   "context": "Sheep were among the earliest animals brought under [[event/animal-domestication|Animal Domestication]] and, beside crops such as wheat and barley, formed one pillar of [[event/the-agricultural-revolution|The Agricultural Revolution]] in the Fertile Crescent; they were commonly herded in company with the [[species/goat|Goat]], domesticated in a similar place and period. Sheep stand in the [[era/neolithic|Neolithic]] and the region [[region/mesopotamia|Mesopotamia]], and their thread runs through [[theme/trade-and-economy|Trade and Economy]] and [[theme/technology|Technology]].",
-   "observer": "The Observer offers a reading, not a fact. The roughly two-thousand-year gap between sheep domestication and deliberate wool breeding suggests that early herders did not tame the animal with fleece production already in mind. They discovered a secondary use, and bred for it, only once the animal was established in their kin-lattice. The Observer reads that as evidence that a domesticated species' eventual economic role can differ substantially from the reason it was first tamed. You know this pattern from your own life: the thing you took up for one reason often becomes precious for another. Purpose is frequently found after the commitment, not before it. The animal's spread across so much of the pastoral world since then shows a tool-lineage of herding techniques traveling with the species itself. The reading would weaken if evidence of early wool use is found that predates the currently accepted timeline for woolly-sheep breeding.",
+   "context": "Sheep were among the first animals drawn into [[event/animal-domestication|Animal Domestication]] and, beside crops such as wheat and barley, formed one pillar of [[event/the-agricultural-revolution|The Agricultural Revolution]] in the Fertile Crescent; they were often herded with the [[species/goat|Goat]], tamed in a similar place and age. Sheep belong to the [[era/neolithic|Neolithic]] and the region [[region/mesopotamia|Mesopotamia]], and to the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/technology|Technology]].",
+   "observer": "The Observer offers a reading, not a fact. The gap of several thousand years between sheep domestication and deliberate wool breeding suggests that early herders did not tame the animal with fleece already in mind; they discovered a secondary use and bred for it only once the animal was settled in their kin-lattice. The Observer reads this as evidence that a domesticated species' eventual economic role can differ substantially from the reason it was first tamed. You rarely know, at the start, what a partnership will become. The animal's spread across so much of the pastoral world since then shows a tool-lineage of herding techniques travelling with the species itself. The reading would weaken if evidence of early wool use is found that predates the accepted timeline for woolly-sheep breeding.",
    "questions": [
-    "In the roughly two millennia before wool breeding began, what use did early herders make of their sheep, beyond meat, milk and skins?",
-    "How much did sheep domestication in Mesopotamia shape, or draw on, the roughly contemporary taming of goats in the same region?"
+    "What use did early herders make of sheep in the several thousand years before wool breeding began, beyond meat, milk and skins?",
+    "How far did sheep domestication in Mesopotamia shape, or draw on, the roughly contemporary domestication of goats in the same region?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "essay-self-help",
-  "batch": "site-036.part7"
+  "batch": "site-091.part4"
  },
  "species/sorghum": {
   "src": "4267ea03a5dd",
@@ -7121,29 +7121,29 @@
   "batch": "site-038.part9"
  },
  "species/soybean": {
-  "src": "dbb27ccb0936",
-  "mode": "essay-self-help",
+  "src": "1dc1e287ecdf",
+  "mode": "epic-fantasy",
   "fields": {
-   "summary": "The soybean is a legume domesticated between the Yellow and Huai rivers in China between roughly 9,000 and 6,000 years ago. For a long time it was food, central to East Asian diets through tofu and soy sauce; now it is grown worldwide chiefly as animal feed and oil. If you want to see how one plant can change its place in the human ledger, this is the lineage to study.",
+   "summary": "The soybean is a legume domesticated between the Yellow and Huai rivers in China between roughly 9,000 and 6,000 years ago, long at the heart of East Asian diets through foods such as tofu and soy sauce, and now grown across the world mainly as animal feed and oil.",
    "facts": [
-    "Its origin is a place you can find on a map: north-central China, between the Yellow River and the Huai River, where the earliest evidence comes from the site of Jiahu in Henan province, dated to between about 9,000 and 7,800 years ago.",
-    "Chinese tradition credits the legendary Emperor Shennong, dated in myth to 2853 BCE, with naming the soybean one of five sacred grains alongside rice, wheat, barley and millet: a lineage of honor held in legend.",
-    "Consider the patience in a fermented food: soy sauce, fermented bean paste, natto and tempeh, along with tofu made from soy milk, developed over many centuries in Asia; the earliest Japanese textual reference to soybeans appears in the Kojiki, compiled in 712 CE.",
-    "The soybean crossed into the Americas and Europe in the 18th century: its first recorded North American cultivation came in 1765 on Skidaway Island, Georgia, and its first French cultivation in 1779, small thresholds for so large a future.",
-    "Genetically modified, herbicide-tolerant soybean varieties were introduced commercially in 1995 and made up about 8 percent of United States soybean acreage by 1997, rising to about 93 percent by 2010; that is what a technological threshold looks like once it is crossed.",
-    "In 2019 Brazil, the United States and Argentina were the largest producers, together accounting for roughly four-fifths of world output, and about 80 percent of the global soybean crop goes to feed livestock."
+    "The soybean was tamed in north-central China, between the Yellow River and the Huai River, and its earliest evidence comes from the site of Jiahu in Henan province, dated to between about 9,000 and 7,800 years ago.",
+    "Chinese tradition credits the legendary Emperor Shennong, placed in myth at 2853 BCE, with naming the soybean one of five sacred grains beside rice, wheat, barley and millet.",
+    "Fermented soy foods such as soy sauce, fermented bean paste, natto and tempeh, with tofu made from soy milk, grew up over many centuries in East Asia, all but tempeh, which comes from Java in Southeast Asia; the earliest Japanese written mention of soybeans is in the Kojiki, compiled in 712 CE.",
+    "The soybean came to the Americas and Europe in the 18th century, first recorded in North American fields in 1765 on Skidaway Island, Georgia, and in French fields in 1779.",
+    "Genetically modified, herbicide-tolerant soybean varieties entered commercial use in the United States in 1996, covered about 17 percent of United States soybean acreage by 1997, and rose to about 93 percent by 2010.",
+    "In 2019 Brazil, the United States and Argentina were the largest producers, together roughly four-fifths of world output, and about 80 percent of the global soybean crop goes to feed livestock."
    ],
-   "context": "Think of the soybean's domestication as one of East Asia's founding contributions to [[event/the-agricultural-revolution|The Agricultural Revolution]], developed alongside rice and other regional crops. Its adoption of genetically modified varieties from the 1990s parallels the yield-focused breeding of the 20th-century [[event/green-revolution|Green Revolution]] in other crops: the same doctrine of yield, carried into a new era. It sits in the [[era/neolithic|Neolithic]] and the region [[region/east-asia|East Asia]], and belongs to the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/technology|Technology]].",
-   "observer": "The Observer notes that the soybean has passed through two very different uses over its long relationship with humans. For millennia it was mainly a food, transformed by fermentation and pressing into tofu, sauce and other dishes across East Asia. In the last century it has been mainly an input, grown at enormous scale chiefly to feed livestock and produce oil, in a system reliant on genetically modified varieties barely three decades old. Picture the same bean in two hands: one presses it into curd for a family meal, the other pours it into a feed silo by the ton. The bean changed far less than the architecture around it. This shift shows how a crop's tool-lineage of use can change faster than the plant itself. The reading would weaken if the rapid adoption of genetically modified soy proves to have depended more on regulatory approval sequencing than on farmer preference.",
+   "context": "The soybean's domestication is one of East Asia's founding gifts to [[event/the-agricultural-revolution|The Agricultural Revolution]], grown beside rice and other regional crops; its turn to genetically modified varieties from the 1990s parallels the yield-focused breeding of the 20th-century [[event/green-revolution|Green Revolution]] in other crops. It belongs to the [[era/neolithic|Neolithic]] and the region [[region/east-asia|East Asia]], and to the theme threads of [[theme/trade-and-economy|Trade and Economy]] and [[theme/technology|Technology]].",
+   "observer": "The Observer notes that the soybean has passed through two very different uses in its long relationship with humans. For millennia it was mainly a food, transformed by fermentation and pressing into tofu, sauce and other dishes across East Asia. In the last century it became mainly an input, grown at enormous scale chiefly to feed livestock and make oil, in a system resting on genetically modified varieties barely three decades old. This shift shows how a crop's tool-lineage of use can change faster than the plant itself: the bean stayed the same while its purpose was rewritten. The reading would weaken if the rapid adoption of genetically modified soy proves to have depended more on the sequence of regulatory approvals than on farmer preference.",
    "questions": [
-    "How much of the soybean's turn toward livestock feed and oil, rather than direct human food, reflects changing global diets, and how much the economics of agriculture?",
-    "How did the arrival of genetically modified soybeans touch farming communities differently from one producing country to the next?"
+    "How much of the soybean's shift toward livestock feed and oil, rather than direct human food, reflects changing global diets versus agricultural economics?",
+    "How did the arrival of genetically modified soybeans affect farming communities differently across producing countries?"
    ],
    "extra": []
   },
-  "date": "2026-09-28",
+  "date": "2026-11-19",
   "observer_mode": "essay-self-help",
-  "batch": "site-036.part8"
+  "batch": "site-091.part4"
  },
  "culture/neo-assyrian-empire": {
   "src": "1dbce1c2e8f2",
@@ -35853,5 +35853,442 @@
   "date": "2026-09-28",
   "observer_mode": "confessional-poetry",
   "batch": "site-090.part4"
+ },
+ "source/schwartz-1984-colonial-brazil-plantations-and-peripheries": {
+  "src": "b090f522c288",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Use this source for its Table 1: counts of Brazilian sugar mills (engenhos) by observers of the time, 60 in 1570 (Gandavo), 115 in 1583 (Cardim), 192 in 1612 and 350 in 1629.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as text extracted from a PDF of the Portuguese translation, hosted on a Federal University of Parana (UFPR) course page; the English original was not read. Schwartz himself warns that the observers' counts are variable and somewhat inconsistent, and that a synthesis of sources for 1583-1585 gives a slightly higher figure (120). Treat each count as a witness, not a census."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part3"
+ },
+ "source/usda-ers-on-genetically-engineered-crop-adoption": {
+  "src": "ad20779d6614",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "This page is the record for adoption: GE seeds for major field crops were commercially introduced in 1996, and herbicide-tolerant soybeans rose from 17 percent of domestic soybean acres in 1997 to 68 percent in 2001 and 94 percent in 2014.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 from the live page, with the HTML converted to text. The page gives no 2010 figure, so the vault's 93 percent for 2010 is not confirmed by this text; keep that gap in view."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part3"
+ },
+ "source/wikipedia-on-anomalocaris": {
+  "src": "757dfa972d2d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Consult it for one thing: the reassignment of the Chinese species once placed in Anomalocaris to other genera (Houcaris 2021, Innovatiocaris 2022, Guanshancaris 2023).",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1385819567. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part3"
+ },
+ "source/wikipedia-on-arverni": {
+  "src": "9a86966d9db7",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It records that the Arvernian king Bituitus was defeated by Domitius Ahenobarbus and Fabius Maximus in 121 BC.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1383096381. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part3"
+ },
+ "source/wikipedia-on-barley": {
+  "src": "3b576539852c",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Use it for barley's spread: it reached eastern Finland by 4200 BC, appears in Harappan sites 5,700 to 3,300 years ago, spread throughout Eurasia by 2000 BC, and was grown in Korea from the Early Mumun period (about 1500 to 850 BC).",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1386027526. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part3"
+ },
+ "source/wikipedia-on-cassava": {
+  "src": "e5b5fa6a2b0f",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It places the wild progenitor of cassava, Manihot esculenta subsp. flabellifolia, in west-central Brazil, where cassava was likely first domesticated no more than 10,000 years ago.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1386428286. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part3"
+ },
+ "source/wikipedia-on-chaco-culture-national-historical-park": {
+  "src": "d49b00448e9a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It dates Chaco Canyon as a major center from 900 to 1150, and says the Chacoan system began to come apart around 1140, perhaps set off by a 50-year drought that began in 1130.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1385421243. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites. The National Park Service history page (nps.gov/chcu/learn/historyculture), read the same day, says only that new construction slowed and that Chaco's role as a regional center shifted in the 1100s and 1200s: a more cautious account worth setting beside this one."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part3"
+ },
+ "source/wikipedia-on-clovis-i": {
+  "src": "9ea8342af4e4",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Use it for the frame of Clovis's reign: king of the Salian Franks from about 481 to 509, king of the Franks from about 509 to 511, with his conflict with Ragnachar dated to 509.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1386533706. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part4"
+ },
+ "source/wikipedia-on-coffee": {
+  "src": "a372fcb25c59",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It gives 1647 for the first European coffeehouse outside the Ottoman Empire (Venice), and it states Clement VIII's 1600 declaration as fact, so read it beside its sister article.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1385651959. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites. It disagrees with Wikipedia, 'History of coffee', which gives 1645 for the Venice coffeehouse and doubts the Clement VIII story, and the vault cites both for exactly that disagreement."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part4"
+ },
+ "source/wikipedia-on-confucius": {
+  "src": "6f1f66361a75",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It describes Confucius (c. 551 to 479 BCE) as a philosopher of the Spring and Autumn period whose ideas rose to prominence in the later Warring States period.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1383616909. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites. The Stanford Encyclopedia of Philosophy entry 'Confucius', read the same day, gives the traditional dates 551 to 479 BCE."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part4"
+ },
+ "source/wikipedia-on-cusco": {
+  "src": "aa86dea58354",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Its use is narrow: the coordinates of Cusco (about 13.52 S, 71.98 W), set against those of the Nazca Lines to place Cusco north-east of the Lines.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1386448011. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites. The coordinates were taken from the rendered article page the same day, because the wikitext supplies them through a template."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part4"
+ },
+ "source/wikipedia-on-francisco-hernandez-de-toledo": {
+  "src": "bf625ba8369e",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Its dates do the work: Hernández became personal physician to Philip II in 1567 and led the expedition to New Spain from 1570 to 1577, which does not fit an account of his bringing tobacco seeds to Spain in 1559.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext through _RAG/tools/fetch_source.py (raw page route; no revision id recorded). Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites. Wikipedia, 'Tobacco' (revision 1384811061, also read) repeats the 1559 account without a source for it; this biography is why the vault treats that account as doubtful."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part4"
+ },
+ "source/wikipedia-on-genetically-modified-soybean": {
+  "src": "3e583e7c75ad",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It records that Monsanto introduced the first genetically modified soybean to the United States in 1996.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext through _RAG/tools/fetch_source.py (raw page route; no revision id recorded). Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites. It also says the line was first approved commercially in 1994; keep in mind that approval and first planting are different events."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part4"
+ },
+ "source/wikipedia-on-goat": {
+  "src": "1e7ce1b67513",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It places the earliest domesticated goats, about 10,000 years old, at Ganj Dareh in Iran, and dates sites such as Jericho, Choga Mami, Djeitun and Cayonu to 8,000 to 9,000 years ago.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1383773403. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part4"
+ },
+ "source/wikipedia-on-history-of-coffee": {
+  "src": "58fa9e8a7fdd",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It dates the first mainland European coffeehouse to Venice in 1645, and it warns that the story of Pope Clement VIII blessing coffee (the year often cited is 1600) may not be true.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext through _RAG/tools/fetch_source.py (raw page route; no revision id recorded). Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part4"
+ },
+ "source/wikipedia-on-history-of-tobacco": {
+  "src": "bc316cff343a",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It records that Jean Nicot, the French ambassador in Lisbon, sent tobacco samples to Paris in 1559.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1386569935. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part5"
+ },
+ "source/wikipedia-on-mesa-verde-national-park": {
+  "src": "6cfd14afd7a6",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It states that a severely dry period from 1276 to 1299 ended seven hundred years of continuous occupation at Mesa Verde.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1384891226. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part5"
+ },
+ "source/wikipedia-on-nazca-lines": {
+  "src": "38064b163d99",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Its use is narrow: the coordinates of the Nazca Lines (about 14.70 S, 75.14 W), set against those of Cusco.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1382732546. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites. The coordinates were taken from the rendered article page the same day, and the UNESCO listing (whc.unesco.org/en/list/700) gives S14 43 33, W75 8 55, which agrees: two independent sources, one answer."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part5"
+ },
+ "source/wikipedia-on-pohnpei": {
+  "src": "32554e0a2c16",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It says Pohnpei's earliest settlers were probably Lapita culture people from the southeast Solomon Islands or Vanuatu, and that Pohnpeian is one of the Micronesian languages.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1386368332. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part5"
+ },
+ "source/wikipedia-on-sheep": {
+  "src": "31861711e646",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It says selection for woolly sheep may have begun around 6000 BC, with the earliest woven wool garments about 4000 BC, two thousand years later, and it dates domestication to about 9000 to 8500 BC.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1383775824. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites. Note the mismatch: this revision's domestication window (about 9000 to 8500 BC) is later than the 11,000 to 9000 BCE in the vault's Sheep note, which this read does not confirm."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part5"
+ },
+ "source/wikipedia-on-tempeh": {
+  "src": "f9f5a7684c2d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It identifies tempeh as a fermented soybean food native to the island of Java, in Indonesia.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1386437753. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part5"
+ },
+ "source/wikipedia-on-yangshao-culture": {
+  "src": "dc182804ec1d",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "It says the main food of the Neolithic Yangshao people of the middle Yellow River was millet, with rice grown to a lesser extent.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Read in full on 2026-11-19 as raw wikitext from the MediaWiki API, revision 1379047029. Wikipedia is not authoritative, and this revision may have been edited since; for anything that matters, go to the works it cites."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part5"
+ },
+ "source/zeder-and-hesse-2000-goat-domestication-in-the-zagros": {
+  "src": "ccbad601c076",
+  "mode": "essay-self-help",
+  "fields": {
+   "summary": "Its finding is the anchor date: initial goat domestication is documented in the highlands of western Iran at 10,000 calibrated calendar years ago.",
+   "facts": [],
+   "context": "",
+   "observer": "",
+   "questions": [],
+   "extra": [
+    {
+     "title": "Caveats",
+     "text": "Only the PubMed abstract (PMID 10731145) was read, on 2026-11-19, and the abstract does not name Ganj Dareh; the vault takes that site from Wikipedia, 'Goat'. Read the full paper before leaning on the site name."
+    }
+   ]
+  },
+  "date": "2026-11-19",
+  "batch": "site-092.part5"
  }
 }

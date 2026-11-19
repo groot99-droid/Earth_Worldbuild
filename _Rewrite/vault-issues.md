@@ -28,3 +28,21 @@ and the next "all pending" run redoes it.
 | `culture/confucianism` (fact 1) | Places Confucius in the Warring States period; he lived (551 to 479 BCE) in the Spring and Autumn period | site-038 agent | **fixed (2026-11-19)**: now the Spring and Autumn period. Source: Wikipedia, 'Confucius' |
 | `culture/celts` (fact 4) | "Rome attacked the Arverni in 125 BCE"; their defeat is usually dated 121 BCE (125 BCE began campaigns against another tribe) | site-038 agent | **fixed (2026-11-19)**: now "Rome defeated the Arverni in 121 BCE". Source: Wikipedia, 'Arverni' |
 | `culture/franks` (fact 2) | Clovis "had united the Frankish tribes by about 501"; more often given as c. 509 | site-038 agent | **fixed (2026-11-19)**: now "by about 509". Source: Wikipedia, 'Clovis I' |
+
+## Found in the 2026-11-19 rewrite runs (open)
+
+Flagged by the rewriter while it rewrote the 387 People-wing placards (batches museum-006 to museum-017) and the 40 site
+items of site-091 and site-092. Nothing was changed in the vault or the museum manifest; each is the agent's reading, to
+check before editing.
+
+| Where | Problem | Source of the flag | Status |
+|---|---|---|---|
+| museum: Chandragupta Maurya | "seized the throne of Magadha and took the throne of Magadha" says the same thing twice | museum rewrite run | open |
+| museum: Basil II | "leaving one eye to each of every hundredth man" is garbled (the usual account: one man in every hundred was left one eye to lead the others home) | museum rewrite run | open |
+| museum: Timur | the placard says "(see Open Questions)", but museum placards have no such section | museum rewrite run | open |
+| museum: Pachacuti | the text says "ninth Sapa Inca" and the image caption "Tenth Inca"; probably two counting conventions, but it reads as a contradiction | museum rewrite run | open |
+| museum: Gorgo | her image is captioned "Discurso funebre pericles", which looks like an image meant for Pericles | museum rewrite run | open |
+| `species/soybean` (fact 5) | "93 percent of soybean acres by 2010" is not on the USDA page its source note records (that page gives 94 percent for 2014), so the figure is unconfirmed | site-091 | open |
+| `species/sheep` (fact 1) | domestication dated 11,000 to 9000 BCE; the Wikipedia source note gives about 9000 to 8500 BC and says it does not confirm the vault's range | site-091 | open |
+| `culture/franks` (fact 5, context) | the internal marker "(not yet a vault note)" is shown to readers | site-092 | open |
+
