@@ -2,7 +2,9 @@
 
 An illustrated timeline of 53 artists from around the world, from Murasaki Shikibu (born c. 973) to
 Alice Guy-Blaché (died 1968), spanning painting, sculpture, architecture, design, film and
-literature. Each artist has:
+literature. It lives inside the Earth Chronicle vault (`groot99-droid/Earth_Worldbuild`): every profile here has a
+matching vault note in `03_Entities/People/` that names it in `art_talk:`, and the Chronicle Museum (`_Museum/`) hangs
+these works in its six Art-Talk galleries. Each artist has:
 
 - **a Markdown profile** (`artists/<slug>.md`) with an overview, life, style and technique, legacy and
   sources;
@@ -73,13 +75,13 @@ figures can be added later as text-only profiles that link to images elsewhere.
 Open `index.html` in a browser. It is a single self-contained page that loads the images from
 `images/`, so it works straight from a clone.
 
-To publish it, enable **GitHub Pages** for the repository: *Settings → Pages → Deploy from a branch*,
-then choose `main` and `/ (root)`. The page will be served at
-`https://<user>.github.io/Art-Talk/`. The `.nojekyll` file makes Pages serve the files as they are.
+It is published with the rest of the repository by `.github/workflows/deploy-pages.yml` (on every
+push to `main`), at `<pages-url>/Art-Talk-main/`. The `.nojekyll` file at the repository root makes
+Pages serve the files as they are.
 
 ## Using the RAG files
 
-`rag/art-talk.jsonl` contains 370 or so chunks of four types:
+`rag/art-talk.jsonl` contains 574 chunks of four types (53 profiles, 212 sections, 299 artworks and 10 centuries):
 
 | `type` | One per | Contents |
 |---|---|---|
@@ -117,14 +119,16 @@ The files in `artists/` are the source of truth, and everything else is generate
    name: Katsushika Hokusai
    short_name: Hokusai          # optional, used in the lifespan chart
    slug: hokusai                # must match the file name
-   born: 1760                   # sort year (use the best estimate if unknown)
+   born: 1760                   # sort year (best estimate if unknown; negative for BCE)
    died: 1849
    lifespan: "1760–1849"        # display text, e.g. "c. 1450–1516" or "active c. 1560–1600"
    year_label: fl. 1560         # optional label on the timeline page (defaults to born)
-   region: East Asia            # Europe | West & Central Asia | South Asia | East Asia | Americas
+   region: East Asia            # Europe | West & Central Asia | Africa | South Asia | East Asia |
+                                 # Southeast Asia | Oceania | Americas
    country: Japan
    movements: [Ukiyo-e]
-   discipline: [Painting]       # Painting | Sculpture | Architecture | Design | Film | Literature
+   discipline: [Painting]       # Painting | Sculpture | Architecture | Design | Craft | Calligraphy |
+                                 # Photography | Film | Literature | Music | Dance | Theatre
                                  # a list, so a polymath can carry more than one, e.g. [Painting, Sculpture, Architecture]
    wikipedia: https://en.wikipedia.org/wiki/Hokusai
    cover: great-wave            # work shown on the timeline card
@@ -151,6 +155,10 @@ The files in `artists/` are the source of truth, and everything else is generate
    python scripts/build.py
    python scripts/build.py --check                 # validate; non-zero exit on problems
    ```
+
+   Before adding a candidate, `python scripts/probe_candidates.py "Name"` checks whether Wikimedia
+   Commons has enough freely licensed files for it (GO / NO-GO; `--min-kinds 3` for composers,
+   dancers, dramatists and calligraphers). Its hits are leads, not verdicts.
 
 `build.py` fills in the `## Key Works` section of each profile, between the `<!-- works:start -->`
 and `<!-- works:end -->` markers. Edit the works in the front matter, not in that block.
