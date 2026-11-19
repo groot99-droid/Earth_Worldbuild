@@ -8,7 +8,7 @@ date_start: 1471
 date_end: 1528
 date_precision: exact
 related: ["[[Renaissance]]", "[[Protestant Reformation]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Albrecht Dürer]]", "[[Wikipedia on Apocalypse (Dürer)]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

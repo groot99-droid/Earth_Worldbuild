@@ -8,7 +8,7 @@ date_start: 1599
 date_end: 1660
 date_precision: year
 related: ["[[Caravaggio]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Diego Velázquez]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

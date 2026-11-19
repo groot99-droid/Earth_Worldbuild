@@ -8,7 +8,7 @@ date_start: 1560
 date_end: 1600
 date_precision: approx
 related: ["[[Mughal Empire]]", "[[Behzad]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Basawan]]", "[[Wikipedia on Mughal painting]]"]
 confidence: low
 status: seed
 tags: [artist, painting]

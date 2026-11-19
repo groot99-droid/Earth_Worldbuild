@@ -7,7 +7,7 @@ themes: [trade, kinship, war]
 date_start: 1444
 date_precision: approx
 related: ["[[Atlantic Slave Trade]]", "[[Abolition of Slavery]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Gorée]]", "[[Wikipedia on House of Slaves]]"]
 confidence: medium
 status: seed
 tags: []

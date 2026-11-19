@@ -8,7 +8,7 @@ date_start: 1750
 date_end: 1819
 date_precision: approx
 related: ["[[Polynesians]]", "[[Liliuokalani]]", "[[Polynesian Settlement of the Pacific]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Kamehameha I]]"]
 confidence: medium
 status: seed
 tags: []

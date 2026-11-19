@@ -8,7 +8,7 @@ date_start: 849
 date_end: 1287
 date_precision: approx
 related: ["[[Pagan Kingdom]]", "[[Mongol Conquests]]", "[[Angkor]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Bagan]]", "[[Wikipedia on Pagan Kingdom]]"]
 confidence: medium
 status: seed
 tags: []

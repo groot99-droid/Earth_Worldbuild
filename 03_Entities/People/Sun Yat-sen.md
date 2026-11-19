@@ -8,7 +8,7 @@ date_start: 1866
 date_end: 1925
 date_precision: exact
 related: ["[[Xinhai Revolution]]", "[[Qing Dynasty]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Sun Yat-sen]]"]
 confidence: high
 status: seed
 tags: []

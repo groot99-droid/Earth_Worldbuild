@@ -7,7 +7,7 @@ themes: [religion, art, technology]
 date_start: 1200
 date_precision: approx
 related: ["[[Zagwe Dynasty]]", "[[Kingdom of Aksum]]", "[[Aksum]]", "[[Crusades]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Lalibela]]", "[[Wikipedia on Rock-Hewn Churches, Lalibela]]"]
 confidence: medium
 status: seed
 tags: []

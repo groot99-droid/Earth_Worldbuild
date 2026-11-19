@@ -8,7 +8,7 @@ date_start: -1303
 date_end: -1213
 date_precision: approx
 related: ["[[Battle of Kadesh]]", "[[Hittites]]", "[[Ancient Egyptians]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Ramesses II]]", "[[Wikipedia on Merneptah]]"]
 confidence: high
 status: seed
 tags: []

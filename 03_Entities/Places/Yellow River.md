@@ -7,7 +7,7 @@ themes: [earth-systems, war, technology]
 date_start: -6000
 date_precision: approx
 related: ["[[Shang Dynasty]]", "[[The Agricultural Revolution]]", "[[Han Dynasty]]", "[[Second Sino-Japanese War]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Yellow River]]", "[[Wikipedia on 1938 Yellow River flood]]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: 240
 date_end: 274
 date_precision: approx
 related: ["[[Romans]]", "[[Opening of the Silk Roads]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Zenobia]]", "[[Wikipedia on Vaballathus]]", "[[Wikipedia on Palmyrene Empire]]", "[[Wikipedia on Battle of Emesa]]"]
 confidence: medium
 status: seed
 tags: []

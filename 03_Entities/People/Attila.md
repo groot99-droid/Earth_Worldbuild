@@ -8,7 +8,7 @@ date_start: 406
 date_end: 453
 date_precision: approx
 related: ["[[Fall of the Western Roman Empire]]", "[[Romans]]", "[[Byzantine Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Attila]]"]
 confidence: medium
 status: seed
 tags: []

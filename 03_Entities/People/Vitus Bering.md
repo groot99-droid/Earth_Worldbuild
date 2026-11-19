@@ -8,7 +8,7 @@ date_start: 1681
 date_end: 1741
 date_precision: exact
 related: ["[[Russian Expansion into Siberia]]", "[[Yermak Timofeyevich]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Vitus Bering]]", "[[Wikipedia on Great Northern Expedition]]", "[[Wikipedia on Alexei Chirikov]]"]
 confidence: medium
 status: seed
 tags: []

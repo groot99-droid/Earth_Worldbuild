@@ -8,7 +8,7 @@ date_start: 1840
 date_end: 1926
 date_precision: exact
 related: ["[[J. M. W. Turner]]", "[[Katsushika Hokusai]]", "[[Utagawa Hiroshige]]", "[[World War I]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Claude Monet]]", "[[Wikipedia on Haystacks (Monet)]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

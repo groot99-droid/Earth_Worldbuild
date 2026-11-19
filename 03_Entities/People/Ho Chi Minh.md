@@ -8,7 +8,7 @@ date_start: 1890
 date_end: 1969
 date_precision: year
 related: ["[[Decolonization]]", "[[Cold War]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Ho Chi Minh]]", "[[Wikipedia on Vietnamese Declaration of Independence]]"]
 confidence: medium
 status: seed
 tags: []

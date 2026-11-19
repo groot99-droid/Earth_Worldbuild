@@ -8,7 +8,7 @@ date_start: -3800
 date_end: -500
 date_precision: approx
 related: ["[[Sumerians]]", "[[Uruk]]", "[[Invention of Writing]]", "[[The Urban Revolution]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Ancient Civilizations (Scarre and Fagan)]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Ancient Civilizations (Scarre and Fagan)]]", "[[Wikipedia on Ur]]", "[[Wikipedia on Third Dynasty of Ur]]", "[[Wikipedia on Enheduanna]]"]
 confidence: medium
 status: seed
 tags: []

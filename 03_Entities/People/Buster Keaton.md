@@ -8,7 +8,7 @@ date_start: 1895
 date_end: 1966
 date_precision: year
 related: []
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Buster Keaton]]", "[[Wikipedia on The General (1926 film)]]", "[[Wikipedia on The Navigator (1924 film)]]"]
 confidence: medium
 status: seed
 tags: [artist, film]

@@ -7,7 +7,7 @@ themes: [earth-systems, trade, science]
 date_start: -800
 date_precision: approx
 related: ["[[Scythians]]", "[[Opening of the Silk Roads]]", "[[Black Death]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Issyk-Kul]]", "[[Wikipedia on Black Death]]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: 1527
 date_end: 1598
 date_precision: year
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Philip II of Spain]]", "[[Wikipedia on Spanish Armada]]"]
 confidence: high
 status: seed
 tags: []

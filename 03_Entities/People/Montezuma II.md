@@ -8,7 +8,7 @@ date_start: 1466
 date_end: 1520
 date_precision: approx
 related: ["[[Aztec Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Moctezuma II]]", "[[Wikipedia on La Noche Triste]]"]
 confidence: high
 status: seed
 tags: []

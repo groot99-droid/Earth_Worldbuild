@@ -8,7 +8,7 @@ date_start: 1797
 date_end: 1858
 date_precision: year
 related: ["[[Katsushika Hokusai]]", "[[Tokugawa Shogunate]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Hiroshige]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

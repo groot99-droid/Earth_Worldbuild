@@ -8,7 +8,7 @@ date_start: 1502
 date_end: 1557
 date_precision: year
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on John III of Portugal]]"]
 confidence: high
 status: seed
 tags: []

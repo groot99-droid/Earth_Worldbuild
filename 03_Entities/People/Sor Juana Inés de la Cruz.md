@@ -8,7 +8,7 @@ date_start: 1648
 date_end: 1695
 date_precision: approx
 related: ["[[Spanish Conquest of the Aztec Empire]]", "[[Tenochtitlan]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Juana Inés de la Cruz]]"]
 confidence: medium
 status: seed
 tags: []

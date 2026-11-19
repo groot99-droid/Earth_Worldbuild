@@ -7,7 +7,7 @@ themes: [earth-systems, religion, trade]
 date_start: -1500
 date_precision: approx
 related: ["[[Vedic Period]]", "[[Maurya Empire]]", "[[Varanasi]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Ganges]]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: 1858
 date_end: 1919
 date_precision: year
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Theodore Roosevelt]]", "[[Wikipedia on Presidency of Theodore Roosevelt]]", "[[Wikipedia on Coal strike of 1902]]", "[[National Park Service Theodore Roosevelt and Conservation]]"]
 confidence: high
 status: seed
 tags: []

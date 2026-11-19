@@ -8,7 +8,7 @@ date_start: 1534
 date_end: 1557
 date_precision: approx
 related: ["[[Mapuche]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Lautaro]]", "[[Wikipedia on Battle of Mataquito]]", "[[Wikipedia on Battle of Tucapel]]"]
 confidence: high
 status: seed
 tags: []

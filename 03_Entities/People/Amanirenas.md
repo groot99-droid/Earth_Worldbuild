@@ -8,7 +8,7 @@ date_start: -40
 date_end: -10
 date_precision: approx
 related: ["[[Kingdom of Kush]]", "[[Augustus]]", "[[Romans]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Amanirenas]]", "[[Wikipedia on Roman relations with Nubia]]"]
 confidence: medium
 status: seed
 tags: []

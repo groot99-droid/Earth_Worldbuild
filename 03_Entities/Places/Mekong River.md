@@ -7,7 +7,7 @@ themes: [earth-systems, trade, technology]
 date_start: -210
 date_precision: approx
 related: ["[[Khmer Empire]]", "[[Angkor]]", "[[Cold War]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Mekong]]"]
 confidence: medium
 status: seed
 tags: []

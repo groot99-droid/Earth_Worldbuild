@@ -8,7 +8,7 @@ date_start: 1450
 date_end: 1516
 date_precision: approx
 related: ["[[Renaissance]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Hieronymus Bosch]]", "[[Wikipedia on Philip the Handsome]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

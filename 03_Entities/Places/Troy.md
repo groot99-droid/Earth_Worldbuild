@@ -7,7 +7,7 @@ themes: [war, art, language]
 date_start: -3000
 date_precision: approx
 related: ["[[Hittites]]", "[[Mycenaean Greeks]]", "[[Ancient Greeks]]", "[[Bronze Age Collapse]]", "[[Alexander's Conquests]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Troy]]"]
 confidence: medium
 status: seed
 tags: []

@@ -7,7 +7,7 @@ themes: [trade, war, religion]
 date_start: 1496
 date_precision: year
 related: ["[[Taino]]", "[[Columbian Exchange]]", "[[Atlantic Slave Trade]]", "[[Sugar Plantation Complex]]", "[[Hispaniola]]", "[[Spanish Conquest of the Aztec Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Santo Domingo]]", "[[Wikipedia on Real Audiencia of Santo Domingo]]"]
 confidence: medium
 status: seed
 tags: []

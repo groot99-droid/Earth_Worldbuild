@@ -8,7 +8,7 @@ date_start: 1519
 date_end: 1589
 date_precision: year
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Catherine de' Medici]]", "[[Wikipedia on St. Bartholomew's Day massacre]]"]
 confidence: high
 status: seed
 tags: []

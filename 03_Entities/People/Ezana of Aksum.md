@@ -8,7 +8,7 @@ date_start: 320
 date_end: 360
 date_precision: approx
 related: ["[[Kingdom of Aksum]]", "[[Kingdom of Kush]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Ezana of Axum]]", "[[Wikipedia on Ezana Stone]]", "[[Wikipedia on Frumentius]]"]
 confidence: medium
 status: seed
 tags: []

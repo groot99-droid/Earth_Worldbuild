@@ -7,7 +7,7 @@ themes: [science, trade, war]
 date_start: 762
 date_precision: year
 related: ["[[Abbasid Caliphate]]", "[[Translation Movement and the House of Wisdom]]", "[[Mongol Conquests]]", "[[Ottoman Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Wikipedia on Baghdad]]", "[[Wikipedia on Round City of Baghdad]]", "[[Wikipedia on Siege of Baghdad]]", "[[Wikipedia on Capture of Baghdad (1917)]]", "[[Wikipedia on Iraq Museum]]"]
 confidence: medium
 status: seed
 tags: []

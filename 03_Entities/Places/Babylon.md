@@ -7,7 +7,7 @@ themes: [science, war, religion]
 date_start: -2200
 date_precision: approx
 related: ["[[Neo-Assyrian Empire]]", "[[Achaemenid Persians]]", "[[Alexander's Conquests]]", "[[Jerusalem]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Babylon]]", "[[Wikipedia on Hanging Gardens of Babylon]]", "[[Wikipedia on Astronomical Diaries]]", "[[Wikipedia on Cyrus Cylinder]]"]
 confidence: medium
 status: seed
 tags: []

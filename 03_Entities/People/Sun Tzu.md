@@ -8,7 +8,7 @@ date_start: -544
 date_end: -496
 date_precision: approx
 related: ["[[Confucius]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Sun Tzu]]", "[[Wikipedia on The Art of War]]"]
 confidence: low
 status: seed
 tags: []

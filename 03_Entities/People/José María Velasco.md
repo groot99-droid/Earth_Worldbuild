@@ -8,7 +8,7 @@ date_start: 1840
 date_end: 1912
 date_precision: exact
 related: ["[[Teotihuacan]]", "[[Mexican Revolution]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on José María Velasco Gómez]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

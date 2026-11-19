@@ -8,7 +8,7 @@ date_start: 248
 date_end: 248
 date_precision: approx
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Lady Triệu]]"]
 confidence: medium
 status: seed
 tags: []

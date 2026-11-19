@@ -8,7 +8,7 @@ date_start: 1494
 date_end: 1566
 date_precision: year
 related: ["[[Ottoman Empire]]", "[[Mimar Sinan]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Suleiman the Magnificent]]", "[[Wikipedia on Ottoman–Safavid War (1532–1555)]]"]
 confidence: high
 status: seed
 tags: []

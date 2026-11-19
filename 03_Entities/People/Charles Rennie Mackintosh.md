@@ -8,7 +8,7 @@ date_start: 1868
 date_end: 1928
 date_precision: year
 related: []
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Charles Rennie Mackintosh]]", "[[Wikipedia on Glasgow School of Art]]"]
 confidence: medium
 status: seed
 tags: [artist, design, architecture]

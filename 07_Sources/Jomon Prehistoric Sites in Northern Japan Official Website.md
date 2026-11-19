@@ -13,6 +13,7 @@ source_kind: reference
 reliability: medium
 verified: true
 checked_on: 2026-09-20
+access: summary-only
 ---
 
 ## Citation

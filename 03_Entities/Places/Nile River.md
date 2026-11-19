@@ -7,7 +7,7 @@ themes: [earth-systems, trade, technology]
 date_start: -5500
 date_precision: approx
 related: ["[[Ancient Egyptians]]", "[[Unification of Egypt]]", "[[Kingdom of Kush]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Wikipedia on Nile]]", "[[Wikipedia on Aswan High Dam]]", "[[Wikipedia on Grand Ethiopian Renaissance Dam]]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: 1848
 date_end: 1934
 date_precision: exact
 related: ["[[Women's Suffrage Movements]]", "[[Maori]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Kate Sheppard]]", "[[Wikipedia on Women's suffrage in New Zealand]]"]
 confidence: high
 status: seed
 tags: []

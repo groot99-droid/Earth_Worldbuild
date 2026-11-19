@@ -8,7 +8,7 @@ date_start: 1253
 date_end: 1325
 date_precision: year
 related: ["[[Delhi Sultanate]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Amir Khusrau]]"]
 confidence: medium
 status: seed
 tags: [artist, literature]

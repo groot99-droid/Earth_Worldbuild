@@ -8,7 +8,7 @@ date_start: 1901
 date_end: 1970
 date_precision: exact
 related: ["[[Decolonization]]", "[[Cold War]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Sukarno]]", "[[Wikipedia on Bandung Conference]]"]
 confidence: high
 status: seed
 tags: []

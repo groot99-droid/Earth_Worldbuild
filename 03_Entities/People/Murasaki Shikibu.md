@@ -8,7 +8,7 @@ date_start: 973
 date_end: 1014
 date_precision: approx
 related: []
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Murasaki Shikibu]]", "[[Wikipedia on The Tale of Genji]]"]
 confidence: medium
 status: seed
 tags: [artist, literature]

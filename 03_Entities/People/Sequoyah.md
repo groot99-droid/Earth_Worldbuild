@@ -8,7 +8,7 @@ date_start: 1770
 date_end: 1843
 date_precision: approx
 related: ["[[Invention of Writing]]", "[[Indian Removal and the Trail of Tears]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Sequoyah]]", "[[Wikipedia on Cherokee syllabary]]", "[[Wikipedia on Cherokee Phoenix]]"]
 confidence: medium
 status: seed
 tags: []

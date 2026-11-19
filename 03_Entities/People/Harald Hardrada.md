@@ -8,7 +8,7 @@ date_start: 1015
 date_end: 1066
 date_precision: approx
 related: ["[[Norse]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Harald Hardrada]]", "[[Wikipedia on Battle of Stamford Bridge]]"]
 confidence: high
 status: seed
 tags: []

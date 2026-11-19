@@ -8,7 +8,7 @@ date_start: 1848
 date_end: 1933
 date_precision: year
 related: ["[[Christopher Dresser]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Louis Comfort Tiffany]]", "[[Wikipedia on Clara Driscoll (glass designer)]]"]
 confidence: medium
 status: seed
 tags: [artist, design]

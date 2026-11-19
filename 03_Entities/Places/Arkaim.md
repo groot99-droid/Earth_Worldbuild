@@ -8,7 +8,7 @@ date_start: -2000
 date_end: -1700
 date_precision: approx
 related: ["[[Sintashta Culture]]", "[[Indo-European Language Spread]]"]
-sources: ["[[English Wikipedia]]"]
+sources: ["[[English Wikipedia]]", "[[Wikipedia on Arkaim]]", "[[Wikipedia on Sintashta culture]]"]
 confidence: medium
 status: seed
 tags: []

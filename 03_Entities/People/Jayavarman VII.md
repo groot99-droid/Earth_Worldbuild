@@ -8,7 +8,7 @@ date_start: 1122
 date_end: 1218
 date_precision: approx
 related: ["[[Khmer Empire]]", "[[Angkor]]", "[[Champa]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Jayavarman VII]]", "[[Wikipedia on Ta Prohm]]", "[[Wikipedia on Arogayasala]]"]
 confidence: medium
 status: seed
 tags: []

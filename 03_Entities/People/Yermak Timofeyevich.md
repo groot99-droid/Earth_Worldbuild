@@ -8,7 +8,7 @@ date_start: 1532
 date_end: 1585
 date_precision: approx
 related: ["[[Russian Expansion into Siberia]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Yermak Timofeyevich]]", "[[Wikipedia on Conquest of the Khanate of Sibir]]"]
 confidence: medium
 status: seed
 tags: []

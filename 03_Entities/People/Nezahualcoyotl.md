@@ -8,7 +8,7 @@ date_start: 1402
 date_end: 1472
 date_precision: year
 related: ["[[Aztec Empire]]", "[[Tenochtitlan]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Nezahualcoyotl (tlatoani)]]"]
 confidence: medium
 status: seed
 tags: []

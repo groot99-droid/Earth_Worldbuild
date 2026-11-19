@@ -8,7 +8,7 @@ date_start: 1932
 date_end: 1957
 date_precision: approx
 related: ["[[Russian Revolution]]", "[[Russian Expansion into Siberia]]", "[[Collapse of the Soviet Union]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Dalstroy]]", "[[Wikipedia on Kolyma]]", "[[Wikipedia on Mask of Sorrow]]"]
 confidence: medium
 status: seed
 tags: []

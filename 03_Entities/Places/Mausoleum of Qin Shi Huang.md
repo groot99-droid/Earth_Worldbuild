@@ -7,7 +7,7 @@ themes: [war, art, religion]
 date_start: -246
 date_precision: approx
 related: ["[[Unification of China under Qin]]", "[[Han Dynasty]]", "[[Great Wall of China]]"]
-sources: ["[[UNESCO World Heritage Centre]]", "[[Encyclopaedia Britannica]]"]
+sources: ["[[UNESCO World Heritage Centre]]", "[[Encyclopaedia Britannica]]", "[[Wikipedia on Mausoleum of the First Qin Emperor]]", "[[Wikipedia on Qin Shi Huang]]", "[[Wikipedia on Terracotta Army]]"]
 confidence: medium
 status: seed
 tags: []

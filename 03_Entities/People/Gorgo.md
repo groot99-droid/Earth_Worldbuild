@@ -8,7 +8,7 @@ date_start: -518
 date_end: -480
 date_precision: approx
 related: ["[[Ancient Greeks]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Gorgo, Queen of Sparta]]", "[[Wikipedia on Leonidas I]]"]
 confidence: medium
 status: seed
 tags: []

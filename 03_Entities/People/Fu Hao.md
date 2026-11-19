@@ -8,7 +8,7 @@ date_start: -1250
 date_end: -1200
 date_precision: approx
 related: ["[[Shang Dynasty]]", "[[Bronze Metallurgy]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Fu Hao]]", "[[Wikipedia on Wu Ding]]", "[[Wikipedia on Tomb of Fu Hao]]"]
 confidence: medium
 status: seed
 tags: []

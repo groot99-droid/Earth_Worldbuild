@@ -8,7 +8,7 @@ date_start: 1861
 date_end: 1938
 date_precision: year
 related: ["[[Lumière Brothers]]", "[[World War I]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Georges Méliès]]"]
 confidence: medium
 status: seed
 tags: [artist, film]

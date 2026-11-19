@@ -7,7 +7,7 @@ themes: [earth-systems, science]
 date_start: -5000
 date_precision: approx
 related: ["[[Russian Expansion into Siberia]]", "[[Mal'ta and the Ancient North Eurasians]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Lake Baikal]]"]
 confidence: medium
 status: seed
 tags: []

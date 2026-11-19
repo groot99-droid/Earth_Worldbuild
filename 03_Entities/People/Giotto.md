@@ -8,7 +8,7 @@ date_start: 1267
 date_end: 1337
 date_precision: approx
 related: ["[[Renaissance]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Giotto]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

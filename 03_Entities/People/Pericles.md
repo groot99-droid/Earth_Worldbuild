@@ -8,7 +8,7 @@ date_start: -495
 date_end: -429
 date_precision: approx
 related: ["[[Ancient Greeks]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Pericles]]"]
 confidence: high
 status: seed
 tags: []

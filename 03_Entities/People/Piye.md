@@ -8,7 +8,7 @@ date_start: -744
 date_end: -714
 date_precision: approx
 related: ["[[Kingdom of Kush]]", "[[Ancient Egyptians]]", "[[Neo-Assyrian Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Piye]]", "[[Wikipedia on Stele of Piye]]", "[[Wikipedia on Twenty-fifth Dynasty of Egypt]]"]
 confidence: medium
 status: seed
 tags: []

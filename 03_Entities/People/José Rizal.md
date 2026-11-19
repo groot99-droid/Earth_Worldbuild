@@ -8,7 +8,7 @@ date_start: 1861
 date_end: 1896
 date_precision: exact
 related: ["[[Manila Galleon Trade]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on José Rizal]]", "[[Wikipedia on Noli Me Tángere (novel)]]", "[[Wikipedia on Philippine Revolution]]"]
 confidence: high
 status: seed
 tags: []

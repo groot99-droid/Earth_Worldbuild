@@ -8,7 +8,7 @@ date_start: 1464
 date_end: 1492
 date_precision: approx
 related: ["[[Songhai Empire]]", "[[Mali Empire]]", "[[Timbuktu]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Sonni Ali]]", "[[Wikipedia on Songhai Empire]]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: 1822
 date_end: 1913
 date_precision: approx
 related: ["[[American Civil War]]", "[[Abolition of Slavery]]", "[[Women's Suffrage Movements]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Harriet Tubman]]", "[[Wikipedia on Raid on Combahee Ferry]]"]
 confidence: high
 status: seed
 tags: []

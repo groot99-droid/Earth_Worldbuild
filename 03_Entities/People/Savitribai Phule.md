@@ -8,7 +8,7 @@ date_start: 1831
 date_end: 1897
 date_precision: exact
 related: ["[[British Raj]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Savitribai Phule]]", "[[Britannica on Savitribai Phule]]"]
 confidence: high
 status: seed
 tags: []

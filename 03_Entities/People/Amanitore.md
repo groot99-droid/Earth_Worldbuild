@@ -8,7 +8,7 @@ date_start: 1
 date_end: 25
 date_precision: approx
 related: ["[[Kingdom of Kush]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Amanitore]]", "[[Wikipedia on Natakamani]]"]
 confidence: medium
 status: seed
 tags: []

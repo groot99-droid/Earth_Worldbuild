@@ -8,7 +8,7 @@ date_start: -3300
 date_end: -1900
 date_precision: approx
 related: ["[[Indus Valley Civilization]]", "[[Mohenjo-daro]]", "[[The Urban Revolution]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Ancient Civilizations (Scarre and Fagan)]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Ancient Civilizations (Scarre and Fagan)]]", "[[Wikipedia on Harappa]]", "[[Wikipedia on Indus Valley Civilisation]]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: -1500
 date_end: -1070
 date_precision: approx
 related: ["[[Ancient Egyptians]]", "[[Karnak]]", "[[Giza Necropolis]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Valley of the Kings]]", "[[Wikipedia on Deir el-Medina]]"]
 confidence: medium
 status: seed
 tags: []

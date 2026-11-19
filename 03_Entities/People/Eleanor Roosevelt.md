@@ -8,7 +8,7 @@ date_start: 1884
 date_end: 1962
 date_precision: exact
 related: ["[[World War II]]", "[[Cold War]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Eleanor Roosevelt]]"]
 confidence: high
 status: seed
 tags: []

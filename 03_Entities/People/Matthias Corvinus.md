@@ -8,7 +8,7 @@ date_start: 1443
 date_end: 1490
 date_precision: year
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Matthias Corvinus]]", "[[Wikipedia on Black Army of Hungary]]", "[[Wikipedia on Bibliotheca Corviniana]]"]
 confidence: high
 status: seed
 tags: []

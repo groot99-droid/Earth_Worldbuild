@@ -8,7 +8,7 @@ date_start: -54
 date_end: -53
 date_precision: approx
 related: ["[[Romans]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Ambiorix]]", "[[Wikipedia on Eburones]]"]
 confidence: medium
 status: seed
 tags: []

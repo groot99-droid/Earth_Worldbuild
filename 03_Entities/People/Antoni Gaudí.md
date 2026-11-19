@@ -8,7 +8,7 @@ date_start: 1852
 date_end: 1926
 date_precision: exact
 related: []
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Antoni Gaudí]]", "[[Wikipedia on Sagrada Família]]"]
 confidence: medium
 status: seed
 tags: [artist, architecture]

@@ -8,7 +8,7 @@ date_start: 1672
 date_end: 1725
 date_precision: year
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Peter the Great]]", "[[Wikipedia on Great Northern War]]"]
 confidence: high
 status: seed
 tags: []

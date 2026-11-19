@@ -8,7 +8,7 @@ date_start: 1913
 date_end: 1941
 date_precision: year
 related: []
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Amrita Sher-Gil]]", "[[Wikipedia on Three Girls (painting)]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

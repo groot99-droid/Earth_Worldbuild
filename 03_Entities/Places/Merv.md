@@ -8,7 +8,7 @@ date_start: -500
 date_end: 1221
 date_precision: approx
 related: ["[[Achaemenid Persians]]", "[[Abbasid Caliphate]]", "[[Mongol Conquests]]", "[[Opening of the Silk Roads]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Merv]]", "[[Wikipedia on Abbasid Revolution]]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: 1455
 date_end: 1535
 date_precision: approx
 related: ["[[Timurid Empire]]", "[[Safavid Empire]]", "[[Timur]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Kamāl ud-Dīn Behzād]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

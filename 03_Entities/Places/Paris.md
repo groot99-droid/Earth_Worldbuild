@@ -7,7 +7,7 @@ themes: [science, art, war]
 date_start: -250
 date_precision: approx
 related: ["[[French Revolution]]", "[[Enlightenment]]", "[[Romans]]", "[[Holocaust]]", "[[World War II]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on History of Paris]]", "[[Wikipedia on Paris Commune]]", "[[Wikipedia on Paris]]"]
 confidence: medium
 status: seed
 tags: []

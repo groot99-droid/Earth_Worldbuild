@@ -7,7 +7,7 @@ themes: [trade, technology, religion]
 date_start: -800
 date_precision: approx
 related: ["[[Kingdom of Saba]]", "[[Incense Trade]]", "[[Rise of Islam]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Wikipedia on Marib]]", "[[Wikipedia on Marib Dam]]"]
 confidence: medium
 status: seed
 tags: []

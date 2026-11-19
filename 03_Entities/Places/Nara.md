@@ -8,7 +8,7 @@ date_start: 710
 date_end: 784
 date_precision: year
 related: ["[[Chang'an]]", "[[Tang Dynasty]]", "[[Kyoto]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Nara period]]", "[[Wikipedia on Nara, Nara]]", "[[Wikipedia on 735–737 Japanese smallpox epidemic]]", "[[Wikipedia on Tōdai-ji]]"]
 confidence: medium
 status: seed
 tags: []

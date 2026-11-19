@@ -7,7 +7,7 @@ themes: [art, war, religion]
 date_start: -550
 date_precision: approx
 related: ["[[Achaemenid Persians]]", "[[Persepolis]]", "[[Alexander's Conquests]]", "[[Babylon]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Pasargadae]]", "[[Wikipedia on Tomb of Cyrus]]"]
 confidence: medium
 status: seed
 tags: []

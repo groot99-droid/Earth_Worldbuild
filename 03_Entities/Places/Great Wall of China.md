@@ -7,7 +7,7 @@ themes: [war, technology, trade]
 date_start: -700
 date_precision: approx
 related: ["[[Unification of China under Qin]]", "[[Han Dynasty]]", "[[Xiongnu]]", "[[Ming Dynasty]]", "[[Opening of the Silk Roads]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]", "[[Wikipedia on Great Wall of China]]", "[[Wikipedia on Ming Great Wall]]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: 1825
 date_end: 1891
 date_precision: year
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Pedro II of Brazil]]", "[[Wikipedia on Paraguayan War]]"]
 confidence: high
 status: seed
 tags: []

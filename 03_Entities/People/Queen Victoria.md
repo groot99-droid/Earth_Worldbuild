@@ -8,7 +8,7 @@ date_start: 1819
 date_end: 1901
 date_precision: year
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Queen Victoria]]"]
 confidence: high
 status: seed
 tags: []

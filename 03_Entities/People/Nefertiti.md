@@ -8,7 +8,7 @@ date_start: -1370
 date_end: -1330
 date_precision: approx
 related: ["[[Akhenaten]]", "[[Ancient Egyptians]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Nefertiti]]", "[[Wikipedia on Nefertiti Bust]]"]
 confidence: medium
 status: seed
 tags: []

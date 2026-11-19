@@ -8,7 +8,7 @@ date_start: 1571
 date_end: 1610
 date_precision: year
 related: ["[[Artemisia Gentileschi]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Caravaggio]]", "[[Wikipedia on Roberto Longhi]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

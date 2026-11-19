@@ -8,7 +8,7 @@ date_start: 1251
 date_end: 1284
 date_precision: year
 related: ["[[Mongol Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Hōjō Tokimune]]", "[[Wikipedia on Mongol invasions of Japan]]", "[[Wikipedia on Engaku-ji]]"]
 confidence: high
 status: seed
 tags: []

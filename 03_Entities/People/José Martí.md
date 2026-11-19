@@ -8,7 +8,7 @@ date_start: 1853
 date_end: 1895
 date_precision: exact
 related: ["[[Latin American Wars of Independence]]", "[[Simón Bolívar]]", "[[Abolition of Slavery]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on José Martí]]"]
 confidence: high
 status: seed
 tags: []

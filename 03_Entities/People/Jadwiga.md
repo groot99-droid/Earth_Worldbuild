@@ -8,7 +8,7 @@ date_start: 1373
 date_end: 1399
 date_precision: approx
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Jadwiga of Poland]]", "[[Wikipedia on Jagiellonian University]]"]
 confidence: high
 status: seed
 tags: []

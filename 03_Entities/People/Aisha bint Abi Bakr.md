@@ -8,7 +8,7 @@ date_start: 614
 date_end: 678
 date_precision: approx
 related: ["[[Muhammad]]", "[[Khadija bint Khuwaylid]]", "[[Rise of Islam]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Aisha]]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: 1525
 date_end: 1569
 date_precision: approx
 related: ["[[Renaissance]]", "[[Hieronymus Bosch]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Pieter Bruegel the Elder]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

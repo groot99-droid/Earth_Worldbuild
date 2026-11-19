@@ -8,7 +8,7 @@ date_start: 603
 date_end: 683
 date_precision: year
 related: ["[[Maya]]", "[[Classic Maya Collapse]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on K'inich Janaab' Pakal]]", "[[Ancient Americas on the Oval Palace Tablet]]", "[[Wikipedia on Palenque]]", "[[Wikipedia on Alberto Ruz Lhuillier]]", "[[Wikipedia on K'inich Kan Bahlam II]]"]
 confidence: high
 status: seed
 tags: []

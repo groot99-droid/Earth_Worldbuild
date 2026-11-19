@@ -8,7 +8,7 @@ date_start: 1593
 date_end: 1654
 date_precision: approx
 related: ["[[Caravaggio]]", "[[Sofonisba Anguissola]]", "[[Galileo Galilei]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Artemisia Gentileschi]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

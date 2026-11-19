@@ -8,7 +8,7 @@ date_start: 1160
 date_end: 1213
 date_precision: approx
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Tamar of Georgia]]"]
 confidence: high
 status: seed
 tags: []

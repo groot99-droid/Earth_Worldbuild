@@ -8,7 +8,7 @@ date_start: 1577
 date_end: 1645
 date_precision: year
 related: ["[[Mughal Empire]]", "[[Taj Mahal]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Nur Jahan]]"]
 confidence: high
 status: seed
 tags: []

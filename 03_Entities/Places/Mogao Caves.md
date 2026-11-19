@@ -7,7 +7,7 @@ themes: [religion, art, language]
 date_start: 366
 date_precision: approx
 related: ["[[Opening of the Silk Roads]]", "[[Tang Dynasty]]", "[[Han Dynasty]]", "[[Sogdians]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Mogao Caves]]", "[[Wikipedia on Dunhuang]]"]
 confidence: medium
 status: seed
 tags: []

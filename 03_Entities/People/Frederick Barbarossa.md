@@ -8,7 +8,7 @@ date_start: 1122
 date_end: 1190
 date_precision: approx
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Frederick Barbarossa]]"]
 confidence: high
 status: seed
 tags: []

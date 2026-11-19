@@ -8,7 +8,7 @@ date_start: 1944
 date_end: 1988
 date_precision: exact
 related: ["[[Great Acceleration]]", "[[Amazonian Urbanism and Dark Earths]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Chico Mendes]]", "[[Global Nonviolent Action Database on the Brazilian Rubber Tappers Campaign]]", "[[Wikipedia on Chico Mendes Extractive Reserve]]"]
 confidence: high
 status: seed
 tags: []

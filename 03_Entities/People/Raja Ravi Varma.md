@@ -8,7 +8,7 @@ date_start: 1848
 date_end: 1906
 date_precision: exact
 related: ["[[British Raj]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Raja Ravi Varma]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

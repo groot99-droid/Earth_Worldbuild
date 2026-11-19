@@ -8,7 +8,7 @@ date_start: 40
 date_end: 43
 date_precision: year
 related: ["[[Han Dynasty]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Trưng sisters' rebellion]]", "[[Wikipedia on Trưng sisters]]"]
 confidence: medium
 status: seed
 tags: []

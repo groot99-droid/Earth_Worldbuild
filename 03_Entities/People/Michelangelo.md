@@ -8,7 +8,7 @@ date_start: 1475
 date_end: 1564
 date_precision: exact
 related: ["[[Renaissance]]", "[[Giotto]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Michelangelo]]"]
 confidence: medium
 status: seed
 tags: [artist, sculpture, painting, architecture]

@@ -8,7 +8,7 @@ date_start: 1738
 date_end: 1781
 date_precision: year
 related: ["[[Inca Empire]]", "[[Spanish Conquest of the Inca Empire]]", "[[Age of Revolutions]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Rebellion of Túpac Amaru II]]", "[[Encyclopedia.com on Túpac Amaru (José Gabriel Condorcanqui)]]", "[[Wikipedia on Túpac Amaru II]]"]
 confidence: high
 status: seed
 tags: []

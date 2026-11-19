@@ -8,7 +8,7 @@ date_start: 1831
 date_end: 1890
 date_precision: approx
 related: ["[[Indian Removal and the Trail of Tears]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Sitting Bull]]", "[[Wikipedia on Battle of the Little Bighorn]]"]
 confidence: high
 status: seed
 tags: []

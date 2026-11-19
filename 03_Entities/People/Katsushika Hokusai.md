@@ -8,7 +8,7 @@ date_start: 1760
 date_end: 1849
 date_precision: year
 related: ["[[Tokugawa Shogunate]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Hokusai]]", "[[Wikipedia on The Great Wave off Kanagawa]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

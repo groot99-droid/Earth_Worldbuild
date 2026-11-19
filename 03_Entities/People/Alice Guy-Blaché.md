@@ -8,7 +8,7 @@ date_start: 1873
 date_end: 1968
 date_precision: year
 related: []
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Alice Guy-Blaché]]", "[[Wikipedia on Solax Studios]]"]
 confidence: medium
 status: seed
 tags: [artist, film]

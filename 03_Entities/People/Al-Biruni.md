@@ -8,7 +8,7 @@ date_start: 973
 date_end: 1048
 date_precision: approx
 related: ["[[Ibn Sina]]", "[[Al-Khwarizmi]]", "[[Zero and Place-Value Notation]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Al-Biruni]]"]
 confidence: high
 status: seed
 tags: []

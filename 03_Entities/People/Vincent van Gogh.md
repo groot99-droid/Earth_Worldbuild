@@ -8,7 +8,7 @@ date_start: 1853
 date_end: 1890
 date_precision: exact
 related: ["[[Utagawa Hiroshige]]", "[[Katsushika Hokusai]]", "[[Rembrandt van Rijn]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Vincent van Gogh]]", "[[Wikipedia on Theo van Gogh (art dealer)]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

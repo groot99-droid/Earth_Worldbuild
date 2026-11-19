@@ -8,7 +8,7 @@ date_start: 1626
 date_end: 1689
 date_precision: year
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Christina, Queen of Sweden]]"]
 confidence: high
 status: seed
 tags: []

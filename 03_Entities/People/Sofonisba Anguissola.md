@@ -8,7 +8,7 @@ date_start: 1532
 date_end: 1629
 date_precision: approx
 related: ["[[Renaissance]]", "[[Michelangelo]]", "[[Artemisia Gentileschi]]", "[[Caravaggio]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Sofonisba Anguissola]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

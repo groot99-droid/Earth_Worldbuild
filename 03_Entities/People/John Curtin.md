@@ -8,7 +8,7 @@ date_start: 1885
 date_end: 1945
 date_precision: year
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on John Curtin]]"]
 confidence: high
 status: seed
 tags: []

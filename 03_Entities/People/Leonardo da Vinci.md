@@ -8,7 +8,7 @@ date_start: 1452
 date_end: 1519
 date_precision: exact
 related: ["[[Renaissance]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Leonardo da Vinci]]", "[[Wikipedia on Codex Leicester]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]
