@@ -10,7 +10,7 @@ Earth Chronicle is an Obsidian vault and retrieval (RAG) corpus covering the his
 
 ## What Exists
 <!-- AUTO:status-exists -->
-Counted on 2026-11-19 by `_RAG/tools/status_overview.py` (regenerate it; do not edit by hand). Earth Chronicle holds 1,664 notes, not counting this one, with about 354,000 words of body text and 6,680 wikilinks in note bodies (generated hub lists and timelines left out of both counts).
+Counted on 2026-11-19 by `_RAG/tools/status_overview.py` (regenerate it; do not edit by hand). Earth Chronicle holds 1,664 notes, not counting this one, with about 354,000 words of body text and 6,682 wikilinks in note bodies (generated hub lists and timelines left out of both counts).
 
 | Layer | Folder | Notes |
 |---|---|---|
