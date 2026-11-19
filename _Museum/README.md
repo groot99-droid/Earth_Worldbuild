@@ -21,7 +21,8 @@ scene is ever loaded: click a door and the room is built, the previous one dispo
 Three.js r160 is vendored in `web/vendor/three/` (MIT), with the Draco decoder the Smithsonian scans
 need, so the viewer needs no network access beyond its own files. The GitHub Pages deploy
 (`.github/workflows/deploy-pages.yml`, on every push to `main`) publishes the project root; the
-museum is live at `<pages-url>/_Museum/web/`.
+museum is live at `<pages-url>/_Museum/web/` (GitHub's default `<pages-url>` for this repository is
+`https://groot99-droid.github.io/Earth_Worldbuild`).
 
 ### Controls
 
@@ -161,7 +162,8 @@ node _Museum/tools/walk_test.mjs [--no-shots] [--grep name[,name]] [--out DIR] [
 ```
 
 Output (git-ignored): `_Museum/tools/out/report.json`, `view_*.png`, `feature_*.png`, `contact_sheet.png`.
-Playwright and Chromium are found at their usual places (`CHROMIUM=` overrides the browser).
+Playwright and Chromium are found at their usual places (`CHROMIUM=` overrides the browser). Last run: 45 of 45
+checks passed on 2026-11-19 (Linux, headless Chromium, `--no-shots`).
 
 ## Adding things
 
@@ -178,12 +180,23 @@ Playwright and Chromium are found at their usual places (`CHROMIUM=` overrides t
 Placard descriptions are shown as an AI rewrite in one of the creative-writing tool's four voices
 (`data/placard-rewrite.json`, labelled on the placard). It is an overlay: `museum-manifest.json` keeps
 the original text. It lives in `_Rewrite/` (see its README); `build_manifest.py` republishes it after
-each build and prints how many placards are waiting for the `chronicle-rewriter` agent.
+each build and prints how many placards are waiting for the `chronicle-rewriter` agent. As of 2026-11-19 the 299
+Art-Talk placards are rewritten and the 387 People-wing portraits are not yet (`_Rewrite/HANDOFF.md`).
+
+## The Writing Museum, a copy in Pipelines-Plugin
+
+The author's main repository, `groot99-droid/Pipelines-Plugin`, has a second museum built on this one: `writing-museum/`,
+a walkable museum of its creative-writing vault, one room per work with the work's passages hung as text panels. Its
+`web/` viewer was copied from `_Museum/web/` on 2026-09-30; its `build/layout.py` is this museum's `build_layout.py` (style
+from a scene spec, no props or models) and its `build/works.py` plays the part of `people_entries.py`. Nothing flows back
+automatically: a fix made in either copy has to be carried to the other by hand. Its README lists two fixes to its copy of
+`tools/walk_test.mjs` that are not in this one yet: the map-click test enters the museum before opening the floor plan,
+and it clicks the centre of a door's hit area rather than the first point the scan finds.
 
 ## Known limitations
 
 - Sizes for works without a stated size and without a Wikidata match are typical sizes for their type
   (the placard says "typical size"); `build_dimensions.py` keeps trying those online on each run.
 - The rooms' salon rows are sized by the packer; a room with very large works (Gallery C: the Night
-  Watch, Las Meninas) grows to 26 × 26 m and can feel sparse in the middle.
+  Watch, Las Meninas) grows to 28 × 28 m and can feel sparse in the middle.
 - Suggested-next is still the flat chronological order.
