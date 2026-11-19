@@ -9,7 +9,7 @@ date_end: 93
 date_precision: approx
 related: ["[[Han Dynasty]]", "[[Unification of China under Qin]]", "[[Mongol Empire]]"]
 sources: ["[[Cambridge World History]]", "[[Education About Asia on Han-Xiongnu Relations]]"]
-fact_checks: ["2026-09-20: Confederation under Modu 209 BCE; Baideng 200 BCE; heqin policy; split about 51 BCE; northern Xiongnu defeated 89-93 CE [Education About Asia on Han-Xiongnu Relations]"]
+fact_checks: ["2026-11-19: The Xiongnu confederacy formed in 209 BCE, and the first major clash with Han came when Liu Bang led an army north in 200 BCE; the Han and Xiongnu agreed the heqin ('Peace and Family Relations') treaty system [Education About Asia on Han-Xiongnu Relations]"]
 confidence: medium
 status: seed
 tags: []

@@ -12,8 +12,10 @@ url: "https://www.nationalgeographic.com/science/article/why-mount-everest-can-g
 source_kind: reference
 reliability: medium
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -23,4 +25,4 @@ National Geographic. 'Why Mount Everest keeps changing its height.'
 India-Asia collision beginning about 50-55 Ma.
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from nationalgeographic.com fetched directly (6,893 characters).

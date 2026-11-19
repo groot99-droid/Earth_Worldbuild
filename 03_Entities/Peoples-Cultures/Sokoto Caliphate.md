@@ -8,8 +8,8 @@ date_start: 1804
 date_end: 1903
 date_precision: year
 related: ["[[Usman dan Fodio]]", "[[Songhai Empire]]", "[[Scramble for Africa]]"]
-sources: ["[[Cambridge World History]]", "[[BlackPast on the Sokoto Caliphate]]"]
-fact_checks: ["2026-09-20: Jihad from 21 February 1804 to 1808; by 1815 most of northern Nigeria; 10-20 million people by 1837 (some estimates); 1804-1903 [BlackPast on the Sokoto Caliphate]"]
+sources: ["[[Cambridge World History]]", "[[BlackPast on the Sokoto Caliphate]]", "[[Wikipedia on the Sokoto Caliphate]]"]
+fact_checks: ["2026-11-19: The Sokoto Caliphate was founded on 21 February 1804 (1804-1903); by 1808 it controlled Hausaland; by 1815 its conquests included most of northern Nigeria; by 1837 it had a population of 10-20 million [BlackPast on the Sokoto Caliphate; Wikipedia on the Sokoto Caliphate]"]
 confidence: high
 status: seed
 tags: []

@@ -6,8 +6,8 @@ date_start: 1760
 date_end: 1945
 date_precision: approx
 related: ["[[Early Modern Period]]", "[[Information Age]]"]
-sources: ["[[The Transformation of the World (Osterhammel)]]", "[[Cambridge World History]]", "[[UN World Population Milestones]]"]
-fact_checks: ["2026-09-20: World population about 1 billion around 1804 [UN World Population Milestones]"]
+sources: ["[[The Transformation of the World (Osterhammel)]]", "[[Cambridge World History]]", "[[UN World Population Milestones]]", "[[Wikipedia on World Population]]"]
+fact_checks: ["2026-11-19: The UN estimated that the world population first reached one billion in 1804 [Wikipedia on World Population]"]
 confidence: high
 status: seed
 tags: []

@@ -7,8 +7,8 @@ themes: [art, religion, language]
 date_start: -100000
 date_precision: approx
 related: ["[[Paleolithic]]", "[[Homo sapiens]]", "[[Homo neanderthalensis]]"]
-sources: ["[[The Human Career (Klein)]]", "[[The Dawn of Everything (Graeber and Wengrow)]]", "[[Brumm et al. 2021 Sulawesi Warty Pig Painting]]", "[[Oktaviana et al. 2024 Sulawesi Narrative Cave Art]]", "[[Henshilwood et al. 2009 Blombos Engraved Ochres]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: Sulawesi warty pig at least 45.5 ka; narrative art 51.2 ka; Blombos ochre 75-100 ka; Chauvet about 36 ka; Lascaux about 17 ka [Brumm et al. 2021 Sulawesi Warty Pig Painting; Oktaviana et al. 2024 Sulawesi Narrative Cave Art; Henshilwood et al. 2009 Blombos Engraved Ochres; World History Encyclopedia]"]
+sources: ["[[The Human Career (Klein)]]", "[[The Dawn of Everything (Graeber and Wengrow)]]", "[[Brumm et al. 2021 Sulawesi Warty Pig Painting]]", "[[Oktaviana et al. 2024 Sulawesi Narrative Cave Art]]", "[[Henshilwood et al. 2009 Blombos Engraved Ochres]]", "[[World History Encyclopedia]]", "[[LSCE on Chauvet Cave Radiocarbon Dating]]"]
+fact_checks: ["2026-11-19: Sulawesi warty pig painting at least 45.5 ka; narrative art 51.2 ka; Blombos engraved ochres 75-100 ka; the Chauvet Cave's early Aurignacian phase 37,000-34,000 years ago [Brumm et al. 2021 Sulawesi Warty Pig Painting; Oktaviana et al. 2024 Sulawesi Narrative Cave Art; Henshilwood et al. 2009 Blombos Engraved Ochres; LSCE on Chauvet Cave Radiocarbon Dating]"]
 confidence: medium
 status: seed
 tags: []

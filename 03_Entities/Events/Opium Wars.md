@@ -9,7 +9,7 @@ date_end: 1860
 date_precision: year
 related: ["[[Qing Dynasty]]", "[[Taiping Rebellion]]", "[[Industrial Revolution]]"]
 sources: ["[[Cambridge World History]]", "[[UK National Archives on Hong Kong and the Opium Wars]]"]
-fact_checks: ["2026-09-20: Treaty of Nanking: Hong Kong and five ports; Convention of Beijing 1860: Kowloon, legations in Beijing, opium legalized [UK National Archives on Hong Kong and the Opium Wars]"]
+fact_checks: ["2026-11-19: Under the Treaty of Nanking the Emperor of China ceded the island of Hong Kong to Britain in perpetuity, and a later lease granted Britain the territory above Kowloon (the New Territories) for 99 years [UK National Archives on Hong Kong and the Opium Wars]"]
 confidence: high
 status: seed
 tags: []

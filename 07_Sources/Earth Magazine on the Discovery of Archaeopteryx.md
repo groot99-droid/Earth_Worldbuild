@@ -12,8 +12,10 @@ url: "https://www.earthmagazine.org/article/benchmarks-september-30-1861-archaeo
 source_kind: reference
 reliability: medium
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -23,4 +25,4 @@ Earth Magazine. 'Benchmarks: September 30, 1861: Archaeopteryx is discovered and
 1861 discovery of the feather and the London specimen skeleton in the Solnhofen limestone.
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from earthmagazine.org fetched directly (10,305 characters).

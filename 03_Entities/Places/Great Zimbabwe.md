@@ -8,8 +8,8 @@ date_start: 1100
 date_end: 1450
 date_precision: approx
 related: ["[[Bantu Expansion]]", "[[Sub-Saharan Africa]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
-fact_checks: ["2026-09-20: Great Enclosure outer wall about 11 m high [UNESCO World Heritage Centre; Encyclopaedia Britannica]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Great Zimbabwe]]"]
+fact_checks: ["2026-11-19: The Great Enclosure has walls as high as 11 m, extending approximately 250 m [Wikipedia on Great Zimbabwe]"]
 confidence: medium
 status: seed
 tags: []

@@ -14,6 +14,7 @@ reliability: medium
 verified: true
 checked_on: 2026-09-20
 access: summary-only
+access_route: "none: no readable copy could be obtained"
 ---
 
 ## Citation
@@ -23,4 +24,4 @@ Oxford Research Encyclopedia of Environmental Science. 'Early History of Animal 
 Sheep and goats about 10,500 BP, cattle about 11,000-10,000 BP, pigs about 8,500-8,000 BP, and dogs 14,000 to 29,000 years ago in Eurasia.
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+On 2026-11-19 no readable copy could be obtained: oxfordre.com answered HTTP 403 to automated requests, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The only text seen earlier was search-result summaries.

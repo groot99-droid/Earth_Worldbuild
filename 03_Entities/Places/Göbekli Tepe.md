@@ -8,8 +8,8 @@ date_start: -9500
 date_end: -8000
 date_precision: approx
 related: ["[[The Agricultural Revolution]]", "[[Çatalhöyük]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]"]
-fact_checks: ["2026-09-20: Earliest structures 9500-9000 BCE; pillars up to 5.5 m; Klaus Schmidt led excavations from 1995; UNESCO 2018 [UNESCO World Heritage Centre; English Wikipedia]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]", "[[UNESCO on Gobekli Tepe]]"]
+fact_checks: ["2026-11-19: Göbekli Tepe's distinctive limestone T-shaped pillars are up to 5.50 m tall, and the site was inscribed on the World Heritage List in 2018 [UNESCO on Gobekli Tepe]"]
 confidence: medium
 status: seed
 tags: []

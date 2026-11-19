@@ -8,8 +8,8 @@ date_start: -1810
 date_end: -1750
 date_precision: approx
 related: ["[[Sumerians]]", "[[Invention of Writing]]", "[[Bronze Age]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: Reign 1792-1750 BCE; code of 282 laws about 1754 BCE; stele in the Louvre found 1901 [Encyclopaedia Britannica; World History Encyclopedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]", "[[Wikipedia on the Code of Hammurabi]]"]
+fact_checks: ["2026-11-19: Hammurabi, the sixth king of the Amorite First Dynasty of Babylon, ruled from around 1792 to around 1750 BC (middle chronology); the stele of his code, now in the Louvre, was rediscovered in 1901 at Susa [Wikipedia on the Code of Hammurabi]"]
 confidence: high
 status: seed
 tags: []

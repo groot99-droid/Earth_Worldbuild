@@ -9,7 +9,7 @@ date_end: 1600
 date_precision: approx
 related: ["[[Amazonian Urbanism and Dark Earths]]", "[[Columbian Exchange]]"]
 sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Scientific American on Xingu Garden Cities]]"]
-fact_checks: ["2026-09-20: About 28 settlements, up to about 50,000 people, c. 1200-1600 CE; ditches about 3 m deep, plazas about 150 m [Scientific American on Xingu Garden Cities]"]
+fact_checks: ["2026-11-19: The Xingu garden cities were surrounded by extensive ditches; the region's population was many times larger than today, perhaps numbering 30,000 to 50,000; the people began molding the forests and wetlands about 1,500 years ago or before [Scientific American on Xingu Garden Cities]"]
 confidence: medium
 status: seed
 tags: []

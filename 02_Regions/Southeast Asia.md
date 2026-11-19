@@ -3,8 +3,8 @@ title: "Southeast Asia"
 type: region
 themes: [trade, religion, art]
 related: ["[[South Asia]]", "[[East Asia]]", "[[Oceania]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]", "[[UNESCO World Heritage Centre]]", "[[Phys.org on Ancient DNA and the South Pacific]]"]
-fact_checks: ["2026-09-20: Khmer Empire founded 802; Angkor UNESCO 1992 [World History Encyclopedia; UNESCO World Heritage Centre]", "2026-09-20: Austronesian expansion from Taiwan about 5,500 years ago [Phys.org on Ancient DNA and the South Pacific]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]", "[[UNESCO World Heritage Centre]]", "[[Phys.org on Ancient DNA and the South Pacific]]", "[[UNESCO on Angkor]]"]
+fact_checks: ["2026-11-19: Angkor was inscribed on the World Heritage List in 1992 [UNESCO on Angkor]", "2026-09-20: Austronesian expansion from Taiwan about 5,500 years ago [Phys.org on Ancient DNA and the South Pacific]"]
 confidence: medium
 status: seed
 tags: []

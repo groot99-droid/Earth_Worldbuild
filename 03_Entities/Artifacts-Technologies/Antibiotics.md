@@ -7,8 +7,8 @@ themes: [science, technology]
 date_start: 1928
 date_precision: year
 related: ["[[Vaccination]]", "[[Black Death]]"]
-sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[NobelPrize.org]]"]
-fact_checks: ["2026-09-20: Nobel Prize in Physiology or Medicine 1945 to Fleming, Florey, Chain [NobelPrize.org]"]
+sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[NobelPrize.org]]", "[[NobelPrize.org on the 1945 Nobel Prize in Physiology or Medicine]]"]
+fact_checks: ["2026-11-19: The Nobel Prize in Physiology or Medicine 1945 was awarded jointly to Sir Alexander Fleming, Ernst Boris Chain and Sir Howard Walter Florey for the discovery of penicillin [NobelPrize.org on the 1945 Nobel Prize in Physiology or Medicine]"]
 confidence: high
 status: seed
 tags: []

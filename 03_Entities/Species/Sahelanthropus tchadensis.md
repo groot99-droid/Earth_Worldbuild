@@ -7,8 +7,8 @@ themes: [earth-systems, science]
 date_start: -7000000
 date_precision: approx
 related: ["[[Divergence of the Hominin Lineage]]", "[[Australopithecus afarensis]]"]
-sources: ["[[The Human Career (Klein)]]", "[[Smithsonian Human Origins Program]]"]
-fact_checks: ["2026-09-20: Fossils including the Toumai skull found in 2001 in Chad; about 7-6 Ma [Smithsonian Human Origins Program]"]
+sources: ["[[The Human Career (Klein)]]", "[[Smithsonian Human Origins Program]]", "[[Wikipedia on Sahelanthropus]]"]
+fact_checks: ["2026-11-19: Sahelanthropus tchadensis, nicknamed Toumai, was discovered in the Djurab Desert of northern Chad in 2001 and is dated to about 7 to 6 million years ago [Wikipedia on Sahelanthropus]"]
 confidence: low
 status: seed
 tags: []

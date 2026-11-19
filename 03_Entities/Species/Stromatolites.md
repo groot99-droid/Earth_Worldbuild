@@ -8,7 +8,7 @@ date_start: -3480000000
 date_precision: deep-time
 related: ["[[Cyanobacteria]]", "[[Origin of Life]]", "[[Great Oxidation Event]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[Maps of Time (Christian)]]", "[[Natural History Museum on the Dresser Formation]]"]
-fact_checks: ["2026-09-20: Dresser Formation stromatolites of the Pilbara, Western Australia, are about 3.48 billion years old [Natural History Museum on the Dresser Formation]"]
+fact_checks: ["2026-11-19: Structures in 3.48-billion-year-old rocks of Western Australia's Dresser Formation are the oldest evidence of life on Earth [Natural History Museum on the Dresser Formation]"]
 confidence: medium
 status: seed
 tags: []

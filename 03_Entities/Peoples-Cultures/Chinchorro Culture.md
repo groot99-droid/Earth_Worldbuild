@@ -8,8 +8,8 @@ date_start: -5450
 date_end: -890
 date_precision: approx
 related: ["[[Why the Species Buries Its Dead]]", "[[Ancient Egyptians]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[UNESCO World Heritage Centre]]"]
-fact_checks: ["2026-09-20: Culture about 5450-890 BCE; mummification by about 5050 BCE for about 3,000 years; UNESCO 2021 [UNESCO World Heritage Centre]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[UNESCO World Heritage Centre]]", "[[UNESCO on Chinchorro Settlement and Artificial Mummification]]", "[[Wikipedia on the Chinchorro Mummies]]"]
+fact_checks: ["2026-11-19: The Chinchorro culture lived on the northern Atacama coast from approximately 5450 BCE to 890 BCE, deliberate mummification began by about 5050 BCE and the tradition continued about 3,000 years, and the site was inscribed in 2021 [UNESCO on Chinchorro Settlement and Artificial Mummification; Wikipedia on the Chinchorro Mummies]"]
 confidence: high
 status: seed
 tags: []

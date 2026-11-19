@@ -8,8 +8,8 @@ date_start: 1867
 date_end: 1934
 date_precision: year
 related: ["[[Albert Einstein]]", "[[Nuclear Fission]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[NobelPrize.org]]"]
-fact_checks: ["2026-09-20: Physics Nobel 1903 (shared with Pierre Curie and Becquerel); Chemistry Nobel 1911 [NobelPrize.org]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[NobelPrize.org]]", "[[NobelPrize.org on the 1903 Nobel Prize in Physics]]", "[[NobelPrize.org on the 1911 Nobel Prize in Chemistry]]"]
+fact_checks: ["2026-11-19: The 1903 Nobel Prize in Physics was divided between Antoine Henri Becquerel and, jointly, Pierre Curie and Marie Curie; the 1911 Nobel Prize in Chemistry was awarded to Marie Curie [NobelPrize.org on the 1903 Nobel Prize in Physics; NobelPrize.org on the 1911 Nobel Prize in Chemistry]"]
 confidence: high
 status: seed
 tags: []

@@ -12,8 +12,10 @@ url: "https://whc.unesco.org/en/list/887/"
 source_kind: reference
 reliability: medium
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -23,4 +25,4 @@ UNESCO World Heritage Centre. 'Kuk Early Agricultural Site' (list no. 887).
 2008 inscription, 7,000 (possibly 10,000) years of wetland cultivation, taro and yam, and banana cultivation about 4,000 years ago.
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from whc.unesco.org fetched directly (12,317 characters).

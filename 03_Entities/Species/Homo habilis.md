@@ -8,8 +8,8 @@ date_start: -2400000
 date_end: -1400000
 date_precision: approx
 related: ["[[Oldowan Stone Tools]]", "[[Homo erectus]]", "[[Australopithecus afarensis]]"]
-sources: ["[[The Human Career (Klein)]]", "[[Smithsonian Human Origins Program]]"]
-fact_checks: ["2026-09-20: Named 1964 from Olduvai; lived about 2.3-1.5 (or 2.4-1.4) Ma [Smithsonian Human Origins Program]"]
+sources: ["[[The Human Career (Klein)]]", "[[Smithsonian Human Origins Program]]", "[[Wikipedia on Homo habilis]]"]
+fact_checks: ["2026-11-19: Homo habilis was described in 1964 by Leakey et al. and lived from about 2.4 to 1.65 million years ago; its type material came from Olduvai Gorge [Wikipedia on Homo habilis]"]
 confidence: medium
 status: seed
 tags: []

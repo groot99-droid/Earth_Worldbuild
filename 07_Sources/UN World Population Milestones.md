@@ -12,14 +12,17 @@ url: "https://www.un.org/en/desa/world-population-reach-8-billion-15-november-20
 source_kind: reference
 reliability: high
 verified: true
-checked_on: 2026-09-20
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
 United Nations DESA. 'World population to reach 8 billion on 15 November 2022.'
 
 ## What It Is Used For
-The symbolic date of 8 billion and the one-billion milestone around 1804.
+The UN projection that world population would reach 8 billion on 15 November 2022 (the page does not give the one-billion milestone of 1804).
 
 ## Caveats
-Consulted via web search results on 2026-09-20; the page was not necessarily read in full. Re-verify before citing in print. The 8 billion date is a projection-based marker.
+Read in full on 2026-11-19 from un.org fetched directly (8,022 characters). The 8 billion date is a projection-based marker.

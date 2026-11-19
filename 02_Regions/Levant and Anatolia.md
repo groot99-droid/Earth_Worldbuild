@@ -3,8 +3,8 @@ title: "Levant and Anatolia"
 type: region
 themes: [religion, trade, language]
 related: ["[[Mesopotamia]]", "[[Nile Valley]]", "[[Mediterranean Basin]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]", "[[World History Encyclopedia on Carthage and Tyrian Purple]]"]
-fact_checks: ["2026-09-20: Gobekli Tepe earliest structures 9500-9000 BCE; Catalhoyuk UNESCO 2012 [UNESCO World Heritage Centre; English Wikipedia]", "2026-09-20: Phoenician 22-letter alphabet [World History Encyclopedia on Carthage and Tyrian Purple]", "2026-09-20: Constantinople fell on 29 May 1453 [Encyclopaedia Britannica; English Wikipedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]", "[[World History Encyclopedia on Carthage and Tyrian Purple]]", "[[Wikipedia on the Phoenician Alphabet]]", "[[UNESCO on Gobekli Tepe]]", "[[UNESCO on Catalhoyuk]]"]
+fact_checks: ["2026-11-19: Göbekli Tepe's distinctive limestone T-shaped pillars are up to 5.50 m tall, and Çatalhöyük was inscribed on the World Heritage List in 2012 [UNESCO on Gobekli Tepe; UNESCO on Catalhoyuk]", "2026-11-19: The Phoenician alphabet proper uses 22 consonant letters [Wikipedia on the Phoenician Alphabet]", "2026-09-20: Constantinople fell on 29 May 1453 [Encyclopaedia Britannica; English Wikipedia]"]
 confidence: high
 status: seed
 tags: []

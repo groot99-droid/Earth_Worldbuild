@@ -8,8 +8,8 @@ date_start: 1920
 date_end: 1958
 date_precision: year
 related: ["[[Genomic Revolution]]", "[[Marie Curie]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[NobelPrize.org]]", "[[English Wikipedia]]"]
-fact_checks: ["2026-09-20: Photo 51 taken 1952 with Gosling; died 16 April 1958 aged 37; Nobel 1962 to Watson, Crick, Wilkins [NobelPrize.org; Encyclopaedia Britannica; English Wikipedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[NobelPrize.org]]", "[[English Wikipedia]]", "[[NobelPrize.org on the 1962 Nobel Prize in Physiology or Medicine]]"]
+fact_checks: ["2026-11-19: The Nobel Prize in Physiology or Medicine 1962 was awarded jointly to Francis Crick, James Watson and Maurice Wilkins for their discoveries concerning the molecular structure of nucleic acids [NobelPrize.org on the 1962 Nobel Prize in Physiology or Medicine]"]
 confidence: high
 status: seed
 tags: []

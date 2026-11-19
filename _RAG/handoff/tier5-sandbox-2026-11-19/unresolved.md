@@ -1,0 +1,94 @@
+# Unresolved claims
+
+Claims that stay in a note although the page cited for them does not contain them. This file was started fresh on 2026-11-19 in a cloud sandbox; the Tier 1-4 sections are in the copy on the owner's machine.
+
+## Tier 5 (2026-11-19)
+- **Iron Age; Alphabet**: Proto-Sinaitic about 1800 BCE [cited to Wikipedia on the Phoenician Alphabet]
+- **Neolithic; The Agricultural Revolution**: Independent centers of agriculture in China, Mesoamerica and South America; the 'Southwest Asia' wording [cited to EBSCO on the Neolithic Revolution]
+- **Andes**: Potato domesticated in the Andes between about 8000 and 5000 BCE (check dropped; no source read supports it) [cited to EBSCO on the Neolithic Revolution]
+- **Andes; Machu Picchu**: Machu Picchu built about 1450 for Pachacuti; Bingham 1911 (the year is on the UNESCO page, Bingham is not) [cited to UNESCO on Machu Picchu]
+- **Göbekli Tepe; Neolithic; Levant and Anatolia**: Earliest structures 9500-9000 BCE; Klaus Schmidt led excavations from 1995 [cited to UNESCO on Gobekli Tepe]
+- **Classical Antiquity; Maurya Empire**: Maurya Empire 322 BCE start; Pataliputra as capital; Ashoka reigned about 268-232 BCE [cited to National Geographic on the Mauryan Empire]
+- **Information Age**: World population about 2.5 billion in 1950 (check dropped; the UN page and Wikipedia on World Population do not give it) [cited to UN World Population Milestones]
+- **Central Asian Steppe; Indo-European Language Spread**: Proto-Indo-Anatolian community about 4400-4000 BCE (the Harvard Gazette page says about 6,500 years ago) [cited to Lazaridis et al. 2025 Indo-European Origins]
+- **Indo-European Language Spread**: Roughly 40 to 46 percent of the world's population (Wikipedia says 42 percent, Lazaridis more than 40 percent) [cited to Wikipedia on Indo-European Languages]
+- **Europe; Norse**: Lindisfarne raid on 7 June 793; Greenland settlement about 985; Iceland settlement 870-930 [cited to Kuitems et al. 2021 L'Anse aux Meadows Dating]
+- **Sub-Saharan Africa; Timbuktu**: Timbuktu about 700,000 manuscripts [cited to UNESCO on Timbuktu]
+- **Scythians; Siberia and the Arctic**: Arzhan 1 (late 9th c. BCE) and Arzhan 2 (about 5,600 gold objects, cloak of about 2,500 gold panthers); the ice preservation of Arzhan [cited to Penn Museum on Herodotus and the Scythians]
+- **Emergence of Symbolic Art**: Lascaux about 17 ka and Chauvet about 36 ka (no page read in Tier 5 gives Lascaux) [cited to LSCE on Chauvet Cave Radiocarbon Dating]
+- **Rise of Islam**: Umayyad Caliphate 661-750, the conquest of Iberia about 711 and the Abbasid Caliphate 750-1258 (World History Encyclopedia not readable in this pass) [cited to Wikipedia on the Arab Conquest of Sindh]
+- **Treaty of Waitangi**: New Zealand Wars 1845-1872 [cited to Waitangi Tribunal on the Maori and English Texts]
+- **Age of Revolutions**: Northern Saint-Domingue as the site of the 1791 uprising [cited to Office of the Historian on the Haitian Revolution]
+- **Austronesian Expansion; Lapita Culture**: Lapita spread 1500-1000 BCE; more than 1,200 Austronesian languages; Madagascar settled in the first millennium CE; Vanuatu individuals 3,000-2,800 BP [cited to Phys.org on Ancient DNA and the South Pacific]
+- **Colonization of Land**: Carboniferous swamp forests about 360-300 Ma [cited to UCMP on the Carboniferous]
+- **COVID-19 Pandemic**: More than 7 million reported deaths (about 7.1 million by mid-2026) [cited to WHO COVID-19 Mortality Data]
+- **Decolonization**: Ghana independent 6 March 1957; 17 African states in 1960 [cited to United Nations Membership]
+- **Digital Revolution**: First ARPANET message on 29 October 1969 [cited to Web Origins Sources (ICANN, CERN)]
+- **Enlightenment**: The Wealth of Nations published 1776 [cited to Encyclopedia of the Enlightenment Works (Encyclopedie, Wealth of Nations)]
+- **First Fleet and the Colonization of Australia**: The move to Sydney Cove; smallpox epidemic April 1789; Mabo decision 3 June 1992 [cited to Museums of History NSW on the First Fleet]
+- **Holocaust**: About six million Jews murdered; Roma, disabled people and others also killed; Nuremberg Laws 1935 (the page names the laws without the year) [cited to USHMM Holocaust Encyclopedia on the Wannsee Conference]
+- **Indian Removal and the Trail of Tears**: The five nations named; Worcester v. Georgia 1832 not enforced; about 4,000 of 16,000 Cherokee in 1838-39 [cited to History.com on the Indian Removal Act]
+- **Opium Wars**: Treaty of Nanking: five ports; Convention of Beijing 1860 (Kowloon, legations, opium legalized) [cited to UK National Archives on Hong Kong and the Opium Wars]
+- **Vaccination**: Jenner 1796 [cited to WHO Smallpox Eradication]
+- **1918 Influenza Pandemic**: Death estimates from 17.4 million; virus reconstructed in 2005 [cited to CDC on the 1918 Influenza Pandemic]
+- **Hammurabi**: Code of 282 laws about 1754 BCE (the article does not state 282 laws or 1754 BCE in so many words) [cited to Wikipedia on the Code of Hammurabi]
+- **Ibn Battuta**: 73,000 miles (a conversion of 117,000 km) [cited to Wikipedia on Ibn Battuta]
+- **Jomon Culture**: Pottery about 16,000 years old [cited to Jomon Prehistoric Sites in Northern Japan Official Website]
+- **Marajoara Culture**: Mounds up to 20 m [cited to ORIAS on Ancient Marajó]
+- **Taino**: 70 percent lower bound of the population loss [cited to Smithsonian Magazine on the Taino]
+- **Xiongnu**: Split about 51 BCE; northern Xiongnu defeated 89-93 CE; the name Baideng [cited to Education About Asia on Han-Xiongnu Relations]
+- **Angkor**: UNESCO inscription on 14 December 1992 (the page gives the year) [cited to UNESCO on Angkor]
+- **Chauvet Cave**: Radiocarbon phases 37,000-33,500 and 31,000-28,000 (LSCE: 37,000-34,000 and 34,000-25,000); replica opened 2015 [cited to LSCE on Chauvet Cave Radiocarbon Dating]
+- **Jack Hills Zircons**: Oldest zircon 4.404 Ga in the Narryer Terrane [cited to SERC on the Jack Hills Zircons]
+- **Jericho**: Plastered skulls from 1953; site about 250 m below sea level [cited to Durham University on Jericho]
+- **Potosi**: Population about 160,000 by 1650 [cited to Encyclopedia.com on Potosi]
+- **Poverty Point**: Mound A about 22 m [cited to UNESCO on Poverty Point]
+- **Xingu Garden Cities**: About 28 settlements; c. 1200-1600 CE; ditches about 3 m deep; plazas about 150 m [cited to Scientific American on Xingu Garden Cities]
+- **Homo erectus**: Average brain about 900 cc (Wikipedia gives about 1000 cc for some populations) [cited to Wikipedia on Homo erectus]
+- **Homo habilis**: Lived 2.3-1.5 (or 2.4-1.4) Ma (Wikipedia: 2.4 to 1.65 mya) [cited to Wikipedia on Homo habilis]
+- **Stromatolites**: Location in the Pilbara [cited to Natural History Museum on the Dresser Formation]
+- **Cixi**: The New Policies as a named programme [cited to EBSCO Research Starters on Cixi]
+- **Rachel Carson**: Silent Spring published in September 1962 (the EPA page gives the year 1962 only) [cited to US EPA History]
+- **Classical Antiquity**: Achaemenid Empire 550-330 BCE (Metropolitan Museum on the Achaemenid Persian Empire not readable in this pass) [cited to National Geographic on the Mauryan Empire]
+- **Southeast Asia**: Khmer Empire founded 802 (World History Encyclopedia on the Khmer Empire not readable in this pass) [cited to UNESCO on Angkor]
+- **Sub-Saharan Africa**: Ezana converted about 333 CE; Mali founded about 1235 (World History Encyclopedia not readable in this pass) [cited to Wikipedia on Great Zimbabwe]
+- **The Urban Revolution**: Uruk 40,000-80,000 people around 3100-2900 BCE [cited to Wikipedia on the Urban Revolution]
+- **Modern Climate Change**: About 1.1 C above 1850-1900 in 2011-2020 (IPCC AR6 Synthesis Report not readable in this pass) [cited to NOAA GML Global Annual Mean CO2 Data]
+- **Ancient Greeks; Athens**: Peloponnesian War 431-404 BCE (World History Encyclopedia on the Peloponnesian War not readable in this pass) [cited to Wikipedia on Cleisthenes]
+- **Nabataeans**: First recorded in 312 BCE; Petra as capital; Trajan annexed the kingdom in 106 CE (World History Encyclopedia on the Kingdom of Nabatea not readable in this pass) [cited to UNESCO on Al-Hijr Archaeological Site]
+- **Olmecs**: Olmec culture 1200-400 BCE; 'rubber people' as a later Nahuatl name; mother-culture status debated [cited to Wikipedia on the Olmec Colossal Heads]
+- **Phoenicians**: Tyre and Sidon; Carthage traditionally founded 814 BCE; murex purple dye (World History Encyclopedia on Carthage and Tyrian Purple not readable in this pass) [cited to Wikipedia on the Phoenician Alphabet]
+- **Borobudur**: Built in the 8th-9th centuries (the article says originally built in the 9th century) [cited to Wikipedia on Borobudur]
+- **Carthage**: Punic Wars 264-146 BCE; Hannibal crossed the Alps 218 BCE (World History Encyclopedia on the Punic Wars not readable in this pass) [cited to UNESCO on the Site of Carthage]
+- **Lapita Culture**: Lapita spread between 1500 and 1000 BCE; Vanuatu individuals 3,000-2,800 BP [cited to Phys.org on Ancient DNA and the South Pacific]
+- **Nuclear Fission**: Fission discovered December 1938; Chicago Pile-1 on 2 December 1942 (the check now cites only the 1944 prize page) [cited to NobelPrize.org on the 1944 Nobel Prize in Chemistry]
+- **Albert Einstein**: Letter to Roosevelt dated 2 August 1939 [cited to NobelPrize.org on the 1921 Nobel Prize in Physics]
+- **Rosalind Franklin**: Photo 51 taken 1952 with Gosling; died 16 April 1958 aged 37 [cited to NobelPrize.org on the 1962 Nobel Prize in Physiology or Medicine]
+
+### Tier 5 deferred: page not readable on 2026-11-19
+- **Bronze Age**: the check containing 'Mesopotamian writing about 3400-3200' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on Cuneiform, World History Encyclopedia on the Indus Valley Civilization, not readable on 2026-11-19
+- **Bronze Age**: the check containing 'Sea Peoples attack recorded about 1177' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on the Late Bronze Age Collapse, not readable on 2026-11-19
+- **Bronze Age Collapse**: the check containing 'Sea Peoples attack recorded in Ramesses' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on the Late Bronze Age Collapse, not readable on 2026-11-19
+- **Medieval Period**: the check containing 'Umayyad 661-750 and Abbasid' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on the Umayyad Dynasty, World History Encyclopedia on the Abbasid Caliphate, World History Encyclopedia on the Mali Empire, not readable on 2026-11-19
+- **Mesopotamia**: the check containing 'Cuneiform about 3400-3200' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on Cuneiform, World History Encyclopedia on Uruk, not readable on 2026-11-19
+- **Oceania**: the check containing 'Aotearoa settled 1250-1300' was left as it is; its Tier 5 rewrite cites Te Ara on Maori Arrival and Settlement, not readable on 2026-11-19
+- **Polynesian Settlement of the Pacific**: the check containing 'Aotearoa first settled 1250-1300' was left as it is; its Tier 5 rewrite cites Te Ara on Maori Arrival and Settlement, World History Encyclopedia on Polynesian Navigation, not readable on 2026-11-19
+- **South Asia**: the check containing 'Indus Valley mature phase 2600-1900' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on the Indus Valley Civilization, not readable on 2026-11-19
+- **Indus Valley Civilization**: the check containing 'Mature Harappan phase 2600-1900' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on the Indus Valley Civilization, not readable on 2026-11-19
+- **Invention of Writing**: the check containing 'Mesopotamia about 3400-3200' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on Cuneiform, World History Encyclopedia on Writing, not readable on 2026-11-19
+- **Mongol Conquests**: the check containing 'Empire about 24 million km2' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on the Abbasid Caliphate, not readable on 2026-11-19
+- **Classic Maya Collapse**: the check containing 'Last Long Count date at Tonina' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on the Classic Maya Collapse, not readable on 2026-11-19
+- **Protestant Reformation**: the check containing 'Theses of 31 October 1517' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on Martin Luther, not readable on 2026-11-19
+- **Akhenaten**: the check containing 'Reign about 1353-1336' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on Akhenaten, not readable on 2026-11-19
+- **Genghis Khan**: the check containing 'Proclaimed Great Khan 1206' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on Genghis Khan, not readable on 2026-11-19
+- **Pachacuti**: the check containing 'Sapa Inca 1438-1471/72' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on Pachacuti, not readable on 2026-11-19
+- **Siddhartha Gautama**: the check containing 'Traditional dates c. 563-483' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on Siddhartha Gautama, not readable on 2026-11-19
+- **Achaemenid Persians**: the check containing 'Empire 550-330 BCE from Anatolia' was left as it is; its Tier 5 rewrite cites Metropolitan Museum on the Achaemenid Persian Empire, not readable on 2026-11-19
+- **Aztec Empire**: the check containing 'Conquest by Spain 1519-1521' was left as it is; its Tier 5 rewrite cites Britannica on Hernan Cortes, World History Encyclopedia on the Aztec Empire, not readable on 2026-11-19
+- **Inca Empire**: the check containing 'Conquest under Pachacuti from 1438' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on the Inca Empire, World History Encyclopedia on Pachacuti, not readable on 2026-11-19
+- **Inuit and the Thule Expansion**: the check containing 'Thule culture emerged about 900' was left as it is; its Tier 5 rewrite cites Canadian Encyclopedia on the Thule Culture, not readable on 2026-11-19
+- **Kushan Empire**: the check containing 'Kujula Kadphises united the Yuezhi' was left as it is; its Tier 5 rewrite cites Metropolitan Museum on the Kushan Empire, not readable on 2026-11-19
+- **Mali Empire**: the check containing 'Founded after Kirina' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on the Mali Empire, not readable on 2026-11-19
+- **Maori**: the check containing 'Settlement about 1250-1300' was left as it is; its Tier 5 rewrite cites Te Ara on Maori Arrival and Settlement, not readable on 2026-11-19
+- **Swahili Coast City-States**: the check containing 'Ibn Battuta visited Kilwa 1331' was left as it is; its Tier 5 rewrite cites World History Encyclopedia on the Swahili Coast, not readable on 2026-11-19
+- **Yakut (Sakha)**: the check containing '2010 census 478,085 Sakha' was left as it is; its Tier 5 rewrite cites Minority Rights Group on the Sakha, not readable on 2026-11-19

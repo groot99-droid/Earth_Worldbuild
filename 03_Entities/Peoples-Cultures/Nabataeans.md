@@ -8,8 +8,8 @@ date_start: -312
 date_end: 106
 date_precision: approx
 related: ["[[Incense Trade]]", "[[Kingdom of Saba]]", "[[Rome]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[World History Encyclopedia on the Kingdom of Nabatea]]"]
-fact_checks: ["2026-09-20: First recorded in 312 BCE; Petra as capital; Hegra UNESCO-listed in 2008; Trajan annexed the kingdom in 106 CE [World History Encyclopedia on the Kingdom of Nabatea]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[World History Encyclopedia on the Kingdom of Nabatea]]", "[[UNESCO on Al-Hijr Archaeological Site]]"]
+fact_checks: ["2026-11-19: Hegra (al-Hijr), the largest conserved site of the Nabataean civilization south of Petra, was inscribed on the World Heritage List in 2008 [UNESCO on Al-Hijr Archaeological Site]"]
 confidence: medium
 status: seed
 tags: []

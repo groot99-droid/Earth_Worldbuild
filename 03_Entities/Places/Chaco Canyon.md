@@ -8,8 +8,8 @@ date_start: 850
 date_end: 1150
 date_precision: approx
 related: ["[[North America]]", "[[Domestication of Maize]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]"]
-fact_checks: ["2026-09-20: UNESCO inscription 1987; major center about 850-1250 [UNESCO World Heritage Centre; English Wikipedia]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]", "[[UNESCO on Chaco Culture]]"]
+fact_checks: ["2026-11-19: Chaco Culture was inscribed on the World Heritage List in 1987, and Chaco Canyon was a major centre of ancestral Pueblo culture between 850 and 1250 [UNESCO on Chaco Culture]"]
 confidence: medium
 status: seed
 tags: []

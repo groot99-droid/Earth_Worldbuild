@@ -14,6 +14,7 @@ reliability: high
 verified: true
 checked_on: 2026-09-20
 access: summary-only
+access_route: "none: no readable copy could be obtained"
 ---
 
 ## Citation
@@ -23,4 +24,4 @@ Bottke, W. F. and Norman, M. D. 'The Late Heavy Bombardment.' Annual Review of E
 Basin ages from Apollo samples near 3.9 Ga, and the debate over whether a spike occurred.
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+On 2026-11-19 no readable copy could be obtained: www2.boulder.swri.edu did not answer (the connection failed or timed out on every try), and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read. The only text seen earlier was search-result summaries.

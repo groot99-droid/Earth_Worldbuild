@@ -8,8 +8,8 @@ date_start: 1450
 date_end: 1572
 date_precision: approx
 related: ["[[Inca Empire]]", "[[Andes]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]"]
-fact_checks: ["2026-09-20: Elevation 2,430 m; built about 1450 for Pachacuti; Bingham 1911; UNESCO 1983 [UNESCO World Heritage Centre; English Wikipedia]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]", "[[UNESCO on Machu Picchu]]"]
+fact_checks: ["2026-11-19: Machu Picchu stands 2,430 m above sea level, was made known to the outside world in 1911, and was inscribed on the World Heritage List in 1983 [UNESCO on Machu Picchu]"]
 confidence: high
 status: seed
 tags: []

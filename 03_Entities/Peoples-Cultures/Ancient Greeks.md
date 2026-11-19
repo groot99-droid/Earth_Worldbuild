@@ -8,8 +8,8 @@ date_start: -800
 date_end: -146
 date_precision: approx
 related: ["[[Athens]]", "[[Aristotle]]", "[[Alexander the Great]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: Athenian democracy about 508 BCE; Peloponnesian War 431-404 BCE [Encyclopaedia Britannica; World History Encyclopedia]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia]]", "[[Wikipedia on Cleisthenes]]"]
+fact_checks: ["2026-11-19: Cleisthenes set Athens on a democratic footing in 508 BC [Wikipedia on Cleisthenes]"]
 confidence: high
 status: seed
 tags: []

@@ -12,7 +12,10 @@ url: "https://www.smithsonianmag.com/smart-news/this-ancient-city-has-been-hidde
 source_kind: reference
 reliability: medium
 verified: true
-checked_on: 2026-09-20
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -22,4 +25,4 @@ Smithsonian Magazine. 'Archaeologists Discover Ancient Cities Hidden in the Ecua
 Upano Valley settlement network: dates, size, and population estimate.
 
 ## Caveats
-Consulted via web search results on 2026-09-20; the page was not necessarily read in full. Re-verify before citing in print. A news summary of a Science paper; use the paper for citation.
+Read in full on 2026-11-19 from smithsonianmag.com fetched directly (5,921 characters). A news summary of a Science paper; use the paper for citation.

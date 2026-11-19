@@ -7,8 +7,8 @@ themes: [language, technology]
 date_start: -1800
 date_precision: approx
 related: ["[[Phoenicians]]", "[[Invention of Writing]]"]
-sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia]]", "[[English Wikipedia]]"]
-fact_checks: ["2026-09-20: Proto-Sinaitic about 1800 BCE; Phoenician script of 22 letters; Greeks added vowels [World History Encyclopedia; English Wikipedia]"]
+sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia]]", "[[English Wikipedia]]", "[[Wikipedia on the Phoenician Alphabet]]"]
+fact_checks: ["2026-11-19: The Phoenician alphabet proper uses 22 consonant letters, and in the early Greek alphabet vowels were added to the consonant-only Phoenician letters [Wikipedia on the Phoenician Alphabet]"]
 confidence: high
 status: seed
 tags: []

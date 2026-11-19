@@ -8,7 +8,7 @@ date_start: 1545
 date_precision: year
 related: ["[[Inca Empire]]", "[[Manila Galleon Trade]]", "[[Spanish Conquest of the Inca Empire]]"]
 sources: ["[[UNESCO World Heritage Centre]]", "[[Encyclopaedia Britannica]]", "[[Encyclopedia.com on Potosi]]"]
-fact_checks: ["2026-09-20: Silver found at Cerro Rico in 1545; Toledo adapted the Inca mita in 1573; amalgamation from the mid-1570s; population about 160,000 by 1650 [Encyclopedia.com on Potosi]"]
+fact_checks: ["2026-11-19: Silver was discovered at Cerro Rico in 1545; in 1573 Viceroy Toledo adapted the Inca mita to supply forced labor for the mines; amalgamation was introduced from the mid-1570s [Encyclopedia.com on Potosi]"]
 confidence: high
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: -3000
 date_precision: approx
 related: ["[[Polynesians]]", "[[Polynesian Settlement of the Pacific]]", "[[Peopling of Sahul]]", "[[Lapita Culture]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Phys.org on Ancient DNA and the South Pacific]]"]
-fact_checks: ["2026-09-20: Austronesian expansion began about 5,500 years ago from Taiwan; Lapita spread 1500-1000 BCE; more than 1,200 languages; Madagascar settled in the first millennium CE [Phys.org on Ancient DNA and the South Pacific]"]
+fact_checks: ["2026-11-19: The Austronesian expansion began around 5,500 years ago, likely in Taiwan, and carried farming peoples as far west as Madagascar and east to Rapa Nui; Austronesian-speaking Lapita groups expanded into Remote Oceania about 3,000 years ago [Phys.org on Ancient DNA and the South Pacific]"]
 confidence: medium
 status: seed
 tags: []

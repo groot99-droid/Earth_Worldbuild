@@ -12,15 +12,17 @@ url: "https://www.nhm.ac.uk/discover/news/2022/november/oldest-evidence-life-ear
 source_kind: reference
 reliability: medium
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
 Natural History Museum, London. 'The oldest evidence of life on Earth could help us discover ancient life on Mars' (news, November 2022).
 
 ## What It Is Used For
-Age (about 3.48 Ga) and location (Pilbara, Western Australia) of the Dresser Formation stromatolites.
+Structures in 3.48-billion-year-old Australian rocks (the Dresser Formation of Western Australia) as the oldest evidence of life on Earth.
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from nhm.ac.uk fetched directly (10,004 characters). The page does not name the Pilbara.

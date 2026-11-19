@@ -7,8 +7,8 @@ themes: [science, art, war]
 date_start: -508
 date_precision: approx
 related: ["[[Ancient Greeks]]", "[[Aristotle]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: Parthenon built 447-432 BCE; Cleisthenes about 508 BCE; Peloponnesian War 431-404 BCE [Encyclopaedia Britannica; World History Encyclopedia]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia]]", "[[Wikipedia on the Parthenon]]", "[[Wikipedia on Cleisthenes]]"]
+fact_checks: ["2026-11-19: Construction of the Parthenon started in 447 BC and it was completed in 438 BC, with decoration continuing until 432 BC; Cleisthenes set Athens on a democratic footing in 508 BC [Wikipedia on the Parthenon; Wikipedia on Cleisthenes]"]
 confidence: high
 status: seed
 tags: []

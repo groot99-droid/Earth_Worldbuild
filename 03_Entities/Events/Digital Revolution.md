@@ -8,7 +8,7 @@ date_start: 1969
 date_precision: approx
 related: ["[[Information Age]]", "[[Digital Computer]]", "[[Alan Turing]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[Web Origins Sources (ICANN, CERN)]]"]
-fact_checks: ["2026-09-20: First ARPANET message 29 October 1969; WWW proposed March 1989 and public August 1991 [Web Origins Sources (ICANN, CERN)]"]
+fact_checks: ["2026-11-19: Tim Berners-Lee proposed the World Wide Web at CERN in March 1989, a line-mode browser was available at CERN by March 1991, and in August 1991 he announced his WWW software on Internet newsgroups [Web Origins Sources (ICANN, CERN)]"]
 confidence: high
 status: seed
 tags: []

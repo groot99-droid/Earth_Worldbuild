@@ -3,8 +3,8 @@ title: "Arabian Peninsula"
 type: region
 themes: [religion, trade]
 related: ["[[Mesopotamia]]", "[[Iranian Plateau]]", "[[Sub-Saharan Africa]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Wikipedia on the Incense Trade Route]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-27: Aromatics from Dhofar moved north through Shabwa to Najran, Mecca, Medina, Petra and on to Gaza [Wikipedia on the Incense Trade Route]", "2026-09-20: Hijra in 622 [Encyclopaedia Britannica; World History Encyclopedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Wikipedia on the Incense Trade Route]]", "[[World History Encyclopedia]]", "[[Wikipedia on the Hijrah]]"]
+fact_checks: ["2026-09-27: Aromatics from Dhofar moved north through Shabwa to Najran, Mecca, Medina, Petra and on to Gaza [Wikipedia on the Incense Trade Route]", "2026-11-19: Muhammad and his followers made the Hijrah from Mecca to Medina in 622 CE [Wikipedia on the Hijrah]"]
 confidence: high
 status: seed
 tags: []

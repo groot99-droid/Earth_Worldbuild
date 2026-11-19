@@ -36,9 +36,22 @@ HOSTS = {
 }
 
 
+NOT_FETCHED = {}   # new-source title -> fetch metadata, for pages no route could read in this pass (2026-11-19)
+
+
 def new_src(title, url, page, used, extra=""):
-    m = meta_of(title)
+    """A new source note, or None when the page was not read in this pass (no cache, or a fetch that failed).
+    The access level and route follow what the fetch actually did; a page is never marked full-text unless it was read."""
+    try:
+        m = meta_of(title)
+    except FileNotFoundError:
+        m = {"level": None, "attempts": []}
+    if not m.get("level"):
+        NOT_FETCHED[title] = m
+        return None
     pub, rel, host = HOSTS[urlparse(url).netloc]
+    if m["route"] not in ("wikipedia-api", "direct"):
+        raise SystemExit(f"{title}: route {m['route']!r} has no Caveats wording here; add a branch to new_src")
     if m["route"] == "wikipedia-api":
         route = f"MediaWiki API raw wikitext, revision {m['revid']}"
         cav = (f"Read in full on {m['retrieved']} as raw wikitext from the MediaWiki API, revision {m['revid']} ({m['chars']:,} characters converted "
@@ -155,8 +168,8 @@ NEW = [
     new_src("UNESCO on the Taj Mahal", U + "252/", "Taj Mahal",
             "Construction beginning in 1632 and completed in 1648 with the outer buildings finished in 1653, Ustad Ahmad Lahori as the main architect, and inscription in 1983.",
             ADD.format(g="UNESCO World Heritage Centre", n="Taj Mahal", s="") + "The page does not give a figure of over 20,000 workers."),
-    new_src("UNESCO on the Jomon Prehistoric Sites", U + "1361/", "Jomon Prehistoric Sites in Northern Japan", "Inscription of the Jomon Prehistoric Sites in Northern Japan in 2021.",
-            ADD.format(g="the Jomon official site", n="Jomon Culture", s="") + "The page text read gives only the year 2021, not 27 July, and none of the Jomon dates."),
+    new_src("UNESCO on the Jomon Prehistoric Sites", U + "1632/", "Jomon Prehistoric Sites in Northern Japan", "Inscription of the Jomon Prehistoric Sites in Northern Japan in 2021 (27 July 2021).",
+            ADD.format(g="the Jomon official site", n="Jomon Culture", s="") + "The page does not give the Jomon period's dates. (The list id first used for this page, 1361, is Historic Jeddah; the Jomon sites are 1632.)"),
     new_src("UNESCO on Al-Hijr Archaeological Site", U + "1293/", "Hegra Archaeological Site (al-Hijr / Mada'in Salih)",
             "Hegra (al-Hijr) as the largest conserved site of the Nabataean civilization south of Petra, and its inscription in 2008.",
             ADD.format(g="World History Encyclopedia", n="Nabataeans", s="")),
@@ -175,7 +188,7 @@ NEW = [
             "The global annual mean CO2 concentration: 422.79 ppm for 2024 and 419.35 ppm for 2023.",
             ADD.format(g="NOAA Trends page (its numbers were not in the text read)", n="Modern Climate Change", s="") + "A data file that NOAA revises, so the values may differ in later versions."),
     new_src("NOAA GML Global Annual Growth Rate of CO2", NOAA + "co2_gr_gl.txt", "Global annual mean CO2 growth rate",
-            "The global annual CO2 growth rate: 3.76 ppm for 2024 and 2.70 ppm for 2023.",
+            "The global annual CO2 growth rate: 3.76 ppm for 2024 and 2.69 ppm for 2023.",
             ADD.format(g="NOAA Trends page (its numbers were not in the text read)", n="Modern Climate Change", s="") + "The Modern Climate Change note's earlier figure of 3.75 ppm probably came from an earlier release of this file."),
     new_src("NOAA GML Mauna Loa Annual Mean CO2 Data", NOAA + "co2_annmean_mlo.txt", "Mauna Loa annual mean CO2",
             "The Mauna Loa annual mean CO2 concentration: 424.61 ppm for 2024.",
@@ -209,7 +222,7 @@ NEW = [
             ADD.format(g="Britannica and World History Encyclopedia", n="Hammurabi", s="") + "The article does not give a date of about 1754 BCE for the code or say in so many words that it has 282 laws."),
     new_src("Wikipedia on Ibn Battuta", WP + "Ibn_Battuta", "Ibn Battuta",
             "Ibn Battuta's travels of around 117,000 km, his dictation of the account to Ibn Juzayy, and his caravan to Mali from February 1352 and departure for Sijilmasa in September 1353.",
-            ADD.format(g="World History Encyclopedia", n="Ibn Battuta", s="") + "The generic World History Encyclopedia note's url was the Ibn Battuta article, which does not give 117,000 km or name Ibn Juzayy."),
+            ADD.format(g="World History Encyclopedia", n="Ibn Battuta", s="") + "The generic World History Encyclopedia note's url is the World History Encyclopedia article on Ibn Battuta, which could not be read on 2026-11-19."),
     new_src("Wikipedia on Augustus", WP + "Augustus", "Augustus", "Augustus (born Gaius Octavius, 23 September 63 BC; died 19 August AD 14), first Roman emperor from 27 BC.",
             ADD.format(g="Britannica and World History Encyclopedia", n="Augustus", s="")),
     new_src("Wikipedia on Rachel Carson", WP + "Rachel_Carson", "Rachel Carson",
@@ -323,7 +336,7 @@ SRC = {
     },
     "Waitangi Tribunal on the Maori and English Texts": {
         "used": "Kawanatanga versus sovereignty and tino rangatiratanga versus possession in the two texts, and the Treaty of Waitangi Act 1975.",
-        "extra": "The page does not mention the New Zealand Wars of 1845-1872; NZHistory on the Treaty of Waitangi confirms the Tribunal's creation in 1975.",
+        "extra": "The page does not mention the New Zealand Wars of 1845-1872.",
     },
     "UCMP on the Carboniferous": {
         "used": "Carboniferous swamp forests that produced the coal from which the period takes its name.",
@@ -894,14 +907,313 @@ UNRES = [
 ]
 
 
+# ====================================================================================== the second pass, 2026-11-19
+# The first pass (2026-09-27/28) read its pages on the owner's machine, and that cache was never in the repository. This pass
+# re-fetched every page in a cloud sandbox. worldhistory.org answered HTTP 403, the Metropolitan Museum 429, several other
+# hosts 403 or no answer, and the Wayback Machine could not be reached at all (every connection to web.archive.org was reset
+# by the network path), so 43 of the 126 Tier 5 batch sources and all 19 new World History Encyclopedia articles were not read.
+# Nothing written below rests on a page this pass did not read: a source that was not read gets a `blocked` entry; a check whose
+# new wording cited such a page is narrowed to the sources that were read (NARROW) or, when none was read, not rewritten at
+# all (DEFERRED: the existing check stays as it is, and the first pass's rewrite waits for a pass that can read the page).
+PASS = "2026-11-19"
+NEW = [x for x in NEW if x]
+NEW.append(new_src("Wikipedia on Alexander the Great", WP + "Alexander_the_Great", "Alexander the Great",
+                   "Alexander's life (20 or 21 July 356 BC to 10 or 11 June 323 BC, died in Babylon), his victory at Gaugamela in 331 BC and the overthrow of Darius III, and the mutiny of his army at the Hyphasis River (Beas).",
+                   "Added in Tier 5 (2026-11-19) because World History Encyclopedia on Alexander the Great could not be read in this pass. "
+                   "The article dates his death to 10 or 11 June 323 BC, not 13 June as the Alexander the Great note's earlier check had it."))
+NEW = [x for x in NEW if x]
+
+# Sources of the first pass's 120 that were already blocked then.
+FIRST_PASS_BLOCKED = {"ICS International Chronostratigraphic Chart", "Library of Congress on the First Telegraph Message",
+                      "Oxford Research Encyclopedia on Animal Domestication in Southwest Asia", "Slave Voyages Database",
+                      "Smithsonian on the Sogdian Language", "Jinek et al. 2012 CRISPR-Cas9"}
+# Tier 5 queue entries this pass leaves untouched. The first four were written by the fact-check sweep on 2026-09-27 from a
+# WebFetch read, after the first pass built its queue, so the Tier 5 analysis never covered them; they keep their own access
+# fields until a later pass reads them against their checks.
+SKIP_NOW = {
+    "Ancient Americas on the Oval Palace Tablet": "written by the fact-check sweep from a WebFetch read; not in the first pass's analysis",
+    "Global Nonviolent Action Database on the Brazilian Rubber Tappers Campaign": "written by the fact-check sweep from a WebFetch read; not in the first pass's analysis",
+    "National Park Service Theodore Roosevelt and Conservation": "written by the fact-check sweep from a WebFetch read; not in the first pass's analysis",
+    "Why Now, Kandinsky masterpiece once seized by Nazis breaks record in London sale": "written by the fact-check sweep from a WebFetch read; not in the first pass's analysis",
+    "USDA ERS on Genetically Engineered Crop Adoption": "created on 2026-11-19 by the vault-issues corrections (Soybean); not a Tier 5 source",
+    "EBSCO Research Starters on Monte Alban": "already done in Tier 3 (full-text, 2026-09-26)",
+    "ICS International Chronostratigraphic Chart": ("not readable in this pass (stratigraphy.org answered with a wall page, the Wayback Machine was unreachable), "
+                                                    "but its Caveats say the chart PDF was read with the date left as a '%s' placeholder; the owner decides its access level"),
+}
+
+
+def _host(url):
+    return urlparse(url).netloc.lower()
+
+
+def _all_meta():
+    out = []
+    for mp in fs.CACHE.glob("*.meta.json"):
+        try:
+            out.append(json.loads(mp.read_text(encoding="utf-8")))
+        except ValueError:
+            pass
+    return out
+
+
+HOSTS_403 = {a["host"] for m in _all_meta() if m.get("retrieved") == PASS for a in m.get("attempts", []) if a.get("status") == 403}
+WAYBACK = ("the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was "
+           "reset)")
+
+
+def why_blocked(meta, url):
+    host = _host(url)
+    att = [a for a in meta.get("attempts", []) if a.get("host") == host]
+    st = [a.get("status") for a in att]
+    if 403 in st:
+        site = f"{host} answered HTTP 403 to automated requests"
+    elif 429 in st:
+        site = f"{host} answered HTTP 429 (too many requests) on every try"
+    elif any(a.get("wall") for a in att):
+        site = f"{host} answered with a page the fetcher recognised as a wall (a script, cookie or access check), not the text"
+    elif st:
+        site = f"{host} did not answer (the connection failed or timed out on every try)"
+    elif host in HOSTS_403:
+        site = f"{host} had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again"
+    else:
+        site = f"{host} was not reached"
+    return f"On {PASS} no readable copy could be obtained: {site}, and {WAYBACK}. The page was therefore not read in this pass, and the claims that cite it remain unverified."
+
+
+q_ = fs.load_queue()
+BLOCKED_NOW = {}
+for t, e in q_.items():
+    if e["tier"] != 5 or t in SKIP_NOW or t in ("World History Encyclopedia", "UNESCO World Heritage Centre"):
+        continue
+    mp = fs.cache_paths(fs.pick_slug(t))[1]
+    m = json.loads(mp.read_text(encoding="utf-8")) if mp.exists() else {"attempts": []}
+    if not m.get("level"):
+        BLOCKED_NOW[t] = why_blocked(m, e["url"]) + ("" if t in FIRST_PASS_BLOCKED else
+            " The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.")
+for t in SKIP_NOW:
+    SRC[t] = {"skip": True}
+for t, why in BLOCKED_NOW.items():
+    SRC[t] = {"blocked": why}
+UNAVAILABLE = set(BLOCKED_NOW) | set(NOT_FETCHED) | {"World History Encyclopedia", "Britannica on Chauvet-Pont d'Arc", "Britannica on Hernan Cortes"}
+
+# The generic World History Encyclopedia note: still set to not-consulted (the title stands for the whole site, like the generic
+# Britannica and English Wikipedia notes), with Caveats that say only what is known without the first pass's cache.
+GENERIC_UPDATES[0]["caveats"] = (
+    "The url is the Ibn Battuta article. The first Tier 5 pass (2026-09-27, on the owner's machine) found that this title had been "
+    "fetched from that one article only, so checks citing it for other subjects were unconfirmed. In the second pass (2026-11-19) "
+    "worldhistory.org answered HTTP 403 and the Wayback Machine could not be reached, so no World History Encyclopedia page was read; "
+    "checks that cite this note were re-pointed only where a Wikipedia or UNESCO page read in that pass carries the claim, and the others "
+    "still cite it, unconfirmed. A tertiary, non-academic source for general readers.")
+GENERIC_UPDATES[0]["used"] = (
+    "Stands for World History Encyclopedia as a whole when a note cites it without naming an article. A check that cites only this note "
+    "is not confirmed by any text read; wherever a page read in Tier 5 carries the claim, the check now cites that page's source note instead.")
+
+# New wording for checks whose first-pass rewrite cited a page this pass could not read (or an earlier-tier page it could not
+# re-read): each states only what the pages read in this pass say (probed against the cached text on 2026-11-19).
+NARROW = {
+    ("Classical Antiquity", "Maurya Empire 322-185"):
+        "National Geographic dates the Maurya Empire, the first pan-Indian empire, to 321-185 BCE [National Geographic on the Mauryan Empire]",
+    ("Southeast Asia", "Khmer Empire founded 802"):
+        "Angkor was inscribed on the World Heritage List in 1992 [UNESCO on Angkor]",
+    ("Sub-Saharan Africa", "Ezana converted about 333"):
+        "The Great Enclosure at Great Zimbabwe has walls as high as 11 m, and Timbuktu was inscribed on the World Heritage List in 1988 [Wikipedia on Great Zimbabwe; UNESCO on Timbuktu]",
+    ("Rise of Islam", "Umayyad Caliphate 661-750"):
+        "Between 711 and 713 the Umayyad Caliphate defeated the Chach dynasty and incorporated Sindh as a province, and Muhammad and his followers made the Hijrah from Mecca to Medina in 622 CE "
+        "[Wikipedia on the Arab Conquest of Sindh; Wikipedia on the Hijrah]",
+    ("The Urban Revolution", "Uruk 40,000-80,000"):
+        "V. Gordon Childe introduced the term 'urban revolution' in the 1930s and brought the concept to a much larger audience in his 1950 article in Town Planning Review [Wikipedia on the Urban Revolution]",
+    ("Lapita Culture", "Lapita culture spread across Melanesia"):
+        "Austronesian-speaking groups associated with the Lapita pottery culture expanded east into Remote Oceania (Vanuatu, New Caledonia, Fiji and the islands of western Polynesia) about 3,000 years ago, "
+        "and an ancient DNA study of Lapita burial sites found that these earliest inhabitants of Vanuatu had East Asian ancestry [Phys.org on Ancient DNA and the South Pacific]",
+    ("Battle of Kadesh", "Battle in May 1274 BCE at Kadesh"):
+        "The battle took place at Kadesh on the Orontes in May 1274 BCE (low chronology); the outcome was inconclusive; some 5,000 to 6,000 chariots were involved in total; the events were recorded in temples including Abu Simbel and Karnak "
+        "[Wikipedia on the Battle of Kadesh]",
+    ("Modern Climate Change", "About 1.1 C above 1850-1900"):
+        "The Mauna Loa annual mean CO2 concentration for 2024 was 424.61 ppm, against a global marine surface mean of 422.79 ppm [NOAA GML Mauna Loa Annual Mean CO2 Data; NOAA GML Global Annual Mean CO2 Data]",
+    ("Augustus", "Born 23 September 63 BCE"):
+        "Augustus (born Gaius Octavius, 23 September 63 BC; died 19 August AD 14) was the first Roman emperor, from 27 BC until his death in AD 14 [Wikipedia on Augustus]",
+    ("Hammurabi", "Reign 1792-1750 BCE"):
+        "Hammurabi, the sixth king of the Amorite First Dynasty of Babylon, ruled from around 1792 to around 1750 BC (middle chronology); the stele of his code, now in the Louvre, was rediscovered in 1901 at Susa "
+        "[Wikipedia on the Code of Hammurabi]",
+    ("Ancient Greeks", "Athenian democracy about 508"):
+        "Cleisthenes set Athens on a democratic footing in 508 BC [Wikipedia on Cleisthenes]",
+    ("Aztec Empire", "Conquest by Spain 1519-1521"): None,
+    ("Nabataeans", "First recorded in 312 BCE"):
+        "Hegra (al-Hijr), the largest conserved site of the Nabataean civilization south of Petra, was inscribed on the World Heritage List in 2008 [UNESCO on Al-Hijr Archaeological Site]",
+    ("Olmecs", "Olmec culture 1200-400 BCE"):
+        "Olmec colossal heads range in height from 1.17 to 3.4 m and were carved from basalt from the Sierra de los Tuxtlas [Wikipedia on the Olmec Colossal Heads]",
+    ("Phoenicians", "Tyre, Sidon and Byblos"):
+        "The Phoenician alphabet proper uses 22 consonant letters, and Byblos was a Phoenician city [Wikipedia on the Phoenician Alphabet]",
+    ("Athens", "Parthenon built 447-432"):
+        "Construction of the Parthenon started in 447 BC and it was completed in 438 BC, with decoration continuing until 432 BC; Cleisthenes set Athens on a democratic footing in 508 BC "
+        "[Wikipedia on the Parthenon; Wikipedia on Cleisthenes]",
+    ("Borobudur", "Built in the 8th-9th centuries"):
+        "Borobudur was built during the reign of the Sailendra Dynasty and has 2,672 relief panels and originally 504 Buddha statues; worldwide knowledge of it was sparked in 1814 by Raffles; it became a World Heritage Site in 1991 "
+        "[Wikipedia on Borobudur]",
+    ("Carthage", "Punic Wars 264-146"):
+        "Rome finally destroyed Carthage in 146 BC, and the Site of Carthage was inscribed on the World Heritage List in 1979 [UNESCO on the Site of Carthage]",
+    ("Poverty Point", "Occupied about 3,700-3,100 BP"):
+        "Poverty Point was built and used by hunter-fisher-gatherers between 3700 and 3100 BP; the complex comprises five mounds and six concentric semi-elliptical ridges around a central plaza; it was inscribed on 22 June 2014 "
+        "[UNESCO on Poverty Point]",
+    ("Alexander the Great", "Born 356 BCE; died 13 June"):
+        "Alexander was born on 20 or 21 July 356 BC and died on 10 or 11 June 323 BC in Babylon [Wikipedia on Alexander the Great]",
+    ("Alexander's Conquests", "Alexander born 356 BCE, died Babylon"):
+        "Alexander was born on 20 or 21 July 356 BC and died on 10 or 11 June 323 BC in Babylon; he won at Gaugamela in 331 BC and overthrew Darius III; his army mutinied at the Hyphasis River and refused to march farther east "
+        "[Wikipedia on Alexander the Great]",
+    ("Emergence of Symbolic Art", "Sulawesi warty pig at least 45.5"):
+        "Sulawesi warty pig painting at least 45.5 ka; narrative art 51.2 ka; Blombos engraved ochres 75-100 ka; the Chauvet Cave's early Aurignacian phase 37,000-34,000 years ago "
+        "[Brumm et al. 2021 Sulawesi Warty Pig Painting; Oktaviana et al. 2024 Sulawesi Narrative Cave Art; Henshilwood et al. 2009 Blombos Engraved Ochres; LSCE on Chauvet Cave Radiocarbon Dating]",
+    ("Chauvet Cave", "Discovered 18 December 1994"):
+        "The cave was discovered on 18 December 1994; radiocarbon dating of its black charcoal drawings shows an early Aurignacian phase between 37,000 and 34,000 years ago and a more recent Gravettian phase between 34,000 and 25,000 years ago; "
+        "it has been on the World Heritage List since 22 June 2014 [LSCE on Chauvet Cave Radiocarbon Dating]",
+    # not blocked: the EPA page read in this pass gives the day, so the check can state it (the first pass had only the year)
+    ("Rachel Carson", "Silent Spring September 1962"):
+        "Silent Spring was published in 1962; the US EPA uses 2 December 1970, when its first administrator was confirmed, as the traditional date of its birth; Carson died on 14 April 1964; "
+        "by 1972 activist groups had secured a phase-out of DDT use in the United States [US EPA History; Wikipedia on Rachel Carson]",
+}
+
+
+def _cites(claim):
+    return [s.strip() for s in re.search(r"\[([^\]]*)\]\s*$", claim).group(1).split(";")]
+
+
+DEFERRED = []   # (note, substring of the check left as it is, pages that could not be read)
+_kept = {}
+for name, dd in N.items():
+    k = {"note": name, "replace_checks": [], "drop_checks": list(dd["drop_checks"]), "checks": [], "replace": list(dd["replace"]), "sources": []}
+    for old, new in dd["replace_checks"]:
+        if (name, old) in NARROW:
+            first = new
+            new = NARROW[(name, old)]
+            if new is None:
+                DEFERRED.append((name, old, [s for s in _cites(first) if s in UNAVAILABLE]))
+                continue
+        bad = [s for s in _cites(new) if s in UNAVAILABLE]
+        if bad:
+            DEFERRED.append((name, old, bad))
+            continue
+        k["replace_checks"].append([old, new])
+    for c in dd["checks"]:
+        if any(s in UNAVAILABLE for s in _cites(c)):
+            DEFERRED.append((name, "(added check) " + c[:60], [s for s in _cites(c) if s in UNAVAILABLE]))
+            continue
+        k["checks"].append(c)
+    for _, c in k["replace_checks"]:
+        k["sources"] += [s for s in _cites(c) if s not in k["sources"]]
+    for c in k["checks"]:
+        k["sources"] += [s for s in _cites(c) if s not in k["sources"]]
+    if k["replace_checks"] or k["checks"] or k["drop_checks"] or k["replace"]:
+        _kept[name] = k
+N = _kept
+for t in [t for t in SRC if t in UNAVAILABLE and "blocked" not in SRC[t] and not SRC[t].get("skip")]:
+    SRC[t] = {"skip": True}      # tier 3 pages named by the first pass (Britannica on Chauvet-Pont d'Arc) are not touched here
+
+# Discrepancies: only those resting on pages read in this pass.
+_DISC_FIX = {
+    "Alexander the Great": d("Alexander the Great", "Wikipedia on Alexander the Great", "died 13 June 323 BCE",
+                             "The article gives 20 or 21 July 356 BC to 10 or 11 June 323 BC.", "Check corrected to 10 or 11 June 323 BC and re-pointed to the article; the note body gives no day."),
+    "Chauvet Cave": d("Chauvet Cave", "LSCE on Chauvet Cave Radiocarbon Dating", "radiocarbon phases 37,000-33,500 and 31,000-28,000 years ago",
+                      "LSCE gives an early Aurignacian phase of 37,000-34,000 and a Gravettian phase of 34,000-25,000 years ago.",
+                      "Check narrowed to the LSCE page (Britannica on Chauvet-Pont d'Arc could not be re-read in this pass and was dropped from the bracket); the note's bands left as written and logged as unresolved."),
+}
+DISC = [_DISC_FIX.get(x["note"], x) for x in DISC]
+DISC = [x for x in DISC if not any(s.strip() in UNAVAILABLE for s in x["source"].split(";"))]
+
+# Unresolved: drop entries whose page was not read in this pass (the DEFERRED list stands for them), adjust entries the pages
+# read in this pass settle, and add the clauses the narrowed checks no longer state.
+_UNRES_FIX = {
+    "Jomon Culture": ("Jomon Culture", "Pottery about 16,000 years old", "Jomon Prehistoric Sites in Northern Japan Official Website"),
+    "Chauvet Cave": ("Chauvet Cave", "Radiocarbon phases 37,000-33,500 and 31,000-28,000 (LSCE: 37,000-34,000 and 34,000-25,000); replica opened 2015", "LSCE on Chauvet Cave Radiocarbon Dating"),
+    "Emergence of Symbolic Art": ("Emergence of Symbolic Art", "Lascaux about 17 ka and Chauvet about 36 ka (no page read in Tier 5 gives Lascaux)", "LSCE on Chauvet Cave Radiocarbon Dating"),
+    "Rachel Carson": ("Rachel Carson", "Silent Spring published in September 1962 (the EPA page gives the year 1962 only)", "US EPA History"),
+    "Hammurabi": ("Hammurabi", "Code of 282 laws about 1754 BCE (the article does not state 282 laws or 1754 BCE in so many words)", "Wikipedia on the Code of Hammurabi"),
+    "Alexander's Conquests": ("Alexander's Conquests", "Nothing outstanding; the Hyphasis mutiny is in Wikipedia on Alexander the Great", "Wikipedia on Alexander the Great"),
+    "Sub-Saharan Africa": ("Sub-Saharan Africa; Timbuktu", "Timbuktu about 700,000 manuscripts", "UNESCO on Timbuktu"),
+    "Rise of Islam": ("Rise of Islam", "Umayyad Caliphate 661-750, the conquest of Iberia about 711 and the Abbasid Caliphate 750-1258 (World History Encyclopedia not readable in this pass)", "Wikipedia on the Arab Conquest of Sindh"),
+}
+UNRES = [_UNRES_FIX.get(n, (n, a, s)) for n, a, s in UNRES]
+UNRES = [x for x in UNRES if x[2] not in UNAVAILABLE]
+UNRES += [
+    ("Classical Antiquity", "Achaemenid Empire 550-330 BCE (Metropolitan Museum on the Achaemenid Persian Empire not readable in this pass)", "National Geographic on the Mauryan Empire"),
+    ("Southeast Asia", "Khmer Empire founded 802 (World History Encyclopedia on the Khmer Empire not readable in this pass)", "UNESCO on Angkor"),
+    ("Sub-Saharan Africa", "Ezana converted about 333 CE; Mali founded about 1235 (World History Encyclopedia not readable in this pass)", "Wikipedia on Great Zimbabwe"),
+    ("The Urban Revolution", "Uruk 40,000-80,000 people around 3100-2900 BCE", "Wikipedia on the Urban Revolution"),
+    ("Modern Climate Change", "About 1.1 C above 1850-1900 in 2011-2020 (IPCC AR6 Synthesis Report not readable in this pass)", "NOAA GML Global Annual Mean CO2 Data"),
+    ("Ancient Greeks; Athens", "Peloponnesian War 431-404 BCE (World History Encyclopedia on the Peloponnesian War not readable in this pass)", "Wikipedia on Cleisthenes"),
+    ("Nabataeans", "First recorded in 312 BCE; Petra as capital; Trajan annexed the kingdom in 106 CE (World History Encyclopedia on the Kingdom of Nabatea not readable in this pass)", "UNESCO on Al-Hijr Archaeological Site"),
+    ("Olmecs", "Olmec culture 1200-400 BCE; 'rubber people' as a later Nahuatl name; mother-culture status debated", "Wikipedia on the Olmec Colossal Heads"),
+    ("Phoenicians", "Tyre and Sidon; Carthage traditionally founded 814 BCE; murex purple dye (World History Encyclopedia on Carthage and Tyrian Purple not readable in this pass)", "Wikipedia on the Phoenician Alphabet"),
+    ("Borobudur", "Built in the 8th-9th centuries (the article says originally built in the 9th century)", "Wikipedia on Borobudur"),
+    ("Carthage", "Punic Wars 264-146 BCE; Hannibal crossed the Alps 218 BCE (World History Encyclopedia on the Punic Wars not readable in this pass)", "UNESCO on the Site of Carthage"),
+    ("Lapita Culture", "Lapita spread between 1500 and 1000 BCE; Vanuatu individuals 3,000-2,800 BP", "Phys.org on Ancient DNA and the South Pacific"),
+]
+
+# Second look (step 9, t3_usedfor.py 5 after the apply): the source notes' own used-for text still overclaimed for five fetched
+# sources, and the NobelPrize.org home page (fetched in full, but it carries no prize details) was still the only cited page
+# for three Nobel checks. As for Marie Curie and Antibiotics, the specific prize pages were read and the checks re-pointed.
+# These items are applied as a separate small spec (tier5b.json, built by --second-look).
+SECOND_LOOK_USED = {
+    "NASA on the Dawn of the Space Age": "Sputnik 1 on 4 October 1957 and the continuous occupation of the ISS since 2 November 2000 (Gagarin is not on this page).",
+    "The Conversation on Stone Tools and the Toba Eruption": "Jwalapuram stone tools above and below the Toba ash (the page gives no erupted volume).",
+    "UN World Population Milestones": "The UN projection that world population would reach 8 billion on 15 November 2022 (the page does not give the one-billion milestone of 1804).",
+    "USHMM Holocaust Encyclopedia on the Wannsee Conference": "The Wannsee Conference (20 January 1942), the Nuremberg Laws as the basis for determining who was a Jew, and the SS envisioning some 11 million Jews to be eradicated (the page does not give the year of the Nuremberg Laws).",
+    "National Park Service Timeline of the American Revolution": "Lexington and Concord (19 April 1775), the Declaration (4 July 1776), the French alliance (6 February 1778), Yorktown (1781), the Treaty of Paris (3 September 1783), and the Treaty of Fort Stanwix imposing peace on the members of the Iroquois Confederacy that sided with the British.",
+}
+for _t, _u in SECOND_LOOK_USED.items():
+    SRC.setdefault(_t, {})["used"] = _u
+SECOND_LOOK_NEW = [
+    new_src("NobelPrize.org on the 1944 Nobel Prize in Chemistry", NOBEL + "chemistry/1944/summary/", "The Nobel Prize in Chemistry 1944",
+            "The 1944 Chemistry prize awarded to Otto Hahn for his discovery of the fission of heavy nuclei.",
+            ADD.format(g="NobelPrize.org home page", n="Nuclear Fission", s="")),
+    new_src("NobelPrize.org on the 1921 Nobel Prize in Physics", NOBEL + "physics/1921/summary/", "The Nobel Prize in Physics 1921",
+            "The 1921 Physics prize awarded to Albert Einstein for his services to theoretical physics and especially his discovery of the law of the photoelectric effect.",
+            ADD.format(g="NobelPrize.org home page", n="Albert Einstein", s="")),
+    new_src("NobelPrize.org on the 1962 Nobel Prize in Physiology or Medicine", NOBEL + "medicine/1962/summary/", "The Nobel Prize in Physiology or Medicine 1962",
+            "The 1962 prize awarded jointly to Francis Crick, James Watson and Maurice Wilkins for their discoveries concerning the molecular structure of nucleic acids.",
+            ADD.format(g="NobelPrize.org home page", n="Rosalind Franklin", s="")),
+]
+SECOND_LOOK_NEW = [x for x in SECOND_LOOK_NEW if x]
+NEW += SECOND_LOOK_NEW
+SECOND_LOOK_GENERIC = {
+    "title": "NobelPrize.org", "mark": "done",
+    "set": {"access": "not-consulted", "verified": False,
+            "access_route": "none: this title stands for the whole site; the url is the home page, which carries no prize details"},
+    "used": "Stands for NobelPrize.org as a whole when a note cites it without naming a prize. The home page gives no prize years or laureates, so a check that cites only this note is not confirmed by any text read; the Nobel checks now cite the source notes titled NobelPrize.org on the ... Nobel Prize in ...",
+    "caveats": "The url is the NobelPrize.org home page, which was read in full on 2026-11-19 (directly) and names no laureates or prize years. Set to not-consulted like the generic Britannica and English Wikipedia notes; the specific prize pages are separate source notes.",
+}
+GENERIC_UPDATES.append(SECOND_LOOK_GENERIC)
+SRC["NobelPrize.org"] = {"skip": True}
+SECOND_LOOK_NOTES = {
+    "Nuclear Fission": ("Hahn alone received the 1944 Chemistry Nobel",
+                        "The Nobel Prize in Chemistry 1944 was awarded to Otto Hahn for his discovery of the fission of heavy nuclei [NobelPrize.org on the 1944 Nobel Prize in Chemistry]"),
+    "Albert Einstein": ("Nobel Prize in Physics 1921; letter to Roosevelt",
+                        "The Nobel Prize in Physics 1921 was awarded to Albert Einstein for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect [NobelPrize.org on the 1921 Nobel Prize in Physics]"),
+    "Rosalind Franklin": ("Nobel 1962 to Watson, Crick, Wilkins",
+                          "The Nobel Prize in Physiology or Medicine 1962 was awarded jointly to Francis Crick, James Watson and Maurice Wilkins for their discoveries concerning the molecular structure of nucleic acids [NobelPrize.org on the 1962 Nobel Prize in Physiology or Medicine]"),
+}
+for _n, (_old, _new) in SECOND_LOOK_NOTES.items():
+    N[_n] = {"note": _n, "replace_checks": [[_old, _new]], "drop_checks": [], "checks": [], "replace": [], "sources": _cites(_new)}
+UNRES += [
+    ("Nuclear Fission", "Fission discovered December 1938; Chicago Pile-1 on 2 December 1942 (the check now cites only the 1944 prize page)", "NobelPrize.org on the 1944 Nobel Prize in Chemistry"),
+    ("Albert Einstein", "Letter to Roosevelt dated 2 August 1939", "NobelPrize.org on the 1921 Nobel Prize in Physics"),
+    ("Rosalind Franklin", "Photo 51 taken 1952 with Gosling; died 16 April 1958 aged 37", "NobelPrize.org on the 1962 Nobel Prize in Physiology or Medicine"),
+]
+
+
 def write_unresolved(date):
     log = fs.CACHE / "unresolved.md"
-    text = log.read_text(encoding="utf-8")
+    # The Tier 1-4 sections live in the copy on the owner's machine; a fresh cache starts a new file (merge the two by hand).
+    text = log.read_text(encoding="utf-8") if log.exists() else (
+        "# Unresolved claims\n\nClaims that stay in a note although the page cited for them does not contain them. "
+        "This file was started fresh on 2026-11-19 in a cloud sandbox; the Tier 1-4 sections are in the copy on the owner's machine.\n")
     if f"## Tier 5 ({date})" in text:
         print("unresolved.md already has this Tier 5 section; not appended")
         return
     rows = "\n".join(f"- **{n}**: {a} [cited to {s}]" for n, a, s in UNRES if "Nothing outstanding" not in a and "Fully confirmed" not in a)
-    log.write_text(text.rstrip("\n") + f"\n\n## Tier 5 ({date})\n{rows}\n", encoding="utf-8", newline="\n")
+    dfr = "\n".join(f"- **{n}**: the check containing '{o}' was left as it is; its Tier 5 rewrite cites {', '.join(b)}, not readable on {PASS}"
+                    for n, o, b in DEFERRED)
+    log.write_text(text.rstrip("\n") + f"\n\n## Tier 5 ({date})\n{rows}\n\n### Tier 5 deferred: page not readable on {PASS}\n{dfr}\n",
+                   encoding="utf-8", newline="\n")
     print("unresolved.md: Tier 5 entries written")
 
 
@@ -909,6 +1221,24 @@ if __name__ == "__main__":
     (SP / "tier5_manual.json").write_text(json.dumps(SRC, indent=1, ensure_ascii=False), encoding="utf-8")
     (SP / "tier5_extra.json").write_text(json.dumps({"sources_new": NEW, "source_updates": GENERIC_UPDATES, "notes": notes_list(), "discrepancies": DISC},
                                                     indent=1, ensure_ascii=False), encoding="utf-8")
-    print(len(SRC), "source manual entries;", len(NEW), "new sources;", len(N), "notes patched;", len(DISC), "discrepancies;", len(UNRES), "unresolved")
+    (SP / "tier5_deferred.json").write_text(json.dumps({"deferred": DEFERRED, "blocked": BLOCKED_NOW, "new_not_fetched": sorted(NOT_FETCHED), "skipped": SKIP_NOW},
+                                                       indent=1, ensure_ascii=False), encoding="utf-8")
+    print(len(SRC), "source manual entries;", len(NEW), "new sources;", len(N), "notes patched;", len(DISC), "discrepancies;", len(UNRES), "unresolved;",
+          len(DEFERRED), "deferred;", len(BLOCKED_NOW), "blocked;", len(NOT_FETCHED), "new pages not fetched")
     if "--unresolved" in sys.argv:
         write_unresolved(__import__("datetime").date.today().isoformat())
+    if "--second-look" in sys.argv:
+        # run after t2_build.py 5: the small follow-up spec, and its three unresolved entries appended to the Tier 5 section
+        auto = json.loads((SP / "tier5_auto.json").read_text(encoding="utf-8"))
+        spec_b = {"date": auto["date"], "sources_new": SECOND_LOOK_NEW,
+                  "source_updates": [{"title": x, "used": u} for x, u in SECOND_LOOK_USED.items()] + [SECOND_LOOK_GENERIC],
+                  "notes": [{k: v for k, v in N[n].items() if v} for n in SECOND_LOOK_NOTES], "discrepancies": []}
+        (SP / "tier5b.json").write_text(json.dumps(spec_b, indent=1, ensure_ascii=False), encoding="utf-8")
+        log = fs.CACHE / "unresolved.md"
+        text = log.read_text(encoding="utf-8")
+        add_rows = [f"- **{n}**: {a} [cited to {s}]" for n, a, s in UNRES[-3:]]
+        if add_rows[0] not in text:
+            head = "\n### Tier 5 deferred"
+            text = text.replace(head, "\n".join(add_rows) + "\n" + head, 1)
+            log.write_text(text, encoding="utf-8", newline="\n")
+        print("tier5b.json:", len(spec_b["sources_new"]), "new sources,", len(spec_b["source_updates"]), "source updates,", len(spec_b["notes"]), "notes")

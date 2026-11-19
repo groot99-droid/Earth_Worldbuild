@@ -8,8 +8,8 @@ date_start: 1371
 date_end: 1433
 date_precision: approx
 related: ["[[Song Dynasty]]", "[[Southeast Asia]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: Seven voyages 1405-1433; born about 1371; died 1433 [Encyclopaedia Britannica; World History Encyclopedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]", "[[Wikipedia on Zheng He]]"]
+fact_checks: ["2026-11-19: Zheng He (born 1371, died 1433 or 1435) commanded seven treasure voyages between 1405 and 1433 [Wikipedia on Zheng He]"]
 confidence: high
 status: seed
 tags: []

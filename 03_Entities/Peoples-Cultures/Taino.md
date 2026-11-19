@@ -8,7 +8,7 @@ date_start: 1000
 date_precision: approx
 related: ["[[Columbian Exchange]]", "[[Atlantic Slave Trade]]", "[[Sugar Plantation Complex]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Smithsonian Magazine on the Taino]]"]
-fact_checks: ["2026-09-20: Greater Antilles chiefdoms led by caciques; zemis; canoe, hammock, hurricane and barbecue derive from Taino; 70-85 percent population loss; 61 percent of surveyed Puerto Ricans carry Indigenous mitochondrial DNA [Smithsonian Magazine on the Taino]"]
+fact_checks: ["2026-11-19: Regional chieftaincies were headed by caciques; canoe, hammock, barbecue and hurricane are Taino words; possibly 85 percent of the Taino population had vanished by the early 1500s according to a controversial extrapolation from Spanish records; 61 percent of surveyed Puerto Ricans carry Indigenous mitochondrial DNA [Smithsonian Magazine on the Taino]"]
 confidence: medium
 status: seed
 tags: []

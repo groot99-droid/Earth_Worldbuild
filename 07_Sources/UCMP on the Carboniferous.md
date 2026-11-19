@@ -12,15 +12,17 @@ url: "https://ucmp.berkeley.edu/carboniferous/carboniferous.php"
 source_kind: reference
 reliability: high
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
 University of California Museum of Paleontology. 'The Carboniferous.'
 
 ## What It Is Used For
-Carboniferous swamp forests (about 360-300 Ma) that formed coal.
+Carboniferous swamp forests that produced the coal from which the period takes its name.
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from ucmp.berkeley.edu fetched directly (14,793 characters). The page gives no dates for the swamp forests (the note's 360-300 Ma).

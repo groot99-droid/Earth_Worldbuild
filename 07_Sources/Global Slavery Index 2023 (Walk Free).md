@@ -12,7 +12,10 @@ url: "https://www.walkfree.org/global-slavery-index/"
 source_kind: dataset
 reliability: medium
 verified: true
-checked_on: 2026-09-20
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -22,4 +25,4 @@ Walk Free. The Global Slavery Index 2023 (using ILO, Walk Free, and IOM Global E
 Estimate of about 50 million people in modern slavery in 2021 (49.6 million).
 
 ## Caveats
-Consulted via web search results on 2026-09-20; the page was not necessarily read in full. Re-verify before citing in print. Estimates are contested and methodology-dependent.
+Read in full on 2026-11-19 from walkfree.org fetched directly (15,689 characters). Estimates are contested and methodology-dependent.

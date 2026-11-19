@@ -12,15 +12,17 @@ url: "https://theconversation.com/stone-tools-show-humans-in-india-survived-the-
 source_kind: reference
 reliability: medium
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
 The Conversation. 'Stone tools show humans in India survived the cataclysmic Toba eruption 74,000 years ago.'
 
 ## What It Is Used For
-Jwalapuram stone tools above and below the Toba ash; magnitude of the eruption (about 3,000 km3).
+Jwalapuram stone tools above and below the Toba ash (the page gives no erupted volume).
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from theconversation.com fetched directly (6,733 characters).

@@ -8,8 +8,8 @@ date_start: 400
 date_end: 1300
 date_precision: approx
 related: ["[[Amazonian Urbanism and Dark Earths]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[ORIAS on Ancient Marajó]]"]
-fact_checks: ["2026-09-20: Ceramic tradition dated 400-1300 CE; mound building from about 300 CE; mounds up to 20 m; abandoned by about 1350 [ORIAS on Ancient Marajó]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[ORIAS on Ancient Marajó]]", "[[Wikipedia on the Marajoara Culture]]"]
+fact_checks: ["2026-11-19: Between CE 300 and 1350 Marajo island was home to a people who built huge mounds to live on and hold religious ceremonies; the ceramic occupation is dated 400 to 1400 AD, with abandonment around AD 1300 [ORIAS on Ancient Marajó; Wikipedia on the Marajoara Culture]"]
 confidence: medium
 status: seed
 tags: []

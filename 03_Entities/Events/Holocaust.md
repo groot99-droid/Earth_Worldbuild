@@ -9,7 +9,7 @@ date_end: 1945
 date_precision: year
 related: ["[[World War II]]", "[[Sanctioned Harm]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[The Transformation of the World (Osterhammel)]]", "[[USHMM Holocaust Encyclopedia on the Wannsee Conference]]", "[[Facing History on Raphael Lemkin]]"]
-fact_checks: ["2026-09-20: About six million Jews murdered; Nuremberg Laws 1935; Wannsee Conference 20 January 1942; Roma, disabled people and others also killed [USHMM Holocaust Encyclopedia on the Wannsee Conference]", "2026-09-20: Lemkin coined genocide in 1944; UN Genocide Convention approved 9 December 1948 [Facing History on Raphael Lemkin]"]
+fact_checks: ["2026-11-19: At the Wannsee conference on 20 January 1942 officials met to coordinate the Final Solution to the Jewish Question, with the Nuremberg Laws as a basis for determining who was a Jew, and the SS envisioned some 11 million Jews being eradicated [USHMM Holocaust Encyclopedia on the Wannsee Conference]", "2026-09-20: Lemkin coined genocide in 1944; UN Genocide Convention approved 9 December 1948 [Facing History on Raphael Lemkin]"]
 confidence: high
 status: seed
 tags: []

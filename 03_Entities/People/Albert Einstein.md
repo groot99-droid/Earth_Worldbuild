@@ -8,8 +8,8 @@ date_start: 1879
 date_end: 1955
 date_precision: year
 related: ["[[Isaac Newton]]", "[[Marie Curie]]", "[[Nuclear Age]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[NobelPrize.org]]", "[[English Wikipedia]]"]
-fact_checks: ["2026-09-20: Nobel Prize in Physics 1921; letter to Roosevelt dated 2 August 1939 [NobelPrize.org; English Wikipedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[NobelPrize.org]]", "[[English Wikipedia]]", "[[NobelPrize.org on the 1921 Nobel Prize in Physics]]"]
+fact_checks: ["2026-11-19: The Nobel Prize in Physics 1921 was awarded to Albert Einstein for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect [NobelPrize.org on the 1921 Nobel Prize in Physics]"]
 confidence: high
 status: seed
 tags: []

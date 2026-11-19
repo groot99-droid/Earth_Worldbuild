@@ -8,7 +8,7 @@ date_start: 1840
 date_precision: exact
 related: ["[[Polynesians]]", "[[Scramble for Africa]]"]
 sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[Waitangi Tribunal on the Maori and English Texts]]", "[[NZHistory on the Treaty of Waitangi]]"]
-fact_checks: ["2026-09-20: English and Maori texts differ (sovereignty versus kawanatanga; possession versus tino rangatiratanga); Waitangi Tribunal established in 1975; New Zealand Wars 1845-1872 [Waitangi Tribunal on the Maori and English Texts]", "2026-09-20: First signed 6 February 1840 [NZHistory on the Treaty of Waitangi]"]
+fact_checks: ["2026-11-19: The English and Maori texts differ (sovereignty translated as kawanatanga; possession versus tino rangatiratanga); the Waitangi Tribunal was established in 1975 [Waitangi Tribunal on the Maori and English Texts]", "2026-09-20: First signed 6 February 1840 [NZHistory on the Treaty of Waitangi]"]
 confidence: high
 status: seed
 tags: []

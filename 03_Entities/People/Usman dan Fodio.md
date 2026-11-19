@@ -8,8 +8,8 @@ date_start: 1754
 date_end: 1817
 date_precision: year
 related: ["[[Sokoto Caliphate]]", "[[Songhai Empire]]"]
-sources: ["[[Cambridge World History]]", "[[BlackPast on the Sokoto Caliphate]]"]
-fact_checks: ["2026-09-20: Jihad began February 1804; founder of the Sokoto Caliphate [BlackPast on the Sokoto Caliphate]"]
+sources: ["[[Cambridge World History]]", "[[BlackPast on the Sokoto Caliphate]]", "[[Wikipedia on the Sokoto Caliphate]]"]
+fact_checks: ["2026-11-19: Usman dan Fodio and his followers migrated to Gudu in February 1804, and Sultan Yunfa declared war on him on 21 February 1804; the Sultanate of Sokoto followed (1804-1903) [Wikipedia on the Sokoto Caliphate; BlackPast on the Sokoto Caliphate]"]
 confidence: high
 status: seed
 tags: []

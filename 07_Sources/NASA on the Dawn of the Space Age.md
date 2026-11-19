@@ -7,20 +7,22 @@ sources: []
 confidence: medium
 status: draft
 tags: []
-citation: "NASA. 'Dawn of the Space Age.' Also NASA, 'April 1961 - First Human Entered Space' and 'International Space Station Facts and Figures.'"
+citation: "NASA. 'Dawn of the Space Age.'"
 url: "https://www.nasa.gov/history/dawn-of-the-space-age/"
 source_kind: reference
 reliability: high
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
-NASA. 'Dawn of the Space Age.' Also NASA, 'April 1961 - First Human Entered Space' and 'International Space Station Facts and Figures.'
+NASA. 'Dawn of the Space Age.'
 
 ## What It Is Used For
-Sputnik 1 on 4 October 1957, Gagarin on 12 April 1961, and continuous ISS occupation since 2 November 2000.
+Sputnik 1 on 4 October 1957 and the continuous occupation of the ISS since 2 November 2000 (Gagarin is not on this page).
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from nasa.gov fetched directly (10,802 characters). The earlier citation also named: NASA, 'April 1961 - First Human Entered Space' and 'International Space Station Facts and Figures.' Those pages were not read here, so nothing taken from them is confirmed by this source.

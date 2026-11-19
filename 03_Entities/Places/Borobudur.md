@@ -7,8 +7,8 @@ themes: [religion, art]
 date_start: 800
 date_precision: approx
 related: ["[[Srivijaya]]", "[[Angkor]]", "[[Siddhartha Gautama]]"]
-sources: ["[[UNESCO World Heritage Centre]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia on Borobudur]]"]
-fact_checks: ["2026-09-20: Built in the 8th-9th centuries under the Sailendra; 2,672 relief panels and 504 Buddha statues; rediscovered 1814; UNESCO 1991 [World History Encyclopedia on Borobudur]"]
+sources: ["[[UNESCO World Heritage Centre]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia on Borobudur]]", "[[Wikipedia on Borobudur]]"]
+fact_checks: ["2026-11-19: Borobudur was built during the reign of the Sailendra Dynasty and has 2,672 relief panels and originally 504 Buddha statues; worldwide knowledge of it was sparked in 1814 by Raffles; it became a World Heritage Site in 1991 [Wikipedia on Borobudur]"]
 confidence: high
 status: seed
 tags: []

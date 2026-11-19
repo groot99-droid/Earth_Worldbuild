@@ -4,7 +4,7 @@ type: region
 themes: [earth-systems, kinship, trade]
 related: ["[[Central Asian Steppe]]", "[[East Asia]]", "[[North America]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Uppsala University on the Mal'ta Genome]]", "[[Penn Museum on Herodotus and the Scythians]]", "[[English Wikipedia]]"]
-fact_checks: ["2026-09-20: Mal'ta child about 24,000 years old [Uppsala University on the Mal'ta Genome]", "2026-09-20: Scythian tombs at Arzhan and Pazyryk preserved by ice [Penn Museum on Herodotus and the Scythians]", "2026-09-20: Yermak crossed in 1582; Okhotsk reached by 1639 [English Wikipedia]"]
+fact_checks: ["2026-09-20: Mal'ta child about 24,000 years old [Uppsala University on the Mal'ta Genome]", "2026-11-19: Burials in the Altai Mountains, Pazyryk and other sites, contained objects normally lost to archaeologists, because water froze in the mounds and remained permanently frozen [Penn Museum on Herodotus and the Scythians]", "2026-09-20: Yermak crossed in 1582; Okhotsk reached by 1639 [English Wikipedia]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,8 +8,8 @@ date_start: -14000
 date_end: -300
 date_precision: approx
 related: ["[[Pottery]]", "[[The Agricultural Revolution]]", "[[Domestication of Rice]]"]
-sources: ["[[UNESCO World Heritage Centre]]", "[[Encyclopaedia Britannica]]", "[[Jomon Prehistoric Sites in Northern Japan Official Website]]"]
-fact_checks: ["2026-09-20: Pottery about 16,000 years old; Sannai-Maruyama 3900-2200 BCE; dogu figurines; UNESCO 27 July 2021; Yayoi transition from about 900 BCE in northern Kyushu [Jomon Prehistoric Sites in Northern Japan Official Website]"]
+sources: ["[[UNESCO World Heritage Centre]]", "[[Encyclopaedia Britannica]]", "[[Jomon Prehistoric Sites in Northern Japan Official Website]]", "[[Wikipedia on Sannai-Maruyama]]", "[[Wikipedia on the Jomon Period]]", "[[UNESCO on the Jomon Prehistoric Sites]]"]
+fact_checks: ["2026-11-19: The Jomon period lasted about 10,000 years until the Yayoi period, when full-scale rice cultivation began about 2,400 years ago; Sannai-Maruyama was occupied from 3900 to 2200 BCE; Jomon dogu figurines survive; Yayoi-style pottery was found at a Jomon site in northern Kyushu by 800 BC; the Jomon Prehistoric Sites were inscribed in 2021 [Jomon Prehistoric Sites in Northern Japan Official Website; Wikipedia on Sannai-Maruyama; Wikipedia on the Jomon Period; UNESCO on the Jomon Prehistoric Sites]"]
 confidence: medium
 status: seed
 tags: []

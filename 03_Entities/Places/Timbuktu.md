@@ -7,8 +7,8 @@ themes: [trade, religion, science]
 date_start: 1100
 date_precision: approx
 related: ["[[Mali Empire]]", "[[Mansa Musa]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]"]
-fact_checks: ["2026-09-20: UNESCO inscription 1988; hundreds of thousands of manuscripts (about 700,000 estimated) [UNESCO World Heritage Centre; English Wikipedia]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]", "[[UNESCO on Timbuktu]]"]
+fact_checks: ["2026-11-19: Timbuktu was inscribed on the World Heritage List in 1988 [UNESCO on Timbuktu]"]
 confidence: medium
 status: seed
 tags: []

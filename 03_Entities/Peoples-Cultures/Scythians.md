@@ -9,7 +9,7 @@ date_end: -200
 date_precision: approx
 related: ["[[Achaemenid Persians]]", "[[Alexander's Conquests]]"]
 sources: ["[[Cambridge World History]]", "[[Penn Museum on Herodotus and the Scythians]]"]
-fact_checks: ["2026-09-20: Arzhan 1 late 9th c. BCE; Arzhan 2 about 5,600 gold objects and cloak of about 2,500 gold panthers; Pazyryk 4th-3rd c. BCE [Penn Museum on Herodotus and the Scythians]"]
+fact_checks: ["2026-11-19: Burials in the Altai Mountains, Pazyryk and other sites, contained objects normally lost to archaeologists, because water froze in the mounds and remained permanently frozen [Penn Museum on Herodotus and the Scythians]"]
 confidence: medium
 status: seed
 tags: []

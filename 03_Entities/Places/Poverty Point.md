@@ -8,8 +8,8 @@ date_start: -1700
 date_end: -1100
 date_precision: approx
 related: ["[[Cahokia]]", "[[Chaco Canyon]]"]
-sources: ["[[UNESCO World Heritage Centre]]", "[[Encyclopaedia Britannica]]", "[[Poverty Point Monumental Earthworks Sources]]"]
-fact_checks: ["2026-09-20: Occupied about 3,700-3,100 BP by hunter-fisher-gatherers; five mounds and six ridges; Mound A about 22 m; UNESCO 22 June 2014 [Poverty Point Monumental Earthworks Sources]"]
+sources: ["[[UNESCO World Heritage Centre]]", "[[Encyclopaedia Britannica]]", "[[Poverty Point Monumental Earthworks Sources]]", "[[UNESCO on Poverty Point]]"]
+fact_checks: ["2026-11-19: Poverty Point was built and used by hunter-fisher-gatherers between 3700 and 3100 BP; the complex comprises five mounds and six concentric semi-elliptical ridges around a central plaza; it was inscribed on 22 June 2014 [UNESCO on Poverty Point]"]
 confidence: medium
 status: seed
 tags: []

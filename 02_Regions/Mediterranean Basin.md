@@ -3,8 +3,8 @@ title: "Mediterranean Basin"
 type: region
 themes: [trade, war, science]
 related: ["[[Europe]]", "[[Nile Valley]]", "[[Levant and Anatolia]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia on Carthage and Tyrian Purple]]", "[[World History Encyclopedia]]", "[[English Wikipedia]]"]
-fact_checks: ["2026-09-20: Carthage traditionally founded 814 BCE from Tyre [World History Encyclopedia on Carthage and Tyrian Purple]", "2026-09-20: Athenian democracy about 508 BCE [Encyclopaedia Britannica; World History Encyclopedia]", "2026-09-20: Visigoths sacked Rome on 24 August 410 [Encyclopaedia Britannica; English Wikipedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia on Carthage and Tyrian Purple]]", "[[World History Encyclopedia]]", "[[English Wikipedia]]", "[[Wikipedia on Cleisthenes]]"]
+fact_checks: ["2026-09-20: Carthage traditionally founded 814 BCE from Tyre [World History Encyclopedia on Carthage and Tyrian Purple]", "2026-11-19: Cleisthenes set Athens on a democratic footing in 508 BC and is called the father of Athenian democracy [Wikipedia on Cleisthenes]", "2026-09-20: Visigoths sacked Rome on 24 August 410 [Encyclopaedia Britannica; English Wikipedia]"]
 confidence: high
 status: seed
 tags: []

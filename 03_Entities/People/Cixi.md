@@ -9,7 +9,7 @@ date_end: 1908
 date_precision: year
 related: ["[[Qing Dynasty]]", "[[Boxer Rebellion]]", "[[Wu Zetian]]"]
 sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[EBSCO Research Starters on Cixi]]"]
-fact_checks: ["2026-09-20: Cixi lived 1835-1908, became co-regent in 1861, backed the Boxers and declared war on 21 June 1900, then launched the New Policies; her legacy is debated [EBSCO Research Starters on Cixi]"]
+fact_checks: ["2026-11-19: Cixi lived 1835-1908, became co-regent in 1861, backed the Boxers and declared war on the foreigners on 21 June 1900, and after the Boxer Protocol was signed announced constitutional reforms in 1908; her legacy is debated [EBSCO Research Starters on Cixi]"]
 confidence: medium
 status: seed
 tags: []

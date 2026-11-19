@@ -12,8 +12,10 @@ url: "https://www.sciencenews.org/article/early-life-ancient-fossils-stromatolit
 source_kind: reference
 reliability: medium
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -23,4 +25,4 @@ Science News. 'Claims of evidence of earliest fossils on Earth face scrutiny.' C
 The 2016 report of about 3.7 billion year old stromatolites in the Isua Supracrustal Belt, West Greenland, the dispute over whether they are biological, and the mixed later assessments.
 
 ## Caveats
-Consulted only through web search result summaries on 2026-09-20; the pages were not opened. Within about two years a paper in the same journal disputed the observations; more recent papers (2020 and 2024 reviews) were listed in the search results and their conclusions were not read in full. The claim is treated as contested.
+Read in full on 2026-11-19 from sciencenews.org fetched directly (8,018 characters). The claim is treated as contested.

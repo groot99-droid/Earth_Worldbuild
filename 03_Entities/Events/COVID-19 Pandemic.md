@@ -9,7 +9,7 @@ date_end: 2023
 date_precision: year
 related: ["[[Black Death]]", "[[Vaccination]]", "[[Digital Revolution]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[WHO COVID-19 Mortality Data]]"]
-fact_checks: ["2026-09-20: WHO estimate of 14.9 million excess deaths for 2020-2021 (13.3-16.6 million); more than 7 million reported deaths (about 7.1 million by mid-2026) [WHO COVID-19 Mortality Data]"]
+fact_checks: ["2026-11-19: The WHO estimated 14.9 million excess deaths (range 13.3 to 16.6 million) associated with the COVID-19 pandemic in 2020 and 2021 [WHO COVID-19 Mortality Data]"]
 confidence: high
 status: seed
 tags: []

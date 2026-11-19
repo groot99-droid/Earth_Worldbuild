@@ -4,7 +4,7 @@ type: region
 themes: [war, trade, technology]
 related: ["[[East Asia]]", "[[Europe]]", "[[Iranian Plateau]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Britannica on the Mongol Empire]]", "[[Lazaridis et al. 2025 Indo-European Origins]]"]
-fact_checks: ["2026-09-20: Mongol Empire founded in 1206 by Genghis Khan [Britannica on the Mongol Empire]", "2026-09-20: Proto-Indo-Anatolian community in the Caucasus-Lower Volga region about 4400-4000 BCE [Lazaridis et al. 2025 Indo-European Origins]"]
+fact_checks: ["2026-09-20: Mongol Empire founded in 1206 by Genghis Khan [Britannica on the Mongol Empire]", "2026-11-19: The Caucasus Lower Volga people appear to be the original source of the Yamnaya and of the ancient Indo-Anatolian speakers, and lived in what is now Russia about 6,500 years ago [Lazaridis et al. 2025 Indo-European Origins]"]
 confidence: high
 status: seed
 tags: []

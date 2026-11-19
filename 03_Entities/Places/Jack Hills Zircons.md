@@ -8,7 +8,7 @@ date_start: -4400000000
 date_precision: deep-time
 related: ["[[Formation of the Solar System and Earth]]", "[[Origin of Life]]", "[[Late Heavy Bombardment]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[Maps of Time (Christian)]]", "[[SERC on the Jack Hills Zircons]]"]
-fact_checks: ["2026-09-20: Oldest Jack Hills zircon dated to about 4.404 billion years, in the Narryer Terrane of Western Australia; oxygen isotopes indicate magma that interacted with surface water [SERC on the Jack Hills Zircons]"]
+fact_checks: ["2026-11-19: Jack Hills zircons in Western Australia are the oldest Earth materials, dating to 4.0-4.4 Ga with a single grain at 4.4 Ga; oxygen isotopes indicate magma from recycled rock that had interacted with surface waters [SERC on the Jack Hills Zircons]"]
 confidence: medium
 status: seed
 tags: []

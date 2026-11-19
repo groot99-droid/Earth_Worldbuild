@@ -6,8 +6,8 @@ date_start: -9600
 date_end: -3300
 date_precision: approx
 related: ["[[Paleolithic]]", "[[Bronze Age]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[The Dawn of Everything (Graeber and Wengrow)]]", "[[EBSCO on the Neolithic Revolution]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]"]
-fact_checks: ["2026-09-20: Neolithic Revolution began about 12,000 years ago in Southwest Asia, with independent centers in China, Mesoamerica and South America [EBSCO on the Neolithic Revolution]", "2026-09-20: Gobekli Tepe earliest structures 9500-9000 BCE; Catalhoyuk UNESCO 2012 [UNESCO World Heritage Centre; English Wikipedia]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[The Dawn of Everything (Graeber and Wengrow)]]", "[[EBSCO on the Neolithic Revolution]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]", "[[UNESCO on Gobekli Tepe]]", "[[UNESCO on Catalhoyuk]]"]
+fact_checks: ["2026-11-19: The Neolithic Revolution occurred around 12,000 years ago, with notable early agricultural developments in the Fertile Crescent [EBSCO on the Neolithic Revolution]", "2026-11-19: Göbekli Tepe's distinctive limestone T-shaped pillars are up to 5.50 m tall, and Çatalhöyük was inscribed on the World Heritage List in 2012 [UNESCO on Gobekli Tepe; UNESCO on Catalhoyuk]"]
 confidence: high
 status: seed
 tags: []

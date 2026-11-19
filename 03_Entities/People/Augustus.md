@@ -8,8 +8,8 @@ date_start: -63
 date_end: 14
 date_precision: year
 related: ["[[Romans]]", "[[Rome]]", "[[Classical Antiquity]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: Born 23 September 63 BCE; took the name Augustus 27 BCE; died 19 August 14 CE [Encyclopaedia Britannica; World History Encyclopedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]", "[[Wikipedia on Augustus]]"]
+fact_checks: ["2026-11-19: Augustus (born Gaius Octavius, 23 September 63 BC; died 19 August AD 14) was the first Roman emperor, from 27 BC until his death in AD 14 [Wikipedia on Augustus]"]
 confidence: high
 status: seed
 tags: []

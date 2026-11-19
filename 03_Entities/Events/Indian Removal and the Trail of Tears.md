@@ -9,7 +9,7 @@ date_end: 1850
 date_precision: approx
 related: ["[[Haudenosaunee Confederacy]]", "[[American Civil War]]"]
 sources: ["[[The Transformation of the World (Osterhammel)]]", "[[Encyclopaedia Britannica]]", "[[History.com on the Indian Removal Act]]"]
-fact_checks: ["2026-09-20: Act signed 28 May 1830; Cherokee, Choctaw, Chickasaw, Creek and Seminole affected; Worcester v. Georgia 1832 not enforced; about 4,000 of 16,000 Cherokee died in 1838-39 [History.com on the Indian Removal Act]"]
+fact_checks: ["2026-11-19: Andrew Jackson signed the Indian Removal Act on 28 May 1830; the mass migration resulted in more than 10,000 deaths (an estimated 4,000 Cherokee) and became known as the Trail of Tears [History.com on the Indian Removal Act]"]
 confidence: high
 status: seed
 tags: []

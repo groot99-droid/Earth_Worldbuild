@@ -8,8 +8,8 @@ date_start: 1304
 date_end: 1369
 date_precision: approx
 related: ["[[Mansa Musa]]", "[[Swahili Coast City-States]]", "[[Indian Ocean Trade Network]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: About 117,000 km (73,000 miles) of travel; account dictated to Ibn Juzayy; Mali visit 1352-53 [World History Encyclopedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]", "[[Wikipedia on Ibn Battuta]]"]
+fact_checks: ["2026-11-19: Ibn Battuta travelled around 117,000 km; he dictated an account of his journeys in Arabic to Ibn Juzayy; he set out with a caravan in February 1352 and set off for Sijilmasa in September 1353 [Wikipedia on Ibn Battuta]"]
 confidence: medium
 status: seed
 tags: []

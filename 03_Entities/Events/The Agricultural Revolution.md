@@ -9,7 +9,7 @@ date_end: -3000
 date_precision: approx
 related: ["[[Neolithic]]", "[[Animal Domestication]]", "[[The Settling and Its Bargain]]"]
 sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[The Dawn of Everything (Graeber and Wengrow)]]", "[[EBSCO on the Neolithic Revolution]]", "[[PNAS 2022 on Stature and Health of Early European Farmers]]", "[[UNESCO on Kuk Early Agricultural Site]]"]
-fact_checks: ["2026-09-20: Neolithic Revolution began about 12,000 years ago (11th millennium BP) in the Fertile Crescent; independent centers included China, Mesoamerica and the Andes (potato) [EBSCO on the Neolithic Revolution]", "2026-09-26: In 167 prehistoric Europeans, Neolithic individuals were shorter than their genetic scores predicted, by an average of 3.82 cm relative to the Upper Paleolithic and Mesolithic and 2.21 cm relative to post-Neolithic groups, read as a proxy for poorer health [PNAS 2022 on Stature and Health of Early European Farmers]", "2026-09-20: New Guinea wetland cultivation at Kuk for 7,000-10,000 years [UNESCO on Kuk Early Agricultural Site]"]
+fact_checks: ["2026-11-19: The Neolithic Revolution occurred around 12,000 years ago, with notable early agricultural developments in the Fertile Crescent [EBSCO on the Neolithic Revolution]", "2026-09-26: In 167 prehistoric Europeans, Neolithic individuals were shorter than their genetic scores predicted, by an average of 3.82 cm relative to the Upper Paleolithic and Mesolithic and 2.21 cm relative to post-Neolithic groups, read as a proxy for poorer health [PNAS 2022 on Stature and Health of Early European Farmers]", "2026-09-20: New Guinea wetland cultivation at Kuk for 7,000-10,000 years [UNESCO on Kuk Early Agricultural Site]"]
 confidence: high
 status: seed
 tags: []

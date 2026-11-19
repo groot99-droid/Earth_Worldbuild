@@ -1,0 +1,266 @@
+{
+ "deferred": [
+  [
+   "Bronze Age",
+   "Mesopotamian writing about 3400-3200",
+   [
+    "World History Encyclopedia on Cuneiform",
+    "World History Encyclopedia on the Indus Valley Civilization"
+   ]
+  ],
+  [
+   "Bronze Age",
+   "Sea Peoples attack recorded about 1177",
+   [
+    "World History Encyclopedia on the Late Bronze Age Collapse"
+   ]
+  ],
+  [
+   "Bronze Age Collapse",
+   "Sea Peoples attack recorded in Ramesses",
+   [
+    "World History Encyclopedia on the Late Bronze Age Collapse"
+   ]
+  ],
+  [
+   "Medieval Period",
+   "Umayyad 661-750 and Abbasid",
+   [
+    "World History Encyclopedia on the Umayyad Dynasty",
+    "World History Encyclopedia on the Abbasid Caliphate",
+    "World History Encyclopedia on the Mali Empire"
+   ]
+  ],
+  [
+   "Mesopotamia",
+   "Cuneiform about 3400-3200",
+   [
+    "World History Encyclopedia on Cuneiform",
+    "World History Encyclopedia on Uruk"
+   ]
+  ],
+  [
+   "Oceania",
+   "Aotearoa settled 1250-1300",
+   [
+    "Te Ara on Maori Arrival and Settlement"
+   ]
+  ],
+  [
+   "Polynesian Settlement of the Pacific",
+   "Aotearoa first settled 1250-1300",
+   [
+    "Te Ara on Maori Arrival and Settlement",
+    "World History Encyclopedia on Polynesian Navigation"
+   ]
+  ],
+  [
+   "South Asia",
+   "Indus Valley mature phase 2600-1900",
+   [
+    "World History Encyclopedia on the Indus Valley Civilization"
+   ]
+  ],
+  [
+   "Indus Valley Civilization",
+   "Mature Harappan phase 2600-1900",
+   [
+    "World History Encyclopedia on the Indus Valley Civilization"
+   ]
+  ],
+  [
+   "Invention of Writing",
+   "Mesopotamia about 3400-3200",
+   [
+    "World History Encyclopedia on Cuneiform",
+    "World History Encyclopedia on Writing"
+   ]
+  ],
+  [
+   "Mongol Conquests",
+   "Empire about 24 million km2",
+   [
+    "World History Encyclopedia on the Abbasid Caliphate"
+   ]
+  ],
+  [
+   "Classic Maya Collapse",
+   "Last Long Count date at Tonina",
+   [
+    "World History Encyclopedia on the Classic Maya Collapse"
+   ]
+  ],
+  [
+   "Protestant Reformation",
+   "Theses of 31 October 1517",
+   [
+    "World History Encyclopedia on Martin Luther"
+   ]
+  ],
+  [
+   "Akhenaten",
+   "Reign about 1353-1336",
+   [
+    "World History Encyclopedia on Akhenaten"
+   ]
+  ],
+  [
+   "Genghis Khan",
+   "Proclaimed Great Khan 1206",
+   [
+    "World History Encyclopedia on Genghis Khan"
+   ]
+  ],
+  [
+   "Pachacuti",
+   "Sapa Inca 1438-1471/72",
+   [
+    "World History Encyclopedia on Pachacuti"
+   ]
+  ],
+  [
+   "Siddhartha Gautama",
+   "Traditional dates c. 563-483",
+   [
+    "World History Encyclopedia on Siddhartha Gautama"
+   ]
+  ],
+  [
+   "Achaemenid Persians",
+   "Empire 550-330 BCE from Anatolia",
+   [
+    "Metropolitan Museum on the Achaemenid Persian Empire"
+   ]
+  ],
+  [
+   "Aztec Empire",
+   "Conquest by Spain 1519-1521",
+   [
+    "Britannica on Hernan Cortes",
+    "World History Encyclopedia on the Aztec Empire"
+   ]
+  ],
+  [
+   "Inca Empire",
+   "Conquest under Pachacuti from 1438",
+   [
+    "World History Encyclopedia on the Inca Empire",
+    "World History Encyclopedia on Pachacuti"
+   ]
+  ],
+  [
+   "Inuit and the Thule Expansion",
+   "Thule culture emerged about 900",
+   [
+    "Canadian Encyclopedia on the Thule Culture"
+   ]
+  ],
+  [
+   "Kushan Empire",
+   "Kujula Kadphises united the Yuezhi",
+   [
+    "Metropolitan Museum on the Kushan Empire"
+   ]
+  ],
+  [
+   "Mali Empire",
+   "Founded after Kirina",
+   [
+    "World History Encyclopedia on the Mali Empire"
+   ]
+  ],
+  [
+   "Maori",
+   "Settlement about 1250-1300",
+   [
+    "Te Ara on Maori Arrival and Settlement"
+   ]
+  ],
+  [
+   "Swahili Coast City-States",
+   "Ibn Battuta visited Kilwa 1331",
+   [
+    "World History Encyclopedia on the Swahili Coast"
+   ]
+  ],
+  [
+   "Yakut (Sakha)",
+   "2010 census 478,085 Sakha",
+   [
+    "Minority Rights Group on the Sakha"
+   ]
+  ]
+ ],
+ "blocked": {
+  "Bottke and Norman 2017 The Late Heavy Bombardment": "On 2026-11-19 no readable copy could be obtained: www2.boulder.swri.edu did not answer (the connection failed or timed out on every try), and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "British Museum on the Rosetta Stone": "On 2026-11-19 no readable copy could be obtained: www.britishmuseum.org answered HTTP 403 to automated requests, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "Canadian Encyclopedia on the Thule Culture": "On 2026-11-19 no readable copy could be obtained: www.thecanadianencyclopedia.ca answered HTTP 403 to automated requests, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "Facing History on Raphael Lemkin": "On 2026-11-19 no readable copy could be obtained: www.facinghistory.org answered HTTP 403 to automated requests, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "IPCC AR6 Synthesis Report 2023": "On 2026-11-19 no readable copy could be obtained: www.ipcc.ch answered HTTP 403 to automated requests, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "Jinek et al. 2012 CRISPR-Cas9": "On 2026-11-19 no readable copy could be obtained: www.magazin.uzh.ch did not answer (the connection failed or timed out on every try), and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified.",
+  "Library of Congress on the First Telegraph Message": "On 2026-11-19 no readable copy could be obtained: www.loc.gov answered HTTP 403 to automated requests, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified.",
+  "Metropolitan Museum on the Achaemenid Persian Empire": "On 2026-11-19 no readable copy could be obtained: www.metmuseum.org answered HTTP 429 (too many requests) on every try, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "Metropolitan Museum on the Kushan Empire": "On 2026-11-19 no readable copy could be obtained: www.metmuseum.org answered HTTP 429 (too many requests) on every try, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "Metropolitan Museum on the Middle Babylonian Period": "On 2026-11-19 no readable copy could be obtained: www.metmuseum.org answered HTTP 429 (too many requests) on every try, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "Michigan Early Astronomy on Ulugh Beg": "On 2026-11-19 no readable copy could be obtained: early-astronomy.classics.lsa.umich.edu did not answer (the connection failed or timed out on every try), and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "Minority Rights Group on the Sakha": "On 2026-11-19 no readable copy could be obtained: minorityrights.org answered HTTP 403 to automated requests, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "NZHistory World Suffrage Timeline": "On 2026-11-19 no readable copy could be obtained: nzhistory.govt.nz answered HTTP 403 to automated requests, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "NZHistory on the Treaty of Waitangi": "On 2026-11-19 no readable copy could be obtained: nzhistory.govt.nz answered HTTP 403 to automated requests, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "Oracc on Assyrian Mass Deportation": "On 2026-11-19 no readable copy could be obtained: oracc.museum.upenn.edu did not answer (the connection failed or timed out on every try), and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "Oxford Research Encyclopedia on Animal Domestication in Southwest Asia": "On 2026-11-19 no readable copy could be obtained: oxfordre.com answered HTTP 403 to automated requests, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified.",
+  "Poverty Point Monumental Earthworks Sources": "On 2026-11-19 no readable copy could be obtained: 2009-2017.state.gov answered with a page the fetcher recognised as a wall (a script, cookie or access check), not the text, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "Slave Voyages Database": "On 2026-11-19 no readable copy could be obtained: www.slavevoyages.org answered with a page the fetcher recognised as a wall (a script, cookie or access check), not the text, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified.",
+  "Smithsonian on the Sogdian Language": "On 2026-11-19 no readable copy could be obtained: sogdians.si.edu answered HTTP 403 to automated requests, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified.",
+  "Te Ara on Maori Arrival and Settlement": "On 2026-11-19 no readable copy could be obtained: teara.govt.nz answered HTTP 403 to automated requests, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on Borobudur": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on Carthage and Tyrian Purple": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on Cyrus the Great": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on Grave Circle A": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on Kingdoms and Periods of Ancient Egypt": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on Martin Luther": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on Narmer": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on Polynesian Navigation": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on Siddhartha Gautama": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on Sumer": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on Zoroastrianism": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on the Battle of Actium": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on the Battle of Kadesh": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on the Classic Maya Collapse": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on the Kingdom of Nabatea": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on the Kingdom of Saba": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on the Library of Alexandria": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on the Olmec Colossal Heads": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on the Swahili Coast": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read.",
+  "World History Encyclopedia on the Umayyad Dynasty": "On 2026-11-19 no readable copy could be obtained: www.worldhistory.org had answered HTTP 403 to automated requests earlier in the same run, so it was not asked again, and the Wayback Machine could not be reached from the sandbox that ran this pass (every connection to web.archive.org was reset). The page was therefore not read in this pass, and the claims that cite it remain unverified. The first Tier 5 pass (2026-09-27, on the owner's machine) did read this page, but its cached text is not in the repository, so nothing here rests on that read."
+ },
+ "new_not_fetched": [
+  "World History Encyclopedia on Akhenaten",
+  "World History Encyclopedia on Aksum",
+  "World History Encyclopedia on Alexander the Great",
+  "World History Encyclopedia on Augustus",
+  "World History Encyclopedia on Cuneiform",
+  "World History Encyclopedia on Genghis Khan",
+  "World History Encyclopedia on Hammurabi",
+  "World History Encyclopedia on Pachacuti",
+  "World History Encyclopedia on Uruk",
+  "World History Encyclopedia on Writing",
+  "World History Encyclopedia on the Abbasid Caliphate",
+  "World History Encyclopedia on the Aztec Empire",
+  "World History Encyclopedia on the Inca Empire",
+  "World History Encyclopedia on the Indus Valley Civilization",
+  "World History Encyclopedia on the Khmer Empire",
+  "World History Encyclopedia on the Late Bronze Age Collapse",
+  "World History Encyclopedia on the Mali Empire",
+  "World History Encyclopedia on the Peloponnesian War",
+  "World History Encyclopedia on the Punic Wars"
+ ],
+ "skipped": {
+  "Ancient Americas on the Oval Palace Tablet": "written by the fact-check sweep from a WebFetch read; not in the first pass's analysis",
+  "Global Nonviolent Action Database on the Brazilian Rubber Tappers Campaign": "written by the fact-check sweep from a WebFetch read; not in the first pass's analysis",
+  "National Park Service Theodore Roosevelt and Conservation": "written by the fact-check sweep from a WebFetch read; not in the first pass's analysis",
+  "Why Now, Kandinsky masterpiece once seized by Nazis breaks record in London sale": "written by the fact-check sweep from a WebFetch read; not in the first pass's analysis",
+  "USDA ERS on Genetically Engineered Crop Adoption": "created on 2026-11-19 by the vault-issues corrections (Soybean); not a Tier 5 source",
+  "EBSCO Research Starters on Monte Alban": "already done in Tier 3 (full-text, 2026-09-26)",
+  "ICS International Chronostratigraphic Chart": "not readable in this pass (stratigraphy.org answered with a wall page, the Wayback Machine was unreachable), but its Caveats say the chart PDF was read with the date left as a '%s' placeholder; the owner decides its access level"
+ }
+}

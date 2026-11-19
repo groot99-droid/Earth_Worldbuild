@@ -8,8 +8,8 @@ date_start: 1050
 date_end: 1350
 date_precision: approx
 related: ["[[Domestication of Maize]]", "[[North America]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[UNESCO World Heritage Centre]]"]
-fact_checks: ["2026-09-20: Peak population 10,000-20,000 (1050-1150), some estimates higher; Monks Mound about 30 m; UNESCO listing 1982 [UNESCO World Heritage Centre]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[UNESCO World Heritage Centre]]", "[[UNESCO on Cahokia Mounds]]"]
+fact_checks: ["2026-11-19: Cahokia's agricultural society may have had a population of 10-20,000 at its peak between 1050 and 1150; Monks Mound, the largest prehistoric earthwork in the Americas, stands 30 m high; the site was inscribed in 1982 [UNESCO on Cahokia Mounds]"]
 confidence: medium
 status: seed
 tags: []

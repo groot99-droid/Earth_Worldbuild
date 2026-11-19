@@ -8,8 +8,8 @@ date_start: 1907
 date_end: 1964
 date_precision: year
 related: ["[[Great Acceleration]]", "[[Modern Climate Change]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[US EPA History]]"]
-fact_checks: ["2026-09-20: Silent Spring September 1962; died 14 April 1964; EPA created 2 December 1970; DDT banned 1972 [US EPA History; Encyclopaedia Britannica]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[US EPA History]]", "[[Wikipedia on Rachel Carson]]"]
+fact_checks: ["2026-11-19: Silent Spring was published in 1962; the US EPA uses 2 December 1970, when its first administrator was confirmed, as the traditional date of its birth; Carson died on 14 April 1964; by 1972 activist groups had secured a phase-out of DDT use in the United States [US EPA History; Wikipedia on Rachel Carson]"]
 confidence: high
 status: seed
 tags: []
