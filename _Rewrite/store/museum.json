@@ -5740,5 +5740,50 @@
   },
   "date": "2026-11-19",
   "batch": "museum-015.part9"
+ },
+ "people--marie-curie--1": {
+  "src": "155096d3eee5",
+  "mode": "epic-fantasy",
+  "fields": {
+   "description": "Marie Curie (1867 to 1934) was a Polish-born physicist and chemist who opened the study of radioactivity, the hidden fire inside matter, and she is the only person to win Nobel Prizes in two different sciences.\n\nShe shared the 1903 Nobel Prize in Physics with Pierre Curie and Henri Becquerel.\n\nIn 1911 she won the Nobel Prize in Chemistry for discovering polonium and radium.\n\nShe built mobile X-ray units for the hospitals of World War I.\n\nShe died of aplastic anemia, likely brought on by long exposure to radiation, undone at last by the light she studied."
+  },
+  "date": "2026-11-19",
+  "batch": "museum-016.part1"
+ },
+ "people--charles-rennie-mackintosh--1": {
+  "src": "a3519ddf11e1",
+  "mode": "confessional-poetry",
+  "fields": {
+   "description": "I stand in the room of Charles Rennie Mackintosh (1868 to 1928), Glasgow architect-designer, who led the \"Glasgow Style\" of Art Nouveau, treating buildings, furniture and interiors as one unified art, whose Glasgow School of Art and total interior schemes made him a major influence on European design, though home recognition came only after his death.\n\nI read that he was born in Glasgow in 1868 and trained as an architect while attending evening classes at the Glasgow School of Art, where he met his future wife, the artist Margaret Macdonald. I read that with Macdonald, her sister Frances and Herbert MacNair he formed \"The Four,\" a symbolist group whose style became the Glasgow Style.\n\nAt Honeyman and Keppie he won an anonymous 1896 competition for his own art school's new building; its 1909 completion made his reputation. He then designed houses, tearooms and a school around Glasgow, including Hill House (1902-1904), the Willow Tearooms (1903) and Scotland Street School (1903-1906), with Macdonald designing the furnishings throughout. His towering ladder-back chairs, shaped as much to define a room as to be sat in, became his best-known design.\n\nHonoured abroad, recognised at home only after he was gone. Who near me am I failing to see? Recognition is often slowest in the city that knows you best."
+  },
+  "date": "2026-11-19",
+  "batch": "museum-016.part1"
+ },
+ "people--charles-rennie-mackintosh--2": {
+  "src": "a3519ddf11e1",
+  "mode": "essay-self-help",
+  "fields": {
+   "description": "Charles Rennie Mackintosh (1868 to 1928) was a Glasgow architect-designer who led the \"Glasgow Style\" of Art Nouveau, treating buildings, furniture and interiors as one unified art. His Glasgow School of Art and total interior schemes made him a major influence on European design, though home recognition came only after his death. Think of a building and its chairs as one sentence, and you have his doctrine.\n\nBorn in Glasgow in 1868, he trained as an architect while attending evening classes at the Glasgow School of Art, where he met his future wife, the artist Margaret Macdonald.\n\nWith Macdonald, her sister Frances and Herbert MacNair, he formed \"The Four,\" a symbolist group whose style became the Glasgow Style. A style is often a conversation among a few friends before it is a movement.\n\nAt Honeyman and Keppie he won an anonymous 1896 competition for his own art school's new building; its 1909 completion made his reputation.\n\nHe then designed houses, tearooms and a school around Glasgow, including Hill House (1902-1904), the Willow Tearooms (1903) and Scotland Street School (1903-1906), with Macdonald designing the furnishings throughout.\n\nHis towering ladder-back chairs, shaped as much to define a room as to be sat in, became his best-known design. Furniture, here, is architecture at the scale of the body."
+  },
+  "date": "2026-11-19",
+  "batch": "museum-016.part1"
+ },
+ "people--charles-rennie-mackintosh--3": {
+  "src": "a3519ddf11e1",
+  "mode": "epic-fantasy",
+  "fields": {
+   "description": "Charles Rennie Mackintosh (1868 to 1928) was a Glasgow architect-designer who led the \"Glasgow Style\" of Art Nouveau, making buildings, furniture and interiors one unbroken art, as root, trunk and leaf make one tree. His Glasgow School of Art and his total interior schemes made him a great influence on European design, though recognition at home came only after his death.\n\nHe was born in Glasgow in 1868 and trained as an architect while going to evening classes at the Glasgow School of Art, where he met the artist Margaret Macdonald, his future wife.\n\nWith Macdonald, her sister Frances and Herbert MacNair he formed \"The Four,\" a symbolist circle whose style became the Glasgow Style.\n\nAt Honeyman and Keppie he won an anonymous 1896 competition for his own art school's new building, and its completion in 1909 made his name.\n\nHe went on to design houses, tearooms and a school around Glasgow, among them Hill House (1902-1904), the Willow Tearooms (1903) and Scotland Street School (1903-1906), with Macdonald designing the furnishings throughout.\n\nHis towering ladder-back chairs, made as much to shape a room as to be sat in, became his best-known design."
+  },
+  "date": "2026-11-19",
+  "batch": "museum-016.part1"
+ },
+ "people--mahatma-gandhi--1": {
+  "src": "f62ec29ecbc6",
+  "mode": "essay-self-help",
+  "fields": {
+   "description": "Mohandas Karamchand Gandhi (1869 to 1948) was an Indian lawyer and political leader who led the movement for Indian independence using nonviolent resistance.\n\nHe developed satyagraha (insistence on truth), first in South Africa, then in India. A method, carried from one country to another, can become a doctrine.\n\nThe Salt March of 1930 was a major act of civil disobedience.\n\nIndia became independent in 1947 and was partitioned; he opposed partition.\n\nHe was assassinated in January 1948."
+  },
+  "date": "2026-11-19",
+  "batch": "museum-016.part1"
  }
 }
