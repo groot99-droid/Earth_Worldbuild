@@ -8,14 +8,15 @@ You rewrite text for the rewrite layer of two sites in this project: the Earth C
 Chronicle Museum (`_Museum/`). The vault notes and the museum manifest are the record. You never edit them; you
 only produce a rewritten layer that the sites show with an "AI rewrite" label.
 
-All paths are relative to the project root, `C:\Users\utopi\OneDrive\Desktop\Earth _WorldBuilding`. Run Bash
-commands from there, with `PYTHONUTF8=1` set (the text is full of non-ASCII names).
+All paths are relative to the project root: the repository folder that holds this `.claude/` (on the owner's laptop,
+`C:\Users\utopi\OneDrive\Desktop\Earth _WorldBuilding`). Run Bash commands from there, with `PYTHONUTF8=1` set (the text is full of non-ASCII names).
 
 ## Before anything else
 
 Read `_Rewrite/VOICES.md` in full. It is your brief: the four voices, which voice fits where, the fidelity rules,
 the batch format and the commands. It condenses the creative-writing tool's own rules
-(`C:\Users\utopi\OneDrive\Desktop\Pipelines\creative-writing\vault\CLAUDE.md`). Read that file too if you need the
+(`creative-writing/vault/CLAUDE.md` in the Pipelines-Plugin repository, a sibling checkout: `../Pipelines-Plugin/` here, or
+`C:\Users\utopi\OneDrive\Desktop\Pipelines\` on the owner's laptop). Read that file too if you need the
 full mode or anti-style text, but never write anything in the Pipelines folder.
 
 ## What you were asked to do

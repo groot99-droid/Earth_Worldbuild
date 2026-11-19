@@ -58,6 +58,7 @@ notes = []
 for r in results:
     title = r["title"]
     checks = []
+    cited_all = []  # every source a kept check cites; Conventions wants each one in the note's sources: list
     for c in r.get("checks", []):
         c = fix_quotes(c)
         m = re.search(r"\[([^\]]+)\]$", c)
@@ -70,10 +71,12 @@ for r in results:
             continue
         c = c[: m.start()] + "[" + "; ".join(cited) + "]"
         checks.append(c)
+        cited_all += [x for x in cited if x not in cited_all]
     if len(checks) < 2:
         print(f"SKIP note {title}: only {len(checks)} valid checks")
         continue
-    notes.append({"note": title, "checks": checks})
+    # apply_patch.py adds each title to the note's sources: list unless it is already there
+    notes.append({"note": title, "checks": checks, "sources": cited_all})
     for corr in r.get("corrections", []):
         print(f"CORRECTION [{title}]: {corr}")
 
