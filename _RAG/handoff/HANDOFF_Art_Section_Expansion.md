@@ -8,6 +8,10 @@ You are continuing the expansion of the vault's named-artist section from 53 to 
 3. Exemplars: vault notes Behzad, Mimar Sinan, Murasaki Shikibu, Alice Guy-Blaché in `03_Entities/People/`, and their Art-Talk profiles `Art-Talk-main/artists/{behzad,mimar-sinan,murasaki-shikibu,alice-guy-blache}.md`.
 4. `00_Meta/Conventions.md` section "Named-Artist Notes".
 
+## CURRENT STATE (checked 2026-11-19)
+- Unchanged since 2026-09-28: no commit has touched the ledger, `Art-Talk-main/artists/` or the artist notes. `art_tally.py` reports 0 of 150 new notes; the ledger has 150 `candidate` and 70 reserve rows. Phase 1 (the pilot batch of six) has not started, and the open decisions in WHAT IS LEFT item 1 are still unanswered in the repository.
+- `Art-Talk-main/README.md` was brought up to date on 2026-11-19 (schema v2 regions and disciplines, `probe_candidates.py`, the RAG chunk counts, publishing through this repository's Pages workflow); it still lists the original 53 artists, which is correct. `_Museum/README.md` and `04_Themes/Art and Ritual.md` are as before.
+
 ## STATE (2026-09-28)
 - PHASE 0 (prep) DONE except the 10-note retro-tag (waits for the user's OK). Done: Art-Talk schema v2 (`Art-Talk-main/scripts/build.py`, `templates/timeline.html`); `Art-Talk-main/scripts/probe_candidates.py`; `_Museum/build_manifest.py` now warns and skips artists missing from ROOM_PLAN instead of aborting; source notes `Art-Talk (Expansion Profiles)` (created unverified, flip to `verified: true`, `access: full-text`, `read_on` when the first batch is converted) and `Art-Talk (Artist Profiles)` edited to say "original 53"; Conventions section; ledger; `_RAG/tools/art_tally.py`; `_RAG/tools/art_precheck.py`.
 - The ledger holds 220 candidate rows (135 illustrated core incl. 2 Tier P, 15 text-only, 65 illustrated reserves, 5 text-only reserves), the 53 existing artists (`existing`) and the 10 retro-tag rows (`pending-approval`). All 220 passed the title/alias/slug precheck on 2026-09-28.

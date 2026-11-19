@@ -1,3 +1,5 @@
+> **Status, 2026-11-19:** Historical record, kept as written on 2026-09-26 to 2026-09-28. Current state: all People and all thirteen Cultures batches are written (People 203, Peoples-Cultures 183 notes; last batch commit `24c03a4`, 2026-09-28). The section 6.4 / section 5 link pass was not run: for example "Holy Roman Empire" in `Franks.md` and "Sasanian Empire" in `Manichaeism.md` are still plain text, and `Attila.md` does not link `[[Huns]]`. Superseded by `_RAG/handoff/HANDOFF_Brief1_Cultures_Remaining.md` for the remaining steps.
+
 # Handoff: Earth Chronicle Brief 1 (People + Peoples & Cultures)
 
 Prepared 2026-09-26; ledger updated after People Batch 6 (2026-09-26 14:15). Section 1 is the message to paste into the new chat. The rest is reference the new chat will read from this file.

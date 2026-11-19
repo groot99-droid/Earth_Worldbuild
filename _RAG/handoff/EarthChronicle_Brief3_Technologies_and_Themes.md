@@ -1,3 +1,5 @@
+> **Status, 2026-11-19:** Historical record, kept as written when the brief was issued (2026-09-25, the date of the counts it quotes). Current state: Brief 3 is written: the nine theme hubs were rewritten, `03_Entities/Artifacts-Technologies/` holds 88 notes (24 + 64) and `05_Observer_Notes/` 29 (11 + 18; commit `a6b192a`, 2026-09-28). Still owed: the link pass and the "coverage is uneven" bullets of the theme hubs, which still name topics that now have notes (see `_RAG/handoff/Brief3_Handoff.md`). Superseded by `_RAG/handoff/Brief3_Handoff.md`.
+
 # BRIEF 3 of 4: Technologies and Themes
 
 Paste this whole brief into a new Claude chat, then send: "Start Part A."

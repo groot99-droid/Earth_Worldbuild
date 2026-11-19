@@ -1,3 +1,5 @@
+> **Status, 2026-11-19:** Historical record, kept as written when the brief was issued (2026-09-25, the date of the counts it quotes). Current state: Brief 1 is written: `03_Entities/People/` holds 203 notes and `03_Entities/Peoples-Cultures/` 183 (the last batch is commit `24c03a4`, 2026-09-28). The close-out (link pass, region check, reindex) was not done; see `_RAG/handoff/HANDOFF_Brief1_Cultures_Remaining.md` section 5. Superseded by `_RAG/handoff/Brief1_Handoff.md` and `HANDOFF_Brief1_Cultures_Remaining.md` for how the work ran.
+
 # BRIEF 1 of 4: People and Peoples & Cultures
 
 Paste this whole brief into a new Claude chat, then send: "Start batch 1."

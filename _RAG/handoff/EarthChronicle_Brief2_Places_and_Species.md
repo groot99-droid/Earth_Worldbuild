@@ -1,3 +1,5 @@
+> **Status, 2026-11-19:** The original brief, kept as written when it was issued (2026-09-25, the date of the counts it quotes). Brief 2 is still in progress: Places are done (111 notes) and Species Batches 10-13 are written (32 of about 42); Batches 14 and 15 remain. Current state and the batch plan: `_RAG/handoff/HANDOFF_Brief2_Places_and_Species.md`.
+
 # BRIEF 2 of 4: Places and Species
 
 Paste this whole brief into a new Claude chat, then send: "Start batch 1."
