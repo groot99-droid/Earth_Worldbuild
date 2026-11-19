@@ -1,6 +1,6 @@
 # Earth Chronicle site
 
-Static explorer for the vault (963 notes; everything except `00_Meta` and `_Templates`). Design decisions: [DESIGN.md](DESIGN.md).
+Static explorer for the vault (1,660 notes at the 2026-11-19 build; everything except `00_Meta` and `_Templates`). Design decisions: [DESIGN.md](DESIGN.md).
 
 ```
 python scripts/plan_images.py            # data/image-plan.json (1..ceiling images per note by richness)
@@ -27,6 +27,14 @@ not-lead images (maps, diagrams, flags, tangential photos) were kept but demoted
 with no image or only weak ones; each got a new Higgsfield lead image (`register_batch2.py`), after which every non-source
 note has at least one image (one, `person/laozi`, needed a manual re-fetch to replace a too-small combined portrait).
 Total AI images: 84 (26 concept art + 1 hero from the first pass, 58 replacements). See `data/audit/` for the full record.
+
+**Since the audit (state on 2026-11-19):** one more AI illustration (`person/sunni-ali`, from the fact-check sweep) makes 85 AI note images in
+`data/image-credits.json` (26 + 58 + 1; the header banner is recorded separately in `data/hero.json`).
+Notes added after the audit have no images yet: of the 912 non-source notes, 174 have no lead image (102 cultures,
+24 species, 24 technologies, 18 Observer essays, 6 events). A fresh `plan_images.py` puts 48 of them (the species and
+technologies) in the image sweep's scope; `_RAG/tools/worklist.py images` lists them once the plan is rebuilt. The committed
+`data/image-plan.json` predates those notes. The last build: 1,861 images, 944 notes with an image, 10,345 edges, 1
+unresolved link (`species/homo-sapiens -> Observer's Charter`, a meta note the site leaves out); `--check` OK.
 Serve `_Site/` with any static server (`preview_start earth-chronicle` uses port 8766). Open `/?selftest=images` to decode every image in the browser.
 
 `fetch_images.py` options: `--sample 20`, `--only <slug|title>`, `--types person event`, `--limit N`, `--force`, `--retry-gaps`, `--phase discover`.
@@ -44,7 +52,7 @@ Higgsfield concept art (badged "AI illustration") and the header banner; credits
 journey narration, quiz) read `data/ai-text.json`; `ai_assets.py validate-text` rejects any line that adds a number or name not in the note itself.
 
 ## Rewrite layer
-Every note's text is overlaid with an AI rewrite in one of the creative-writing tool's four voices (`data/rewrite-<type>.json`,
+Every note's text (all 1,660 as of 2026-11-19) is overlaid with an AI rewrite in one of the creative-writing tool's four voices (`data/rewrite-<type>.json`,
 `data/rewrite-index.json` for card blurbs), labelled in the note panel. It lives in `_Rewrite/` (see its README); `build_site.py`
 republishes it after each build, drops rewrites whose note changed, and prints how many notes are waiting. New notes are
 rewritten by the `chronicle-rewriter` agent (`.claude/agents/`).
