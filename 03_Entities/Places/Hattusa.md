@@ -8,7 +8,7 @@ date_start: -1650
 date_end: -1200
 date_precision: approx
 related: ["[[Hittites]]", "[[Battle of Kadesh]]", "[[Bronze Age Collapse]]", "[[Indo-European Language Spread]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Hattusa]]", "[[Wikipedia on Bedřich Hrozný]]"]
 confidence: medium
 status: seed
 tags: []

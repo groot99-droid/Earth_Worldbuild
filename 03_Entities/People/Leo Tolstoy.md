@@ -8,7 +8,7 @@ date_start: 1828
 date_end: 1910
 date_precision: year
 related: ["[[Mahatma Gandhi]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Leo Tolstoy]]"]
 confidence: medium
 status: seed
 tags: [artist, literature]

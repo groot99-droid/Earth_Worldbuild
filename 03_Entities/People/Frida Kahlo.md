@@ -8,7 +8,7 @@ date_start: 1907
 date_end: 1954
 date_precision: exact
 related: ["[[Mexican Revolution]]", "[[Mexico City]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Frida Kahlo]]"]
 confidence: high
 status: seed
 tags: []

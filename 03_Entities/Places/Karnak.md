@@ -7,7 +7,7 @@ themes: [religion, art, war]
 date_start: -1970
 date_precision: approx
 related: ["[[Ancient Egyptians]]", "[[Battle of Kadesh]]", "[[Kingdom of Kush]]", "[[Valley of the Kings]]", "[[Nile River]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Karnak]]", "[[Wikipedia on Great Hypostyle Hall]]", "[[Wikipedia on Hatshepsut]]", "[[Wikipedia on Avenue of Sphinxes]]"]
 confidence: medium
 status: seed
 tags: []

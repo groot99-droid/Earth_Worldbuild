@@ -8,7 +8,7 @@ date_start: 1498
 date_end: 1546
 date_precision: approx
 related: ["[[Delhi Sultanate]]", "[[Mughal Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Mirabai]]"]
 confidence: low
 status: seed
 tags: []

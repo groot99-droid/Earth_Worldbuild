@@ -8,7 +8,7 @@ date_start: 53
 date_end: 117
 date_precision: year
 related: ["[[Romans]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Trajan]]", "[[Wikipedia on Trajan's Dacian Wars]]", "[[Wikipedia on Trajan's Parthian campaign]]"]
 confidence: high
 status: seed
 tags: []

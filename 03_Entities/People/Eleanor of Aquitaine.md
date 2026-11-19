@@ -8,7 +8,7 @@ date_start: 1124
 date_end: 1204
 date_precision: approx
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Eleanor of Aquitaine]]"]
 confidence: high
 status: seed
 tags: []

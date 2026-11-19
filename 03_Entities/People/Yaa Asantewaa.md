@@ -8,7 +8,7 @@ date_start: 1840
 date_end: 1921
 date_precision: approx
 related: ["[[Scramble for Africa]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Yaa Asantewaa]]", "[[Wikipedia on War of the Golden Stool]]"]
 confidence: medium
 status: seed
 tags: []

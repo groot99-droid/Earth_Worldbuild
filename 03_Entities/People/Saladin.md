@@ -8,7 +8,7 @@ date_start: 1137
 date_end: 1193
 date_precision: approx
 related: ["[[Crusades]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Saladin]]", "[[Wikipedia on Siege of Jerusalem (1187)]]", "[[Wikipedia on Treaty of Jaffa (1192)]]"]
 confidence: high
 status: seed
 tags: []

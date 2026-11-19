@@ -10,12 +10,13 @@ Local, CPU-only retrieval over the vault. No API keys, no cloud calls (after the
 
 Because `## Facts` and `## Observer's Reading` are separate chunks, a query can return facts or interpretation independently.
 
-## Setup (already done on this machine)
+## Setup (already done on the owner's Windows machine)
 ```bash
 python -m venv _RAG/.venv
 _RAG/.venv/Scripts/python.exe -m pip install -r _RAG/requirements.txt
 _RAG/.venv/Scripts/python.exe _RAG/build_index.py
 ```
+On Linux or macOS the venv Python is `_RAG/.venv/bin/python`. The validator, `update_hubs.py`, `worklist.py`, `audit_claims.py` and `status_overview.py` need only PyYAML; the index needs the full `requirements.txt`. `_RAG/.venv/`, `_RAG/index/` and `_RAG/source_cache/` are git-ignored, so a fresh clone of the repository (`groot99-droid/Earth_Worldbuild`) has no index and no cached source text.
 First build downloads the model (~130 MB) into `_RAG/index/model_cache`. Windows may log a symlink warning; it is harmless.
 
 ## Daily workflow
@@ -23,6 +24,8 @@ First build downloads the model (~130 MB) into `_RAG/index/model_cache`. Windows
 python _RAG/tools/validate_vault.py    # schema, folders, sections, broken links, orphans
 python _RAG/tools/update_hubs.py       # regenerate era/region/theme member lists and timelines
 python _RAG/build_index.py             # incremental: only changed notes are re-embedded
+python _Site/scripts/build_site.py --check      # rebuild the site data; prints notes waiting for the rewrite layer
+python _RAG/tools/status_overview.py --write    # refresh the counts in 00_Meta/Project Status Overview.md
 ```
 (Use `_RAG/.venv/Scripts/python.exe` in place of `python`.) `build_index.py --force` rebuilds everything.
 
@@ -60,9 +63,28 @@ The server auto-detects `mcp` 2.x (`MCPServer`) or 1.x (`FastMCP`).
 | `tools/fetch_source.py` | reads a source's raw text through routes that work, caches it in `source_cache/`, checks `fact_checks` against it |
 | `tools/apply_patch.py` | guarded bulk edits to notes and source notes (exact-once text matches, backups, `fact_checks` bookkeeping) |
 | `tools/audit_claims.py` | counts Facts bullets not covered by a `fact_checks` line (compare per patched note, not globally) |
+| `tools/worklist.py` | live gap lists: `factcheck` (notes with no `fact_checks`), `images` (content notes with no credited image; run `_Site/scripts/plan_images.py` first) |
+| `tools/status_overview.py` | recomputes the counts in `00_Meta/Project Status Overview.md` (`--write` updates the note) |
+| `tools/art_tally.py`, `tools/art_precheck.py` | the art section expansion: tally against its targets, and title/alias/slug checks before a write |
+| `tools/sweep/` | the fact-check sweep's Workflow scripts and spec builders (see `handoff/factcheck_sweep_status.md`) |
 | `tools/helpers/` | scripts for the re-read project, all resolving paths through `_paths.py` (see below) |
 | `config.yaml` | model, chunking, search weights |
 | `index/` | generated (git-ignored): database and model cache |
+| `source_cache/` | git-ignored: fetched source text, `queue.json`, `discrepancies.md`, `unresolved.md`, patch backups |
+
+## Work in progress (handoff files)
+Each long task keeps its state in a handoff file. Status as of 2026-11-19:
+
+| File | Task | State |
+|---|---|---|
+| `HANDOFF.md`, `HANDOFF_Tier5.md` | source re-read, Tiers 1-6 | Tiers 1-4 done; Tier 5 fetched and its patch written but not applied; Tier 6 not started |
+| `handoff/factcheck_sweep_status.md` | fact-check and image sweep | batches 1-6 applied; 287 notes still without `fact_checks` |
+| `handoff/HANDOFF_Brief2_Places_and_Species.md` | Brief 2 | Places done; Species Batches 14-15 (10 notes) not written |
+| `handoff/HANDOFF_Art_Section_Expansion.md` | art section expansion | Phase 0 done; no batch written |
+| `handoff/Brief1_Handoff.md`, `handoff/HANDOFF_Brief1_Cultures_Remaining.md` | Brief 1 | all batches written; the link pass is still owed |
+| `handoff/Brief3_Handoff.md` | Brief 3 | all notes written; the link pass and the hub coverage bullets are still owed |
+
+The `handoff/EarthChronicle_Brief*.md` files are the original briefs; finished files carry a dated status banner at the top. `../_Rewrite/HANDOFF.md` and `../_Museum/blender/scripts/V2_HANDOFF.md` cover the rewrite layer and the retired Blender pass of the museum.
 
 ## Re-reading sources (fact-checking)
 WebFetch returns a model-written summary, and Britannica, science.org, pnas.org, PMC and PubMed web pages refuse automated requests. `tools/fetch_source.py` reads the raw text instead, and never bypasses a CAPTCHA, cookie wall or paywall:
@@ -103,4 +125,4 @@ A contact email for the polite-pool APIs (Crossref, OpenAlex, NCBI, Wikimedia) c
 Edit `config.yaml`: `chunking.max_words`, `search.heading_weights`, `search.candidates`. Changing `embedding.model` triggers a full rebuild automatically.
 
 ## Note on OneDrive
-This vault sits in a OneDrive folder. `_RAG/.venv` and `_RAG/index` are large and regenerable; consider excluding them from sync (OneDrive: right-click the folder, "Free up space", or move the vault out of OneDrive).
+On the owner's machine this vault sits in a OneDrive folder (it is also the git repository `groot99-droid/Earth_Worldbuild`). `_RAG/.venv` and `_RAG/index` are large and regenerable; consider excluding them from sync (OneDrive: right-click the folder, "Free up space", or move the vault out of OneDrive).

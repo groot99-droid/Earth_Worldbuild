@@ -7,7 +7,7 @@ themes: [religion, trade]
 date_start: 500
 date_precision: approx
 related: ["[[Rise of Islam]]", "[[Incense Trade]]", "[[Medina]]", "[[Umayyad Caliphate]]", "[[Ottoman Empire]]", "[[Mali Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Wikipedia on Mecca]]", "[[Wikipedia on Hajj]]", "[[Wikipedia on 2015 Mina stampede]]"]
 confidence: medium
 status: seed
 tags: []

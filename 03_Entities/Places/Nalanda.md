@@ -8,7 +8,7 @@ date_start: 427
 date_end: 1200
 date_precision: approx
 related: ["[[Gupta Empire]]", "[[Tang Dynasty]]", "[[Srivijaya]]", "[[Delhi Sultanate]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Nalanda]]"]
 confidence: medium
 status: seed
 tags: []

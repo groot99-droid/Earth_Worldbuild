@@ -8,7 +8,7 @@ date_start: 1862
 date_end: 1918
 date_precision: exact
 related: ["[[Holocaust]]", "[[1918 Influenza Pandemic]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Gustav Klimt]]", "[[Wikipedia on Vienna Secession]]", "[[Wikipedia on Portrait of Adele Bloch-Bauer I]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

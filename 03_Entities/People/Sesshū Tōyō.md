@@ -8,7 +8,7 @@ date_start: 1420
 date_end: 1506
 date_precision: year
 related: ["[[Ming Dynasty]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Britannica on Sesshu]]", "[[Wikipedia on Sesshū Tōyō]]", "[[Wikipedia on List of National Treasures of Japan (paintings)]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

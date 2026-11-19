@@ -7,7 +7,7 @@ themes: [trade, science, war]
 date_start: 47
 date_precision: approx
 related: ["[[Romans]]", "[[Industrial Revolution]]", "[[British Raj]]", "[[Black Death]]", "[[World War II]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Wikipedia on History of London]]", "[[Wikipedia on London]]", "[[Wikipedia on Great Fire of London]]", "[[Wikipedia on The Blitz]]"]
 confidence: medium
 status: seed
 tags: []

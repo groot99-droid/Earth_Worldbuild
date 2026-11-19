@@ -7,7 +7,7 @@ themes: [trade, religion, science]
 date_start: -500
 date_precision: approx
 related: ["[[Sogdians]]", "[[Samarkand]]", "[[Mongol Conquests]]", "[[Rise of Islam]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on History of Bukhara]]", "[[Wikipedia on Bukhara]]", "[[Wikipedia on Kalyan Minaret]]", "[[Wikipedia on Emirate of Bukhara]]"]
 confidence: medium
 status: seed
 tags: []

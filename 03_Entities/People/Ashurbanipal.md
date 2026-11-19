@@ -8,7 +8,7 @@ date_start: -685
 date_end: -631
 date_precision: approx
 related: ["[[Neo-Assyrian Empire]]", "[[Invention of Writing]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Ashurbanipal]]", "[[Wikipedia on Library of Ashurbanipal]]"]
 confidence: high
 status: seed
 tags: []

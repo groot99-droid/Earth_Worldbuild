@@ -8,7 +8,7 @@ date_start: 1508
 date_end: 1580
 date_precision: year
 related: ["[[Renaissance]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Andrea Palladio]]"]
 confidence: medium
 status: seed
 tags: [artist, architecture]

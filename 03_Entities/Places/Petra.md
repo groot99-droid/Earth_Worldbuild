@@ -7,7 +7,7 @@ themes: [trade, art]
 date_start: -312
 date_precision: approx
 related: ["[[Nabataeans]]", "[[Incense Trade]]", "[[Romans]]", "[[Hegra]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Petra]]", "[[Wikipedia on Nabataeans]]"]
 confidence: medium
 status: seed
 tags: []

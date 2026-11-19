@@ -8,7 +8,7 @@ date_start: 1866
 date_end: 1944
 date_precision: exact
 related: ["[[Claude Monet]]", "[[Hilma af Klint]]", "[[Russian Revolution]]", "[[World War I]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Wassily Kandinsky]]", "[[Why Now, Kandinsky masterpiece once seized by Nazis breaks record in London sale]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

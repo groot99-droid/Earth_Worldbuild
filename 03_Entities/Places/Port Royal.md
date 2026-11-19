@@ -8,7 +8,7 @@ date_start: 1655
 date_end: 1692
 date_precision: year
 related: ["[[Atlantic Slave Trade]]", "[[Sugar Plantation Complex]]", "[[Santo Domingo]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Port Royal]]", "[[Wikipedia on 1692 Jamaica earthquake]]"]
 confidence: medium
 status: seed
 tags: []

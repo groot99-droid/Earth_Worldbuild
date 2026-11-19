@@ -7,7 +7,7 @@ themes: [trade, war]
 date_start: 1482
 date_precision: year
 related: ["[[Atlantic Slave Trade]]", "[[Abolition of Slavery]]", "[[Decolonization]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Elmina Castle]]", "[[Wikipedia on Portuguese Gold Coast]]", "[[Wikipedia on Dutch Gold Coast]]"]
 confidence: medium
 status: seed
 tags: []

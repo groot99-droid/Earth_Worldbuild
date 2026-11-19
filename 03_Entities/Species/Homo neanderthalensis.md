@@ -8,7 +8,7 @@ date_start: -400000
 date_end: -40000
 date_precision: approx
 related: ["[[Out of Africa Dispersal]]", "[[Denisovans]]", "[[Homo sapiens]]"]
-sources: ["[[The Human Career (Klein)]]", "[[Green et al. 2010 Neandertal Genome]]"]
+sources: ["[[The Human Career (Klein)]]", "[[Green et al. 2010 Neandertal Genome]]", "[[Sankararaman et al. 2016 Neanderthal and Denisovan Ancestry Map]]"]
 fact_checks: ["2026-09-26: A draft Neandertal genome was first published in Science on 7 May 2010; some present-day humans derive about 2 percent of their ancestry from Neanderthals [Green et al. 2010 Neandertal Genome; Sankararaman et al. 2016 Neanderthal and Denisovan Ancestry Map]"]
 confidence: high
 status: seed

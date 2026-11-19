@@ -8,7 +8,7 @@ date_start: 1838
 date_end: 1917
 date_precision: exact
 related: ["[[Polynesians]]", "[[Polynesian Settlement of the Pacific]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Liliuokalani]]", "[[Wikipedia on Apology Resolution]]"]
 confidence: high
 status: seed
 tags: []

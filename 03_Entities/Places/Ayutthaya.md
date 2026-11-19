@@ -8,7 +8,7 @@ date_start: 1351
 date_end: 1767
 date_precision: year
 related: ["[[Ayutthaya Kingdom]]", "[[Khmer Empire]]", "[[Angkor]]", "[[Dutch East India Company]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Ayutthaya Kingdom]]", "[[Wikipedia on Ayutthaya Historical Park]]"]
 confidence: medium
 status: seed
 tags: []

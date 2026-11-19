@@ -8,7 +8,7 @@ date_start: 1658
 date_end: 1996
 date_precision: year
 related: ["[[Dutch East India Company]]", "[[Decolonization]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Robben Island]]", "[[Wikipedia on Autshumato]]"]
 confidence: medium
 status: seed
 tags: []

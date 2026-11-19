@@ -8,7 +8,7 @@ date_start: 1084
 date_end: 1155
 date_precision: approx
 related: ["[[Song Dynasty]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Li Qingzhao]]"]
 confidence: medium
 status: seed
 tags: []

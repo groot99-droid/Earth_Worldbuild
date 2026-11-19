@@ -8,7 +8,7 @@ date_start: 1274
 date_end: 1329
 date_precision: year
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Robert the Bruce]]", "[[Wikipedia on Battle of Bannockburn]]", "[[Wikipedia on Treaty of Edinburgh–Northampton]]"]
 confidence: high
 status: seed
 tags: []

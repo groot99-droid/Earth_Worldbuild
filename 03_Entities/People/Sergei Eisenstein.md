@@ -8,7 +8,7 @@ date_start: 1898
 date_end: 1948
 date_precision: year
 related: ["[[Russian Revolution]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Sergei Eisenstein]]", "[[Wikipedia on Battleship Potemkin]]"]
 confidence: medium
 status: seed
 tags: [artist, film]

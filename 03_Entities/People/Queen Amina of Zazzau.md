@@ -8,7 +8,7 @@ date_start: 1576
 date_end: 1610
 date_precision: approx
 related: ["[[Sokoto Caliphate]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Amina of Zazzau]]"]
 confidence: low
 status: seed
 tags: []

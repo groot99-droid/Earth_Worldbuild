@@ -8,7 +8,7 @@ date_start: 632
 date_end: 647
 date_precision: approx
 related: []
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Queen Seondeok of Silla]]"]
 confidence: high
 status: seed
 tags: []

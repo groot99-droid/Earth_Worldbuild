@@ -7,7 +7,7 @@ themes: [religion, war, kinship]
 date_start: 622
 date_precision: year
 related: ["[[Mecca]]", "[[Rise of Islam]]", "[[Umayyad Caliphate]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Wikipedia on Medina]]", "[[Wikipedia on Constitution of Medina]]", "[[Wikipedia on Banu Qurayza]]"]
 confidence: medium
 status: seed
 tags: []

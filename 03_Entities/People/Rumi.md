@@ -8,7 +8,7 @@ date_start: 1207
 date_end: 1273
 date_precision: year
 related: ["[[Mongol Conquests]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Rumi]]"]
 confidence: high
 status: seed
 tags: [artist, literature]

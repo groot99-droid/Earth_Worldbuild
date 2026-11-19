@@ -1,3 +1,5 @@
+> **Status, 2026-11-19:** Historical record, kept as written on 2026-09-28. Current state: the Blender route was retired the same day (commit `09b5ff4`): the viewer no longer loads a glTF, and every scene (the Grand Hall hub and 16 rooms) is generated in the browser from `_Museum/data/museum-layout.json`, written by `_Museum/build_layout.py` through `_Museum/build_manifest.py`; the renderer, light pool, materials and collision work listed below live on in `_Museum/web/js/` (`render.js`, `lights.js`, `materials.js`, `controls.js`). `museum.blend`, the snapshots and the renders named below are not in the repository. Superseded by `_Museum/README.md`.
+
 # Hyper-Realism Pass v2: handoff (updated 2026-09-28 09:05)
 
 The plan: the pasted "Hyper-Realism Pass — Chronicle Museum (v2)" (Phases 0–5, with a user review gate after Phase 2).

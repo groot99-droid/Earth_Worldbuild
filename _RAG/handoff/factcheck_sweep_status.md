@@ -8,7 +8,15 @@ Give every entity/era/region note a cited `fact_checks` list (fixing any wrong o
 - Images: content notes only (person, place, technology, species), zero-image gaps only. Not `07_Sources`, not the under-quota tail (notes with 1 image below their richness ceiling).
 - AI fallback allowed when Commons/Smithsonian has nothing: Higgsfield model id `recraft_v4_1`, labelled "AI illustration".
 
-## State at stop
+## Current state (checked 2026-11-19)
+- **Batch 6 corrections are applied** (commit `5bcf4cf`, 2026-09-28, 24 Places notes, hubs regenerated, validator 0 errors). The three files in `sweep_pending/` are that batch's inputs, kept as a record; nothing in them is waiting.
+- Fact-check coverage: **584/871** era, region and entity notes have `fact_checks` (the denominator grew with Briefs 1-3; no batch ran after Batch 6). `worklist.py factcheck` lists **287** notes: culture 102, technology 64, species 40, event 38, era 23, place 20 (person 0, region 0). Most are notes written after the sweep stopped (Brief 1 cultures, Brief 3 technologies, Brief 2 species).
+- Images: the committed `_Site/data/image-plan.json` predates those notes, so `worklist.py images` reports 0. With a fresh `plan_images.py` (run on a scratch copy, not committed) it lists **48** zero-image notes in the sweep's scope: species 24, technology 24. Outside that scope, the site index also has 102 culture, 18 observer-note and 6 event notes with no lead image.
+- On 2026-11-19 every source a `fact_checks` line cites was added to that note's `sources:` list where missing (208 notes, 410 links: the sweep's spec builder had not added them), and 122 summary-only source notes got `access: summary-only` (commit `87ae4c7`). `build_spec2.py` should add cited sources to `sources:` in the next batch, or the gap reopens.
+- `build_site.py --check` on 2026-11-19: OK, 1660 notes, 1861 images, 944 notes with an image, 10345 edges, 1 unresolved link (the same pre-existing one). The search index has not been rebuilt (it lives only on the owner's machine).
+- The "Frontmatter dates deliberately left for the user's decision" list below is unchanged: no commit since has touched those dates.
+
+## State at stop (2026-09-28)
 - Fact-check coverage (validator line): see "Final numbers" at the bottom. All 8 `person` gaps are closed (worklist says person 0). Remaining gaps by type when I stopped (recompute, it grows as other sessions add notes): place 20, technology 48, event 38, era 23, species 32, culture 24, region 0 (185 total).
 - Batches done (fact_checks applied, plus corrections applied unless noted): 1 (8 People), 2 (40), 3 (40), 4 (39), 5 (40, incl. 13 Places), 6 (40 Places).
 - **Batch 6 corrections are NOT applied yet.** Fact-checks for batch 6 are in the vault. The raw workflow result is saved at `_RAG/handoff/sweep_pending/wf_b6_factcheck_result.json`, the discrepancy list at `_RAG/handoff/sweep_pending/corr_b6.json`, and the ready Workflow args at `_RAG/handoff/sweep_pending/corr_b6_args.json`. Next step: run the corrections stage (below) with `file` pointing at `corr_b6.json`.

@@ -1,6 +1,6 @@
 # Earth Chronicle: design decisions
 
-Sources: the `ui-design` plugin (`Pipelines/plugins/ui-design`, used read-only through `route.py`, `search.py` and `contrast.py`) and its rule set in `references/quick-reference.md`. Rule ids are cited in backticks.
+Sources: the `ui-design` plugin (`plugins/ui-design` in the `groot99-droid/Pipelines-Plugin` repository, used read-only through `route.py`, `search.py` and `contrast.py`) and its rule set in `references/quick-reference.md`. Rule ids are cited in backticks.
 
 ## Catalog results
 - **Router:** `route.py` ranked *Museum/Gallery* first and *Wiki / Encyclopedia* third for this product, and flagged the choice AMBIGUOUS. I read both rows: Museum/Gallery for imagery-led browsing, Wiki/Encyclopedia for search-first navigation. The site takes both: image-forward cards plus search-first navigation.
@@ -32,7 +32,7 @@ Sources: the `ui-design` plugin (`Pipelines/plugins/ui-design`, used read-only t
 Every image goes through one loader (`js/img.js`): retry once with a cache-buster, then try the note's next image, then a typed placeholder, so a broken-image icon never shows. `scripts/check_images.py` checks the files, and `?selftest=images` decodes every URL in the browser.
 
 ## AI-made material
-Higgsfield concept art (Recraft V4.1): 26 illustrations for abstract notes and three deep-time eons, plus the header banner. Each is badged "AI illustration" and credited with model, prompt and job id. Gemini text extras (In brief, journey narration, quiz) are not generated yet; the UI slots exist and read `data/ai-text.json`. The note text itself (summary, facts, context, Observer's Reading, questions, extra sections, card blurbs) is shown as an AI rewrite in the voices of the creative-writing tool, chosen per note. The rewrite is an overlay, never an edit: the vault note stays the record, every rewritten note carries an "AI rewrite" badge naming its voice, and `_Rewrite/rewrite_layer.py` rejects any rewrite that drops or adds a number, name, link or hedge. The Observer's Reading keeps its "Interpretation" frame. See `_Rewrite/README.md`.
+Higgsfield concept art (Recraft V4.1): 26 illustrations for abstract notes and three deep-time eons, plus the header banner; the image audit and the fact-check sweep later added 59 lead images for notes with none, for 85 AI note images in all plus the banner (README). Each is badged "AI illustration" and credited with model, prompt and job id. Gemini text extras (In brief, journey narration, quiz) are not generated yet; the UI slots exist and read `data/ai-text.json`. The note text itself (summary, facts, context, Observer's Reading, questions, extra sections, card blurbs) is shown as an AI rewrite in the voices of the creative-writing tool, chosen per note. The rewrite is an overlay, never an edit: the vault note stays the record, every rewritten note carries an "AI rewrite" badge naming its voice, and `_Rewrite/rewrite_layer.py` rejects any rewrite that drops or adds a number, name, link or hedge. The Observer's Reading keeps its "Interpretation" frame. See `_Rewrite/README.md`.
 
 ## Known limits
 - **Not tested:** real screen readers (VoiceOver, NVDA), real touch devices, and Lighthouse or Core Web Vitals numbers.

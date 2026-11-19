@@ -8,7 +8,7 @@ date_start: 1632
 date_end: 1723
 date_precision: year
 related: ["[[Scientific Revolution]]", "[[Andrea Palladio]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Christopher Wren]]", "[[Wikipedia on St Paul's Cathedral]]"]
 confidence: medium
 status: seed
 tags: [artist, architecture]

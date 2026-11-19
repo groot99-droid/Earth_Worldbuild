@@ -7,7 +7,7 @@ themes: [earth-systems, trade, war]
 date_start: -4000
 date_precision: approx
 related: ["[[Taino]]", "[[Santo Domingo]]", "[[Columbian Exchange]]", "[[Haitian Revolution]]", "[[Sugar Plantation Complex]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Hispaniola]]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: 1632
 date_end: 1675
 date_precision: year
 related: []
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Johannes Vermeer]]", "[[Wikipedia on Han van Meegeren]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

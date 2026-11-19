@@ -8,7 +8,7 @@ date_start: 1489
 date_end: 1588
 date_precision: approx
 related: ["[[Ottoman Empire]]", "[[Fall of Constantinople]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Mimar Sinan]]", "[[Wikipedia on Selimiye Mosque, Edirne]]"]
 confidence: medium
 status: seed
 tags: [artist, architecture]

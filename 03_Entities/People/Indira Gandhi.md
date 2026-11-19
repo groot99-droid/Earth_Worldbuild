@@ -8,7 +8,7 @@ date_start: 1917
 date_end: 1984
 date_precision: exact
 related: ["[[Partition of India]]", "[[Green Revolution]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Indira Gandhi]]", "[[Wikipedia on The Emergency (India)]]", "[[Wikipedia on Operation Blue Star]]", "[[Wikipedia on 1984 anti-Sikh riots]]"]
 confidence: high
 status: seed
 tags: []

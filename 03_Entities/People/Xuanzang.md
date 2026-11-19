@@ -8,7 +8,7 @@ date_start: 602
 date_end: 664
 date_precision: exact
 related: ["[[Tang Dynasty]]", "[[Nalanda]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Xuanzang]]", "[[Wikipedia on Nalanda]]", "[[Wikipedia on Great Tang Records on the Western Regions]]"]
 confidence: high
 status: seed
 tags: []

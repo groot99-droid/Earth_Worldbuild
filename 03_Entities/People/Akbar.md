@@ -8,7 +8,7 @@ date_start: 1542
 date_end: 1605
 date_precision: exact
 related: ["[[Mughal Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Akbar]]", "[[Wikipedia on Din-i Ilahi]]"]
 confidence: high
 status: seed
 tags: []

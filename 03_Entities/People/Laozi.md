@@ -7,7 +7,7 @@ themes: [religion, language]
 date_start: -550
 date_precision: century
 related: ["[[Confucius]]", "[[Axial Age]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Laozi]]", "[[Wikipedia on Tao Te Ching]]"]
 confidence: low
 status: seed
 tags: []

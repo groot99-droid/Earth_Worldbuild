@@ -8,7 +8,7 @@ date_start: -814
 date_end: -760
 date_precision: approx
 related: ["[[Phoenicians]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Dido]]"]
 confidence: low
 status: seed
 tags: []

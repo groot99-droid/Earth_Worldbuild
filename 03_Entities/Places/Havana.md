@@ -7,7 +7,7 @@ themes: [trade, war]
 date_start: 1519
 date_precision: year
 related: ["[[Sugar Plantation Complex]]", "[[Atlantic Slave Trade]]", "[[Seven Years' War]]", "[[Cold War]]", "[[Potosi]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Havana]]", "[[Wikipedia on Spanish treasure fleet]]", "[[Wikipedia on Castillo de la Real Fuerza]]", "[[Wikipedia on USS Maine (ACR-1)]]"]
 confidence: medium
 status: seed
 tags: []

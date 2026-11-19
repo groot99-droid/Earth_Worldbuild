@@ -7,7 +7,7 @@ themes: [religion, art, kinship]
 date_start: -800
 date_precision: approx
 related: ["[[Vedic Period]]", "[[Maurya Empire]]", "[[Gupta Empire]]", "[[Mughal Empire]]", "[[Ganges River]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Wikipedia on Varanasi]]", "[[Wikipedia on Kashi Vishwanath Temple]]"]
 confidence: medium
 status: seed
 tags: []

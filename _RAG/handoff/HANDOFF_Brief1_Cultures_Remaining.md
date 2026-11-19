@@ -1,3 +1,5 @@
+> **Status, 2026-11-19:** Historical record, kept as written on 2026-09-28. Current state: Batches 4 to 13 are written and committed (commits `2166166` to `24c03a4`, 2026-09-28; 183 culture notes, validator 0 errors). Section 5 is still open: the link pass (step 3) was not run, the region tally (step 2) was not recorded, and the search index has not been rebuilt in the repository (it is local to the owner's machine). The link pass changes note bodies, so every note it touches will show its original text on the site until the `chronicle-rewriter` agent rewrites it again.
+
 # Handoff: Brief 1 Peoples & Cultures, what is left (written 2026-09-28)
 
 Stopped on the user's request after the Batch 3 pilot finished. **Nothing is running** (no background agents, no open workflow). Read this file first, then `Brief1_Handoff.md` sections 4, 5 and 9 for the house rules and the batch plan. This file supersedes section 9's status lines.

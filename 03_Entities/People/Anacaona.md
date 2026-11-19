@@ -8,7 +8,7 @@ date_start: 1474
 date_end: 1504
 date_precision: approx
 related: ["[[Taino]]", "[[Columbian Exchange]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Anacaona]]"]
 confidence: medium
 status: seed
 tags: []

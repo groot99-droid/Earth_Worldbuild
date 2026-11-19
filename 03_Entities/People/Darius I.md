@@ -8,7 +8,7 @@ date_start: -550
 date_end: -486
 date_precision: approx
 related: ["[[Achaemenid Persians]]", "[[Cyrus the Great]]", "[[Persepolis]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Darius the Great]]", "[[Wikipedia on Behistun inscription]]"]
 confidence: high
 status: seed
 tags: []

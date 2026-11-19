@@ -8,7 +8,7 @@ date_start: -630
 date_end: -570
 date_precision: approx
 related: ["[[Ancient Greeks]]", "[[Alphabet]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Sappho]]"]
 confidence: medium
 status: seed
 tags: []

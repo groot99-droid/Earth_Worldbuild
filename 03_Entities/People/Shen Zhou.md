@@ -8,7 +8,7 @@ date_start: 1427
 date_end: 1509
 date_precision: year
 related: ["[[Ming Dynasty]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Shen Zhou]]", "[[Wikipedia on Wu School]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

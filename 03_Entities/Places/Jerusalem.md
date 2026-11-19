@@ -7,7 +7,7 @@ themes: [religion, war]
 date_start: -3000
 date_precision: approx
 related: ["[[Babylon]]", "[[Romans]]", "[[Rise of Islam]]", "[[Crusades]]", "[[Ottoman Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Jerusalem]]", "[[Wikipedia on History of Jerusalem]]"]
 confidence: medium
 status: seed
 tags: []

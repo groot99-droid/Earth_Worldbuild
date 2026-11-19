@@ -8,7 +8,7 @@ date_start: 1746
 date_end: 1828
 date_precision: exact
 related: ["[[Napoleonic Wars]]", "[[Diego Velázquez]]", "[[Rembrandt van Rijn]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Francisco Goya]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

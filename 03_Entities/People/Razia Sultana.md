@@ -8,7 +8,7 @@ date_start: 1205
 date_end: 1240
 date_precision: approx
 related: ["[[Delhi Sultanate]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Razia Sultan]]", "[[Wikipedia on Iltutmish]]"]
 confidence: medium
 status: seed
 tags: []

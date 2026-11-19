@@ -7,7 +7,7 @@ themes: [art, religion, trade]
 date_start: 1051
 date_precision: year
 related: ["[[Safavid Empire]]", "[[Ottoman Empire]]", "[[Timurid Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Isfahan]]", "[[Wikipedia on New Julfa]]", "[[Wikipedia on Siege of Isfahan]]"]
 confidence: medium
 status: seed
 tags: []

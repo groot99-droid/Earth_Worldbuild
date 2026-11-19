@@ -8,7 +8,7 @@ date_start: 1862
 date_end: 1944
 date_precision: exact
 related: []
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Hilma af Klint]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

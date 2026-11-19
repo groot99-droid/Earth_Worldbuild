@@ -8,7 +8,7 @@ date_start: 1250
 date_end: 1395
 date_precision: approx
 related: ["[[Mongol Empire]]", "[[Mongol Conquests]]", "[[Timurid Empire]]", "[[Black Death]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Wikipedia on Sarai (city)]]", "[[Wikipedia on Golden Horde]]"]
 confidence: medium
 status: seed
 tags: []

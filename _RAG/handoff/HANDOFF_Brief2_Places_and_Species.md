@@ -1,8 +1,14 @@
-You are continuing BRIEF 2 (Places and Species) of the Earth Chronicle expansion in this vault. Work directly in the vault. Do NOT re-derive decisions already made below. Places are DONE, Species Batches 10, 11 and 12 are DONE (see STATE); start with Species Batch 13, after checking the reindex status described there.
+You are continuing BRIEF 2 (Places and Species) of the Earth Chronicle expansion in this vault. Work directly in the vault. Do NOT re-derive decisions already made below. Places are DONE, Species Batches 10 to 13 are DONE (see CURRENT STATE); start with Species Batch 14.
 
 READ FIRST
 1. _RAG/handoff/EarthChronicle_Brief2_Places_and_Species.md: authoritative house rules (Two-Layer Rule, Observer voice and the 14 allowed Observer terms, file format, dates, truthfulness, allowed sources, existing-titles lists). Where this prompt and the brief differ, this prompt wins on workflow (below); the brief wins on content rules.
 2. Project memory earth-chronicle-expansion-briefs.md (auto-loaded) for the four-brief partition and the -11,700 ownership rule.
+
+CURRENT STATE (checked 2026-11-19 against the files and git log)
+- Species Batch 13 is DONE (commit bad38d9, 2026-09-28): Honeybee, Black Rat, Yersinia pestis, Variola Virus, Plasmodium falciparum, Mycobacterium tuberculosis, Vibrio cholerae, Influenza A Virus. Brief 2 species written: 32 of about 42. 03_Entities/Species/ holds 58 notes in all (Brief 4's deep-time species included).
+- NEXT is Batch 14 (SARS-CoV-2; Anopheles Mosquitoes; Dodo; Passenger Pigeon; Thylacine; Great Auk; Steller's Sea Cow; Aurochs), then Batch 15 (American Bison; Beaver). None of these ten titles exists yet.
+- Validator 0 errors. The reindex problems described below are history: the search index is local to the owner's machine and is not in the repository, so rebuild it there (build_index.py) after the next batch.
+- New notes are later rewritten for the site by the chronicle-rewriter agent (_Rewrite/README.md); build_site.py prints how many are waiting.
 
 STATE (2026-09-27)
 - PLACES PHASE COMPLETE. 73 new Places are written and validated in 03_Entities/Places/ (batches 1 to 9, 111 files total with the 38 that existed). Do not recreate or edit them unless the validator flags them. Batch 8 (Venice; Córdoba; Mesa Verde; L'Anse aux Meadows; Jamestown; Tikal; Mexico City; Cusco) and Batch 9 (Nazca Lines; Lake Titicaca; Amazon River; Marajó Island; Nan Madol; Uluru; Botany Bay; Antarctica; Atlantic Ocean — 9 notes, not 8, see below) were written 2026-09-26/27. All regional coverage minimums from the brief are now met, including 2 Planet-wide notes.

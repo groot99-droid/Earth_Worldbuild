@@ -8,7 +8,7 @@ date_start: 1775
 date_end: 1851
 date_precision: exact
 related: ["[[Industrial Revolution]]", "[[Railways]]", "[[Atlantic Slave Trade]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on J. M. W. Turner]]", "[[Wikipedia on The Slave Ship]]", "[[Wikipedia on Turner Bequest]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

@@ -8,7 +8,7 @@ date_start: 1390
 date_end: 1441
 date_precision: approx
 related: ["[[Renaissance]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Jan van Eyck]]", "[[Wikipedia on Ghent Altarpiece]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

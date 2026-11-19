@@ -8,7 +8,7 @@ date_start: 1360
 date_end: 1424
 date_precision: year
 related: ["[[Ming Dynasty]]", "[[Zheng He]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Yongle Emperor]]", "[[Wikipedia on Yongle Encyclopedia]]"]
 confidence: high
 status: seed
 tags: []

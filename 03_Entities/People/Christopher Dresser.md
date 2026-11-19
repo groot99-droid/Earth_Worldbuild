@@ -8,7 +8,7 @@ date_start: 1834
 date_end: 1904
 date_precision: year
 related: ["[[William Morris]]", "[[Industrial Revolution]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Christopher Dresser]]", "[[Britannica on Christopher Dresser]]"]
 confidence: medium
 status: seed
 tags: [artist, design]

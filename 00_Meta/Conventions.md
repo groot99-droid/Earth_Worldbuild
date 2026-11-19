@@ -68,7 +68,7 @@ Source notes (`type: source`) record how much of the source was actually read, i
 A claim counts as confirmed only if the text actually read contains it, so an `abstract` source confirms only what its abstract says, and an abstract-only source never moves a note toward `status: reviewed`. Use `verified: false` with `not-consulted`. The `## Caveats` section says what was and was not read. `validate_vault.py` checks the values and prints the sources by access level. `_RAG/tools/fetch_source.py` reads sources through routes that work for automated requests and never bypasses a CAPTCHA, cookie wall or paywall (see `_RAG/README.md`).
 
 ## Named-Artist Notes
-The named-artist section is the `person` notes tagged `artist`. It began as 53 profiles converted from the Art-Talk project (`Art-Talk-main/`) and is being expanded by a ledger-driven plan (`_RAG/handoff/HANDOFF_Art_Section_Expansion.md`).
+The named-artist section is the `person` notes tagged `artist`. It began as 53 profiles converted from the Art-Talk project (`Art-Talk-main/`) and is to be expanded by a ledger-driven plan (`_RAG/handoff/HANDOFF_Art_Section_Expansion.md`; prepared, no batch written yet).
 - `tags: [artist, <discipline>, ...]`, primary discipline first, from `painting`, `sculpture`, `architecture`, `design`, `craft`, `calligraphy`, `photography`, `film`, `literature`, `music`, `dance`, `theatre`. Artists with no Art-Talk profile add `text-only`; the note's Context says why (no freely licensed images, because the artist died recently or is living).
 - `art_talk: <slug>` names the profile in `Art-Talk-main/artists/`; only illustrated notes have one. Their `sources` are `["[[English Wikipedia]]", "[[Art-Talk (Expansion Profiles)]]"]`; the original 53 cite `[[Art-Talk (Artist Profiles)]]`.
 - `themes` come from the closed set: `art`, plus `language` for writers, `technology` for architects and `religion` for sacred music.
@@ -81,4 +81,6 @@ Use `[[Note Title]]` wikilinks in body text. Link the subject to its era, its re
 
 ## Validation and Indexing
 - `_RAG/tools/validate_vault.py` checks schema and links.
+- `_RAG/tools/update_hubs.py` regenerates the member lists of era, region and theme hubs and the tables in `06_Timelines/`; never edit those generated blocks by hand.
 - `_RAG/build_index.py` builds the search index. See [[README]].
+- `_RAG/tools/status_overview.py --write` recomputes the counts in [[Project Status Overview]].

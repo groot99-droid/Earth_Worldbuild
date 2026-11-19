@@ -8,7 +8,7 @@ date_start: 1863
 date_end: 1944
 date_precision: exact
 related: ["[[Vincent van Gogh]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Edvard Munch]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

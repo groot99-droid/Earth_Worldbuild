@@ -8,7 +8,7 @@ date_start: 1788
 date_end: 1812
 date_precision: approx
 related: ["[[Indian Removal and the Trail of Tears]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Sacagawea]]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: 1725
 date_end: 1770
 date_precision: approx
 related: ["[[Polynesians]]", "[[Polynesian Settlement of the Pacific]]", "[[Maori]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Tupaia (navigator)]]"]
 confidence: medium
 status: seed
 tags: []

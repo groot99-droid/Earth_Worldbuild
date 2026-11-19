@@ -8,7 +8,7 @@ date_start: 1834
 date_end: 1896
 date_precision: year
 related: ["[[Christopher Dresser]]", "[[Industrial Revolution]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on William Morris]]", "[[Wikipedia on Strawberry Thief]]", "[[Wikipedia on Kelmscott Chaucer]]"]
 confidence: medium
 status: seed
 tags: [artist, design]

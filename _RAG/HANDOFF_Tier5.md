@@ -2,6 +2,9 @@
 
 Read `_RAG/HANDOFF.md` first for the project rules, Policy A, the tool reference and the report format. This file covers only what is left of **Tier 5**.
 
+## Current state (checked 2026-11-19)
+Unchanged since this file was written: no Tier 5 source note exists in `07_Sources/`, the generic `World History Encyclopedia` and `UNESCO World Heritage Centre` notes are unchanged, and `helpers/tier5_manual.py` has no `blocked` entries yet (step 1 below). `_RAG/source_cache/` is git-ignored, so the cached pages, `queue.json`, `unresolved.md` and the scratchpad files named below exist only on the machine that ran the fetch. Notes changed since then by other work, which the dry run will catch if a `replace_checks` substring no longer matches: Batch 6 fact-check corrections to 24 Places notes (commit `5bcf4cf`, 2026-09-28) and, on 2026-11-19, `sources:` lists of 208 notes and the `access` field of 122 source notes (frontmatter only, commit `87ae4c7`).
+
 ## State in one paragraph
 All fetching and analysis for Tier 5 is done. **Nothing has been patched into the vault yet** (no note, source note, `unresolved.md` or `discrepancies.md` change). The whole patch is written as a helper script that has not been run: `_RAG/tools/helpers/tier5_manual.py`. What remains is to run it, build the specs, dry-run, fix any patch errors, apply, verify, index, and report.
 

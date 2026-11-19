@@ -8,7 +8,7 @@ date_start: 45
 date_end: 117
 date_precision: approx
 related: ["[[Han Dynasty]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Ban Zhao]]", "[[Wikipedia on Lessons for Women]]"]
 confidence: medium
 status: seed
 tags: []

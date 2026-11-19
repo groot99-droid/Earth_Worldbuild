@@ -6,9 +6,11 @@ required a number to stay, the number stayed, sometimes with a hedge added ("by 
 agent's reading, not a verified finding, so check it before editing the vault. Fixing a note marks its rewrite as stale,
 and the next "all pending" run redoes it.
 
+**Status, 2026-11-19:** checked against the vault notes by searching for the flagged wording. Only the first item is fixed (the Middle and Upper Paleolithic Facts no longer run two facts together); every other flagged passage is still in the note as quoted below. The list has had no new entries since batch site-038.
+
 | Note | Problem | Source of the flag |
 |---|---|---|
-| `era/middle-paleolithic` (fact 4), `era/upper-paleolithic` (fact 3) | Stray "- " list marker glued mid-line runs two facts together | site-002/003 agents; a fix task was started separately |
+| `era/middle-paleolithic` (fact 4), `era/upper-paleolithic` (fact 3) | Stray "- " list marker glued mid-line runs two facts together (**fixed** by 2026-11-19) | site-002/003 agents; a fix task was started separately |
 | `place/mecca` (context) | Calls Mecca "the destination of the Hijra from Medina"; the Hijra went from Mecca to Medina (622), as the Medina note says | site-007 agent |
 | `species/cassava` | Summary says "south-central Brazil", fact 1 says "west-central Brazil" (likely correct). Question 2 has a grammar slip ("How much do modern reliance…") | site-035 agent |
 | `species/coffee` (fact 2) | States Pope Clement VIII's approval (1600) as fact, often considered apocryphal; first Venice coffeehouse usually dated 1645, not 1647 | site-035 agent |

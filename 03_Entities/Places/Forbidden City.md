@@ -8,7 +8,7 @@ date_start: 1406
 date_end: 1924
 date_precision: year
 related: ["[[Ming Dynasty]]", "[[Qing Dynasty]]", "[[Xinhai Revolution]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Forbidden City]]"]
 confidence: medium
 status: seed
 tags: []

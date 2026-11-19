@@ -8,7 +8,7 @@ date_start: 1235
 date_end: 1388
 date_precision: year
 related: ["[[Mongol Empire]]", "[[Mongol Conquests]]", "[[Göktürk Khaganate]]", "[[Ming Dynasty]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Karakorum]]", "[[Wikipedia on William of Rubruck]]", "[[Wikipedia on Orkhon Valley]]"]
 confidence: medium
 status: seed
 tags: []

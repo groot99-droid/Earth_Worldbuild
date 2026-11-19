@@ -8,7 +8,7 @@ date_start: 1812
 date_end: 1876
 date_precision: approx
 related: ["[[Aboriginal Australians]]", "[[First Fleet and the Colonization of Australia]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Truganini]]"]
 confidence: medium
 status: seed
 tags: []

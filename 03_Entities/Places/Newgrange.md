@@ -7,7 +7,7 @@ themes: [religion, art, science]
 date_start: -3200
 date_precision: approx
 related: ["[[Stonehenge]]", "[[The Agricultural Revolution]]", "[[Giza Necropolis]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Newgrange]]", "[[Wikipedia on Brú na Bóinne]]"]
 confidence: medium
 status: seed
 tags: []

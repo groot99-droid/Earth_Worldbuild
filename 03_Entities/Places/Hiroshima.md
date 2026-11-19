@@ -7,7 +7,7 @@ themes: [war, science]
 date_start: 1589
 date_precision: year
 related: ["[[World War II]]", "[[Nuclear Age]]", "[[Kyoto]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Hiroshima]]", "[[Wikipedia on Atomic bombings of Hiroshima and Nagasaki]]"]
 confidence: medium
 status: seed
 tags: []

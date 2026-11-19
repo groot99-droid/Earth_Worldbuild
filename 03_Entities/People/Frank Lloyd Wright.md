@@ -8,7 +8,7 @@ date_start: 1867
 date_end: 1959
 date_precision: year
 related: ["[[Utagawa Hiroshige]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Frank Lloyd Wright]]"]
 confidence: medium
 status: seed
 tags: [artist, architecture]

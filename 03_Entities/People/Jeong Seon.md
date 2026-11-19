@@ -8,7 +8,7 @@ date_start: 1676
 date_end: 1759
 date_precision: year
 related: []
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Chŏng Sŏn]]", "[[Wikipedia on Geumgang jeondo]]", "[[Wikipedia on Inwang jesaekdo]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

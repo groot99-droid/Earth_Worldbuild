@@ -8,7 +8,7 @@ date_start: 1844
 date_end: 1926
 date_precision: exact
 related: ["[[Claude Monet]]", "[[Katsushika Hokusai]]", "[[Women's Suffrage Movements]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Mary Cassatt]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

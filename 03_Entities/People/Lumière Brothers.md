@@ -8,7 +8,7 @@ date_start: 1862
 date_end: 1954
 date_precision: year
 related: ["[[Georges Méliès]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Auguste and Louis Lumière]]"]
 confidence: medium
 status: seed
 tags: [artist, film]

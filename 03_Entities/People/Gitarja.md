@@ -8,7 +8,7 @@ date_start: 1328
 date_end: 1350
 date_precision: approx
 related: ["[[Majapahit]]"]
-sources: ["[[Wikipedia on Majapahit]]", "[[Encyclopaedia Britannica]]"]
+sources: ["[[Wikipedia on Majapahit]]", "[[Encyclopaedia Britannica]]", "[[Wikipedia on Tribhuwana Wijayatunggadewi]]"]
 confidence: medium
 status: seed
 tags: []

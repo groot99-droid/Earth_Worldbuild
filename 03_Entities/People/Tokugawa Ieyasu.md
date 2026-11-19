@@ -8,7 +8,7 @@ date_start: 1543
 date_end: 1616
 date_precision: year
 related: ["[[Tokugawa Shogunate]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Tokugawa Ieyasu]]", "[[Wikipedia on Battle of Sekigahara]]", "[[Wikipedia on Siege of Osaka]]", "[[Wikipedia on Tokugawa shogunate]]"]
 confidence: high
 status: seed
 tags: []

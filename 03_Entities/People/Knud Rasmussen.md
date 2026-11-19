@@ -8,7 +8,7 @@ date_start: 1879
 date_end: 1933
 date_precision: exact
 related: ["[[Inuit and the Thule Expansion]]", "[[Beringia]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Knud Rasmussen]]", "[[Wikipedia on Therkel Mathiassen]]"]
 confidence: high
 status: seed
 tags: []

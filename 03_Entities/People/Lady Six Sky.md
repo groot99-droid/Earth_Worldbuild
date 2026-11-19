@@ -8,7 +8,7 @@ date_start: 682
 date_end: 741
 date_precision: approx
 related: ["[[Maya]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Lady Six Sky]]", "[[Wikipedia on Naranjo, Guatemala]]"]
 confidence: medium
 status: seed
 tags: []

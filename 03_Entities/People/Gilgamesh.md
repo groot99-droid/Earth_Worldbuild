@@ -8,7 +8,7 @@ date_start: -2800
 date_end: -2500
 date_precision: approx
 related: ["[[Sumerians]]"]
-sources: ["[[Britannica on the Epic of Gilgamesh]]", "[[English Wikipedia]]"]
+sources: ["[[Britannica on the Epic of Gilgamesh]]", "[[English Wikipedia]]", "[[Wikipedia on Gilgamesh]]", "[[Wikipedia on Sumerian King List]]", "[[Wikipedia on Epic of Gilgamesh]]"]
 confidence: low
 status: seed
 tags: []

@@ -1,6 +1,14 @@
 # Handoff: Earth Chronicle source re-read (Tiers 1-4 done, Tier 5 next)
 
-Updated 2026-09-27 about 11:10 EDT. Paths are relative to the vault root `C:\Users\utopi\OneDrive\Desktop\Earth _WorldBuilding` unless absolute. Use `_RAG/.venv/Scripts/python.exe` for every script. The user reviews after every tier and says "go ahead with Tier N".
+Updated 2026-09-27 about 11:10 EDT; current state checked against the files and git log on 2026-11-19 (section below).
+
+## Current state (2026-11-19)
+- **Tier 5 is still not applied.** None of the 66 new source notes that `helpers/tier5_manual.py` creates exists in `07_Sources/` (for example `World History Encyclopedia on Akhenaten`), and the generic `World History Encyclopedia` and `UNESCO World Heritage Centre` notes are still `verified: true` with no `access`. Continue from `_RAG/HANDOFF_Tier5.md`, step 1.
+- **The Tier 5 cache is not in the repository.** `_RAG/source_cache/` (fetched text, `queue.json`, `discrepancies.md`, `unresolved.md`) is git-ignored, so the patch can be applied only on the machine that holds it (the owner's Windows checkout), or after re-fetching. A `source_cache/` in a fresh clone holds at most patch backups.
+- Tier 4's owner review: no record in the repository says whether it happened.
+- Tier 6 has not started. On 2026-11-19 the 122 verified source notes whose Caveats say they were read only through search-result summaries were given `access: summary-only` (frontmatter only, `apply_patch.py`), so the Tier 6 targets show in the validator's access counts.
+- Validator on 2026-11-19: 0 errors; sources by access level: full-text 27, archived-copy 58, reference-text 439, abstract 24, summary-only 129, not-consulted 3, not set 68 (39 of them `verified: true`, mostly Tier 5 sources that the Tier 5 patch sets). Fact-check coverage 584/871. `build_index.py` has not been run since; the index is local to the owner's machine.
+- The other session mentioned below (expansion briefs) has finished Briefs 1 and 3; Brief 2 has two species batches left. Paths are relative to the vault root `C:\Users\utopi\OneDrive\Desktop\Earth _WorldBuilding` unless absolute. Use `_RAG/.venv/Scripts/python.exe` for every script. The user reviews after every tier and says "go ahead with Tier N".
 
 ## Why this exists
 The vault (`07_Sources/`, about 320 source notes; entity/era/region notes carry `fact_checks`) was fact-checked earlier from web-search summaries only. Britannica, science.org, pnas.org and PMC/PubMed refuse automated fetches (403/CAPTCHA). `_RAG/tools/fetch_source.py` reads raw text through routes that work and never bypasses CAPTCHAs, cookie walls, login walls or paywalls; every source is re-read in six tiers and the notes are corrected against the real text. Rule: a claim counts as confirmed only if the text actually read contains it; abstract-only sources never move a note toward `status: reviewed`.
@@ -13,8 +21,8 @@ Tiers: 1 = the four known 403 sources; 2 = about 50 journal papers; 3 = Britanni
 | 1 (4) | done, reviewed |
 | 2 (51) | done, reviewed: 24 full-text, 22 abstract, 4 archived-copy, 1 `summary-only` (Science News on Monte Verde) |
 | 3 (54) | done: 44 Britannica sources plus 10 new ones, all `archived-copy`; the generic `Encyclopaedia Britannica` note is `not-consulted` |
-| 4 (38) | done, **awaiting the user's review**: 37 Wikipedia articles, all `reference-text` (MediaWiki API, revision id recorded); the generic `English Wikipedia` note is `not-consulted` |
-| 5 (120) | 116 pending; `The Conversation on Stone Tools and the Toba Eruption`, `Smithsonian on the Upano Valley` and `EBSCO Research Starters on Monte Alban` done/fetched; `Jinek et al. 2012 CRISPR-Cas9` unreachable (uzh magazin host times out, Wayback 404) |
+| 4 (38) | done (the 2026-09-27 review request is unanswered in the repository): 37 Wikipedia articles, all `reference-text` (MediaWiki API, revision id recorded); the generic `English Wikipedia` note is `not-consulted` |
+| 5 (120) | **fetched and analysed, patch written, not applied** (see `HANDOFF_Tier5.md`); the row as of 2026-09-27: 116 pending; `The Conversation on Stone Tools and the Toba Eruption`, `Smithsonian on the Upano Valley` and `EBSCO Research Starters on Monte Alban` done/fetched; `Jinek et al. 2012 CRISPR-Cas9` unreachable (uzh magazin host times out, Wayback 404) |
 | 6 (60) | pending (12 more than the original 48 because another session added source notes) |
 
 Validator after Tier 4: 0 errors. `Art-Talk-main/` (a foreign site repo in the vault root) is in `SKIP_DIRS` in `_RAG/vault.py`. Do not delete it.

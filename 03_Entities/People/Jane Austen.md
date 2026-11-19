@@ -8,7 +8,7 @@ date_start: 1775
 date_end: 1817
 date_precision: year
 related: ["[[Napoleonic Wars]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Jane Austen]]"]
 confidence: medium
 status: seed
 tags: [artist, literature]

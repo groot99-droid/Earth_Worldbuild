@@ -8,7 +8,7 @@ date_start: 1606
 date_end: 1669
 date_precision: exact
 related: ["[[Dutch East India Company]]"]
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Rembrandt]]", "[[Wikipedia on Hendrickje Stoffels]]", "[[Wikipedia on Titus van Rijn]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

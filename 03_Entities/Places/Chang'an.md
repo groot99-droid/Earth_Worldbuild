@@ -8,7 +8,7 @@ date_start: -202
 date_end: 904
 date_precision: approx
 related: ["[[Han Dynasty]]", "[[Tang Dynasty]]", "[[Sogdians]]", "[[Opening of the Silk Roads]]", "[[Unification of China under Qin]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Wikipedia on Chang'an]]", "[[Wikipedia on Xi'an Stele]]"]
 confidence: medium
 status: seed
 tags: []

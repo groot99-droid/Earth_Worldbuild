@@ -7,7 +7,7 @@ themes: [trade, religion, art]
 date_start: 800
 date_precision: approx
 related: ["[[Swahili Coast City-States]]", "[[Indian Ocean Trade Network]]", "[[Great Zimbabwe]]", "[[Portuguese Sea Route to India]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Kilwa Kisiwani]]", "[[Wikipedia on Kilwa Sultanate]]"]
 confidence: medium
 status: seed
 tags: []

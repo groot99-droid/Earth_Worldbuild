@@ -7,7 +7,7 @@ themes: [war, kinship]
 date_start: 1548
 date_precision: approx
 related: ["[[Ayutthaya Kingdom]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Suriyothai]]", "[[Wikipedia on Burmese–Siamese War (1547–1549)]]"]
 confidence: low
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: -2285
 date_end: -2250
 date_precision: approx
 related: ["[[Sumerians]]", "[[Invention of Writing]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Enheduanna]]"]
 confidence: medium
 status: seed
 tags: []

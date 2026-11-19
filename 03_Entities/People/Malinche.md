@@ -8,7 +8,7 @@ date_start: 1500
 date_end: 1529
 date_precision: approx
 related: ["[[Spanish Conquest of the Aztec Empire]]", "[[Aztec Empire]]", "[[Tenochtitlan]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on La Malinche]]", "[[Britannica on Malinche]]"]
 confidence: low
 status: seed
 tags: []

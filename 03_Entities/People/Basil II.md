@@ -8,7 +8,7 @@ date_start: 958
 date_end: 1025
 date_precision: year
 related: ["[[Byzantine Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Basil II]]", "[[Wikipedia on Battle of Kleidion]]"]
 confidence: high
 status: seed
 tags: []

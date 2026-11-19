@@ -7,7 +7,7 @@ themes: [war, trade]
 date_start: 1727
 date_precision: approx
 related: ["[[Chico Mendes]]"]
-sources: ["[[English Wikipedia]]"]
+sources: ["[[English Wikipedia]]", "[[Wikipedia on Ajuricaba (chief)]]", "[[Wikipedia on Ajuricaba (indígena)]]"]
 confidence: low
 status: seed
 tags: []

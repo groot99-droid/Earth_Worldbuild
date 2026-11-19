@@ -8,7 +8,7 @@ date_start: 900
 date_end: 1100
 date_precision: approx
 related: ["[[Maori]]", "[[Polynesians]]"]
-sources: ["[[World History Encyclopedia on Polynesian Navigation]]", "[[English Wikipedia]]"]
+sources: ["[[World History Encyclopedia on Polynesian Navigation]]", "[[English Wikipedia]]", "[[Wikipedia on Kupe]]", "[[Wikipedia on History of New Zealand]]"]
 confidence: low
 status: seed
 tags: []

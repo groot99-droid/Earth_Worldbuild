@@ -8,7 +8,7 @@ date_start: 794
 date_end: 1868
 date_precision: year
 related: ["[[Tokugawa Shogunate]]", "[[Meiji Restoration]]", "[[Chang'an]]", "[[Nara]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Kyoto]]", "[[Wikipedia on Heian-kyō]]"]
 confidence: medium
 status: seed
 tags: []

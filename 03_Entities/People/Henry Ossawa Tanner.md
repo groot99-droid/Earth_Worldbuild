@@ -8,7 +8,7 @@ date_start: 1859
 date_end: 1937
 date_precision: exact
 related: []
-sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]"]
+sources: ["[[English Wikipedia]]", "[[Art-Talk (Artist Profiles)]]", "[[Wikipedia on Henry Ossawa Tanner]]"]
 confidence: medium
 status: seed
 tags: [artist, painting]

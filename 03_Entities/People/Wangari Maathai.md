@@ -8,7 +8,7 @@ date_start: 1940
 date_end: 2011
 date_precision: exact
 related: ["[[Decolonization]]", "[[Chico Mendes]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[NobelPrize.org]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[NobelPrize.org]]", "[[Wikipedia on Wangari Maathai]]"]
 confidence: high
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: -340
 date_end: -297
 date_precision: approx
 related: ["[[Maurya Empire]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Chandragupta Maurya]]", "[[Wikipedia on Seleucid–Mauryan war]]", "[[Wikipedia on Arthashastra]]"]
 confidence: medium
 status: seed
 tags: []

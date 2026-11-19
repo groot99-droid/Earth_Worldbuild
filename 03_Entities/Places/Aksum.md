@@ -7,7 +7,7 @@ themes: [trade, religion, art]
 date_start: 50
 date_precision: approx
 related: ["[[Kingdom of Aksum]]", "[[Kingdom of Saba]]", "[[Second Italo-Ethiopian War]]", "[[Rock-Hewn Churches of Lalibela]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Axum]]", "[[Wikipedia on Kingdom of Aksum]]", "[[Wikipedia on Ezana of Axum]]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: 1900
 date_end: 1978
 date_precision: exact
 related: ["[[Decolonization]]", "[[Women's Suffrage Movements]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Funmilayo Ransome-Kuti]]"]
 confidence: high
 status: seed
 tags: []

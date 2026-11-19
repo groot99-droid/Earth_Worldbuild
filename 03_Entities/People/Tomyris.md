@@ -7,7 +7,7 @@ themes: [war, kinship]
 date_start: -530
 date_precision: approx
 related: ["[[Cyrus the Great]]", "[[Achaemenid Persians]]", "[[Scythians]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Tomyris]]", "[[Wikipedia on Cyrus the Great]]"]
 confidence: low
 status: seed
 tags: []

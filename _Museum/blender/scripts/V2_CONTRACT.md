@@ -1,7 +1,4 @@
-> **Status (2026-09):** the Blender route is retired. The viewer no longer loads a glTF: every scene (the Grand Hall hub
-> and the 16 gallery rooms) is generated at load time from `_Museum/data/museum-layout.json`, which `_Museum/build_layout.py`
-> writes. The naming contract in §2, the FX metadata in §6 and the material slots in §5 still describe what the viewer
-> expects; the Blender paths, tools and stage plan below are history. See `_Museum/README.md`.
+> **Status, 2026-11-19:** Historical record, kept as written on 2026-09-28. Current state: the Blender route is retired. The viewer no longer loads a glTF: every scene (the Grand Hall hub and the 16 gallery rooms) is generated at load time from `_Museum/data/museum-layout.json`, which `_Museum/build_layout.py` writes. The naming contract in §2, the FX metadata in §6 and the material slots in §5 still describe what the viewer expects; the Blender paths, tools and stage plan below are history. Superseded by `_Museum/README.md`.
 
 # Chronicle Museum v2 — build contract (every agent reads this first)
 
