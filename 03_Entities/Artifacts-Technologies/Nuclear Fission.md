@@ -7,8 +7,8 @@ themes: [science, technology, war]
 date_start: 1938
 date_precision: year
 related: ["[[Marie Curie]]", "[[Albert Einstein]]", "[[Nuclear Age]]"]
-sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[NobelPrize.org]]", "[[English Wikipedia]]"]
-fact_checks: ["2026-09-20: Fission discovered December 1938; Chicago Pile-1 on 2 December 1942; Hahn alone received the 1944 Chemistry Nobel [NobelPrize.org; English Wikipedia]"]
+sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[NobelPrize.org]]", "[[English Wikipedia]]", "[[NobelPrize.org on the 1944 Nobel Prize in Chemistry]]"]
+fact_checks: ["2026-11-19: The Nobel Prize in Chemistry 1944 was awarded to Otto Hahn for his discovery of the fission of heavy nuclei [NobelPrize.org on the 1944 Nobel Prize in Chemistry]"]
 confidence: high
 status: seed
 tags: []

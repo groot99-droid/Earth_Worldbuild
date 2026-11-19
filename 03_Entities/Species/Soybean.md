@@ -7,10 +7,11 @@ themes: [trade, technology]
 date_start: -7000
 date_precision: approx
 related: ["[[The Agricultural Revolution]]", "[[Green Revolution]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Tempeh]]", "[[USDA ERS on Genetically Engineered Crop Adoption]]", "[[Wikipedia on Genetically modified soybean]]", "[[USDA ERS GE Varieties by State Data 2000-25]]"]
 confidence: medium
 status: seed
 tags: []
+fact_checks: ["2026-11-19: Tempeh is a fermented soybean food native to the island of Java in Indonesia [Wikipedia on Tempeh]", "2026-11-19: Genetically engineered seeds for major field crops were commercially introduced in the United States in 1996, the first genetically modified soybean among them, and herbicide-tolerant soybeans rose from 17 percent of domestic soybean acres in 1997 to 68 percent in 2001 [USDA ERS on Genetically Engineered Crop Adoption; Wikipedia on Genetically modified soybean]", "2026-11-19: Herbicide-tolerant soybeans made up 93 percent of all soybeans planted in the United States in 2010 [USDA ERS GE Varieties by State Data 2000-25]"]
 ---
 
 ## Summary
@@ -19,9 +20,9 @@ The soybean is a legume domesticated in the region between the Yellow and Huai r
 ## Facts
 - The soybean was domesticated in north-central China, between the Yellow River and the Huai River, with earliest evidence from the site of Jiahu in Henan province dated to between about 9,000 and 7,800 years ago.
 - Chinese tradition credits the legendary Emperor Shennong, dated in myth to 2853 BCE, with naming the soybean one of five sacred grains alongside rice, wheat, barley and millet.
-- Fermented soy foods such as soy sauce, fermented bean paste, natto and tempeh, along with tofu made from soy milk, developed over many centuries in East Asia; the earliest Japanese textual reference to soybeans appears in the Kojiki, compiled in 712 CE.
+- Fermented soy foods such as soy sauce, fermented bean paste, natto and tempeh, along with tofu made from soy milk, developed over many centuries in East Asia, except tempeh, which comes from Java in Southeast Asia; the earliest Japanese textual reference to soybeans appears in the Kojiki, compiled in 712 CE.
 - The soybean was introduced to the Americas and Europe in the 18th century, with the first recorded North American cultivation in 1765 on Skidaway Island, Georgia, and the first French cultivation in 1779.
-- Genetically modified, herbicide-tolerant soybean varieties were introduced commercially in 1995 and made up about 8 percent of United States soybean acreage by 1997, rising to about 93 percent by 2010.
+- Genetically modified, herbicide-tolerant soybean varieties were introduced commercially in the United States in 1996 and made up about 17 percent of United States soybean acreage by 1997, rising to about 93 percent by 2010.
 - In 2019 Brazil, the United States and Argentina were the largest producers, together accounting for roughly four-fifths of world output, and about 80 percent of the global soybean crop is used to feed livestock.
 
 ## Context & Connections

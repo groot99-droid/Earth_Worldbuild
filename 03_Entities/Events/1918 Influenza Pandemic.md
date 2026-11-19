@@ -9,7 +9,7 @@ date_end: 1920
 date_precision: year
 related: ["[[World War I]]", "[[COVID-19 Pandemic]]", "[[Black Death]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[The Transformation of the World (Osterhammel)]]", "[[CDC on the 1918 Influenza Pandemic]]"]
-fact_checks: ["2026-09-20: About one third of the world's population infected; death estimates 17.4-100 million; virus reconstructed in 2005 [CDC on the 1918 Influenza Pandemic]"]
+fact_checks: ["2026-11-19: About one third of the world's population (about 500 million) was infected in 1918-1919, and deaths were estimated at about 50 million and possibly as high as 100 million [CDC on the 1918 Influenza Pandemic]"]
 confidence: high
 status: seed
 tags: []

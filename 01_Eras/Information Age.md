@@ -6,7 +6,7 @@ date_start: 1945
 date_precision: approx
 related: ["[[Industrial Age]]", "[[Anthropocene]]"]
 sources: ["[[The Transformation of the World (Osterhammel)]]", "[[UN World Population Milestones]]"]
-fact_checks: ["2026-09-20: World population about 2.5 billion in 1950 [UN World Population Milestones]"]
+fact_checks: []
 confidence: high
 status: seed
 tags: []

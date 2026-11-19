@@ -8,8 +8,8 @@ date_start: -356
 date_end: -323
 date_precision: year
 related: ["[[Alexander's Conquests]]", "[[Aristotle]]", "[[Achaemenid Persians]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: Born 356 BCE; died 13 June 323 BCE in Babylon [Encyclopaedia Britannica; World History Encyclopedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]", "[[Wikipedia on Alexander the Great]]"]
+fact_checks: ["2026-11-19: Alexander was born on 20 or 21 July 356 BC and died on 10 or 11 June 323 BC in Babylon [Wikipedia on Alexander the Great]"]
 confidence: high
 status: seed
 tags: []

@@ -8,10 +8,11 @@ date_start: -515000000
 date_end: -505000000
 date_precision: deep-time
 related: ["[[Cambrian Period]]", "[[Cambrian Explosion]]", "[[Hallucigenia]]", "[[Pikaia]]", "[[Trilobites]]"]
-sources: ["[[Paterson et al. 2011 Anomalocaris Eyes]]", "[[English Wikipedia]]"]
+sources: ["[[Paterson et al. 2011 Anomalocaris Eyes]]", "[[English Wikipedia]]", "[[Wikipedia on Anomalocaris]]"]
 confidence: medium
 status: seed
 tags: []
+fact_checks: ["2026-11-19: Chinese fossils once assigned to Anomalocaris have been moved to other genera, including A. saron from the Chengjiang Lagerstätte to Houcaris in 2021, a Chengjiang whole-body specimen to Innovatiocaris in 2022 and A. kunmingensis to Guanshancaris in 2023 [Wikipedia on Anomalocaris]"]
 ---
 
 ## Summary
@@ -25,7 +26,7 @@ Anomalocaris was a large swimming Cambrian animal with spiny grasping appendages
 - The mouth looks too weak to crush trilobite shells, and studies propose suction feeding or soft prey. Whether it was the top predator of its seas is debated.
 
 ## Context & Connections
-Anomalocaris lived in the [[Cambrian Period]], a signature animal of the [[Cambrian Explosion]], sharing seas with [[Trilobites]], [[Hallucigenia]], and [[Pikaia]]. Its sites include the Burgess Shale, the Emu Bay Shale, and Chengjiang Fossil Site. See [[Earth Systems and Life]] and [[Science]].
+Anomalocaris lived in the [[Cambrian Period]], a signature animal of the [[Cambrian Explosion]], sharing seas with [[Trilobites]], [[Hallucigenia]], and [[Pikaia]]. Its sites are the Burgess Shale and the Emu Bay Shale; fossils from the Chengjiang Fossil Site in China once assigned to it have since been moved to other genera. See [[Earth Systems and Life]] and [[Science]].
 
 ## Observer's Reading
 The Observer notes that Anomalocaris was first assembled from three fossils believed to be three animals, and that the apex predator of popular pictures depends on how its mouth is read. It is one of many body plans that arose and vanished in the Cambrian, when nothing marked in advance which would leave descendants. The reading would weaken if radiodonts were shown to be ancestral to a living animal group.

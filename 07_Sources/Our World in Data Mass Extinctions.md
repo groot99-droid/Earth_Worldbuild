@@ -12,7 +12,10 @@ url: "https://ourworldindata.org/mass-extinctions"
 source_kind: reference
 reliability: medium
 verified: true
-checked_on: 2026-09-20
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -22,4 +25,4 @@ Our World in Data. 'There have been five mass extinctions in Earth's history.'
 Estimated share of species lost in each of the Big Five mass extinctions.
 
 ## Caveats
-Consulted via web search results on 2026-09-20; the page was not necessarily read in full. Re-verify before citing in print. Percentages are estimates and differ by source.
+Read in full on 2026-11-19 from ourworldindata.org fetched directly (8,488 characters). Percentages are estimates and differ by source.

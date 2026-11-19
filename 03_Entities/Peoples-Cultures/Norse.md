@@ -9,7 +9,7 @@ date_end: 1066
 date_precision: approx
 related: ["[[Medieval Period]]", "[[Europe]]"]
 sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[Kuitems et al. 2021 L'Anse aux Meadows Dating]]", "[[Encyclopaedia Britannica]]"]
-fact_checks: ["2026-09-20: Lindisfarne 7 June 793; Iceland settlement 870-930 (traditionally 874); Greenland about 985; L'Anse aux Meadows 1021 [Kuitems et al. 2021 L'Anse aux Meadows Dating; Encyclopaedia Britannica]"]
+fact_checks: ["2026-11-19: Viking travel is dated from about 793 to 1066; the Norse settled Iceland by 874 and colonized Greenland for almost 500 years; Norse occupation of L'Anse aux Meadows is dated to 1021 CE [Kuitems et al. 2021 L'Anse aux Meadows Dating]"]
 confidence: high
 status: seed
 tags: []

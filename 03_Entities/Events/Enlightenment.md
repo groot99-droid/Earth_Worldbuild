@@ -9,7 +9,7 @@ date_end: 1789
 date_precision: approx
 related: ["[[Scientific Revolution]]", "[[Isaac Newton]]", "[[Age of Revolutions]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Encyclopedia of the Enlightenment Works (Encyclopedie, Wealth of Nations)]]", "[[Stanford Encyclopedia of Philosophy on Colonialism]]"]
-fact_checks: ["2026-09-20: Encyclopedie published 1751-1772; The Wealth of Nations published 1776 [Encyclopedia of the Enlightenment Works (Encyclopedie, Wealth of Nations)]", "2026-09-20: Enlightenment thinkers held divergent views on slavery and colonialism [Stanford Encyclopedia of Philosophy on Colonialism]"]
+fact_checks: ["2026-11-19: The main work of the Encyclopedie appeared between 1751 and 1772, with a supplement published from 1776 to 1777 [Encyclopedia of the Enlightenment Works (Encyclopedie, Wealth of Nations)]", "2026-09-20: Enlightenment thinkers held divergent views on slavery and colonialism [Stanford Encyclopedia of Philosophy on Colonialism]"]
 confidence: medium
 status: seed
 tags: []

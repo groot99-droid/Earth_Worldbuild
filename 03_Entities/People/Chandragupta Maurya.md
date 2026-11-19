@@ -19,7 +19,7 @@ fact_checks: ["2026-09-27: Chandragupta reigned from about 320 to about 298 BCE,
 Chandragupta Maurya (about 340 to 297 BCE) founded the Maurya Empire, the first political power to unite most of the Indian subcontinent, after overthrowing the Nanda dynasty of Magadha around 321 BCE.
 
 ## Facts
-- With guidance from the strategist Chanakya (Kautilya), Chandragupta seized the throne of Magadha and took the throne of Magadha. The Arthashastra, a treatise on statecraft traditionally attributed to Chanakya, was long linked to his administration, but most scholars now date it to roughly the 1st to 3rd centuries CE and doubt that it describes his reign.
+- With guidance from the strategist Chanakya (Kautilya), Chandragupta seized the throne of Magadha. The Arthashastra, a treatise on statecraft traditionally attributed to Chanakya, was long linked to his administration, but most scholars now date it to roughly the 1st to 3rd centuries CE and doubt that it describes his reign.
 - Between about 305 and 303 BCE he fought the Diadoch ruler Seleucus I Nicator; the resulting settlement ceded territory in the northwest to the Maurya and included a marriage alliance, while Seleucus received war elephants in return.
 - The Greek ambassador Megasthenes, sent to Chandragupta's court at Pataliputra, wrote the Indica, a major but now fragmentary source on Mauryan India.
 - Later Jain tradition holds that Chandragupta abdicated, became an ascetic under Bhadrabahu, and died by ritual fasting (sallekhana) at Shravanabelagola in Karnataka, though this account survives mainly in sources written well after his reign.

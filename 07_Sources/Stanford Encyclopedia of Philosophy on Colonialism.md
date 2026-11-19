@@ -12,8 +12,10 @@ url: "https://plato.stanford.edu/entries/colonialism/"
 source_kind: reference
 reliability: high
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -23,4 +25,4 @@ Stanford Encyclopedia of Philosophy. 'Colonialism.'
 Divergent Enlightenment attitudes to slavery and empire (critics such as Diderot and Kant alongside racial classification).
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from plato.stanford.edu fetched directly (61,006 characters).

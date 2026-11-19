@@ -8,8 +8,8 @@ date_start: -336
 date_end: -323
 date_precision: year
 related: ["[[Classical Antiquity]]", "[[Alexander the Great]]", "[[Achaemenid Persians]]"]
-sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: Alexander born 356 BCE, died Babylon June 323 BCE; Gaugamela 331 BCE; army mutinied at the Hyphasis [Encyclopaedia Britannica; World History Encyclopedia]"]
+sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia]]", "[[Wikipedia on Alexander the Great]]"]
+fact_checks: ["2026-11-19: Alexander was born on 20 or 21 July 356 BC and died on 10 or 11 June 323 BC in Babylon; he won at Gaugamela in 331 BC and overthrew Darius III; his army mutinied at the Hyphasis River and refused to march farther east [Wikipedia on Alexander the Great]"]
 confidence: high
 status: seed
 tags: []

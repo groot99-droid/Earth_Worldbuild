@@ -7,20 +7,22 @@ sources: []
 confidence: medium
 status: draft
 tags: []
-citation: "Internet Encyclopedia of Philosophy. 'Confucius.' Also Wikipedia, 'Four Books and Five Classics.'"
+citation: "Internet Encyclopedia of Philosophy. 'Confucius.'"
 url: "https://iep.utm.edu/confucius/"
 source_kind: reference
 reliability: high
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
-Internet Encyclopedia of Philosophy. 'Confucius.' Also Wikipedia, 'Four Books and Five Classics.'
+Internet Encyclopedia of Philosophy. 'Confucius.'
 
 ## What It Is Used For
 Confucius (551-479 BCE), the Analects, ren, li and xiao, his lack of political success in life, Han-era orthodoxy under Emperor Wu, and the examination system.
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from iep.utm.edu fetched directly (32,693 characters). The earlier citation also named: Wikipedia, 'Four Books and Five Classics.' Those pages were not read here, so nothing taken from them is confirmed by this source.

@@ -8,8 +8,8 @@ date_start: 1775
 date_end: 1783
 date_precision: year
 related: ["[[Age of Revolutions]]", "[[Seven Years' War]]", "[[Haudenosaunee Confederacy]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[National Park Service Timeline of the American Revolution]]"]
-fact_checks: ["2026-09-20: Lexington and Concord 19 April 1775; Declaration 4 July 1776; French alliance 6 February 1778; Yorktown 1781; Treaty of Paris 3 September 1783; Oneida and Tuscarora sided with the US while most Six Nations backed Britain [National Park Service Timeline of the American Revolution]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[National Park Service Timeline of the American Revolution]]", "[[Wikipedia on the Iroquois]]"]
+fact_checks: ["2026-11-19: Lexington and Concord 19 April 1775; Declaration 4 July 1776; French alliance 6 February 1778; Yorktown 1781; Treaty of Paris 3 September 1783 [National Park Service Timeline of the American Revolution]", "2026-11-19: During the American Revolution the Oneida and Tuscarora fought alongside the Patriots while the other nations of the Iroquois confederacy allied with the British [Wikipedia on the Iroquois]"]
 confidence: high
 status: seed
 tags: []

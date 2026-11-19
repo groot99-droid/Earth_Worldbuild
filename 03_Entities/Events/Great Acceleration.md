@@ -7,8 +7,8 @@ themes: [earth-systems, technology, trade]
 date_start: 1950
 date_precision: approx
 related: ["[[Anthropocene]]", "[[Green Revolution]]", "[[Modern Climate Change]]"]
-sources: ["[[The Transformation of the World (Osterhammel)]]", "[[Encyclopaedia Britannica]]", "[[UN World Population Milestones]]"]
-fact_checks: ["2026-09-20: World population about 1 billion around 1804 and symbolically 8 billion on 15 November 2022 [UN World Population Milestones]"]
+sources: ["[[The Transformation of the World (Osterhammel)]]", "[[Encyclopaedia Britannica]]", "[[UN World Population Milestones]]", "[[Wikipedia on World Population]]"]
+fact_checks: ["2026-11-19: The UN estimated that the world population first reached one billion in 1804, and projected that it would reach 8 billion on 15 November 2022 [Wikipedia on World Population; UN World Population Milestones]"]
 confidence: high
 status: seed
 tags: []

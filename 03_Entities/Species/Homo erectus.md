@@ -8,8 +8,8 @@ date_start: -1900000
 date_end: -110000
 date_precision: approx
 related: ["[[Control of Fire]]", "[[Homo habilis]]", "[[Homo sapiens]]"]
-sources: ["[[The Human Career (Klein)]]", "[[Smithsonian Human Origins Program]]"]
-fact_checks: ["2026-09-20: Average brain about 900 cc; Dmanisi fossils about 1.8 Ma [Smithsonian Human Origins Program]"]
+sources: ["[[The Human Career (Klein)]]", "[[Smithsonian Human Origins Program]]", "[[Wikipedia on Homo erectus]]"]
+fact_checks: ["2026-11-19: The Dmanisi hominins date to about 1.8 million years ago [Wikipedia on Homo erectus]"]
 confidence: high
 status: seed
 tags: []

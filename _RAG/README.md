@@ -77,7 +77,7 @@ Each long task keeps its state in a handoff file. Status as of 2026-11-19:
 
 | File | Task | State |
 |---|---|---|
-| `HANDOFF.md`, `HANDOFF_Tier5.md` | source re-read, Tiers 1-6 | Tiers 1-4 done; Tier 5 fetched and its patch written but not applied; Tier 6 not started |
+| `HANDOFF.md`, `HANDOFF_Tier5.md` | source re-read, Tiers 1-6 | Tiers 1-5 done (Tier 5 applied 2026-11-19, 26 checks deferred until World History Encyclopedia pages can be read); Tier 6 not started |
 | `handoff/factcheck_sweep_status.md` | fact-check and image sweep | batches 1-6 applied; 287 notes still without `fact_checks` |
 | `handoff/HANDOFF_Brief2_Places_and_Species.md` | Brief 2 | Places done; Species Batches 14-15 (10 notes) not written |
 | `handoff/HANDOFF_Art_Section_Expansion.md` | art section expansion | Phase 0 done; no batch written |
@@ -115,6 +115,8 @@ Helper scripts in `tools/helpers/` (run with the venv Python from anywhere):
 | `t3_claims.py TIER LO HI` / `t3_usedfor.py TIER` | best snippet per check / each source note's used-for claims matched against its text |
 | `t2_build.py TIER` | builds `source_updates` (access, route, Caveats) from fetch metadata plus `specs/tierN_manual.json`; cuts a citation that bundles unread "Also ..." pages and records the cut in Caveats |
 | `tier3_manual.py` (template: `t2_manual.py`) | hand-written per-source extras, new sources, note patches, discrepancies and the unresolved list for a tier |
+| `t5_fetch_new.py [--set2/--set3/--set4] [--only TEXT]` | fetches the specific pages Tier 5 re-points checks to (slug = `slugify(title)`) |
+| `tier5_manual.py [--unresolved] [--second-look]` | the Tier 5 patch; its second-pass section filters it to the pages actually read (a page not read gives a `blocked` source or a deferred check), and `--second-look` writes `specs/tier5b.json` |
 | `merge_spec.py TIER` | merges the builder output and the extras into `specs/tierN.json` for `apply_patch.py` |
 
 Generated specs live in `source_cache/specs/`. `source_cache/discrepancies.md` logs each correction; `source_cache/unresolved.md` logs claims that stay in a note although the page cited for them does not contain them (probably correct, unconfirmed), for a later tier to re-attribute. A source note titled `Encyclopaedia Britannica` or `English Wikipedia` stands for the whole work and is `access: not-consulted`: a check should cite the specific article.

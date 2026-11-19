@@ -4,7 +4,7 @@ type: region
 themes: [war, science, technology]
 related: ["[[Mediterranean Basin]]", "[[Central Asian Steppe]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[PNAS 2016 on Early Farmers Descended from Neolithic Aegeans]]", "[[Kuitems et al. 2021 L'Anse aux Meadows Dating]]", "[[Wikipedia on the Industrial Revolution]]"]
-fact_checks: ["2026-09-26: Farming was introduced to Europe from Anatolia by migration: ancient DNA from early farmers on both sides of the Aegean shows an unbroken chain of ancestry from central and southwestern Europe back to Greece and northwestern Anatolia [PNAS 2016 on Early Farmers Descended from Neolithic Aegeans]", "2026-09-20: Lindisfarne raid 793; Norse in Greenland about 985; L'Anse aux Meadows 1021 [Kuitems et al. 2021 L'Anse aux Meadows Dating; Encyclopaedia Britannica]", "2026-09-20: Industrial Revolution began in Britain about 1760 [Wikipedia on the Industrial Revolution]"]
+fact_checks: ["2026-09-26: Farming was introduced to Europe from Anatolia by migration: ancient DNA from early farmers on both sides of the Aegean shows an unbroken chain of ancestry from central and southwestern Europe back to Greece and northwestern Anatolia [PNAS 2016 on Early Farmers Descended from Neolithic Aegeans]", "2026-11-19: Viking travel is dated from about 793 to 1066; the Norse colonized Greenland for almost 500 years; Norse occupation of L'Anse aux Meadows is dated to 1021 CE [Kuitems et al. 2021 L'Anse aux Meadows Dating]", "2026-09-20: Industrial Revolution began in Britain about 1760 [Wikipedia on the Industrial Revolution]"]
 confidence: high
 status: seed
 tags: []

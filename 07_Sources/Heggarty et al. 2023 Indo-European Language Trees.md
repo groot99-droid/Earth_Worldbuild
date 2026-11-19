@@ -12,8 +12,10 @@ url: "https://www.sciencedaily.com/releases/2023/07/230727143913.htm"
 source_kind: paper
 reliability: high
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -23,4 +25,4 @@ Heggarty, P., et al. 2023. 'Language trees with sampled ancestors support a hybr
 A hybrid model in which the Indo-European homeland lay south of the Caucasus, with a later branch north onto the steppe that fed the Yamnaya and Corded Ware expansions into Europe.
 
 ## Caveats
-Consulted only through web search result summaries (ScienceDaily, Wikipedia and Academia listings) on 2026-09-20; the paper was not opened.
+Read in full on 2026-11-19 from sciencedaily.com fetched directly (9,179 characters).

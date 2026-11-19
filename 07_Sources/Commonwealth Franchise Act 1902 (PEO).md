@@ -12,7 +12,10 @@ url: "https://peo.gov.au/understand-our-parliament/history-of-parliament/history
 source_kind: reference
 reliability: high
 verified: true
-checked_on: 2026-09-20
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -22,4 +25,4 @@ Parliamentary Education Office (Australia). 'Commonwealth Franchise Act 1902.'
 Women's federal vote and right to stand in Australia, and exclusions.
 
 ## Caveats
-Consulted via web search results on 2026-09-20; the page was not necessarily read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from peo.gov.au fetched directly (3,420 characters).

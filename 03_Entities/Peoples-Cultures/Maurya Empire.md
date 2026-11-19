@@ -9,7 +9,7 @@ date_end: -185
 date_precision: year
 related: ["[[Ashoka]]", "[[Siddhartha Gautama]]"]
 sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[National Geographic on the Mauryan Empire]]"]
-fact_checks: ["2026-09-20: Maurya Empire 322-185 BCE with capital at Pataliputra; Ashoka reigned about 268-232 BCE; Arthashastra attributed to Kautilya [National Geographic on the Mauryan Empire]"]
+fact_checks: ["2026-11-19: National Geographic dates the Maurya Empire to 321-185 BCE; Chandragupta's minister Kautilya is known for writing the Arthashastra [National Geographic on the Mauryan Empire]"]
 confidence: high
 status: seed
 tags: []

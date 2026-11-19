@@ -7,10 +7,11 @@ themes: [trade, war]
 date_start: -4000
 date_precision: approx
 related: ["[[Sugar Plantation Complex]]", "[[Atlantic Slave Trade]]", "[[Columbian Exchange]]", "[[Hispaniola]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Schwartz 1984 Colonial Brazil Plantations and Peripheries]]"]
 confidence: medium
 status: seed
 tags: []
+fact_checks: ["2026-11-19: Contemporary observers counted 60 sugar mills (engenhos) in Brazil in 1570, two-thirds of them in Pernambuco and Bahia, 115 in 1583 and 192 in 1612 [Schwartz 1984 Colonial Brazil Plantations and Peripheries]"]
 ---
 
 ## Summary
@@ -19,7 +20,7 @@ Sugarcane was domesticated in New Guinea and nearby parts of Southeast Asia arou
 ## Facts
 - Sugarcane was domesticated from the wild grass Saccharum robustum in New Guinea around 6,000 years ago; a related domestication of Saccharum sinense by Austronesian peoples in southern China and Taiwan occurred by at least 5,500 years ago.
 - Austronesian traders carried sugarcane to China and India by about 3,000 years ago, and Persian and Greek writers encountered it in the 6th to 4th centuries BCE; by the 8th century CE sugar was traded into the Mediterranean world as an expensive luxury spice from India.
-- Christopher Columbus brought sugarcane to Hispaniola on his second voyage, and the first sugar harvest in the Americas took place there in 1501; Portuguese colonizers introduced the crop to Brazil, where by 1540 the island of Santa Catarina alone held about 800 sugar mills.
+- Christopher Columbus brought sugarcane to Hispaniola on his second voyage, and the first sugar harvest in the Americas took place there in 1501; Portuguese colonizers introduced the crop to Brazil, where contemporary observers counted about 60 sugar mills in 1570, 115 in 1583 and 192 in 1612.
 - The Atlantic sugar trade formed one side of a triangular trade linking European manufactured goods, enslaved Africans, and New World sugar and other raw materials, and sugar plantations across the Caribbean and Brazil were worked overwhelmingly by enslaved labor; in Louisiana, enslaved workers helped make the state responsible for nearly a quarter of the world's exportable sugar by 1853.
 - Global sugarcane production reached about 1.92 billion tonnes in 2022, with Brazil producing about 38 percent and India about 23 percent.
 

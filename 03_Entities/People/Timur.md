@@ -23,7 +23,7 @@ Timur (Tamerlane, traditionally dated 1336 to 1405) was a Central Asian conquero
 - By about 1370 he had besieged his rival Amir Husayn at Balkh and, after Husayn's assassination, proclaimed himself sovereign of the Chagatai line of khans, with dominion over Transoxiana.
 - He was not a descendant of Genghis Khan and did not take the title khan. He ruled as amir through a puppet Chaghatayid khan, Suyurghatmish, and took the title güregen (royal son-in-law) through his marriage to Saray Mulk Khanum, of the Chinggisid line.
 - His armies campaigned in Persia, Iraq, the lands of the Golden Horde, India (Delhi was sacked in 1398), and Anatolia (he defeated the Ottoman sultan Bayezid I at Ankara in 1402).
-- Later chronicles describe massacres in cities he conquered. Their casualty figures are contested (see Open Questions).
+- Later chronicles describe massacres in cities he conquered. Their casualty figures are contested.
 - He died in February 1405 at Otrar (also called Farab), in present-day Kazakhstan, while preparing an invasion of Ming China. Sources differ on the day (17 to 19 February). He was buried in the Gur-e-Amir in Samarkand.
 
 ## Context & Connections

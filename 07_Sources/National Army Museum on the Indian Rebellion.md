@@ -12,7 +12,10 @@ url: "https://www.nam.ac.uk/explore/decisive-events-indian-mutiny"
 source_kind: reference
 reliability: high
 verified: true
-checked_on: 2026-09-20
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -22,4 +25,4 @@ National Army Museum (UK). 'Decisive events of the Indian Rebellion.'
 Course of the 1857 rebellion.
 
 ## Caveats
-Consulted via web search results on 2026-09-20; the page was not necessarily read in full. Re-verify before citing in print. A British institution; the rebellion is interpreted differently in Indian historiography.
+Read in full on 2026-11-19 from nam.ac.uk fetched directly (15,161 characters). A British institution; the rebellion is interpreted differently in Indian historiography.

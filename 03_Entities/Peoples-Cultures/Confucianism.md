@@ -7,17 +7,18 @@ themes: [religion, kinship]
 date_start: -551
 date_precision: century
 related: ["[[Confucius]]", "[[Han Dynasty]]", "[[Axial Age]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on Confucius]]"]
 confidence: medium
 status: seed
 tags: []
+fact_checks: ["2026-11-19: Confucius (c. 551 to 479 BCE) was a philosopher of the Spring and Autumn period, and his ideas gained prominence in the later Warring States period [Wikipedia on Confucius]"]
 ---
 
 ## Summary
 Confucianism is a Chinese tradition of ethics and social order built on the teaching of Confucius (551 to 479 BCE), which became the official ideology of imperial China under the Han dynasty and shaped government and family life across East Asia.
 
 ## Facts
-- Confucius was an itinerant teacher during China's Warring States period who sought but largely failed to gain lasting influence as a government adviser in his own lifetime.
+- Confucius was an itinerant teacher during China's Spring and Autumn period who sought but largely failed to gain lasting influence as a government adviser in his own lifetime.
 - His disciples compiled his sayings after his death as the Analects, the central text of the tradition.
 - A key teaching, filial piety, extends genuine respect and care for parents into a model for loyalty within the wider political order.
 - Under the Han dynasty, Confucianism became the state's official ideology, and an imperial examination system tested officials on Confucian texts, a practice that shaped Chinese government for centuries.

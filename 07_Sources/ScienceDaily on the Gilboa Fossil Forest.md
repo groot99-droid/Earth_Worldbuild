@@ -12,8 +12,10 @@ url: "https://www.sciencedaily.com/releases/2012/03/120301102716.htm"
 source_kind: reference
 reliability: high
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -23,4 +25,4 @@ ScienceDaily. 'Floor of oldest fossilized forest discovered: 385 million years o
 Devonian forest at Gilboa, New York, about 385 Ma.
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from sciencedaily.com fetched directly (12,604 characters).

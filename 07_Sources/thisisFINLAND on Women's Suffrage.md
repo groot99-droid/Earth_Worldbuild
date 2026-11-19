@@ -12,7 +12,10 @@ url: "https://finland.fi/life-society/finlands-parliament-pioneer-of-gender-equa
 source_kind: reference
 reliability: medium
 verified: true
-checked_on: 2026-09-20
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -22,4 +25,4 @@ thisisFINLAND. 'Finland's parliament: pioneer of gender equality.'
 Finland's 1906 suffrage reform and the 19 women elected in 1907.
 
 ## Caveats
-Consulted via web search results on 2026-09-20; the page was not necessarily read in full. Re-verify before citing in print. A national-promotion site; claims of 'first' are framed nationally.
+Read in full on 2026-11-19 from finland.fi fetched directly (10,984 characters). A national-promotion site; claims of 'first' are framed nationally.

@@ -7,8 +7,8 @@ themes: [war, kinship]
 date_start: 1450
 date_precision: approx
 related: ["[[North America]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[English Wikipedia]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: Founding date debated (about 1142 vs about 1451-52); Tuscarora joined 1722 [English Wikipedia; World History Encyclopedia]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[English Wikipedia]]", "[[World History Encyclopedia]]", "[[Wikipedia on the Iroquois]]"]
+fact_checks: ["2026-11-19: The date of the Great Law of Peace is debated, likely between 1142 and 1660, and the Tuscarora were accepted into the confederacy after 1722 [Wikipedia on the Iroquois]"]
 confidence: low
 status: seed
 tags: []

@@ -9,7 +9,7 @@ date_end: -500
 date_precision: approx
 related: ["[[Austronesian Expansion]]", "[[Polynesians]]", "[[Polynesian Settlement of the Pacific]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Phys.org on Ancient DNA and the South Pacific]]"]
-fact_checks: ["2026-09-20: Lapita culture spread across Melanesia and western Polynesia between 1500 and 1000 BCE; Lapita-era individuals from Vanuatu (3,000-2,800 BP) sequenced [Phys.org on Ancient DNA and the South Pacific]"]
+fact_checks: ["2026-11-19: Austronesian-speaking groups associated with the Lapita pottery culture expanded east into Remote Oceania (Vanuatu, New Caledonia, Fiji and the islands of western Polynesia) about 3,000 years ago, and an ancient DNA study of Lapita burial sites found that these earliest inhabitants of Vanuatu had East Asian ancestry [Phys.org on Ancient DNA and the South Pacific]"]
 confidence: medium
 status: seed
 tags: []

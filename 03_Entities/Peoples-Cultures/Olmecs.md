@@ -8,8 +8,8 @@ date_start: -1200
 date_end: -400
 date_precision: approx
 related: ["[[Maya]]", "[[Mesoamerica]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[World History Encyclopedia on the Olmec Colossal Heads]]"]
-fact_checks: ["2026-09-20: Olmec culture 1200-400 BCE; colossal heads 1.17 to 3.4 m of Tuxtlas basalt; 'rubber people' is a later Nahuatl name; mother-culture status debated [World History Encyclopedia on the Olmec Colossal Heads]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[World History Encyclopedia on the Olmec Colossal Heads]]", "[[Wikipedia on the Olmec Colossal Heads]]"]
+fact_checks: ["2026-11-19: Olmec colossal heads range in height from 1.17 to 3.4 m and were carved from basalt from the Sierra de los Tuxtlas [Wikipedia on the Olmec Colossal Heads]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,8 +8,8 @@ date_start: -3500
 date_end: -3000
 date_precision: approx
 related: ["[[Bronze Age]]", "[[Invention of Writing]]", "[[Uruk]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[The Dawn of Everything (Graeber and Wengrow)]]", "[[English Wikipedia]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: Uruk 40,000-80,000 people around 3100-2900 BCE; Childe's 1950 paper 'The Urban Revolution' [English Wikipedia; World History Encyclopedia]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[The Dawn of Everything (Graeber and Wengrow)]]", "[[English Wikipedia]]", "[[World History Encyclopedia]]", "[[Wikipedia on the Urban Revolution]]"]
+fact_checks: ["2026-11-19: V. Gordon Childe introduced the term 'urban revolution' in the 1930s and brought the concept to a much larger audience in his 1950 article in Town Planning Review [Wikipedia on the Urban Revolution]"]
 confidence: high
 status: seed
 tags: []

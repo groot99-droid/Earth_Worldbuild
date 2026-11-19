@@ -12,15 +12,17 @@ url: "https://www.tajmahal.gov.in/creation-history-of-taj-mahal.aspx"
 source_kind: reference
 reliability: medium
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
 Archaeological Survey of India, 'Creation History' (tajmahal.gov.in); HISTORY.com, 'Taj Mahal'; Wikipedia, 'Taj Mahal.'
 
 ## What It Is Used For
-Mumtaz Mahal's death in 1631, construction from 1632 to 1653, more than 20,000 workers, Ahmad Lahori as probable architect, and UNESCO listing in 1983.
+Construction of the Taj complex beginning about 1631, and its buildings and gardens finished in 1653.
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from tajmahal.gov.in fetched directly (5,225 characters). The page does not give 1632, more than 20,000 workers, Ahmad Lahori or the UNESCO listing; UNESCO on the Taj Mahal and Wikipedia on the Taj Mahal do.

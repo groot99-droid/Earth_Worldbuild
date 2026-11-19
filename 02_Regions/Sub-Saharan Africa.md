@@ -3,8 +3,8 @@ title: "Sub-Saharan Africa"
 type: region
 themes: [kinship, trade, language]
 related: ["[[Nile Valley]]", "[[Arabian Peninsula]]", "[[Planet-wide]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Hublin et al. 2017 Jebel Irhoud]]", "[[English Wikipedia]]", "[[UNESCO World Heritage Centre]]", "[[World History Encyclopedia]]", "[[Richter et al. 2017 Jebel Irhoud Age]]"]
-fact_checks: ["2026-09-26: Jebel Irhoud (Morocco) hominin fossils and Middle Stone Age artefacts have a weighted average age of 315 plus or minus 34 thousand years, and the site is called the oldest and richest African Middle Stone Age hominin site documenting early stages of the Homo sapiens clade [Richter et al. 2017 Jebel Irhoud Age; Hublin et al. 2017 Jebel Irhoud]", "2026-09-20: Bantu expansion from near the Cameroon-Nigeria border about 5,000 years ago [Encyclopaedia Britannica; English Wikipedia]", "2026-09-20: Ezana converted about 333 CE; Great Enclosure wall about 11 m; Timbuktu UNESCO 1988; Mali founded about 1235 [English Wikipedia; UNESCO World Heritage Centre; World History Encyclopedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Hublin et al. 2017 Jebel Irhoud]]", "[[English Wikipedia]]", "[[UNESCO World Heritage Centre]]", "[[World History Encyclopedia]]", "[[Richter et al. 2017 Jebel Irhoud Age]]", "[[Wikipedia on Great Zimbabwe]]", "[[UNESCO on Timbuktu]]"]
+fact_checks: ["2026-09-26: Jebel Irhoud (Morocco) hominin fossils and Middle Stone Age artefacts have a weighted average age of 315 plus or minus 34 thousand years, and the site is called the oldest and richest African Middle Stone Age hominin site documenting early stages of the Homo sapiens clade [Richter et al. 2017 Jebel Irhoud Age; Hublin et al. 2017 Jebel Irhoud]", "2026-09-20: Bantu expansion from near the Cameroon-Nigeria border about 5,000 years ago [Encyclopaedia Britannica; English Wikipedia]", "2026-11-19: The Great Enclosure at Great Zimbabwe has walls as high as 11 m, and Timbuktu was inscribed on the World Heritage List in 1988 [Wikipedia on Great Zimbabwe; UNESCO on Timbuktu]"]
 confidence: high
 status: seed
 tags: []

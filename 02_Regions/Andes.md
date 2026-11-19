@@ -3,8 +3,8 @@ title: "Andes"
 type: region
 themes: [technology, trade, kinship]
 related: ["[[Mesoamerica]]", "[[North America]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[EBSCO on the Neolithic Revolution]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]", "[[Khipu Database (UNESCO Memory of the World)]]"]
-fact_checks: ["2026-09-20: Potato domesticated in the Andes between about 8000 and 5000 BCE [EBSCO on the Neolithic Revolution]", "2026-09-20: Machu Picchu built about 1450 for Pachacuti [UNESCO World Heritage Centre; English Wikipedia]", "2026-09-20: Quipus inventoried in the Khipu Database [Khipu Database (UNESCO Memory of the World)]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[EBSCO on the Neolithic Revolution]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]", "[[Khipu Database (UNESCO Memory of the World)]]", "[[UNESCO on Machu Picchu]]"]
+fact_checks: ["2026-11-19: Machu Picchu stands 2,430 m above sea level and was made known to the outside world in 1911 [UNESCO on Machu Picchu]", "2026-09-20: Quipus inventoried in the Khipu Database [Khipu Database (UNESCO Memory of the World)]"]
 confidence: high
 status: seed
 tags: []

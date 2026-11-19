@@ -8,8 +8,8 @@ date_start: -2500
 date_end: -1900
 date_precision: approx
 related: ["[[Indus Valley Civilization]]", "[[The Urban Revolution]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
-fact_checks: ["2026-09-20: UNESCO inscription 1980 [UNESCO World Heritage Centre]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[UNESCO on Mohenjo-daro]]"]
+fact_checks: ["2026-11-19: Mohenjo-daro was inscribed on the World Heritage List in 1980 [UNESCO on Mohenjo-daro]"]
 confidence: medium
 status: seed
 tags: []

@@ -7,7 +7,7 @@ date_end: 500
 date_precision: approx
 related: ["[[Iron Age]]", "[[Medieval Period]]"]
 sources: ["[[Cambridge World History]]", "[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[National Geographic on the Mauryan Empire]]", "[[Metropolitan Museum on the Achaemenid Persian Empire]]"]
-fact_checks: ["2026-09-20: Qin emperor 221-210 BCE; Han dynasty 206 BCE-220 CE; Axial Age about 800-200 BCE; Zhang Qian sent 138 BCE [Encyclopaedia Britannica; English Wikipedia]", "2026-09-20: Maurya Empire 322-185 BCE; Achaemenid Empire to 330 BCE [National Geographic on the Mauryan Empire; Metropolitan Museum on the Achaemenid Persian Empire]"]
+fact_checks: ["2026-09-20: Qin emperor 221-210 BCE; Han dynasty 206 BCE-220 CE; Axial Age about 800-200 BCE; Zhang Qian sent 138 BCE [Encyclopaedia Britannica; English Wikipedia]", "2026-11-19: National Geographic dates the Maurya Empire, the first pan-Indian empire, to 321-185 BCE [National Geographic on the Mauryan Empire]"]
 confidence: high
 status: seed
 tags: []

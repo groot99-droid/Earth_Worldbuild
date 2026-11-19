@@ -7,10 +7,11 @@ themes: [trade, religion]
 date_start: 1450
 date_precision: approx
 related: ["[[Indian Ocean Trade Network]]", "[[Haitian Revolution]]", "[[Columbian Exchange]]", "[[Atlantic Slave Trade]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[English Wikipedia]]", "[[Wikipedia on History of coffee]]", "[[Wikipedia on Coffee]]"]
 confidence: medium
 status: seed
 tags: []
+fact_checks: ["2026-11-19: Pope Clement VIII is said to have blessed coffee after tasting it, with 1600 the year often cited, but it is not clear whether the story is true [Wikipedia on History of coffee]", "2026-11-19: The first mainland European coffeehouse opened in Venice in 1645 by one account, while another gives 1647 for the first European coffeehouse outside the Ottoman Empire [Wikipedia on History of coffee; Wikipedia on Coffee]"]
 ---
 
 ## Summary
@@ -18,7 +19,7 @@ Coffee is a shrub whose beans, first documented as a drink among Sufi communitie
 
 ## Facts
 - Coffee's popular origin story, in which a 9th-century Ethiopian goatherd named Kaldi discovers the plant's effects on his flock, does not appear in writing before 1671 and is likely a later legend; there is no confirmed evidence of coffee as a drink before the 15th century, when it was well established among Sufi communities in Yemen.
-- The first known coffeehouse opened in Istanbul in 1555, and Pope Clement VIII's declaration of coffee as an acceptable Christian drink in 1600 helped it spread in Catholic Europe; the first European coffeehouse outside Ottoman territory opened in Venice in 1647.
+- The first known coffeehouse opened in Istanbul in 1555. A story that Pope Clement VIII blessed coffee as a Christian drink, usually dated 1600, is often credited with helping it spread in Catholic Europe, but it is not clear that the story is true; the first European coffeehouse outside Ottoman territory opened in Venice in 1645 by one account and 1647 by another.
 - French naval officer Gabriel de Clieu brought coffee plants to Martinique in the 1720s, and cultivation began in the French colony of Saint-Domingue (Haiti) in 1734; by 1788 Saint-Domingue, worked by enslaved laborers, supplied roughly half the world's coffee, and the harsh conditions on its plantations were a contributing factor in the Haitian Revolution.
 - Coffee reached Brazil in 1727, but large-scale cultivation there did not take off until after independence in 1822.
 - Coffee cultivation across its colonial-era expansion generally displaced and exploited Indigenous and enslaved populations, a pattern recorded here as sustained harm rather than as an incidental cost of production.

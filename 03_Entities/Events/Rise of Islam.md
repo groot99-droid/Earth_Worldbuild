@@ -8,8 +8,8 @@ date_start: 610
 date_end: 750
 date_precision: approx
 related: ["[[Medieval Period]]", "[[Muhammad]]", "[[Abbasid Caliphate]]"]
-sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: Umayyad Caliphate 661-750; conquests of Iberia and Sindh about 711; Abbasid Caliphate 750-1258; Hijra 622 [Encyclopaedia Britannica; World History Encyclopedia]"]
+sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia]]", "[[Wikipedia on the Arab Conquest of Sindh]]", "[[Wikipedia on the Hijrah]]"]
+fact_checks: ["2026-11-19: Between 711 and 713 the Umayyad Caliphate defeated the Chach dynasty and incorporated Sindh as a province, and Muhammad and his followers made the Hijrah from Mecca to Medina in 622 CE [Wikipedia on the Arab Conquest of Sindh; Wikipedia on the Hijrah]"]
 confidence: high
 status: seed
 tags: []

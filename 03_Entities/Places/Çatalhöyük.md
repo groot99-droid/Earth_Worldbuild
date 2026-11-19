@@ -8,8 +8,8 @@ date_start: -7100
 date_end: -5700
 date_precision: approx
 related: ["[[The Agricultural Revolution]]", "[[Göbekli Tepe]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
-fact_checks: ["2026-09-20: UNESCO inscription 2012 [UNESCO World Heritage Centre]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[UNESCO on Catalhoyuk]]"]
+fact_checks: ["2026-11-19: The Neolithic Site of Çatalhöyük was inscribed on the World Heritage List in 2012 [UNESCO on Catalhoyuk]"]
 confidence: high
 status: seed
 tags: []

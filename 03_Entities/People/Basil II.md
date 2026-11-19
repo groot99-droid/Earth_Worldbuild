@@ -21,7 +21,7 @@ Basil II (958 to 1025) was Byzantine emperor for nearly fifty years, the longest
 ## Facts
 - He became co-emperor as a child in 960 but did not gain full personal control of the government until about 989, when he was in his thirties, after suppressing rebellions by powerful aristocratic generals including Bardas Skleros and Bardas Phokas.
 - His long campaigns against Bulgaria culminated in the decisive Battle of Kleidion in 1014, after which Bulgaria was absorbed into the Byzantine Empire by 1018, earning him the later epithet "Bulgar-slayer" (Boulgaroktonos).
-- A story recorded by later chroniclers claims he blinded thousands of Bulgarian prisoners after Kleidion, leaving one eye to each of every hundredth man to lead the rest home; modern historians debate how literally this account should be taken.
+- A story recorded by later chroniclers claims he blinded thousands of Bulgarian prisoners after Kleidion, leaving one man in every hundred with one eye to lead the others home; modern historians debate how literally this account should be taken.
 - He left the imperial treasury full and the empire at its greatest territorial extent since the 7th century, but died without an heir, and the strong central rule he had imposed did not survive his less capable successors.
 
 ## Context & Connections

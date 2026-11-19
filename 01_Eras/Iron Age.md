@@ -6,8 +6,8 @@ date_start: -1200
 date_end: -500
 date_precision: approx
 related: ["[[Bronze Age]]", "[[Classical Antiquity]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[Wikipedia on the List of Archaeological Periods]]", "[[Journal of Archaeological Research on Iron in the Near East]]", "[[World History Encyclopedia]]", "[[English Wikipedia]]", "[[Metropolitan Museum on the Achaemenid Persian Empire]]"]
-fact_checks: ["2026-09-20: Iron Age begins about 1200 BCE in the Near East, varying widely by region [Wikipedia on the List of Archaeological Periods]", "2026-09-20: Extractive iron metallurgy began in Anatolia in the early 2nd millennium BCE and expanded in the late 2nd and early 1st millennium BCE [Journal of Archaeological Research on Iron in the Near East]", "2026-09-20: Proto-Sinaitic about 1800 BCE; 22-letter Phoenician script [World History Encyclopedia; English Wikipedia]", "2026-09-20: Achaemenid Empire 550-330 BCE [Metropolitan Museum on the Achaemenid Persian Empire]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[Wikipedia on the List of Archaeological Periods]]", "[[Journal of Archaeological Research on Iron in the Near East]]", "[[World History Encyclopedia]]", "[[English Wikipedia]]", "[[Metropolitan Museum on the Achaemenid Persian Empire]]", "[[Wikipedia on the Phoenician Alphabet]]"]
+fact_checks: ["2026-09-20: Iron Age begins about 1200 BCE in the Near East, varying widely by region [Wikipedia on the List of Archaeological Periods]", "2026-09-20: Extractive iron metallurgy began in Anatolia in the early 2nd millennium BCE and expanded in the late 2nd and early 1st millennium BCE [Journal of Archaeological Research on Iron in the Near East]", "2026-11-19: The Phoenician alphabet proper is an abjad of 22 consonant letters [Wikipedia on the Phoenician Alphabet]", "2026-09-20: Achaemenid Empire 550-330 BCE [Metropolitan Museum on the Achaemenid Persian Empire]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,8 +8,8 @@ date_start: 1869
 date_end: 1948
 date_precision: year
 related: ["[[Nelson Mandela]]", "[[Industrial Age]]", "[[Age of Revolutions]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: Salt March 12 March-6 April 1930; India independent 1947; assassinated 30 January 1948 [Encyclopaedia Britannica; World History Encyclopedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[World History Encyclopedia]]", "[[Wikipedia on Mahatma Gandhi]]"]
+fact_checks: ["2026-11-19: The Salt March ran from 12 March to 6 April 1930; Britain granted independence in August 1947; Gandhi was shot dead on 30 January 1948 [Wikipedia on Mahatma Gandhi]"]
 confidence: high
 status: seed
 tags: []

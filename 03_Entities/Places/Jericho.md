@@ -8,7 +8,7 @@ date_start: -9000
 date_precision: approx
 related: ["[[The Agricultural Revolution]]", "[[The Urban Revolution]]", "[[Uruk]]"]
 sources: ["[[Encyclopaedia Britannica]]", "[[Ancient Civilizations (Scarre and Fagan)]]", "[[Durham University on Jericho]]"]
-fact_checks: ["2026-09-20: Kenyon excavated Tell es-Sultan 1952-58 and found plastered skulls from 1953; site about 250 m below sea level [Durham University on Jericho]"]
+fact_checks: ["2026-11-19: Kathleen Kenyon excavated Ancient Jericho (Tell es-Sultan) from 1952 to 1958 [Durham University on Jericho]"]
 confidence: medium
 status: seed
 tags: []

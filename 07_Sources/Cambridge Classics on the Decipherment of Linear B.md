@@ -12,8 +12,10 @@ url: "https://www.classics.cam.ac.uk/research/projects/mycep/decipherment"
 source_kind: reference
 reliability: high
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -23,4 +25,4 @@ Faculty of Classics, University of Cambridge. 'The Decipherment of Linear B: Int
 Ventris's 1952 decipherment, Chadwick's collaboration, and the Greek language of Linear B.
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from classics.cam.ac.uk fetched directly (1,515 characters).

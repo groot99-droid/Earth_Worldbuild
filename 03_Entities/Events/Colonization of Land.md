@@ -9,7 +9,7 @@ date_end: -360000000
 date_precision: deep-time
 related: ["[[Paleozoic Era]]", "[[Tiktaalik]]"]
 sources: ["[[ICS International Chronostratigraphic Chart]]", "[[Maps of Time (Christian)]]", "[[Wikipedia on Cryptospores]]", "[[ScienceDaily on the Gilboa Fossil Forest]]", "[[UCMP on the Carboniferous]]", "[[Wikipedia on the Evolution of Tetrapods]]"]
-fact_checks: ["2026-09-20: Earliest land-plant cryptospores about 470 Ma; Devonian forest at Gilboa about 385 Ma; Carboniferous swamp forests about 360-300 Ma formed coal; tetrapods evolved from lobe-finned fishes in the Devonian [Wikipedia on Cryptospores; ScienceDaily on the Gilboa Fossil Forest; UCMP on the Carboniferous; Wikipedia on the Evolution of Tetrapods]"]
+fact_checks: ["2026-11-19: Cryptospores first appear around 470 million years ago; the Gilboa forest dates to about 385 million years ago in the Devonian; Carboniferous swamp forests produced coal; tetrapods evolved from lobe-finned fishes in the Devonian [Wikipedia on Cryptospores; ScienceDaily on the Gilboa Fossil Forest; UCMP on the Carboniferous; Wikipedia on the Evolution of Tetrapods]"]
 confidence: high
 status: seed
 tags: []

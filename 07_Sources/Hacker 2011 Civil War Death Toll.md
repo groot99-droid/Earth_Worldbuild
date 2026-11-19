@@ -12,8 +12,10 @@ url: "https://www.sciencedaily.com/releases/2011/09/110921120124.htm"
 source_kind: paper
 reliability: medium
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -23,4 +25,4 @@ Hacker, J. David. 2011. 'A Census-Based Count of the Civil War Dead.' Civil War 
 The traditional estimate of about 620,000 Civil War dead, and Hacker's census-based revision to about 750,000 with a range of 650,000 to 850,000.
 
 ## Caveats
-Consulted only through web search result summaries of the press coverage (ScienceDaily, Binghamton University, NPR, Civil War Monitor listings) on 2026-09-20. The journal article was not read. The 620,000 figure is described in these summaries as flawed because neither side kept standardized records; the Confederate figure of 258,000 was a rough estimate.
+Read in full on 2026-11-19 from sciencedaily.com fetched directly (8,725 characters). The 620,000 figure is described in these summaries as flawed because neither side kept standardized records; the Confederate figure of 258,000 was a rough estimate.

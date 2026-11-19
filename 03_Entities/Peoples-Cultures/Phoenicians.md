@@ -8,8 +8,8 @@ date_start: -1200
 date_end: -300
 date_precision: approx
 related: ["[[Alphabet]]", "[[Bronze Age Collapse]]", "[[Minoans]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[World History Encyclopedia on Carthage and Tyrian Purple]]"]
-fact_checks: ["2026-09-20: Tyre, Sidon and Byblos; Carthage traditionally founded 814 BCE; 22-letter alphabet; murex purple dye [World History Encyclopedia on Carthage and Tyrian Purple]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[World History Encyclopedia on Carthage and Tyrian Purple]]", "[[Wikipedia on the Phoenician Alphabet]]"]
+fact_checks: ["2026-11-19: The Phoenician alphabet proper uses 22 consonant letters, and Byblos was a Phoenician city [Wikipedia on the Phoenician Alphabet]"]
 confidence: medium
 status: seed
 tags: []

@@ -8,7 +8,7 @@ date_start: 1796
 date_precision: year
 related: ["[[Antibiotics]]", "[[Black Death]]"]
 sources: ["[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[WHO Smallpox Eradication]]"]
-fact_checks: ["2026-09-20: Jenner 1796; smallpox declared eradicated 8 May 1980; about 300 million 20th-century deaths [WHO Smallpox Eradication]"]
+fact_checks: ["2026-11-19: Smallpox was declared eradicated on 8 May 1980 by the 33rd World Health Assembly, having killed about 300 million people in the 20th century [WHO Smallpox Eradication]"]
 confidence: high
 status: seed
 tags: []

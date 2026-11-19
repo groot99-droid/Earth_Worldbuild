@@ -8,8 +8,8 @@ date_start: 1632
 date_end: 1653
 date_precision: approx
 related: ["[[Mughal Empire]]"]
-sources: ["[[UNESCO World Heritage Centre]]", "[[Encyclopaedia Britannica]]", "[[Taj Mahal Official Site and History Sources]]"]
-fact_checks: ["2026-09-20: Mumtaz Mahal died 1631; construction 1632-1653; over 20,000 workers; Ahmad Lahori probable architect; UNESCO 1983 [Taj Mahal Official Site and History Sources]"]
+sources: ["[[UNESCO World Heritage Centre]]", "[[Encyclopaedia Britannica]]", "[[Taj Mahal Official Site and History Sources]]", "[[UNESCO on the Taj Mahal]]", "[[Wikipedia on the Taj Mahal]]"]
+fact_checks: ["2026-11-19: The Taj Mahal was commissioned in 1631, construction started in 1632, the mausoleum was completed in 1648 and the complex in 1653; more than 20,000 workers and artisans worked under a board of architects led by Ustad Ahmad Lahori; it was inscribed in 1983 [Taj Mahal Official Site and History Sources; UNESCO on the Taj Mahal; Wikipedia on the Taj Mahal]"]
 confidence: high
 status: seed
 tags: []

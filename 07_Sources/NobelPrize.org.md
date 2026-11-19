@@ -11,15 +11,18 @@ citation: "The Nobel Foundation. Nobel Prize facts and laureate pages."
 url: "https://www.nobelprize.org/"
 source_kind: reference
 reliability: high
-verified: true
-checked_on: 2026-09-20
+verified: false
+checked_on: 2026-11-19
+access: not-consulted
+access_route: "none: this title stands for the whole site; the url is the home page, which carries no prize details"
+read_on: 2026-11-19
 ---
 
 ## Citation
 The Nobel Foundation. Nobel Prize facts and laureate pages.
 
 ## What It Is Used For
-Prize years and citations for Curie, Einstein, Fleming/Florey/Chain, Hahn, and Watson/Crick/Wilkins.
+Stands for NobelPrize.org as a whole when a note cites it without naming a prize. The home page gives no prize years or laureates, so a check that cites only this note is not confirmed by any text read; the Nobel checks now cite the source notes titled NobelPrize.org on the ... Nobel Prize in ...
 
 ## Caveats
-Consulted via web search results on 2026-09-20; the page was not necessarily read in full. Re-verify before citing in print.
+The url is the NobelPrize.org home page, which was read in full on 2026-11-19 (directly) and names no laureates or prize years. Set to not-consulted like the generic Britannica and English Wikipedia notes; the specific prize pages are separate source notes.

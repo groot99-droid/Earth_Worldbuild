@@ -8,8 +8,8 @@ date_start: -2600
 date_end: -2000
 date_precision: approx
 related: ["[[Domestication of Maize]]", "[[Inca Empire]]", "[[The Urban Revolution]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[UNESCO World Heritage Centre]]"]
-fact_checks: ["2026-09-20: UNESCO inscription 2009 [UNESCO World Heritage Centre]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[UNESCO World Heritage Centre]]", "[[UNESCO on Caral-Supe]]"]
+fact_checks: ["2026-11-19: The Sacred City of Caral-Supe was inscribed on the World Heritage List in 2009 [UNESCO on Caral-Supe]"]
 confidence: medium
 status: seed
 tags: []

@@ -13536,11 +13536,11 @@
 "id": "woman-with-a-parasol",
 "room": "gallery-e",
 "wall": "W",
-"along": 7.424,
+"along": 7.425,
 "row": 0,
 "pos": [
 -8.75,
-7.424,
+7.425,
 1.55
 ],
 "normal": [
@@ -30106,10 +30106,10 @@
 "id": "people--christopher-wren--3",
 "room": "people-early-modern-period-2",
 "wall": "N",
-"along": -4.952,
+"along": -4.953,
 "row": 0,
 "pos": [
--4.952,
+-4.953,
 13.75,
 1.55
 ],
@@ -30184,10 +30184,10 @@
 "id": "people--isaac-newton--1",
 "room": "people-early-modern-period-2",
 "wall": "N",
-"along": -1.435,
+"along": -1.436,
 "row": 0,
 "pos": [
--1.435,
+-1.436,
 13.75,
 1.55
 ],

@@ -3,8 +3,8 @@ title: "North America"
 type: region
 themes: [kinship, trade, war]
 related: ["[[Mesoamerica]]", "[[Oceania]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Pigati et al. 2023 White Sands Footprints]]", "[[Poverty Point Monumental Earthworks Sources]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]", "[[World History Encyclopedia]]"]
-fact_checks: ["2026-09-20: White Sands footprints about 21,000-23,000 years old [Pigati et al. 2023 White Sands Footprints]", "2026-09-20: Poverty Point occupied about 3,700-3,100 BP; Cahokia peak 1050-1150; Chaco major center about 850-1250 [Poverty Point Monumental Earthworks Sources; UNESCO World Heritage Centre]", "2026-09-20: Tuscarora joined the Haudenosaunee in 1722 [English Wikipedia; World History Encyclopedia]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[Cambridge World History]]", "[[Pigati et al. 2023 White Sands Footprints]]", "[[Poverty Point Monumental Earthworks Sources]]", "[[UNESCO World Heritage Centre]]", "[[English Wikipedia]]", "[[World History Encyclopedia]]", "[[UNESCO on Poverty Point]]", "[[UNESCO on Cahokia Mounds]]", "[[UNESCO on Chaco Culture]]", "[[Wikipedia on the Iroquois]]"]
+fact_checks: ["2026-09-20: White Sands footprints about 21,000-23,000 years old [Pigati et al. 2023 White Sands Footprints]", "2026-11-19: Poverty Point was built by hunter-fisher-gatherers between 3700 and 3100 BP; Cahokia's society may have had a population of 10-20,000 at its peak between 1050 and 1150; Chaco Canyon was a major centre of ancestral Pueblo culture between 850 and 1250 [UNESCO on Poverty Point; UNESCO on Cahokia Mounds; UNESCO on Chaco Culture]", "2026-11-19: After 1722 the Iroquoian-speaking Tuscarora were accepted into the confederacy, henceforth known as the Six Nations [Wikipedia on the Iroquois]"]
 confidence: high
 status: seed
 tags: []

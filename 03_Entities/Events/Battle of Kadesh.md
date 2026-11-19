@@ -7,8 +7,8 @@ themes: [war]
 date_start: -1274
 date_precision: approx
 related: ["[[Hittites]]", "[[Ancient Egyptians]]", "[[Bronze Age Collapse]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia on the Battle of Kadesh]]", "[[Wikipedia on the Egyptian-Hittite Peace Treaty]]"]
-fact_checks: ["2026-09-20: Battle in May 1274 BCE at Kadesh on the Orontes; 5,000-6,000 chariots estimated; outcome inconclusive with both sides claiming victory; recorded in temples including Abu Simbel and Karnak [World History Encyclopedia on the Battle of Kadesh]", "2026-09-20: Treaty about 1259 BCE followed [Wikipedia on the Egyptian-Hittite Peace Treaty]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[World History Encyclopedia on the Battle of Kadesh]]", "[[Wikipedia on the Egyptian-Hittite Peace Treaty]]", "[[Wikipedia on the Battle of Kadesh]]"]
+fact_checks: ["2026-11-19: The battle took place at Kadesh on the Orontes in May 1274 BCE (low chronology); the outcome was inconclusive; some 5,000 to 6,000 chariots were involved in total; the events were recorded in temples including Abu Simbel and Karnak [Wikipedia on the Battle of Kadesh]", "2026-09-20: Treaty about 1259 BCE followed [Wikipedia on the Egyptian-Hittite Peace Treaty]"]
 confidence: medium
 status: seed
 tags: []

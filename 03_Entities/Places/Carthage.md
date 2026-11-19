@@ -8,8 +8,8 @@ date_start: -814
 date_end: -146
 date_precision: approx
 related: ["[[Phoenicians]]", "[[Romans]]", "[[Rome]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
-fact_checks: ["2026-09-20: Punic Wars 264-146 BCE; Hannibal crossed the Alps 218 BCE; Carthage destroyed 146 BCE; UNESCO 1979 [Encyclopaedia Britannica; UNESCO World Heritage Centre]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Cambridge World History]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[UNESCO on the Site of Carthage]]"]
+fact_checks: ["2026-11-19: Rome finally destroyed Carthage in 146 BC, and the Site of Carthage was inscribed on the World Heritage List in 1979 [UNESCO on the Site of Carthage]"]
 confidence: medium
 status: seed
 tags: []

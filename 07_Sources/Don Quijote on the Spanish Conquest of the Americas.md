@@ -12,8 +12,10 @@ url: "https://www.donquijote.org/spanish-culture/history/spanish-conquest-of-ame
 source_kind: reference
 reliability: medium
 verified: true
-checked_on: 2026-09-20
-access: summary-only
+checked_on: 2026-11-19
+access: full-text
+access_route: "the publisher page, fetched directly"
+read_on: 2026-11-19
 ---
 
 ## Citation
@@ -23,4 +25,4 @@ Don Quijote Spanish school. 'Christopher Columbus and the Spanish Conquest of th
 Pizarro's arrival in 1532 during the Atahualpa-Huascar civil war and Atahualpa's capture at Cajamarca.
 
 ## Caveats
-Consulted via web search result summaries on 2026-09-20; the page was not read in full. Re-verify before citing in print.
+Read in full on 2026-11-19 from donquijote.org fetched directly (10,662 characters).

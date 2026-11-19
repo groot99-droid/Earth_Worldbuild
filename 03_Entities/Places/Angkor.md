@@ -8,8 +8,8 @@ date_start: 802
 date_end: 1431
 date_precision: approx
 related: ["[[Khmer Empire]]", "[[Southeast Asia]]"]
-sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
-fact_checks: ["2026-09-20: UNESCO inscription 14 December 1992 [UNESCO World Heritage Centre]"]
+sources: ["[[Ancient Civilizations (Scarre and Fagan)]]", "[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[UNESCO on Angkor]]"]
+fact_checks: ["2026-11-19: Angkor was inscribed on the World Heritage List in 1992 [UNESCO on Angkor]"]
 confidence: high
 status: seed
 tags: []

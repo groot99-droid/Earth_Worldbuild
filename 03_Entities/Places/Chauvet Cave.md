@@ -8,7 +8,7 @@ date_start: -36000
 date_precision: approx
 related: ["[[Emergence of Symbolic Art]]", "[[Homo sapiens]]", "[[Woolly Mammoth]]"]
 sources: ["[[UNESCO World Heritage Centre]]", "[[Encyclopaedia Britannica]]", "[[Britannica on Chauvet-Pont d'Arc]]", "[[LSCE on Chauvet Cave Radiocarbon Dating]]"]
-fact_checks: ["2026-09-20: Discovered 18 December 1994; radiocarbon phases 37,000-33,500 and 31,000-28,000 years ago; UNESCO 2014; replica opened 2015 [Britannica on Chauvet-Pont d'Arc; LSCE on Chauvet Cave Radiocarbon Dating]"]
+fact_checks: ["2026-11-19: The cave was discovered on 18 December 1994; radiocarbon dating of its black charcoal drawings shows an early Aurignacian phase between 37,000 and 34,000 years ago and a more recent Gravettian phase between 34,000 and 25,000 years ago; it has been on the World Heritage List since 22 June 2014 [LSCE on Chauvet Cave Radiocarbon Dating]"]
 confidence: high
 status: seed
 tags: []

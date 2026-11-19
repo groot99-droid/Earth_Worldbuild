@@ -8,10 +8,11 @@ date_start: 900
 date_end: 1628
 date_precision: approx
 related: ["[[Lapita Culture]]", "[[Polynesian Settlement of the Pacific]]", "[[Austronesian Expansion]]"]
-sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]"]
+sources: ["[[Encyclopaedia Britannica]]", "[[UNESCO World Heritage Centre]]", "[[Wikipedia on Pohnpei]]"]
 confidence: medium
 status: seed
 tags: []
+fact_checks: ["2026-11-19: The earliest settlers of Pohnpei were probably Lapita culture people from the southeast Solomon Islands or Vanuatu, and Pohnpeian belongs with Mokilese and Chuukese among the Micronesian languages [Wikipedia on Pohnpei]"]
 ---
 
 ## Summary
@@ -25,7 +26,7 @@ Nan Madol is a ruined city of artificial stone islets built in a lagoon off Pohn
 - UNESCO inscribed Nan Madol as a World Heritage Site in 2016.
 
 ## Context & Connections
-Nan Madol's builders were part of the wider settlement of the Pacific carried by the [[Austronesian Expansion]] and the [[Polynesian Settlement of the Pacific]], and Micronesian voyaging traditions share roots with cultures such as the [[Lapita Culture]] farther south and east. It sits in the [[Medieval Period]] and the region [[Oceania]], and belongs to the theme threads of [[Kinship and Society]] and [[Technology]].
+Nan Madol's builders were Pohnpeians, speakers of a Micronesian language, and part of the wider settlement of the Pacific carried by the [[Austronesian Expansion]]; Pohnpei's first settlers probably came from the [[Lapita Culture]] of the southeast Solomon Islands or Vanuatu, farther south and east. They were not Polynesians: the [[Polynesian Settlement of the Pacific]] is a separate movement within the same expansion. It sits in the [[Medieval Period]] and the region [[Oceania]], and belongs to the theme threads of [[Kinship and Society]] and [[Technology]].
 
 ## Observer's Reading
 The Observer notes that Nan Madol turned a lagoon into a claim-line: a ruling lineage built its seat on stone islets separated from the rest of the island by water, a status-signal that set the center of power physically apart from those it ruled. The tradition of Isokelekel's conquest, like many founding and ending stories, is ancestor-weight carried forward by the community rather than a document, and the Observer treats it as a claim to be tested rather than a settled fact. The reading would weaken if archaeology shows the site's decline came mainly from environmental or demographic causes rather than conquest.
