@@ -19067,16 +19067,15 @@
   "h": 430
  },
  "person/gorgo/1.jpg": {
-  "file": "File:Discurso funebre pericles.PNG",
-  "caption": "Discurso funebre pericles",
-  "source": "https://commons.wikimedia.org/wiki/File:Discurso_funebre_pericles.PNG",
-  "author": "Philipp Foltz",
-  "license": "Public domain",
-  "license_url": null,
-  "via": "borrowed from note: Classical Antiquity",
-  "w": 500,
-  "h": 398,
-  "borrowed_from": "era/classical-antiquity"
+  "file": "AIC 13487",
+  "caption": "Stand-in, not a portrait of Gorgo: Edgar Degas, Young Spartan Girls Challenging Boys (c. 1860). No image of Gorgo survives.",
+  "source": "https://www.artic.edu/artworks/13487",
+  "author": "Edgar Degas",
+  "license": "CC0 (Art Institute of Chicago, public domain)",
+  "license_url": "https://www.artic.edu/open-access/open-access-images",
+  "via": "stand-in chosen by hand (2026-11-19): no free image of Gorgo exists",
+  "w": 843,
+  "h": 629
  },
  "technology/antikythera-mechanism/1.jpg": {
   "file": "File:Antikythera Fragment A (Front).webp",
